@@ -1,0 +1,76 @@
+name: 每日外刊精读
+
+# 定时触发：UTC 23:00 = 北京时间次日 07:00
+# 注意 GitHub 的 cron 用的是 UTC，不是北京时间
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  # 也允许手动点按钮触发，方便测试
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "今天精读几篇"
+        required: false
+        default: "1"
+      no_email:
+        description: "只归档不发邮件（填 true / false）"
+        required: false
+        default: "false"
+
+# 需要写回仓库（归档 Markdown 和去重记录），所以要有写权限
+permissions:
+  contents: write
+
+# 避免两次任务叠在一起跑
+concurrency:
+  group: daily-reading
+  cancel-in-progress: false
+
+jobs:
+  reading:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      # 自检：不联网、不调用大模型，先确认渲染链路是通的
+      - name: 环境自检
+        run: python main.py --selftest
+
+      - name: 生成今日精读
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          SMTP_SENDER: ${{ secrets.SMTP_SENDER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_RECEIVER: ${{ secrets.SMTP_RECEIVER }}
+        run: |
+          ARGS=""
+          COUNT="${{ github.event.inputs.count }}"
+          NO_EMAIL="${{ github.event.inputs.no_email }}"
+          if [ -n "$COUNT" ]; then ARGS="$ARGS --count $COUNT"; fi
+          if [ "$NO_EMAIL" = "true" ]; then ARGS="$ARGS --no-email"; fi
+          echo "运行参数：$ARGS"
+          python main.py $ARGS
+
+      - name: 归档回提交
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output state
+          if git diff --cached --quiet; then
+            echo "没有新内容，跳过提交"
+          else
+            git commit -m "外刊精读 $(date -u +%F)"
+            git push
+          fi

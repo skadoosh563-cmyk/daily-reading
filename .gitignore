@@ -1,0 +1,16 @@
+# 密钥类
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 运行产物
+*.log
+.DS_Store
+.selftest/
+
+# 注意：output/ 和 state/ 要提交，不要加到忽略里
+# output/ 是精读归档，state/ 是去重记录（少了它会重复推同一篇）

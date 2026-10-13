@@ -1,0 +1,102 @@
+# ============================================================
+#  外刊精读 · 配置文件
+#  日常只需要改这个文件。改完 push，第二天自动生效。
+# ============================================================
+
+# ---------- 一、素材源（RSS）----------
+# 不想要哪个源，给它加一行  enabled: false
+# 想加源，照抄 name / url 两行
+#
+# 说明：下面这些源都实测过。标 enabled: false 的是付费墙较硬、
+# 或对国内网络不友好的，在 GitHub Actions（美国机房）上一般能通，
+# 想用就把 enabled 那行删掉。
+sources:
+  # --- 综合新闻（用词地道，适合精读）---
+  - name: The Guardian · World
+    url: https://www.theguardian.com/world/rss
+  - name: The Guardian · Business
+    url: https://www.theguardian.com/business/rss
+  - name: NPR · World
+    url: https://feeds.npr.org/1004/rss.xml
+  - name: NPR · Business
+    url: https://feeds.npr.org/1006/rss.xml
+  - name: NYT · World
+    url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+  - name: DW · Top Stories
+    url: https://rss.dw.com/rdf/rss-en-top
+  - name: Sky News · World
+    url: https://feeds.skynews.com/feeds/rss/world.xml
+
+  # --- 科普与深度（句子结构清晰，学英语效率最高）---
+  - name: The Conversation
+    url: https://theconversation.com/articles.atom
+  - name: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/rss/latest_articles/
+  - name: Phys.org
+    url: https://phys.org/rss-feed/
+  - name: ScienceDaily
+    url: https://www.sciencedaily.com/rss/top/science.xml
+
+  # --- 科技 ---
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/feed/
+
+  # --- 默认关闭：付费墙硬 / 反爬严格 ---
+  - name: BBC · World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    enabled: false          # 部分地区返回 403，Actions 上一般可用，可自行打开
+  - name: The Economist · Finance
+    url: https://www.economist.com/finance-and-economics/rss.xml
+    enabled: false          # 付费墙
+  - name: Financial Times · World
+    url: https://www.ft.com/world?format=rss
+    enabled: false          # 付费墙
+  - name: The Atlantic
+    url: https://www.theatlantic.com/feed/all/
+    enabled: false          # 付费墙
+
+# ---------- 二、选文规则 ----------
+selection:
+  count: 1               # 每天精读几篇。1 篇约 5—10 分钟
+  min_words: 300         # 短于这个词数不作为候选
+  max_words: 1400        # 长于这个词数不取（读不完，也容易超上下文）
+  max_per_source: 1      # 同一来源每天最多取几篇
+  prefer_recent_days: 3  # 只看最近几天的文章
+
+# ---------- 三、大模型（任何 OpenAI 兼容接口都能用）----------
+# 换服务商只需要改 base_url + model 两行
+#   DeepSeek   https://api.deepseek.com/v1                        deepseek-chat
+#   月之暗面   https://api.moonshot.cn/v1                         moonshot-v1-32k
+#   智谱       https://open.bigmodel.cn/api/paas/v4               glm-4-flash
+#   通义千问   https://dashscope.aliyuncs.com/compatible-mode/v1  qwen-plus
+#   硅基流动   https://api.siliconflow.cn/v1                      Qwen/Qwen2.5-72B-Instruct
+llm:
+  base_url: https://api.deepseek.com/v1
+  model: deepseek-chat
+  temperature: 0.3
+  timeout: 300
+  max_tokens: 8192
+
+# ---------- 四、精读内容 ----------
+study:
+  vocab_count: 10        # 生词表词数
+  grammar_count: 3       # 长难句拆解句数
+  question_count: 3      # 理解题数量
+  level: B2              # 难度基准（A2 / B1 / B2 / C1），影响选词与解释深浅
+  keep_en_article: true  # 是否保留英文原文全文
+
+# ---------- 五、输出 ----------
+output:
+  dir: output            # Markdown 归档目录
+  keep_days: 90          # 归档只保留最近 N 天
+  anki: true             # 是否额外生成 Anki 卡片包（.apkg）
+
+# ---------- 六、邮件推送 ----------
+# 发件邮箱、收件邮箱、授权码一律放 GitHub Secrets，不要写在这里
+email:
+  enabled: true
+  smtp_host: smtp.qq.com     # QQ 邮箱；163 用 smtp.163.com；Gmail 用 smtp.gmail.com
+  smtp_port: 465             # SSL 端口
+  subject_prefix: "【外刊精读】"
