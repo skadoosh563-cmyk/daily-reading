@@ -1,0 +1,106 @@
+{
+ "updated": "2026-10-13T16:25:43",
+ "count": 10,
+ "vocab": [
+  {
+   "word": "a raft of",
+   "pos": "量词短语",
+   "phonetic": "/ə rɑːft əv/",
+   "meaning_zh": "大量；一连串（外刊极高频，比 a lot of 正式）",
+   "count": 1,
+   "dates": [
+    "2026-10-13"
+   ]
+  },
+  {
+   "word": "adverse",
+   "pos": "adj.",
+   "phonetic": "/ˈædvɜːs/",
+   "meaning_zh": "不利的；有害的。adverse events 是药品监管领域的标准用语，即“不良事件”",
+   "count": 1,
+   "dates": [
+    "2026-10-13"
+   ]
+  },
+  {
+   "word": "gastrointestinal",
+   "pos": "adj.",
+   "phonetic": "/ˌɡæstrəʊɪnˈtestɪnl/",
+   "meaning_zh": "胃肠的",
+   "count": 1,
+   "dates": [
+    "2026-10-13"
+   ]
+  },
+  {
+   "word": "get to grips with",
+   "pos": "短语",
+   "phonetic": "/ɡet tə ɡrɪps wɪð/",
+   "meaning_zh": "着手应对；努力弄懂（英式固定搭配，比 understand 更有“下功夫”的意味）",
+   "count": 1,
+   "dates": [
+    "2026-10-13"
+   ]
+  },
+  {
+   "word": "longevity",
+   "pos": "n.",
+   "phonetic": "/lɒnˈdʒevəti/",
+   "meaning_zh": "长寿；寿命",
+   "count": 1,
+   "dates": [
+    "2026-10-13"
+   ]
+  },
+  {
+   "word": "mixed",
+   "pos": "adj.",
+   "phonetic": "/mɪkst/",
+   "meaning_zh": "（研究结果）不一致的；（评价）褒贬不一的。这个用法很多学习者不熟，外刊里极常见",
+   "count": 1,
+   "dates": [
+    "2026-10-13"
+   ]
+  },
+  {
+   "word": "pediatric",
+   "pos": "adj.",
+   "phonetic": "/ˌpiːdiˈætrɪk/",
+   "meaning_zh": "儿科的（英式拼作 paediatric）",
+   "count": 1,
+   "dates": [
+    "2026-10-13"
+   ]
+  },
+  {
+   "word": "pharmacological",
+   "pos": "adj.",
+   "phonetic": "/ˌfɑːməkəˈlɒdʒɪkl/",
+   "meaning_zh": "药物（学）的；药理上的",
+   "count": 1,
+   "dates": [
+    "2026-10-13"
+   ]
+  },
+  {
+   "word": "placebo",
+   "pos": "n.",
+   "phonetic": "/pləˈsiːbəʊ/",
+   "meaning_zh": "安慰剂",
+   "count": 1,
+   "dates": [
+    "2026-10-13"
+   ]
+  },
+  {
+   "word": "repress",
+   "pos": "v.",
+   "phonetic": "/rɪˈpres/",
+   "meaning_zh": "抑制；压制（情绪或生理机能）",
+   "count": 1,
+   "dates": [
+    "2026-10-13"
+   ]
+  }
+ ]
+}

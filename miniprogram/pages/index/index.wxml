@@ -1,0 +1,54 @@
+<view class="page">
+
+  <view class="head">
+    <view class="head-title">每日精读</view>
+    <view class="head-sub">外刊文章与生词，来自你自己的仓库</view>
+  </view>
+
+  <view class="stat-row">
+    <view class="stat" bindtap="onGoReview">
+      <view class="stat-num">{{stats.learned}}</view>
+      <view class="stat-label">已学单词</view>
+    </view>
+    <view class="stat" bindtap="onGoReview">
+      <view class="stat-num">{{stats.dueToday}}</view>
+      <view class="stat-label">今日待复习</view>
+    </view>
+    <view class="stat" bindtap="onGoReview">
+      <view class="stat-num">{{stats.mastered}}</view>
+      <view class="stat-label">已掌握</view>
+    </view>
+  </view>
+
+  <view wx:if="{{loading}}" class="hint">正在加载…</view>
+
+  <view wx:elif="{{error}}" class="hint error">{{error}}</view>
+
+  <view wx:elif="{{!items.length}}" class="hint">还没有精读内容，先跑一次每日任务</view>
+
+  <block wx:else>
+    <view
+      class="item"
+      wx:for="{{items}}"
+      wx:key="id"
+      data-id="{{item.id}}"
+      data-date="{{item.date}}"
+      data-title="{{item.title}}"
+      bindtap="onOpen"
+    >
+      <view class="item-top">
+        <text class="item-date">{{item.date}}</text>
+        <text class="tag" wx:if="{{item.level}}">{{item.level}}</text>
+        <text class="tag" wx:if="{{item.wordCount}}">{{item.wordCount}} 词</text>
+        <text class="tag tag-vocab" wx:if="{{item.count}}">{{item.count}} 生词</text>
+      </view>
+      <view class="item-title">{{item.title}}</view>
+      <view class="item-sum" wx:if="{{item.summary}}">{{item.summary}}</view>
+      <view class="item-foot">
+        <text class="item-source">{{item.source}}</text>
+        <text class="item-link" data-url="{{item.url}}" catchtap="onCopyLink">复制原文链接</text>
+      </view>
+    </view>
+  </block>
+
+</view>

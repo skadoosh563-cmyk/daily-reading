@@ -16,6 +16,8 @@ def render_markdown(data: dict, meta: dict) -> str:
     lines: list[str] = []
     lines.append(f"# 外刊精读 · {meta['date']}")
     lines.append("")
+    lines.append(f"**{data.get('title_zh') or meta.get('title', '')}**")
+    lines.append("")
     lines.append(
         f"> 来源：{meta['source']} ｜ 难度：{data.get('level', '—')} "
         f"｜ 词数：{meta['word_count']}"

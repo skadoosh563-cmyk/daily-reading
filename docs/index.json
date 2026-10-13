@@ -1,0 +1,97 @@
+{
+ "updated": "2026-10-13T16:25:43",
+ "count": 1,
+ "items": [
+  {
+   "id": "we-re-still-figuring-out-the-side-effect",
+   "date": "2026-10-13",
+   "title_zh": "GLP-1 减肥药的副作用，至今仍未完全弄清",
+   "summary": "礼来与诺和诺德公布的数据显示，服用 GLP-1 类药物的超重和糖尿病人群，生物学年龄比服用安慰剂的同类人群年轻两到三岁，这让它被一些人称作“长寿药”。但与此同时，这类药物的副作用清单还在变长：胃肠道反应最常见，此外还与胰腺炎、胆结石有关，并有个案称会损伤视神经。围绕脱发、指甲异常的关联也在研究中，不过因果关系远未确立。作者特别提醒，儿童用药的数据尤其稀薄——而美国 8 至 11 岁儿童的处方量在六年间增长了 310 倍。",
+   "vocab": [
+    {
+     "word": "a raft of",
+     "pos": "量词短语",
+     "phonetic": "/ə rɑːft əv/",
+     "meaning_zh": "大量；一连串（外刊极高频，比 a lot of 正式）",
+     "example_en": "This latest announcement comes after we've seen a raft of other benefits associated with taking these drugs.",
+     "example_zh": "这则最新消息之前，我们已经看到一连串与服用这类药物相关的其他益处。"
+    },
+    {
+     "word": "placebo",
+     "pos": "n.",
+     "phonetic": "/pləˈsiːbəʊ/",
+     "meaning_zh": "安慰剂",
+     "example_en": "Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar individuals who take a placebo.",
+     "example_zh": "服用 GLP-1 的超重者和糖尿病患者，其生物学年龄比服用安慰剂的同类人群大约年轻两到三岁。"
+    },
+    {
+     "word": "repress",
+     "pos": "v.",
+     "phonetic": "/rɪˈpres/",
+     "meaning_zh": "抑制；压制（情绪或生理机能）",
+     "example_en": "So far, GLP-1 agonist drugs—which repress hunger—have been approved for treating diabetes, chronic kidney disease, and obesity.",
+     "example_zh": "迄今为止，能够抑制饥饿感的 GLP-1 激动剂类药物已获批用于治疗糖尿病、慢性肾病和肥胖症。"
+    },
+    {
+     "word": "gastrointestinal",
+     "pos": "adj.",
+     "phonetic": "/ˌɡæstrəʊɪnˈtestɪnl/",
+     "meaning_zh": "胃肠的",
+     "example_en": "The most common side effects are gastrointestinal—nausea, vomiting, diarrhea, and constipation.",
+     "example_zh": "最常见的副作用是胃肠道反应——恶心、呕吐、腹泻和便秘。"
+    },
+    {
+     "word": "get to grips with",
+     "pos": "短语",
+     "phonetic": "/ɡet tə ɡrɪps wɪð/",
+     "meaning_zh": "着手应对；努力弄懂（英式固定搭配，比 understand 更有“下功夫”的意味）",
+     "example_en": "We're still getting to grips with the effects of weight-loss drugs on hair and nails, too.",
+     "example_zh": "对于减肥药对头发和指甲的影响，我们也仍在摸索。"
+    },
+    {
+     "word": "adverse",
+     "pos": "adj.",
+     "phonetic": "/ˈædvɜːs/",
+     "meaning_zh": "不利的；有害的。adverse events 是药品监管领域的标准用语，即“不良事件”",
+     "example_en": "This recommendation accounts for the lack of evidence on both benefits and the potential adverse events of the different medications.",
+     "example_zh": "该建议考虑到了以下证据的缺乏：不同药物所带来的益处，以及潜在的不良事件。"
+    },
+    {
+     "word": "pediatric",
+     "pos": "adj.",
+     "phonetic": "/ˌpiːdiˈætrɪk/",
+     "meaning_zh": "儿科的（英式拼作 paediatric）",
+     "example_en": "Still, pediatric side effects will be something to watch.",
+     "example_zh": "尽管如此，儿科副作用仍值得关注。"
+    },
+    {
+     "word": "pharmacological",
+     "pos": "adj.",
+     "phonetic": "/ˌfɑːməkəˈlɒdʒɪkl/",
+     "meaning_zh": "药物（学）的；药理上的",
+     "example_en": "The organization explicitly says it does not recommend pharmacological treatment for kids under 10.",
+     "example_zh": "该组织明确表示，不建议对 10 岁以下儿童进行药物治疗。"
+    },
+    {
+     "word": "longevity",
+     "pos": "n.",
+     "phonetic": "/lɒnˈdʒevəti/",
+     "meaning_zh": "长寿；寿命",
+     "example_en": "I've heard people in the aging field describe GLP-1s as longevity drugs for a while now.",
+     "example_zh": "近来我常听衰老研究领域的人把 GLP-1 称为“长寿药”。"
+    },
+    {
+     "word": "mixed",
+     "pos": "adj.",
+     "phonetic": "/mɪkst/",
+     "meaning_zh": "（研究结果）不一致的；（评价）褒贬不一的。这个用法很多学习者不熟，外刊里极常见",
+     "example_en": "Both companies dispute the claims. Research into the link is mixed.",
+     "example_zh": "两家公司均否认上述说法。关于二者关联的研究结论并不一致。"
+    }
+   ],
+   "source": "MIT Technology Review",
+   "word_count": 699,
+   "level": "C1"
+  }
+ ]
+}

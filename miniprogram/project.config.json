@@ -1,0 +1,18 @@
+{
+  "appid": "touristappid",
+  "compileType": "miniprogram",
+  "libVersion": "3.5.5",
+  "projectname": "外刊单词本",
+  "description": "本地学习工具：把每日外刊精读的生词做成卡片复习，数据来自自己的 GitHub Pages",
+  "miniprogramRoot": "./",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true,
+    "ignoreDevUnusedFiles": false,
+    "ignoreUploadUnusedFiles": false
+  },
+  "condition": {}
+}

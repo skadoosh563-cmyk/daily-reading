@@ -1,0 +1,81 @@
+<view class="page">
+
+  <view wx:if="{{loading}}" class="hint">正在读取词库…</view>
+
+  <block wx:elif="{{error}}">
+    <view class="hint error">{{error}}</view>
+    <button class="btn ghost" bindtap="onRestart">重新加载</button>
+  </block>
+
+  <block wx:elif="{{done}}">
+    <view class="done-wrap">
+      <view class="done-mark"></view>
+      <view class="done-title">今天的复习完成了</view>
+      <view class="done-count" wx:if="{{todayCount > 0}}">本轮复习了 {{todayCount}} 个词</view>
+      <view wx:else class="done-count">当前没有到期的词，明天再来</view>
+
+      <view class="stat-row">
+        <view class="stat">
+          <view class="stat-num">{{stats.learned}}</view>
+          <view class="stat-label">已学</view>
+        </view>
+        <view class="stat">
+          <view class="stat-num">{{stats.dueToday}}</view>
+          <view class="stat-label">待复习</view>
+        </view>
+        <view class="stat">
+          <view class="stat-num">{{stats.mastered}}</view>
+          <view class="stat-label">已掌握</view>
+        </view>
+      </view>
+
+      <button class="btn" bindtap="onRestart">再学一轮</button>
+      <button class="btn ghost" bindtap="onReset">清空学习记录</button>
+    </view>
+  </block>
+
+  <block wx:else>
+    <view class="bar">
+      <view class="bar-text">{{idx + 1}} / {{queue.length}}</view>
+      <view class="bar-track">
+        <view class="bar-fill" style="width: {{(idx) * 100 / queue.length}}%"></view>
+      </view>
+    </view>
+
+    <view class="card" bindtap="onFlip">
+      <view class="word">{{current.word}}</view>
+      <view class="phonetic" wx:if="{{current.phonetic}}">{{current.phonetic}}</view>
+      <view class="pos" wx:if="{{current.pos}}">{{current.pos}}</view>
+
+      <block wx:if="{{flipped}}">
+        <view class="divider"></view>
+        <view class="meaning">{{current.meaning_zh}}</view>
+        <view class="example" wx:if="{{current.example_en}}">
+          <view class="ex-en">{{current.example_en}}</view>
+          <view class="ex-zh" wx:if="{{current.example_zh}}">{{current.example_zh}}</view>
+        </view>
+      </block>
+      <view wx:else class="tap-hint">点击卡片查看释义</view>
+    </view>
+
+    <view class="actions" wx:if="{{flipped}}">
+      <view class="act act-again" data-g="0" bindtap="onGrade">
+        <view class="act-key">不认识</view>
+        <view class="act-sub">1 天后再见</view>
+      </view>
+      <view class="act act-hard" data-g="1" bindtap="onGrade">
+        <view class="act-key">模糊</view>
+        <view class="act-sub">保持间隔</view>
+      </view>
+      <view class="act act-good" data-g="2" bindtap="onGrade">
+        <view class="act-key">认识</view>
+        <view class="act-sub">拉长间隔</view>
+      </view>
+    </view>
+
+    <view class="actions" wx:else>
+      <button class="btn ghost" bindtap="onSpeak">复制单词</button>
+    </view>
+  </block>
+
+</view>

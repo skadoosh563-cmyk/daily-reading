@@ -18,7 +18,8 @@ from pathlib import Path
 
 from src import analyze as analyze_mod
 from src import anki as anki_mod
-from src import extract, fetch, mailer, render
+from src import extract, fetch, mailer, render, wechat
+from src import export_app
 from src.config import ROOT, load_config
 
 STATE_DIR = ROOT / "state"
@@ -305,11 +306,22 @@ def run(cfg: dict, args) -> int:
         else:
             print("  [跳过邮件] 已关闭或指定 --no-email")
 
+        if not args.no_push:
+            wechat.push_all(cfg, data, meta)
+
         if not args.from_json:
             seen.add(c.key)
 
     save_seen(seen)
     prune_output(out_root, int(cfg["output"].get("keep_days", 0)))
+
+    # ---- 6. 导出给小程序 / 网页前端 ----
+    print("[6/6] 导出前端 JSON ...")
+    if args.no_push:
+        print("  [跳过导出] 指定了 --no-push")
+    else:
+        export_app.export(cfg, out_root)
+
     print("完成。")
     return 0
 
@@ -320,6 +332,8 @@ def main() -> int:
     parser.add_argument("--count", type=int, default=None, help="今天精读几篇，覆盖 config")
     parser.add_argument("--url", default=None, help="指定一篇文章链接（调试用）")
     parser.add_argument("--no-email", action="store_true", help="不发送邮件")
+    parser.add_argument("--no-push", action="store_true",
+                        help="不推送微信、不导出前端 JSON")
     parser.add_argument("--selftest", action="store_true", help="离线自检，验证渲染链路")
     parser.add_argument("--dump", default=None,
                         help="把抓到的原文存成 JSON 后退出，不调用大模型（先看看抓到了什么）")

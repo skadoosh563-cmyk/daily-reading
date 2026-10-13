@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/review/review",
+    "pages/index/index",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "navigationBarTitleText": "外刊单词本",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#f5f5f3"
+  },
+  "tabBar": {
+    "color": "#8b949e",
+    "selectedColor": "#185fa5",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      { "pagePath": "pages/review/review", "text": "复习" },
+      { "pagePath": "pages/index/index", "text": "每日精读" }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

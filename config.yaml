@@ -100,3 +100,23 @@ email:
   smtp_host: smtp.qq.com     # QQ 邮箱；163 用 smtp.163.com；Gmail 用 smtp.gmail.com
   smtp_port: 465             # SSL 端口
   subject_prefix: "【外刊精读】"
+
+# ---------- 七、微信推送 ----------
+# 推的是「导读 + 生词表 + 理解题」摘要，完整内容看邮件或仓库
+# token / webhook 一律放 GitHub Secrets
+wechat:
+  enabled: true              # 总开关；不想推微信改成 false
+  subject_prefix: "【外刊精读】"
+  # 下面三个各自独立。没配对应 Secrets 的通道会被自动跳过，不会报错，
+  # 所以留着 true 也没关系——填了哪个 Key，哪个就生效。
+  serverchan: true           # 需要 SERVERCHAN_KEY
+  wecom: true                # 需要 WECOM_WEBHOOK（推荐，免费无条数限制）
+  custom: true               # 需要 CUSTOM_WEBHOOK（钉钉/飞书/Bark/ntfy）
+
+# ---------- 八、导出给小程序 / 网页前端 ----------
+# 生成一份纯 JSON，小程序或网页直接读它渲染，不需要后端
+app:
+  enabled: true
+  dir: docs                  # 输出目录（放 docs/ 可直接用 GitHub Pages 托管）
+  keep_days: 90              # JSON 只保留最近 N 天，控制体积
+  index_limit: 60            # 首页列表最多列几条

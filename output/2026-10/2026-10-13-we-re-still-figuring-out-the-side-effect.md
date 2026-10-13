@@ -1,5 +1,7 @@
 # 外刊精读 · 2026-10-13
 
+**GLP-1 减肥药的副作用，至今仍未完全弄清**
+
 > 来源：MIT Technology Review ｜ 难度：C1 ｜ 词数：699
 > 原文：https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/
 
