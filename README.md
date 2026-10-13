@@ -86,10 +86,26 @@ pip install -r requirements.txt
 
 cp .env.example .env             # 填 LLM_API_KEY 和邮箱授权码
 
-python main.py --selftest        # 自检：不联网不调模型，验证渲染
+python main.py --selftest        # 自检：不联网不调模型，验证渲染链路
 python main.py --no-email        # 真跑一次但不发邮件
 python main.py --url <文章链接>   # 指定一篇文章调试
+python main.py --dump 原文.json   # 只抓原文存成 JSON，不调模型（先看看抓到什么）
 ```
+
+### 样例文件
+
+`samples/glp-1.json` 是一份**完整跑通的样例**（MIT Technology Review 的一篇报道 +
+对应的精读结果）。想看成品长什么样，不用配任何 Key，直接：
+
+```bash
+python main.py --from-json samples/glp-1.json --no-email
+```
+
+生成的 Markdown、HTML 邮件和 Anki 卡片包会出现在 `output/` 里。
+`output/2026-10/` 下已经放了一份渲染好的结果，可以直接打开看。
+
+这个 JSON 也是**调试用的工作文件**：先 `--dump` 拿到原文，手工补上 `analysis`
+字段，再用 `--from-json` 渲染——不花 API 额度就能反复调版式。
 
 ---
 
@@ -117,6 +133,8 @@ python main.py --url <文章链接>   # 指定一篇文章调试
 | 60 天不活动会停 | 公开仓库长期无提交，定时任务会被 GitHub 自动禁用。本项目每天都提交归档，天然避开了。 |
 | 归档会被清 | `output.keep_days: 90` 默认保留 90 天，想永久保留改成 `0` |
 | 有些站点抓不到正文 | 付费墙站点（Economist、Atlantic）已默认关闭；其它源抓不到时会退回 RSS 摘要，不会中断 |
+| 已自动过滤的内容 | 滚动直播（live blog）、图集、视频、播客、测验；以及 NPR 那类**广播转写稿**（满屏 SOUNDBITE / BYLINE，句子破碎，不适合精读） |
+| 选文为什么先多抓几篇 | 正文长度要抓下来才知道，所以先取一批缓冲再筛。同源上限在缓冲阶段放宽到 3 篇，正式取文仍是 1 篇 |
 | Anki 卡片怎么用 | 从仓库下载 `.apkg`，Anki 里「文件 → 导入」即可，会进入「外刊精读」牌组 |
 | 首次运行很慢 | 第一次要装依赖 + 抓多个源，通常 2—5 分钟；之后正常 |
 
@@ -133,12 +151,13 @@ python main.py --url <文章链接>   # 指定一篇文章调试
 ├── .env.example                          本地测试的环境变量模板
 ├── src/
 │   ├── config.py     配置加载
-│   ├── fetch.py      RSS 抓取与选文
-│   ├── extract.py    正文抽取
+│   ├── fetch.py      RSS 抓取、内容过滤与选文
+│   ├── extract.py    正文抽取（含尾部导航清洗）
 │   ├── analyze.py    大模型精读
 │   ├── render.py     渲染 Markdown / HTML
 │   ├── mailer.py     邮件发送
 │   └── anki.py       Anki 卡片生成
+├── samples/glp-1.json    可直接跑的完整样例（含精读结果）
 ├── output/           每日精读归档（自动生成）
 └── state/seen.json   去重记录（自动生成）
 ```
