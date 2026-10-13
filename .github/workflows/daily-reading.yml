@@ -58,6 +58,11 @@ jobs:
           WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
           CUSTOM_WEBHOOK: ${{ secrets.CUSTOM_WEBHOOK }}
         run: |
+          # 没配 LLM_API_KEY 时优雅跳过，避免每天都是一个红叉
+          if [ -z "$LLM_API_KEY" ]; then
+            echo "::warning title=缺少 LLM_API_KEY::尚未配置大模型 API Key，本次跳过生成。请到 Settings → Secrets and variables → Actions 添加 LLM_API_KEY 后重新运行。"
+            exit 0
+          fi
           ARGS=""
           COUNT="${{ github.event.inputs.count }}"
           NO_EMAIL="${{ github.event.inputs.no_email }}"
