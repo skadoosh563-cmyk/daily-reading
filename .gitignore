@@ -1,5 +1,6 @@
 # 密钥类
 .env
+.gh_token
 
 # Python
 __pycache__/
