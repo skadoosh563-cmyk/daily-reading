@@ -73,8 +73,12 @@ selection:
 #   通义千问   https://dashscope.aliyuncs.com/compatible-mode/v1  qwen-plus
 #   硅基流动   https://api.siliconflow.cn/v1                      Qwen/Qwen2.5-72B-Instruct
 llm:
-  base_url: https://api.deepseek.com/v1
-  model: deepseek-chat
+  # 当前用的是中转站（key 走 GitHub Secrets 的 LLM_API_KEY）
+  base_url: https://sub-coco.org/v1
+  # ⚠️ 只能用非推理模型：deepseek-v4-flash / v4-pro 会把 max_tokens 全烧在
+  #    reasoning 上（实测 6371/8192），正文被截断成半个 JSON，解析必失败。
+  #    v4.1-flash 实测 17 秒、0 推理 token、JSON 完整。
+  model: deepseek-v4.1-flash
   temperature: 0.3
   timeout: 300
   max_tokens: 8192
@@ -111,7 +115,8 @@ wechat:
   # 所以留着 true 也没关系——填了哪个 Key，哪个就生效。
   serverchan: true           # 需要 SERVERCHAN_KEY
   wecom: true                # 需要 WECOM_WEBHOOK（推荐，免费无条数限制）
-  custom: true               # 需要 CUSTOM_WEBHOOK（钉钉/飞书/Bark/ntfy）
+  dingtalk: true             # 需要 DINGTALK_WEBHOOK（开了「加签」再加 DINGTALK_SECRET）
+  custom: true               # 需要 CUSTOM_WEBHOOK（飞书/Bark/ntfy 等）
 
 # ---------- 八、导出给小程序 / 网页前端 ----------
 # 生成一份纯 JSON，小程序或网页直接读它渲染，不需要后端
