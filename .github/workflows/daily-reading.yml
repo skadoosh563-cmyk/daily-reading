@@ -48,7 +48,8 @@ jobs:
       - name: 环境自检
         run: python main.py --selftest
 
-      - name: 生成今日精读
+      # 一眼看出哪个 Secret 忘了填（只打印是否配置，不打印值）
+      - name: 推送通道体检
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           SMTP_SENDER: ${{ secrets.SMTP_SENDER }}
@@ -56,12 +57,35 @@ jobs:
           SMTP_RECEIVER: ${{ secrets.SMTP_RECEIVER }}
           SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
           WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
           CUSTOM_WEBHOOK: ${{ secrets.CUSTOM_WEBHOOK }}
         run: |
-          # 没配 LLM_API_KEY 时优雅跳过，避免每天都是一个红叉
+          for v in LLM_API_KEY SMTP_SENDER SMTP_PASSWORD SMTP_RECEIVER \
+                   SERVERCHAN_KEY WECOM_WEBHOOK DINGTALK_WEBHOOK DINGTALK_SECRET CUSTOM_WEBHOOK; do
+            eval "val=\$$v"
+            if [ -n "$val" ]; then echo "✅ $v 已配置"; else echo "⬜ $v 未配置"; fi
+          done
+
+      - name: 生成今日精读
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          # 选配：想在 Secrets 里临时换模型/换服务商，填这两个即可覆盖 config.yaml
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          SMTP_SENDER: ${{ secrets.SMTP_SENDER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_RECEIVER: ${{ secrets.SMTP_RECEIVER }}
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          CUSTOM_WEBHOOK: ${{ secrets.CUSTOM_WEBHOOK }}
+        run: |
+          # 没配 Key 就直接红，别再"优雅跳过"把失败藏起来
           if [ -z "$LLM_API_KEY" ]; then
-            echo "::warning title=缺少 LLM_API_KEY::尚未配置大模型 API Key，本次跳过生成。请到 Settings → Secrets and variables → Actions 添加 LLM_API_KEY 后重新运行。"
-            exit 0
+            echo "::error title=缺少 LLM_API_KEY::未配置大模型 API Key，本次未生成任何内容。请到 Settings → Secrets and variables → Actions 添加 LLM_API_KEY 后重新运行。"
+            exit 1
           fi
           ARGS=""
           COUNT="${{ github.event.inputs.count }}"
@@ -70,6 +94,18 @@ jobs:
           if [ "$NO_EMAIL" = "true" ]; then ARGS="$ARGS --no-email"; fi
           echo "运行参数：$ARGS"
           python main.py $ARGS
+
+      # 兜底：生成环节即便"没报错"也要留下文件，否则说明它其实什么都没做
+      - name: 校验今日确有产出
+        run: |
+          TODAY=$(TZ=Asia/Shanghai date +%F)
+          if ls output/${TODAY:0:7}/${TODAY}-*.md >/dev/null 2>&1; then
+            echo "今日归档："
+            ls -lh output/${TODAY:0:7}/${TODAY}-*
+          else
+            echo "::error title=今日无产出::output 里没有 $TODAY 的归档，生成环节被跳过或失败了（看上一段日志）"
+            exit 1
+          fi
 
       - name: 归档回提交
         run: |
