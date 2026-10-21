@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T17:32:53",
- "count": 10,
+ "updated": "2026-10-21T09:34:04",
+ "count": 20,
  "vocab": [
   {
    "word": "a raft of",
@@ -20,6 +20,26 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "be set to do sth",
+   "pos": "phrase",
+   "phonetic": "/biː set tuː/",
+   "meaning_zh": "预定、即将（发生某事）",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "beyond cavil",
+   "pos": "phrase",
+   "phonetic": "/bɪˈjɒnd ˈkævɪl/",
+   "meaning_zh": "无可争辩、不容置疑（cavil 指无谓的挑剔）",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
    ]
   },
   {
@@ -43,6 +63,26 @@
    ]
   },
   {
+   "word": "in effect",
+   "pos": "phrase",
+   "phonetic": "/ɪn ɪˈfekt/",
+   "meaning_zh": "有效、在实施中",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "last-minute",
+   "pos": "adj.",
+   "phonetic": "/ˌlɑːst ˈmɪnɪt/",
+   "meaning_zh": "最后一刻的、临到最后才做的",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
    "word": "longevity",
    "pos": "n.",
    "phonetic": "/lɒnˈdʒevəti/",
@@ -60,6 +100,16 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "path to permanent residency",
+   "pos": "phrase",
+   "phonetic": "/pɑːθ tuː ˈpɜːmənənt ˈrezɪdənsi/",
+   "meaning_zh": "获得永久居留权的途径",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
    ]
   },
   {
@@ -93,6 +143,16 @@
    ]
   },
   {
+   "word": "raise the alarm",
+   "pos": "phrase",
+   "phonetic": "/reɪz ði əˈlɑːm/",
+   "meaning_zh": "发出警告、敲响警钟",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
    "word": "repress",
    "pos": "v.",
    "phonetic": "/rɪˈpres/",
@@ -100,6 +160,46 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "reprieve",
+   "pos": "n.",
+   "phonetic": "/rɪˈpriːv/",
+   "meaning_zh": "暂缓、缓刑；（处罚的）暂时解除",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "retain",
+   "pos": "v.",
+   "phonetic": "/rɪˈteɪn/",
+   "meaning_zh": "保留、继续拥有",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "seek to do sth",
+   "pos": "phrase",
+   "phonetic": "/siːk tuː/",
+   "meaning_zh": "试图、力求做某事",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "terminate",
+   "pos": "v.",
+   "phonetic": "/ˈtɜːmɪneɪt/",
+   "meaning_zh": "终止、结束",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
    ]
   }
  ]
