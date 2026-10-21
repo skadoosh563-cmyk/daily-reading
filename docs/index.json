@@ -1,98 +1,7 @@
 {
- "updated": "2026-10-21T09:27:26",
- "count": 2,
+ "updated": "2026-10-21T17:32:53",
+ "count": 1,
  "items": [
-  {
-   "id": "hurricane-trudy-menaces-mexico-s-pacific",
-   "date": "2026-10-21",
-   "title_zh": "é£é£ç¹é²è¿ªå¨èå¢¨è¥¿å¥å¤ªå¹³æ´æ²¿å²¸ï¼å¸èé­éè´å½æ´ªæ°´",
-   "summary": "æç« å¯¹æ¯äºå¤§è¥¿æ´é£é£å­£çå¹³éä¸å¤ªå¹³æ´çæ´»è·æå¿ï¼éç¹æ¥éäºäºçº§é£é£âç¹é²è¿ªâé¼è¿å¢¨è¥¿å¥å¤ªå¹³æ´æ²¿å²¸ãå¼åæ´ªæ°´ä¸å±±ä½æ»å¡é¢è­¦çæåµãéåè½¬åæ¬§æ´²ï¼è¯¦è¿°å¸èç½å¾·å²ç­å°ååè³å¶ä¼æ¯å¦å¸å°è¿æ¥çä¸¥éæ´é¨æ´ªæ°´ï¼é æäººåä¼¤äº¡åè´¢äº§æå¤±ãæç« æ°æ®å·ä½ãä¿¡æ¯å¯éï¼éåç»ä¹ ç¾å®³ç±»æ°é»æ¥éçè¯æ±ä¸å¥å¼ã",
-   "vocab": [
-    {
-     "word": "menace",
-     "pos": "v.",
-     "phonetic": "/ËmenÉs/",
-     "meaning_zh": "å¨èï¼å±å",
-     "example_en": "Hurricane Trudy menaces Mexicoâs Pacific coast and Greece hit by deadly floods",
-     "example_zh": "é£é£ç¹é²è¿ªå¨èå¢¨è¥¿å¥å¤ªå¹³æ´æ²¿å²¸ï¼å¸èé­éè´å½æ´ªæ°´"
-    },
-    {
-     "word": "in contrast to",
-     "pos": "phrase",
-     "phonetic": "/Éªn ËkÉntrÉËst tÉ/",
-     "meaning_zh": "ä¸â¦â¦å½¢æå¯¹æ¯",
-     "example_en": "In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific.",
-     "example_zh": "ä¸å¤§è¥¿æ´å¹³éçé£é£å­£å½¢æå¯¹æ¯ï¼å¤ªå¹³æ´ä¸ç´ææç»­çæ´»å¨ã"
-    },
-    {
-     "word": "named system",
-     "pos": "n. phrase",
-     "phonetic": "/neÉªmd ËsÉªstÉm/",
-     "meaning_zh": "å½åå¤©æ°ç³»ç»ï¼æè¢«æ­£å¼å½åçé£æ´ï¼",
-     "example_en": "Trudy being the 22nd and latest named system.",
-     "example_zh": "ç¹é²è¿ªæ¯ç¬¬22ä¸ªä¹æ¯ææ°çå½åå¤©æ°ç³»ç»ã"
-    },
-    {
-     "word": "sustained winds",
-     "pos": "n. phrase",
-     "phonetic": "/sÉËsteÉªnd wÉªndz/",
-     "meaning_zh": "æç»­é£é",
-     "example_en": "with sustained winds of up to 60-90mph forecast on Sunday.",
-     "example_zh": "é¢è®¡å¨æ¥æç»­é£éå¯è¾¾æ¯å°æ¶60è³90è±éã"
-    },
-    {
-     "word": "prompt",
-     "pos": "v.",
-     "phonetic": "/prÉmpt/",
-     "meaning_zh": "ä¿ä½¿ï¼å¼å",
-     "example_en": "Rainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides.",
-     "example_zh": "è¿äºå°åºéé¨éå¯è½è¾¾å°100è³150æ¯«ç±³ï¼å¼åæ´ªæ°´åå±±ä½æ»å¡é¢è­¦ã"
-    },
-    {
-     "word": "storm surge",
-     "pos": "n. phrase",
-     "phonetic": "/stÉËm sÉËdÊ/",
-     "meaning_zh": "é£æ´æ½®",
-     "example_en": "Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico.",
-     "example_zh": "é¢è­¦è¿æ¶µçå¢¨è¥¿å¥è¥¿åæ²¿å²¸åå²¸é£åºååºç°å±é©é£æ´æ½®å¹¶ä¼´éç ´åæ§æµ·æµªçé£é©ã"
-    },
-    {
-     "word": "fatality",
-     "pos": "n.",
-     "phonetic": "/fÉËtÃ¦lÉti/",
-     "meaning_zh": "æ­»äº¡ï¼äºæãç¾å®³é æçï¼",
-     "example_en": "In Greece, heavy rain and thunderstorms caused severe flooding and one fatality across Rhodes, Evia and the Sporades islands last week.",
-     "example_zh": "å¨å¸èï¼ä¸å¨ç½å¾·å²ãåç»´äºå²åæ¯æ³¢ææ³½æ¯ç¾¤å²çå¼ºéé¨åé·æ´é æä¸¥éæ´ªæ°´åä¸äººæ­»äº¡ã"
-    },
-    {
-     "word": "extrication",
-     "pos": "n.",
-     "phonetic": "/ËekstrÉªËkeÉªÊn/",
-     "meaning_zh": "è§£æï¼è±å°",
-     "example_en": "Regional authorities reported more than 30 rescue and extrication operations in response to flooding.",
-     "example_zh": "å°åºå½å±æ¥åç§°ï¼ä¸ºåºå¯¹æ´ªæ°´å¼å±äº30å¤æ¬¡ææ´åè§£æè¡å¨ã"
-    },
-    {
-     "word": "stranded",
-     "pos": "adj.",
-     "phonetic": "/ËstrÃ¦ndÉªd/",
-     "meaning_zh": "è¢«å°çï¼æ»çç",
-     "example_en": "Nearly 600 people were rescued after becoming stranded and at least 2,700 people were forced to evacuate their homes.",
-     "example_zh": "è¿600äººè¢«å°åè·æï¼è³å°2700äººè¢«è¿«æ¤ç¦»å®¶å­ã"
-    },
-    {
-     "word": "evacuate",
-     "pos": "v.",
-     "phonetic": "/ÉªËvÃ¦kjueÉªt/",
-     "meaning_zh": "çæ£ï¼æ¤ç¦»",
-     "example_en": "Nearly 600 people were rescued after becoming stranded and at least 2,700 people were forced to evacuate their homes.",
-     "example_zh": "è¿600äººè¢«å°åè·æï¼è³å°2700äººè¢«è¿«æ¤ç¦»å®¶å­ã"
-    }
-   ],
-   "source": "The Guardian · World",
-   "word_count": 315,
-   "level": "B2"
-  },
   {
    "id": "we-re-still-figuring-out-the-side-effect",
    "date": "2026-10-13",

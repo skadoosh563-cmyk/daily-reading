@@ -76,8 +76,13 @@ def _post(cfg: dict, messages: list[dict], force_json: bool) -> dict:
         timeout=llm.get("timeout", 300),
     )
     if resp.status_code >= 400:
-        raise RuntimeError(f"HTTP {resp.status_code}: {resp.text[:500]}")
-    data = resp.json()
+        detail = resp.content.decode("utf-8", "replace")[:500]
+        raise RuntimeError(f"HTTP {resp.status_code}: {detail}")
+    # 注意：部分中转站的响应头只写 application/json、不带 charset，
+    # 此时 requests 会按 ISO-8859-1 解码，模型返回的中文就会变成
+    # "é£é£" 这种乱码（英文不受影响，所以很容易漏看）。
+    # JSON 标准规定就是 UTF-8，这里直接拿原始字节强制按 UTF-8 解析。
+    data = json.loads(resp.content.decode("utf-8"))
     return data["choices"][0]["message"]["content"]
 
 

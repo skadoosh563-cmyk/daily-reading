@@ -1,158 +1,0 @@
-{
- "id": "hurricane-trudy-menaces-mexico-s-pacific",
- "date": "2026-10-21",
- "slug": "hurricane-trudy-menaces-mexico-s-pacific",
- "title_zh": "é£é£ç¹é²è¿ªå¨èå¢¨è¥¿å¥å¤ªå¹³æ´æ²¿å²¸ï¼å¸èé­éè´å½æ´ªæ°´",
- "meta_line": "来源：The Guardian · World ｜ 难度：B2 ｜ 词数：315",
- "summary": "æç« å¯¹æ¯äºå¤§è¥¿æ´é£é£å­£çå¹³éä¸å¤ªå¹³æ´çæ´»è·æå¿ï¼éç¹æ¥éäºäºçº§é£é£âç¹é²è¿ªâé¼è¿å¢¨è¥¿å¥å¤ªå¹³æ´æ²¿å²¸ãå¼åæ´ªæ°´ä¸å±±ä½æ»å¡é¢è­¦çæåµãéåè½¬åæ¬§æ´²ï¼è¯¦è¿°å¸èç½å¾·å²ç­å°ååè³å¶ä¼æ¯å¦å¸å°è¿æ¥çä¸¥éæ´é¨æ´ªæ°´ï¼é æäººåä¼¤äº¡åè´¢äº§æå¤±ãæç« æ°æ®å·ä½ãä¿¡æ¯å¯éï¼éåç»ä¹ ç¾å®³ç±»æ°é»æ¥éçè¯æ±ä¸å¥å¼ã",
- "vocab": [
-  {
-   "word": "menace",
-   "pos": "v.",
-   "phonetic": "/ËmenÉs/",
-   "meaning_zh": "å¨èï¼å±å",
-   "example_en": "Hurricane Trudy menaces Mexicoâs Pacific coast and Greece hit by deadly floods",
-   "example_zh": "é£é£ç¹é²è¿ªå¨èå¢¨è¥¿å¥å¤ªå¹³æ´æ²¿å²¸ï¼å¸èé­éè´å½æ´ªæ°´"
-  },
-  {
-   "word": "in contrast to",
-   "pos": "phrase",
-   "phonetic": "/Éªn ËkÉntrÉËst tÉ/",
-   "meaning_zh": "ä¸â¦â¦å½¢æå¯¹æ¯",
-   "example_en": "In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific.",
-   "example_zh": "ä¸å¤§è¥¿æ´å¹³éçé£é£å­£å½¢æå¯¹æ¯ï¼å¤ªå¹³æ´ä¸ç´ææç»­çæ´»å¨ã"
-  },
-  {
-   "word": "named system",
-   "pos": "n. phrase",
-   "phonetic": "/neÉªmd ËsÉªstÉm/",
-   "meaning_zh": "å½åå¤©æ°ç³»ç»ï¼æè¢«æ­£å¼å½åçé£æ´ï¼",
-   "example_en": "Trudy being the 22nd and latest named system.",
-   "example_zh": "ç¹é²è¿ªæ¯ç¬¬22ä¸ªä¹æ¯ææ°çå½åå¤©æ°ç³»ç»ã"
-  },
-  {
-   "word": "sustained winds",
-   "pos": "n. phrase",
-   "phonetic": "/sÉËsteÉªnd wÉªndz/",
-   "meaning_zh": "æç»­é£é",
-   "example_en": "with sustained winds of up to 60-90mph forecast on Sunday.",
-   "example_zh": "é¢è®¡å¨æ¥æç»­é£éå¯è¾¾æ¯å°æ¶60è³90è±éã"
-  },
-  {
-   "word": "prompt",
-   "pos": "v.",
-   "phonetic": "/prÉmpt/",
-   "meaning_zh": "ä¿ä½¿ï¼å¼å",
-   "example_en": "Rainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides.",
-   "example_zh": "è¿äºå°åºéé¨éå¯è½è¾¾å°100è³150æ¯«ç±³ï¼å¼åæ´ªæ°´åå±±ä½æ»å¡é¢è­¦ã"
-  },
-  {
-   "word": "storm surge",
-   "pos": "n. phrase",
-   "phonetic": "/stÉËm sÉËdÊ/",
-   "meaning_zh": "é£æ´æ½®",
-   "example_en": "Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico.",
-   "example_zh": "é¢è­¦è¿æ¶µçå¢¨è¥¿å¥è¥¿åæ²¿å²¸åå²¸é£åºååºç°å±é©é£æ´æ½®å¹¶ä¼´éç ´åæ§æµ·æµªçé£é©ã"
-  },
-  {
-   "word": "fatality",
-   "pos": "n.",
-   "phonetic": "/fÉËtÃ¦lÉti/",
-   "meaning_zh": "æ­»äº¡ï¼äºæãç¾å®³é æçï¼",
-   "example_en": "In Greece, heavy rain and thunderstorms caused severe flooding and one fatality across Rhodes, Evia and the Sporades islands last week.",
-   "example_zh": "å¨å¸èï¼ä¸å¨ç½å¾·å²ãåç»´äºå²åæ¯æ³¢ææ³½æ¯ç¾¤å²çå¼ºéé¨åé·æ´é æä¸¥éæ´ªæ°´åä¸äººæ­»äº¡ã"
-  },
-  {
-   "word": "extrication",
-   "pos": "n.",
-   "phonetic": "/ËekstrÉªËkeÉªÊn/",
-   "meaning_zh": "è§£æï¼è±å°",
-   "example_en": "Regional authorities reported more than 30 rescue and extrication operations in response to flooding.",
-   "example_zh": "å°åºå½å±æ¥åç§°ï¼ä¸ºåºå¯¹æ´ªæ°´å¼å±äº30å¤æ¬¡ææ´åè§£æè¡å¨ã"
-  },
-  {
-   "word": "stranded",
-   "pos": "adj.",
-   "phonetic": "/ËstrÃ¦ndÉªd/",
-   "meaning_zh": "è¢«å°çï¼æ»çç",
-   "example_en": "Nearly 600 people were rescued after becoming stranded and at least 2,700 people were forced to evacuate their homes.",
-   "example_zh": "è¿600äººè¢«å°åè·æï¼è³å°2700äººè¢«è¿«æ¤ç¦»å®¶å­ã"
-  },
-  {
-   "word": "evacuate",
-   "pos": "v.",
-   "phonetic": "/ÉªËvÃ¦kjueÉªt/",
-   "meaning_zh": "çæ£ï¼æ¤ç¦»",
-   "example_en": "Nearly 600 people were rescued after becoming stranded and at least 2,700 people were forced to evacuate their homes.",
-   "example_zh": "è¿600äººè¢«å°åè·æï¼è³å°2700äººè¢«è¿«æ¤ç¦»å®¶å­ã"
-  }
- ],
- "grammar": [
-  {
-   "sentence": "In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system.",
-   "point": "withå¤åç»æï¼with + å®¾è¯­ + ç°å¨åè¯ï¼",
-   "explain_zh": "âwith Trudy being...âæ¯withå¤åç»æï¼ç¨ç°å¨åè¯è¡¨ç¤ºä¼´éç¶ææè¡¥åè¯´æãè¿éç¨æ¥è¡¥åè¯´æå¤ªå¹³æ´æ´»å¨çææ°æåµï¼é¿åå¦èµ·ä¸å¥ï¼ä½¿å¥å­ç´§åã"
-  },
-  {
-   "sentence": "Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico.",
-   "point": "è¿å»åè¯ç­è¯­ä½åç½®å®è¯­",
-   "explain_zh": "âaccompanied by damaging wavesâæ¯è¿å»åè¯ç­è¯­ï¼ä¿®é¥°storm surgeï¼ç¸å½äºwhich is accompanied by...ãè¿ç§ç»æå¨æ°é»è±è¯­ä¸­å¾å¸¸è§ï¼ç¨æ¥ç²¾ç®å®è¯­ä»å¥ã"
-  },
-  {
-   "sentence": "According to the Istanbul metropolitan municipality, 242mm of rain was recorded in Beykoz, a district of Istanbul province.",
-   "point": "åä½è¯­",
-   "explain_zh": "âa district of Istanbul provinceâæ¯Beykozçåä½è¯­ï¼ç¨æ¥è§£éè¯´æBeykozæ¯ä»ä¹å°æ¹ãåä½è¯­è½ä½¿ä¿¡æ¯å¯éåç°ï¼æ¯æ°é»æ¥éä¸­äº¤ä»£å°çä¿¡æ¯çå¸¸ç¨ææ³ã"
-  }
- ],
- "questions": [
-  {
-   "q": "What does the article suggest about the Atlantic hurricane season compared with the Pacific?",
-   "a": "æç« å¼å¤´æåºå¤§è¥¿æ´é£é£å­£ç¸å¯¹å¹³éï¼èå¤ªå¹³æ´æç»­æ´»è·ï¼ç¹é²è¿ªå·²æ¯ç¬¬22ä¸ªå½åç³»ç»ãè¿è¯´æä¸¤ä¸ªæµ·åçé£é£æ´»å¨å½¢æé²æå¯¹æ¯ã"
-  },
-  {
-   "q": "Why is the downgrading of Trudy to a tropical storm significant in the context of the article?",
-   "a": "å ä¸ºéçº§æå³çé£é£å¼ºåº¦åå¼±ï¼æ²¿æµ·é¢è­¦å¾ä»¥è§£é¤ï¼å¯¹å¢¨è¥¿å¥æ²¿å²¸çç´æ¥å¨èéä½ãè¿ä¸åæåå¸é£é£é¢è­¦å½¢æè½¬æï¼ä½ç°äºç¾å®³å¨æååã"
-  },
-  {
-   "q": "What can be inferred about the impact of the floods in Turkey from the numbers mentioned?",
-   "a": "ä»è´ä¼ç§å¹åº242æ¯«ç±³çéé¨éãè¿600äººè·æãè³å°2700äººæ¤ç¦»ä»¥åäºäººæ­»äº¡ç­æ°æ®å¯ä»¥æ¨æ­ï¼æ´ªæ°´å½±åèå´å¹¿ãå¼ºåº¦å¤§ï¼é æäºä¸¥éçäººååè´¢äº§æå¤±ã\n\n---\n\n*由「外刊精读」自动生成 · 每天一篇，读原文，也读世界*"
-  }
- ],
- "translation": [
-  {
-   "idx": 1,
-   "en": "In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hurricane Center put coastal parts of the states of Jalisco, MichoacÃ¡n and Colima under hurricane warnings, with sustained winds of up to 60-90mph forecast on Sunday.",
-   "zh": "ä¸å¤§è¥¿æ´å¹³éçé£é£å­£å½¢æå¯¹æ¯ï¼å¤ªå¹³æ´ä¸ç´ææç»­çæ´»å¨ï¼ç¹é²è¿ªæ¯ç¬¬22ä¸ªä¹æ¯ææ°çå½åå¤©æ°ç³»ç»ãè¿ä¸ªäºçº§é£é£åçå¨å¢¨è¥¿å¥æµ·å²¸è¥¿åçº¦100è±éï¼160å¬éï¼å¤ï¼æå³çææ¶å£çå¤©æ°ç¶åµä»å¨æµ·ä¸ãç¶èï¼ç¾å½å½å®¶é£é£ä¸­å¿å¯¹åå©æ¯ç§å·ãç±³å´è¯å·åç§å©é©¬å·çæ²¿æµ·å°åºåå¸äºé£é£é¢è­¦ï¼é¢è®¡å¨æ¥æç»­é£éå¯è¾¾æ¯å°æ¶60è³90è±éã"
-  },
-  {
-   "idx": 2,
-   "en": "Rainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides. Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico. By Monday morning, Trudy had weakened and been downgraded to a tropical storm, with coastal warnings being lifted.",
-   "zh": "è¿äºå°åºéé¨éå¯è½è¾¾å°100è³150æ¯«ç±³ï¼å¼åæ´ªæ°´åå±±ä½æ»å¡é¢è­¦ãé¢è­¦è¿æ¶µçå¢¨è¥¿å¥è¥¿åæ²¿å²¸åå²¸é£åºååºç°å±é©é£æ´æ½®å¹¶ä¼´éç ´åæ§æµ·æµªçé£é©ãå°å¨ä¸ä¸åï¼ç¹é²è¿ªå·²åå¼±å¹¶è¢«éçº§ä¸ºç­å¸¦é£æ´ï¼æ²¿æµ·é¢è­¦è§£é¤ã"
-  },
-  {
-   "idx": 3,
-   "en": "In Greece, heavy rain and thunderstorms caused severe flooding and one fatality across Rhodes, Evia and the Sporades islands last week. According to the National Observatory of Athens, a station in Rhodes recorded 202mm between 3.30am and 9.50am (UTC) on 14 October. Regional authorities reported more than 30 rescue and extrication operations in response to flooding, while the Greek coastguard said four passenger vehicles were swept into the sea during the storm. On Skiathos, flood waters swept away two cars.",
-   "zh": "å¨å¸èï¼ä¸å¨ç½å¾·å²ãåç»´äºå²åæ¯æ³¢ææ³½æ¯ç¾¤å²çå¼ºéé¨åé·æ´é æä¸¥éæ´ªæ°´åä¸äººæ­»äº¡ãæ®éå¸å½å®¶å¤©æå°ç§°ï¼ç½å¾·å²ä¸ä¸ªçæµç«å¨10æ14æ¥åæ¨3ç¹30åè³9ç¹50åï¼UTCï¼ä¹é´è®°å½äº202æ¯«ç±³éé¨ãå°åºå½å±æ¥åç§°ï¼ä¸ºåºå¯¹æ´ªæ°´å¼å±äº30å¤æ¬¡ææ´åè§£æè¡å¨ï¼èå¸èæµ·å²¸è­¦å«éè¡¨ç¤ºï¼é£æ´æé´æåè¾å®¢è½¦è¢«å·å¥æµ·ä¸­ãå¨æ¯åºäºç´¢æ¯å²ï¼æ´ªæ°´å²èµ°äºä¸¤è¾æ±½è½¦ã"
-  },
-  {
-   "idx": 4,
-   "en": "Five deaths were reported due to severe flooding in Istanbul, Turkey, last week. Heavy rain on 14 and 15 October prompted school closures, flight delays, disruptive flooding and landslides across several provinces. According to the Istanbul metropolitan municipality, 242mm of rain was recorded in Beykoz, a district of Istanbul province. Nearly 600 people were rescued after becoming stranded and at least 2,700 people were forced to evacuate their homes.",
-   "zh": "ä¸å¨åè³å¶ä¼æ¯å¦å¸å°å ä¸¥éæ´ªæ°´æ¥åäºäºèµ·æ­»äº¡äºä»¶ã10æ14æ¥å15æ¥çå¼ºéé¨å¯¼è´å¤ä¸ªçä»½å­¦æ ¡åè¯¾ãèªç­å»¶è¯¯ãç ´åæ§æ´ªæ°´åå±±ä½æ»å¡ãæ®ä¼æ¯å¦å¸å°å¤§é½å¸å¸æ¿å½å±ç§°ï¼ä¼æ¯å¦å¸å°çè´ä¼ç§å¹åºè®°å½äº242æ¯«ç±³éé¨ãè¿600äººè¢«å°åè·æï¼è³å°2700äººè¢«è¿«æ¤ç¦»å®¶å­ã"
-  },
-  {
-   "idx": 5,
-   "en": "The Turkish state meteorological service issued further alerts for heavy rain and thunderstorms over the weekend across dozens of provinces, with at least an additional 40-60mm forecast for parts of the Marmara and western Black Sea regions.",
-   "zh": "åè³å¶å½å®¶æ°è±¡å±å¨æ«å¯¹æ°åä¸ªçä»½åå¸äºè¿ä¸æ­¥çå¼ºéé¨åé·æ´è­¦æ¥ï¼é¢è®¡é©¬å°é©¬æåé»æµ·è¥¿é¨é¨åå°åºè³å°è¿å°æ40è³60æ¯«ç±³éé¨ã"
-  }
- ],
- "article": [
-  "In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2 hurricane remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hurricane Center put coastal parts of the states of Jalisco, Michoacán and Colima under hurricane warnings, with sustained winds of up to 60-90mph forecast on Sunday.",
-  "Rainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides. Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico. By Monday morning, Trudy had weakened and been downgraded to a tropical storm, with coastal warnings being lifted.",
-  "In Greece, heavy rain and thunderstorms caused severe flooding and one fatality across Rhodes, Evia and the Sporades islands last week. According to the National Observatory of Athens, a station in Rhodes recorded 202mm between 3.30am and 9.50am (UTC) on 14 October. Regional authorities reported more than 30 rescue and extrication operations in response to flooding, while the Greek coastguard said four passenger vehicles were swept into the sea during the storm. On Skiathos, flood waters swept away two cars.",
-  "Five deaths were reported due to severe flooding in Istanbul, Turkey, last week. Heavy rain on 14 and 15 October prompted school closures, flight delays, disruptive flooding and landslides across several provinces. According to the Istanbul metropolitan municipality, 242mm of rain was recorded in Beykoz, a district of Istanbul province. Nearly 600 people were rescued after becoming stranded and at least 2,700 people were forced to evacuate their homes.",
-  "The Turkish state meteorological service issued further alerts for heavy rain and thunderstorms over the weekend across dozens of provinces, with at least an additional 40-60mm forecast for parts of the Marmara and western Black Sea regions."
- ],
- "source": "The Guardian · World",
- "word_count": 315,
- "level": "B2"
-}
