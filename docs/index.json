@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-21T09:34:04",
- "count": 2,
+ "updated": "2026-10-21T09:47:02",
+ "count": 3,
  "items": [
+  {
+   "id": "soft-spoken-david-pocock-has-big-ambitio",
+   "date": "2026-10-21",
+   "title_zh": "轻声细语的大卫·波科克雄心勃勃——但他首先希望政客们“加倍”友善",
+   "summary": "这篇《卫报》报道聚焦澳大利亚独立参议员大卫·波科克在全国新闻俱乐部的首次演讲。这位前橄榄球明星明确表示无意竞选总理，而是提出要打造一种新的社区政治联盟，并推动三项关键政策改革：天然气出口税、数据中心征税和政治透明度改革。文章还分析了他如何以温和而有力的沟通方式影响全国舆论，以及他对现有两党制的挑战。这篇报道语言生动、结构清晰，适合学习外刊中的政治报道词汇和复杂句式。",
+   "vocab": [
+    {
+     "word": "commonsense",
+     "pos": "adj.",
+     "phonetic": "/ˌkɒmənˈsens/",
+     "meaning_zh": "常识性的；合乎常理的",
+     "example_en": "He’s six foot tall and full of muscle, but David Pocock’s real strength is often sounding like the most sensible, commonsense voice in the room.",
+     "example_zh": "他身高六英尺，肌肉发达，但大卫·波科克真正的力量往往在于他听起来像是房间里最明智、最合乎常理的声音。"
+    },
+    {
+     "word": "softly spoken",
+     "pos": "adj.",
+     "phonetic": "/ˌsɒftli ˈspəʊkən/",
+     "meaning_zh": "说话轻声细语的；语调温和的",
+     "example_en": "No matter how much some people might like the softly spoken senator to have more say in federal politics.",
+     "example_zh": "无论有些人多么希望这位说话轻声细语的参议员在联邦政治中有更多发言权。"
+    },
+    {
+     "word": "full-time whistle",
+     "pos": "n.",
+     "phonetic": "/ˌfʊl taɪm ˈwɪsl/",
+     "meaning_zh": "（比赛）终场哨；这里比喻政治生涯的结束",
+     "example_en": "But before the full-time whistle on his parliamentary career, the former rugby star has a match against his toughest opponent yet: the two-party system.",
+     "example_zh": "但在这位前橄榄球明星的议会生涯终场哨响之前，他还有一场对阵迄今为止最强劲对手的比赛：两党制。"
+    },
+    {
+     "word": "calibre",
+     "pos": "n.",
+     "phonetic": "/ˈkælɪbə(r)/",
+     "meaning_zh": "水准；质量；才干",
+     "example_en": "He called for a higher calibre of politics after the alleged attack on the independent Indi MP, Helen Haines.",
+     "example_zh": "在独立议员海伦·海恩斯遭到疑似攻击后，他呼吁提升政治的水准。"
+    },
+    {
+     "word": "double down on",
+     "pos": "phrase",
+     "phonetic": "/ˌdʌbl ˈdaʊn ɒn/",
+     "meaning_zh": "在……上加倍努力；更加坚定地做……",
+     "example_en": "He said parliament must “meet this [alleged] attack on you by doubling down on the values you represent”.",
+     "example_zh": "他说议会必须“通过加倍践行你所代表的价值观来回应这次（据称的）攻击”。"
+    },
+    {
+     "word": "levy",
+     "pos": "n.",
+     "phonetic": "/ˈlevi/",
+     "meaning_zh": "征税；税款",
+     "example_en": "A 5% levy on datacentres to capture more benefits from the AI boom.",
+     "example_zh": "对数据中心征收5%的税，以从人工智能热潮中获取更多收益。"
+    },
+    {
+     "word": "vested interests",
+     "pos": "n.",
+     "phonetic": "/ˌvestɪd ˈɪntrəsts/",
+     "meaning_zh": "既得利益集团；特权阶层",
+     "example_en": "Transparency reforms to shine a light on lobbyists, secret meetings with politicians and vested interests.",
+     "example_zh": "透明度改革，以揭露游说者、与政客的秘密会面以及既得利益集团。"
+    },
+    {
+     "word": "destitute",
+     "pos": "adj.",
+     "phonetic": "/ˈdestɪtjuːt/",
+     "meaning_zh": "贫困潦倒的；一无所有的",
+     "example_en": "Pocock recounted the moment a woman sat sobbing in his office, so destitute on the miserable jobseeker allowance that she ate dog food because she hadn’t eaten meat in so long.",
+     "example_zh": "波科克讲述了一位女子坐在他办公室里哭泣的场景，她靠着微薄的求职者津贴生活，穷困潦倒到吃狗粮，因为她太久没吃过肉了。"
+    },
+    {
+     "word": "slug",
+     "pos": "v.",
+     "phonetic": "/slʌɡ/",
+     "meaning_zh": "重击；这里指对……征收重税或使其受损",
+     "example_en": "I don’t understand why we’re slugging everyday Aussies and yet we’re happy to export gas for free.",
+     "example_zh": "我不明白为什么我们要让普通澳大利亚人承受重负，却乐于免费出口天然气。"
+    },
+    {
+     "word": "angle for",
+     "pos": "phrase",
+     "phonetic": "/ˈæŋɡl fɔː(r)/",
+     "meaning_zh": "谋求；暗中争取",
+     "example_en": "Not that Pocock is angling to win that position himself.",
+     "example_zh": "这并不是说波科克自己在谋求赢得那个职位。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 844,
+   "level": "C1"
+  },
   {
    "id": "us-grants-deportation-reprieve-to-migran",
    "date": "2026-10-21",

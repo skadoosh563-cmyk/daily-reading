@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T09:34:04",
- "count": 20,
+ "updated": "2026-10-21T09:47:02",
+ "count": 30,
  "vocab": [
   {
    "word": "a raft of",
@@ -23,6 +23,16 @@
    ]
   },
   {
+   "word": "angle for",
+   "pos": "phrase",
+   "phonetic": "/ˈæŋɡl fɔː(r)/",
+   "meaning_zh": "谋求；暗中争取",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
    "word": "be set to do sth",
    "pos": "phrase",
    "phonetic": "/biː set tuː/",
@@ -37,6 +47,56 @@
    "pos": "phrase",
    "phonetic": "/bɪˈjɒnd ˈkævɪl/",
    "meaning_zh": "无可争辩、不容置疑（cavil 指无谓的挑剔）",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "calibre",
+   "pos": "n.",
+   "phonetic": "/ˈkælɪbə(r)/",
+   "meaning_zh": "水准；质量；才干",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "commonsense",
+   "pos": "adj.",
+   "phonetic": "/ˌkɒmənˈsens/",
+   "meaning_zh": "常识性的；合乎常理的",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "destitute",
+   "pos": "adj.",
+   "phonetic": "/ˈdestɪtjuːt/",
+   "meaning_zh": "贫困潦倒的；一无所有的",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "double down on",
+   "pos": "phrase",
+   "phonetic": "/ˌdʌbl ˈdaʊn ɒn/",
+   "meaning_zh": "在……上加倍努力；更加坚定地做……",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "full-time whistle",
+   "pos": "n.",
+   "phonetic": "/ˌfʊl taɪm ˈwɪsl/",
+   "meaning_zh": "（比赛）终场哨；这里比喻政治生涯的结束",
    "count": 1,
    "dates": [
     "2026-10-21"
@@ -77,6 +137,16 @@
    "pos": "adj.",
    "phonetic": "/ˌlɑːst ˈmɪnɪt/",
    "meaning_zh": "最后一刻的、临到最后才做的",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "levy",
+   "pos": "n.",
+   "phonetic": "/ˈlevi/",
+   "meaning_zh": "征税；税款",
    "count": 1,
    "dates": [
     "2026-10-21"
@@ -193,10 +263,40 @@
    ]
   },
   {
+   "word": "slug",
+   "pos": "v.",
+   "phonetic": "/slʌɡ/",
+   "meaning_zh": "重击；这里指对……征收重税或使其受损",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "softly spoken",
+   "pos": "adj.",
+   "phonetic": "/ˌsɒftli ˈspəʊkən/",
+   "meaning_zh": "说话轻声细语的；语调温和的",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
    "word": "terminate",
    "pos": "v.",
    "phonetic": "/ˈtɜːmɪneɪt/",
    "meaning_zh": "终止、结束",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "vested interests",
+   "pos": "n.",
+   "phonetic": "/ˌvestɪd ˈɪntrəsts/",
+   "meaning_zh": "既得利益集团；特权阶层",
    "count": 1,
    "dates": [
     "2026-10-21"

@@ -1,0 +1,272 @@
+{
+ "id": "soft-spoken-david-pocock-has-big-ambitio",
+ "date": "2026-10-21",
+ "slug": "soft-spoken-david-pocock-has-big-ambitio",
+ "title_zh": "轻声细语的大卫·波科克雄心勃勃——但他首先希望政客们“加倍”友善",
+ "meta_line": "来源：The Guardian · World ｜ 难度：C1 ｜ 词数：844",
+ "summary": "这篇《卫报》报道聚焦澳大利亚独立参议员大卫·波科克在全国新闻俱乐部的首次演讲。这位前橄榄球明星明确表示无意竞选总理，而是提出要打造一种新的社区政治联盟，并推动三项关键政策改革：天然气出口税、数据中心征税和政治透明度改革。文章还分析了他如何以温和而有力的沟通方式影响全国舆论，以及他对现有两党制的挑战。这篇报道语言生动、结构清晰，适合学习外刊中的政治报道词汇和复杂句式。",
+ "vocab": [
+  {
+   "word": "commonsense",
+   "pos": "adj.",
+   "phonetic": "/ˌkɒmənˈsens/",
+   "meaning_zh": "常识性的；合乎常理的",
+   "example_en": "He’s six foot tall and full of muscle, but David Pocock’s real strength is often sounding like the most sensible, commonsense voice in the room.",
+   "example_zh": "他身高六英尺，肌肉发达，但大卫·波科克真正的力量往往在于他听起来像是房间里最明智、最合乎常理的声音。"
+  },
+  {
+   "word": "softly spoken",
+   "pos": "adj.",
+   "phonetic": "/ˌsɒftli ˈspəʊkən/",
+   "meaning_zh": "说话轻声细语的；语调温和的",
+   "example_en": "No matter how much some people might like the softly spoken senator to have more say in federal politics.",
+   "example_zh": "无论有些人多么希望这位说话轻声细语的参议员在联邦政治中有更多发言权。"
+  },
+  {
+   "word": "full-time whistle",
+   "pos": "n.",
+   "phonetic": "/ˌfʊl taɪm ˈwɪsl/",
+   "meaning_zh": "（比赛）终场哨；这里比喻政治生涯的结束",
+   "example_en": "But before the full-time whistle on his parliamentary career, the former rugby star has a match against his toughest opponent yet: the two-party system.",
+   "example_zh": "但在这位前橄榄球明星的议会生涯终场哨响之前，他还有一场对阵迄今为止最强劲对手的比赛：两党制。"
+  },
+  {
+   "word": "calibre",
+   "pos": "n.",
+   "phonetic": "/ˈkælɪbə(r)/",
+   "meaning_zh": "水准；质量；才干",
+   "example_en": "He called for a higher calibre of politics after the alleged attack on the independent Indi MP, Helen Haines.",
+   "example_zh": "在独立议员海伦·海恩斯遭到疑似攻击后，他呼吁提升政治的水准。"
+  },
+  {
+   "word": "double down on",
+   "pos": "phrase",
+   "phonetic": "/ˌdʌbl ˈdaʊn ɒn/",
+   "meaning_zh": "在……上加倍努力；更加坚定地做……",
+   "example_en": "He said parliament must “meet this [alleged] attack on you by doubling down on the values you represent”.",
+   "example_zh": "他说议会必须“通过加倍践行你所代表的价值观来回应这次（据称的）攻击”。"
+  },
+  {
+   "word": "levy",
+   "pos": "n.",
+   "phonetic": "/ˈlevi/",
+   "meaning_zh": "征税；税款",
+   "example_en": "A 5% levy on datacentres to capture more benefits from the AI boom.",
+   "example_zh": "对数据中心征收5%的税，以从人工智能热潮中获取更多收益。"
+  },
+  {
+   "word": "vested interests",
+   "pos": "n.",
+   "phonetic": "/ˌvestɪd ˈɪntrəsts/",
+   "meaning_zh": "既得利益集团；特权阶层",
+   "example_en": "Transparency reforms to shine a light on lobbyists, secret meetings with politicians and vested interests.",
+   "example_zh": "透明度改革，以揭露游说者、与政客的秘密会面以及既得利益集团。"
+  },
+  {
+   "word": "destitute",
+   "pos": "adj.",
+   "phonetic": "/ˈdestɪtjuːt/",
+   "meaning_zh": "贫困潦倒的；一无所有的",
+   "example_en": "Pocock recounted the moment a woman sat sobbing in his office, so destitute on the miserable jobseeker allowance that she ate dog food because she hadn’t eaten meat in so long.",
+   "example_zh": "波科克讲述了一位女子坐在他办公室里哭泣的场景，她靠着微薄的求职者津贴生活，穷困潦倒到吃狗粮，因为她太久没吃过肉了。"
+  },
+  {
+   "word": "slug",
+   "pos": "v.",
+   "phonetic": "/slʌɡ/",
+   "meaning_zh": "重击；这里指对……征收重税或使其受损",
+   "example_en": "I don’t understand why we’re slugging everyday Aussies and yet we’re happy to export gas for free.",
+   "example_zh": "我不明白为什么我们要让普通澳大利亚人承受重负，却乐于免费出口天然气。"
+  },
+  {
+   "word": "angle for",
+   "pos": "phrase",
+   "phonetic": "/ˈæŋɡl fɔː(r)/",
+   "meaning_zh": "谋求；暗中争取",
+   "example_en": "Not that Pocock is angling to win that position himself.",
+   "example_zh": "这并不是说波科克自己在谋求赢得那个职位。"
+  }
+ ],
+ "grammar": [
+  {
+   "sentence": "He’s six foot tall and full of muscle, but David Pocock’s real strength is often sounding like the most sensible, commonsense voice in the room.",
+   "point": "动名词作表语 + 比较结构",
+   "explain_zh": "这里 is 后面用动名词短语 sounding like... 作表语，说明“真正的力量”具体是什么。这种结构让抽象的主语（strength）落地为具体行为，比直接说“He is sensible”更有画面感。most sensible, commonsense 是两个形容词并列修饰 voice，commonsense 在这里作形容词用，是外刊常见的灵活用法。"
+  },
+  {
+   "sentence": "But before the full-time whistle on his parliamentary career, the former rugby star has a match against his toughest opponent yet: the two-party system.",
+   "point": "时间状语前置 + 冒号解释",
+   "explain_zh": "Before 引导的时间状语放在句首，把“终场哨”这个比喻先亮出来，制造悬念。主句 has a match against... 中的 yet 表示“迄今为止”，修饰 toughest。冒号后面 the two-party system 是对 his toughest opponent 的具体解释，这种“抽象+冒号+具体”的写法在外刊中非常常见，能让读者立刻明白比喻所指。"
+  },
+  {
+   "sentence": "Bending the national conversation around a complicated resources tax, to the point where the actual prime minister has to wade through swathes of comments from political normies on every post, shows some level of leadership.",
+   "point": "动名词短语作主语 + to the point where 程度状语从句",
+   "explain_zh": "整个句子的主语是动名词短语 Bending the national conversation...，谓语是 shows。to the point where... 是程度状语，说明“扭转全国舆论”到了什么地步——连总理都得在每条帖子下翻看大量普通人的评论。这种长主语+程度从句的结构能承载复杂逻辑，是外刊长难句的典型写法。wade through 意为“费力地处理/翻阅”，swathes of 意为“大量的”。"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is David Pocock’s main political goal according to his speech?",
+   "a": "他的主要目标不是竞选总理，而是推动建立一种新的社区政治联盟，并推动三项关键政策改革：天然气出口税、数据中心征税和政治透明度改革，以建设一个真正为澳大利亚人服务的政治体系。"
+  },
+  {
+   "q": "How does the author view Pocock’s influence despite having only one vote in parliament?",
+   "a": "作者认为波科克虽然只有一票且不再掌握参议院权力平衡，但他在吸引公众关注关键议题方面异常成功，甚至能扭转全国围绕天然气税的讨论，迫使总理面对大量民众评论，这显示了一定的领导力。"
+  },
+  {
+   "q": "What does the article suggest about Pocock’s future political ambitions?",
+   "a": "文章表明波科克不会很快竞选总理，他明确表示会留在参议院，并称自己的雄心远大于竞选总理。他更关注建设社区政治联盟和推动政策改革，而非谋求最高职位。\n\n---\n\n*由「外刊精读」自动生成 · 每天一篇，读原文，也读世界*"
+  }
+ ],
+ "translation": [
+  {
+   "idx": 1,
+   "en": "He’s six foot tall and full of muscle, but David Pocock’s real strength is often sounding like the most sensible, commonsense voice in the room.",
+   "zh": "他身高六英尺，肌肉发达，但大卫·波科克真正的力量往往在于他听起来像是房间里最明智、最合乎常理的声音。"
+  },
+  {
+   "idx": 2,
+   "en": "At his first speech to the National Press Club on Wednesday, he said he wasn’t launching a bid for prime minister – no matter how much some people might like the softly spoken senator to have more say in federal politics.",
+   "zh": "周三，在全国新闻俱乐部的首次演讲中，他表示自己不会竞选总理——无论有些人多么希望这位说话轻声细语的参议员在联邦政治中有更多发言权。"
+  },
+  {
+   "idx": 3,
+   "en": "Indeed, Pocock said he was already thinking about life after politics, admitting “you can’t do this for ever”. But before the full-time whistle on his parliamentary career, the former rugby star has a match against his toughest opponent yet: the two-party system.",
+   "zh": "事实上，波科克说他已经在考虑政治之外的生活，并承认“你不可能永远做这件事”。但在这位前橄榄球明星的议会生涯终场哨响之前，他还有一场对阵迄今为止最强劲对手的比赛：两党制。"
+  },
+  {
+   "idx": 4,
+   "en": "“I want to be part of building a political system that actually delivers for Australians, no matter who is prime minister,” the ACT senator said.",
+   "zh": "“我想参与建设一个真正为澳大利亚人服务的政治体系，无论谁当总理，”这位首都领地参议员说。"
+  },
+  {
+   "idx": 5,
+   "en": "“I see an opportunity at the next election for a new kind of community political collective … I want to use what I’ve learned over the past four-and-a-half years to help.”",
+   "zh": "“我看到下次选举中出现一种新型社区政治集体的机会……我想用过去四年半学到的东西来帮忙。”"
+  },
+  {
+   "idx": 6,
+   "en": "He called for a higher calibre of politics after the alleged attack on the independent Indi MP, Helen Haines. He branded parliament’s question time a “disgrace”, urging a “better standard” among colleagues “to take some of the edge off it”.",
+   "zh": "在独立议员海伦·海恩斯遭到疑似攻击后，他呼吁提升政治的水准。他将议会的质询时间称为“耻辱”，敦促同僚们拿出“更高的标准”，“以缓和一下其中的火药味”。"
+  },
+  {
+   "idx": 7,
+   "en": "Speaking directly about Haines, he said parliament must “meet this [alleged] attack on you by doubling down on the values you represent” – listing transparency, accountability and kindness.",
+   "zh": "直接谈到海恩斯时，他说议会必须“通过加倍践行你所代表的价值观来回应这次（据称的）攻击”——他列举了透明、问责和友善。"
+  },
+  {
+   "idx": 8,
+   "en": "In front of staff and allies – including the ACT politician Thomas Emerson, Pocock’s former staffer and lookalike, as well as the Cheek Media founder and Grayndler independent candidate, Hannah Ferguson – he called for three key policy reforms:",
+   "zh": "在工作人员和盟友面前——包括首都领地政治家托马斯·埃默森（波科克的前员工，长相酷似他），以及Cheek Media创始人、Grayndler独立候选人汉娜·弗格森——他呼吁进行三项关键政策改革："
+  },
+  {
+   "idx": 9,
+   "en": "- A 25% tax on gas exports, which he said could fund anything from boosting welfare to health reforms and aged care.",
+   "zh": "- 对天然气出口征收25%的税，他说这可以为从提高福利到医疗改革和老年护理的任何事项提供资金。"
+  },
+  {
+   "idx": 10,
+   "en": "- A 5% levy on datacentres to capture more benefits from the AI boom.",
+   "zh": "- 对数据中心征收5%的税，以从人工智能热潮中获取更多收益。"
+  },
+  {
+   "idx": 11,
+   "en": "- Transparency reforms to shine a light on lobbyists, secret meetings with politicians and vested interests.",
+   "zh": "- 透明度改革，以揭露游说者、与政客的秘密会面以及既得利益集团。"
+  },
+  {
+   "idx": 12,
+   "en": "Just two months of gas tax revenue would pay for 100,000 home support packages, while prosthetic eyes and noses for cancer victims would be paid for in three hours, he said. Pocock recounted the moment a woman sat sobbing in his office, so destitute on the miserable jobseeker allowance that she ate dog food because she hadn’t eaten meat in so long.",
+   "zh": "他说，仅两个月的天然气税收就能支付10万份家庭支持套餐，而为癌症患者安装假眼和假鼻的费用只需三个小时就能赚回来。波科克讲述了一位女子坐在他办公室里哭泣的场景，她靠着微薄的求职者津贴生活，穷困潦倒到吃狗粮，因为她太久没吃过肉了。"
+  },
+  {
+   "idx": 13,
+   "en": "“A 25% gas export tax could help change that, allowing us to have a social security system that keeps people above the poverty line,” he said.",
+   "zh": "“25%的天然气出口税可以帮助改变这种状况，让我们拥有一个能让人们保持在贫困线以上的社会保障体系，”他说。"
+  },
+  {
+   "idx": 14,
+   "en": "All politicians have these stories, even if not all of them talk about them with such emotion. Politics is a series of choices and priorities and, presented by Pocock in this way, the choice not to fund welfare boosts or aged care or cancer care is hard to justify.",
+   "zh": "所有政客都有这样的故事，即使不是所有人都带着这样的情感去讲述。政治是一系列选择和优先事项，而按照波科克这种方式呈现出来，不资助福利提升、老年护理或癌症护理的选择就很难站得住脚。"
+  },
+  {
+   "idx": 15,
+   "en": "Asked later about calls for budget discipline and cutting spending, Pocock replied instantly: “You can make cuts, or you can grow revenue.”",
+   "zh": "后来被问及要求预算纪律和削减开支的呼声时，波科克立即回答说：“你可以削减开支，也可以增加收入。”"
+  },
+  {
+   "idx": 16,
+   "en": "“I don’t understand why we’re slugging everyday Aussies and yet we’re happy to export gas for free.”",
+   "zh": "“我不明白为什么我们要让普通澳大利亚人承受重负，却乐于免费出口天然气。”"
+  },
+  {
+   "idx": 17,
+   "en": "Despite having only one vote in parliament, and no longer holding the Senate balance of power, Pocock has been extraordinarily successful in drawing attention to his key issues. Labor members are not his biggest fans, but he has moulded the gas tax narrative to the point that government MPs’ social media feeds are flooded with comments demanding change.",
+   "zh": "尽管在议会只有一票，且不再掌握参议院的权力平衡，波科克在吸引人们关注他的关键议题方面却异常成功。工党成员并非他最大的粉丝，但他已经塑造了天然气税的叙事，以至于政府议员的社交媒体信息流中充斥着要求变革的评论。"
+  },
+  {
+   "idx": 18,
+   "en": "Bending the national conversation around a complicated resources tax, to the point where the actual prime minister has to wade through swathes of comments from political normies on every post, shows some level of leadership. Not that Pocock is angling to win that position himself; for one, he said he’s staying in the Senate, not switching to the lower house.",
+   "zh": "扭转全国围绕一项复杂资源税的讨论，到了连实际上的总理都不得不在每条帖子下翻看大量普通政治素人评论的地步，这显示了一定程度的领导力。这并不是说波科克自己在谋求赢得那个职位；首先，他说他会留在参议院，不会转到下议院。"
+  },
+  {
+   "idx": 19,
+   "en": "For another, when he told the audience “don’t get ahead of yourselves with ‘Pocock launches bid for PM’ headlines”, it got only the second-biggest laugh in the room.",
+   "zh": "其次，当他告诉观众“别急着写‘波科克宣布竞选总理’这种标题”时，这只是现场第二大的笑声。"
+  },
+  {
+   "idx": 20,
+   "en": "The biggest laugh came when he added: “My ambition is much bigger than that.”",
+   "zh": "最大的笑声出现在他补充说“我的雄心远比那大得多”的时候。"
+  },
+  {
+   "idx": 21,
+   "en": "His idea for a new “coalition” of independents was light on detail, but he said he wanted to “build” something alongside communities which were already organising. Pocock suggested an alliance of independents and collectives like the Community Strong movement headlined by Zali Steggall and Allegra Spender, going on to shout out independent tilts in the ACT electorates of Bean, Canberra and Fenner, where his local campaign infrastructure could make a difference, but also the seat of Fisher and even Anthony Albanese’s, Grayndler.",
+   "zh": "他关于建立新的独立议员“联盟”的想法细节不多，但他说他想与已经在组织的社区一起“建设”一些东西。波科克建议建立一个由独立议员和团体组成的联盟，比如由扎利·斯特格尔和阿拉格拉·斯彭德领衔的“社区强大”运动，接着还提到了在首都领地比恩、堪培拉和芬纳选区的独立议员竞选，他的地方竞选基础设施可以在那里发挥作用，但也提到了费舍尔席位，甚至安东尼·阿尔巴尼斯所在的格雷恩德勒席位。"
+  },
+  {
+   "idx": 22,
+   "en": "The Greens leader, David Shoebridge, has said he wants his party to replace Labor. A Pocock-backed independent in Ferguson, replacing the prime minister in his own seat, would be a whole new level.",
+   "zh": "绿党领袖大卫·舒布里奇曾表示，他希望自己的政党取代工党。如果波科克支持的独立议员弗格森在总理自己的席位上取代他，那将是全新的层次。"
+  },
+  {
+   "idx": 23,
+   "en": "“I believe a model of smaller, community interest parties and independents working together in an alliance can succeed here and build the kind of future we want,” Pocock said.",
+   "zh": "“我相信，一个由较小的社区利益政党和独立议员组成联盟共同合作的模式，可以在这里取得成功，并建设我们想要的那种未来，”波科克说。"
+  },
+  {
+   "idx": 24,
+   "en": "Where that ends up, and if it gets off the ground, will be seen in coming months and years. Just don’t expect to see Pocock – rugby star, conservationist, senator, father – add prime minister to his CV anytime soon.",
+   "zh": "这最终会走向何方，以及它能否起步，将在未来几个月和几年内见分晓。只是别指望看到波科克——橄榄球明星、环保主义者、参议员、父亲——很快把总理一职加进他的简历。"
+  }
+ ],
+ "article": [
+  "He’s six foot tall and full of muscle, but David Pocock’s real strength is often sounding like the most sensible, commonsense voice in the room.",
+  "At his first speech to the National Press Club on Wednesday, he said he wasn’t launching a bid for prime minister – no matter how much some people might like the softly spoken senator to have more say in federal politics.",
+  "Indeed, Pocock said he was already thinking about life after politics, admitting “you can’t do this for ever”. But before the full-time whistle on his parliamentary career, the former rugby star has a match against his toughest opponent yet: the two-party system.",
+  "“I want to be part of building a political system that actually delivers for Australians, no matter who is prime minister,” the ACT senator said.",
+  "“I see an opportunity at the next election for a new kind of community political collective … I want to use what I’ve learned over the past four-and-a-half years to help.”",
+  "He called for a higher calibre of politics after the alleged attack on the independent Indi MP, Helen Haines. He branded parliament’s question time a “disgrace”, urging a “better standard” among colleagues “to take some of the edge off it”.",
+  "Speaking directly about Haines, he said parliament must “meet this [alleged] attack on you by doubling down on the values you represent” – listing transparency, accountability and kindness.",
+  "In front of staff and allies – including the ACT politician Thomas Emerson, Pocock’s former staffer and lookalike, as well as the Cheek Media founder and Grayndler independent candidate, Hannah Ferguson – he called for three key policy reforms:",
+  "- A 25% tax on gas exports, which he said could fund anything from boosting welfare to health reforms and aged care.",
+  "- A 5% levy on datacentres to capture more benefits from the AI boom.",
+  "- Transparency reforms to shine a light on lobbyists, secret meetings with politicians and vested interests.",
+  "Just two months of gas tax revenue would pay for 100,000 home support packages, while prosthetic eyes and noses for cancer victims would be paid for in three hours, he said. Pocock recounted the moment a woman sat sobbing in his office, so destitute on the miserable jobseeker allowance that she ate dog food because she hadn’t eaten meat in so long.",
+  "“A 25% gas export tax could help change that, allowing us to have a social security system that keeps people above the poverty line,” he said.",
+  "All politicians have these stories, even if not all of them talk about them with such emotion. Politics is a series of choices and priorities and, presented by Pocock in this way, the choice not to fund welfare boosts or aged care or cancer care is hard to justify.",
+  "Asked later about calls for budget discipline and cutting spending, Pocock replied instantly: “You can make cuts, or you can grow revenue.”",
+  "“I don’t understand why we’re slugging everyday Aussies and yet we’re happy to export gas for free.”",
+  "Despite having only one vote in parliament, and no longer holding the Senate balance of power, Pocock has been extraordinarily successful in drawing attention to his key issues. Labor members are not his biggest fans, but he has moulded the gas tax narrative to the point that government MPs’ social media feeds are flooded with comments demanding change.",
+  "Bending the national conversation around a complicated resources tax, to the point where the actual prime minister has to wade through swathes of comments from political normies on every post, shows some level of leadership. Not that Pocock is angling to win that position himself; for one, he said he’s staying in the Senate, not switching to the lower house.",
+  "For another, when he told the audience “don’t get ahead of yourselves with ‘Pocock launches bid for PM’ headlines”, it got only the second-biggest laugh in the room.",
+  "The biggest laugh came when he added: “My ambition is much bigger than that.”",
+  "His idea for a new “coalition” of independents was light on detail, but he said he wanted to “build” something alongside communities which were already organising. Pocock suggested an alliance of independents and collectives like the Community Strong movement headlined by Zali Steggall and Allegra Spender, going on to shout out independent tilts in the ACT electorates of Bean, Canberra and Fenner, where his local campaign infrastructure could make a difference, but also the seat of Fisher and even Anthony Albanese’s, Grayndler.",
+  "The Greens leader, David Shoebridge, has said he wants his party to replace Labor. A Pocock-backed independent in Ferguson, replacing the prime minister in his own seat, would be a whole new level.",
+  "“I believe a model of smaller, community interest parties and independents working together in an alliance can succeed here and build the kind of future we want,” Pocock said.",
+  "Where that ends up, and if it gets off the ground, will be seen in coming months and years. Just don’t expect to see Pocock – rugby star, conservationist, senator, father – add prime minister to his CV anytime soon."
+ ],
+ "source": "The Guardian · World",
+ "word_count": 844,
+ "level": "C1"
+}
