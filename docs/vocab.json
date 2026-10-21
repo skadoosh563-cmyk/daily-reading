@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-13T16:25:43",
- "count": 10,
+ "updated": "2026-10-21T09:27:26",
+ "count": 20,
  "vocab": [
   {
    "word": "a raft of",
@@ -20,6 +20,36 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "evacuate",
+   "pos": "v.",
+   "phonetic": "/ÉªËvÃ¦kjueÉªt/",
+   "meaning_zh": "çæ£ï¼æ¤ç¦»",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "extrication",
+   "pos": "n.",
+   "phonetic": "/ËekstrÉªËkeÉªÊn/",
+   "meaning_zh": "è§£æï¼è±å°",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "fatality",
+   "pos": "n.",
+   "phonetic": "/fÉËtÃ¦lÉti/",
+   "meaning_zh": "æ­»äº¡ï¼äºæãç¾å®³é æçï¼",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
    ]
   },
   {
@@ -43,6 +73,16 @@
    ]
   },
   {
+   "word": "in contrast to",
+   "pos": "phrase",
+   "phonetic": "/Éªn ËkÉntrÉËst tÉ/",
+   "meaning_zh": "ä¸â¦â¦å½¢æå¯¹æ¯",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
    "word": "longevity",
    "pos": "n.",
    "phonetic": "/lɒnˈdʒevəti/",
@@ -53,6 +93,16 @@
    ]
   },
   {
+   "word": "menace",
+   "pos": "v.",
+   "phonetic": "/ËmenÉs/",
+   "meaning_zh": "å¨èï¼å±å",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
    "word": "mixed",
    "pos": "adj.",
    "phonetic": "/mɪkst/",
@@ -60,6 +110,16 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "named system",
+   "pos": "n. phrase",
+   "phonetic": "/neÉªmd ËsÉªstÉm/",
+   "meaning_zh": "å½åå¤©æ°ç³»ç»ï¼æè¢«æ­£å¼å½åçé£æ´ï¼",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
    ]
   },
   {
@@ -93,6 +153,16 @@
    ]
   },
   {
+   "word": "prompt",
+   "pos": "v.",
+   "phonetic": "/prÉmpt/",
+   "meaning_zh": "ä¿ä½¿ï¼å¼å",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
    "word": "repress",
    "pos": "v.",
    "phonetic": "/rɪˈpres/",
@@ -100,6 +170,36 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "storm surge",
+   "pos": "n. phrase",
+   "phonetic": "/stÉËm sÉËdÊ/",
+   "meaning_zh": "é£æ´æ½®",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "stranded",
+   "pos": "adj.",
+   "phonetic": "/ËstrÃ¦ndÉªd/",
+   "meaning_zh": "è¢«å°çï¼æ»çç",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
+   ]
+  },
+  {
+   "word": "sustained winds",
+   "pos": "n. phrase",
+   "phonetic": "/sÉËsteÉªnd wÉªndz/",
+   "meaning_zh": "æç»­é£é",
+   "count": 1,
+   "dates": [
+    "2026-10-21"
    ]
   }
  ]
