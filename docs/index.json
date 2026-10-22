@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-21T09:47:02",
- "count": 3,
+ "updated": "2026-10-22T01:22:46",
+ "count": 4,
  "items": [
+  {
+   "id": "labor-coalition-and-crossbench-mps-afrai",
+   "date": "2026-10-22",
+   "title_zh": "海伦·海恩斯遇袭后，工党、联盟党及中立议员对家中和工作场所安全感到担忧",
+   "summary": "文章报道了澳大利亚议员海伦·海恩斯遇袭后，多名联邦政界人士在安全简报会上向警方和情报机构表达了对威胁扩大的担忧。安全机构将审查议员住宅和办公室的安全措施，但大规模审查目前不太可能。许多议员自掏腰包安装安全设备，认为后座议员资源不足。文章还提到针对公职人员的骚扰和威胁报告数量上升，并引用了多位议员和官员的言论。",
+   "vocab": [
+    {
+     "word": "precautions",
+     "pos": "n.",
+     "phonetic": "/prɪˈkɔːʃnz/",
+     "meaning_zh": "预防措施",
+     "example_en": "Security agencies will review safety precautions for MPs’ homes and offices",
+     "example_zh": "安全机构将审查议员住宅和办公室的安全预防措施"
+    },
+    {
+     "word": "floated",
+     "pos": "v.",
+     "phonetic": "/ˈfləʊtɪd/",
+     "meaning_zh": "提出（想法、建议等）供讨论",
+     "example_en": "ideas being floated including a new committee on MPs’ safety",
+     "example_zh": "提出的想法包括成立一个新的议员安全委员会"
+    },
+    {
+     "word": "condolence",
+     "pos": "n.",
+     "phonetic": "/kənˈdəʊləns/",
+     "meaning_zh": "哀悼；慰问",
+     "example_en": "motions of condolence for Haines",
+     "example_zh": "对海恩斯的哀悼动议"
+    },
+    {
+     "word": "crossbench",
+     "pos": "n./adj.",
+     "phonetic": "/ˈkrɒsbentʃ/",
+     "meaning_zh": "中立议员（席位）（不属执政党或反对党的议员）",
+     "example_en": "Renewed calls from the crossbench for reforms to question time",
+     "example_zh": "中立议员再次呼吁改革质询时间"
+    },
+    {
+     "word": "under-resourced",
+     "pos": "adj.",
+     "phonetic": "/ˌʌndə rɪˈsɔːst/",
+     "meaning_zh": "资源不足的",
+     "example_en": "numerous backbenchers said they felt under-resourced",
+     "example_zh": "许多后座议员表示他们感到资源不足"
+    },
+    {
+     "word": "homogenous",
+     "pos": "adj.",
+     "phonetic": "/həˈmɒdʒənəs/",
+     "meaning_zh": "同质的；同类的",
+     "example_en": "may see all politicians as a homogenous group",
+     "example_zh": "可能把所有政客看作一个同质的群体"
+    },
+    {
+     "word": "activated",
+     "pos": "adj.",
+     "phonetic": "/ˈæktɪveɪtɪd/",
+     "meaning_zh": "被激起的；被动员起来的",
+     "example_en": "People are getting activated now because they see us as part of the government.",
+     "example_zh": "人们现在被激起来了，因为他们把我看作政府的一部分。"
+    },
+    {
+     "word": "harassing",
+     "pos": "adj.",
+     "phonetic": "/ˈhærəsɪŋ/",
+     "meaning_zh": "骚扰性的",
+     "example_en": "the AFP recorded 951 reports of harassing and threatening behaviour against office holders",
+     "example_zh": "澳大利亚联邦警察记录了951起针对公职人员的骚扰和威胁行为报告"
+    },
+    {
+     "word": "anonymously",
+     "pos": "adv.",
+     "phonetic": "/əˈnɒnɪməsli/",
+     "meaning_zh": "匿名地",
+     "example_en": "A number of politicians asked to speak anonymously to discuss reflections from the briefings.",
+     "example_zh": "一些政客要求匿名发言，讨论简报会上的反思。"
+    },
+    {
+     "word": "bollards",
+     "pos": "n.",
+     "phonetic": "/ˈbɒlədz/",
+     "meaning_zh": "护柱（用于阻止车辆进入的短柱）",
+     "example_en": "If it makes my team feel better and safer to have bollards out the front, I’m happy",
+     "example_zh": "如果在门前设置护柱能让我的团队感觉更好、更安全，我很乐意"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 888,
+   "level": "B2"
+  },
   {
    "id": "soft-spoken-david-pocock-has-big-ambitio",
    "date": "2026-10-21",

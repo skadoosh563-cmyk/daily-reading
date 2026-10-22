@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-21T09:47:02",
- "count": 30,
+ "updated": "2026-10-22T01:22:46",
+ "count": 40,
  "vocab": [
   {
    "word": "a raft of",
@@ -10,6 +10,16 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "activated",
+   "pos": "adj.",
+   "phonetic": "/ˈæktɪveɪtɪd/",
+   "meaning_zh": "被激起的；被动员起来的",
+   "count": 1,
+   "dates": [
+    "2026-10-22"
    ]
   },
   {
@@ -33,6 +43,16 @@
    ]
   },
   {
+   "word": "anonymously",
+   "pos": "adv.",
+   "phonetic": "/əˈnɒnɪməsli/",
+   "meaning_zh": "匿名地",
+   "count": 1,
+   "dates": [
+    "2026-10-22"
+   ]
+  },
+  {
    "word": "be set to do sth",
    "pos": "phrase",
    "phonetic": "/biː set tuː/",
@@ -50,6 +70,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "bollards",
+   "pos": "n.",
+   "phonetic": "/ˈbɒlədz/",
+   "meaning_zh": "护柱（用于阻止车辆进入的短柱）",
+   "count": 1,
+   "dates": [
+    "2026-10-22"
    ]
   },
   {
@@ -73,6 +103,26 @@
    ]
   },
   {
+   "word": "condolence",
+   "pos": "n.",
+   "phonetic": "/kənˈdəʊləns/",
+   "meaning_zh": "哀悼；慰问",
+   "count": 1,
+   "dates": [
+    "2026-10-22"
+   ]
+  },
+  {
+   "word": "crossbench",
+   "pos": "n./adj.",
+   "phonetic": "/ˈkrɒsbentʃ/",
+   "meaning_zh": "中立议员（席位）（不属执政党或反对党的议员）",
+   "count": 1,
+   "dates": [
+    "2026-10-22"
+   ]
+  },
+  {
    "word": "destitute",
    "pos": "adj.",
    "phonetic": "/ˈdestɪtjuːt/",
@@ -90,6 +140,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "floated",
+   "pos": "v.",
+   "phonetic": "/ˈfləʊtɪd/",
+   "meaning_zh": "提出（想法、建议等）供讨论",
+   "count": 1,
+   "dates": [
+    "2026-10-22"
    ]
   },
   {
@@ -120,6 +180,26 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "harassing",
+   "pos": "adj.",
+   "phonetic": "/ˈhærəsɪŋ/",
+   "meaning_zh": "骚扰性的",
+   "count": 1,
+   "dates": [
+    "2026-10-22"
+   ]
+  },
+  {
+   "word": "homogenous",
+   "pos": "adj.",
+   "phonetic": "/həˈmɒdʒənəs/",
+   "meaning_zh": "同质的；同类的",
+   "count": 1,
+   "dates": [
+    "2026-10-22"
    ]
   },
   {
@@ -213,6 +293,16 @@
    ]
   },
   {
+   "word": "precautions",
+   "pos": "n.",
+   "phonetic": "/prɪˈkɔːʃnz/",
+   "meaning_zh": "预防措施",
+   "count": 1,
+   "dates": [
+    "2026-10-22"
+   ]
+  },
+  {
    "word": "raise the alarm",
    "pos": "phrase",
    "phonetic": "/reɪz ði əˈlɑːm/",
@@ -290,6 +380,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "under-resourced",
+   "pos": "adj.",
+   "phonetic": "/ˌʌndə rɪˈsɔːst/",
+   "meaning_zh": "资源不足的",
+   "count": 1,
+   "dates": [
+    "2026-10-22"
    ]
   },
   {
