@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T01:22:46",
- "count": 40,
+ "updated": "2026-10-23T01:21:21",
+ "count": 50,
  "vocab": [
   {
    "word": "a raft of",
@@ -53,6 +53,16 @@
    ]
   },
   {
+   "word": "be lined up to",
+   "pos": "phrase",
+   "phonetic": "/biː laɪnd ʌp tuː/",
+   "meaning_zh": "被安排将……；预定将……",
+   "count": 1,
+   "dates": [
+    "2026-10-23"
+   ]
+  },
+  {
    "word": "be set to do sth",
    "pos": "phrase",
    "phonetic": "/biː set tuː/",
@@ -60,6 +70,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "be understood to",
+   "pos": "phrase",
+   "phonetic": "/biː ˌʌndəˈstʊd tuː/",
+   "meaning_zh": "据信；据了解",
+   "count": 1,
+   "dates": [
+    "2026-10-23"
    ]
   },
   {
@@ -93,6 +113,16 @@
    ]
   },
   {
+   "word": "champion",
+   "pos": "v.",
+   "phonetic": "/ˈtʃæmpiən/",
+   "meaning_zh": "支持；拥护；倡导",
+   "count": 1,
+   "dates": [
+    "2026-10-23"
+   ]
+  },
+  {
    "word": "commonsense",
    "pos": "adj.",
    "phonetic": "/ˌkɒmənˈsens/",
@@ -120,6 +150,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "deflect from",
+   "pos": "phrase",
+   "phonetic": "/dɪˈflekt frəm/",
+   "meaning_zh": "转移对……的注意力；使人不去关注",
+   "count": 1,
+   "dates": [
+    "2026-10-23"
    ]
   },
   {
@@ -243,6 +283,16 @@
    ]
   },
   {
+   "word": "make it to",
+   "pos": "phrase",
+   "phonetic": "/meɪk ɪt tuː/",
+   "meaning_zh": "成功赶上；设法到达/参加",
+   "count": 1,
+   "dates": [
+    "2026-10-23"
+   ]
+  },
+  {
    "word": "mixed",
    "pos": "adj.",
    "phonetic": "/mɪkst/",
@@ -303,6 +353,26 @@
    ]
   },
   {
+   "word": "prolific",
+   "pos": "adj.",
+   "phonetic": "/prəˈlɪfɪk/",
+   "meaning_zh": "（在坏事上）频繁的；大量的",
+   "count": 1,
+   "dates": [
+    "2026-10-23"
+   ]
+  },
+  {
+   "word": "purpose-built",
+   "pos": "adj.",
+   "phonetic": "/ˌpɜːpəs ˈbɪlt/",
+   "meaning_zh": "专门建造的；为特定用途而建的",
+   "count": 1,
+   "dates": [
+    "2026-10-23"
+   ]
+  },
+  {
    "word": "raise the alarm",
    "pos": "phrase",
    "phonetic": "/reɪz ði əˈlɑːm/",
@@ -343,6 +413,16 @@
    ]
   },
   {
+   "word": "ring hollow",
+   "pos": "phrase",
+   "phonetic": "/rɪŋ ˈhɒləʊ/",
+   "meaning_zh": "听起来空洞；显得虚伪",
+   "count": 1,
+   "dates": [
+    "2026-10-23"
+   ]
+  },
+  {
    "word": "seek to do sth",
    "pos": "phrase",
    "phonetic": "/siːk tuː/",
@@ -350,6 +430,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "shrug off",
+   "pos": "phrase",
+   "phonetic": "/ʃrʌɡ ɒf/",
+   "meaning_zh": "对……不以为意；置之不理",
+   "count": 1,
+   "dates": [
+    "2026-10-23"
    ]
   },
   {
@@ -370,6 +460,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "sportswashing",
+   "pos": "n.",
+   "phonetic": "/ˈspɔːtswɒʃɪŋ/",
+   "meaning_zh": "体育洗白（借举办体育赛事改善形象、转移对不良记录的关注）",
+   "count": 1,
+   "dates": [
+    "2026-10-23"
    ]
   },
   {

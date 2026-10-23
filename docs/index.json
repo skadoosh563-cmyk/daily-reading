@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-22T01:22:46",
- "count": 4,
+ "updated": "2026-10-23T01:21:21",
+ "count": 5,
  "items": [
+  {
+   "id": "lewis-hamilton-aims-to-extend-career-til",
+   "date": "2026-10-23",
+   "title_zh": "刘易斯·汉密尔顿希望将职业生涯延续到2030年代初，以便参加非洲大奖赛",
+   "summary": "本文报道汉密尔顿希望坚持比赛到2030年代初，以参加将在卢旺达举行的非洲大奖赛。文章介绍F1与卢旺达的十年协议及赛道尚未建成的情况，也呈现人权组织对“体育洗白”的批评。汉密尔顿回应称应谦逊看待问题、增加对非洲的教育，并提到殖民主义遗留。最后一段交代安东内利有望夺得首个F1年度冠军的条件。",
+   "vocab": [
+    {
+     "word": "purpose-built",
+     "pos": "adj.",
+     "phonetic": "/ˌpɜːpəs ˈbɪlt/",
+     "meaning_zh": "专门建造的；为特定用途而建的",
+     "example_en": "Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s.",
+     "example_zh": "上周，F1确认卢旺达将主办非洲大奖赛，此前双方已就该赛事在一座专门建造的赛道上举行达成了一项为期10年的协议，首场比赛定于2030年代初举行。"
+    },
+    {
+     "word": "be lined up to",
+     "pos": "phrase",
+     "phonetic": "/biː laɪnd ʌp tuː/",
+     "meaning_zh": "被安排将……；预定将……",
+     "example_en": "It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993.",
+     "example_zh": "该赛事计划在首都基加利以南25英里的布格塞拉的一条赛道上举行，该赛道尚未建成，这标志着F1自1993年在南非基亚拉米举行比赛以来首次重返非洲大陆。"
+    },
+    {
+     "word": "champion",
+     "pos": "v.",
+     "phonetic": "/ˈtʃæmpiən/",
+     "meaning_zh": "支持；拥护；倡导",
+     "example_en": "Hamilton has been championing a race in Africa for some time.",
+     "example_zh": "汉密尔顿一段时间以来一直在倡导在非洲举办比赛。"
+    },
+    {
+     "word": "be understood to",
+     "pos": "phrase",
+     "phonetic": "/biː ˌʌndəˈstʊd tuː/",
+     "meaning_zh": "据信；据了解",
+     "example_en": "The 41-year-old is understood to be currently contracted with Ferrari until the end of the 2027 season, and speaking before this weekend’s US Grand Prix he said he would like to continue racing for at least another four years in order to make it to the meeting in Rwanda.",
+     "example_zh": "据了解，这位41岁的车手目前与法拉利的合同持续到2027赛季结束；在本周末美国大奖赛前发言时，他表示希望至少再继续比赛四年，以便赶上在卢旺达举行的这场比赛。"
+    },
+    {
+     "word": "make it to",
+     "pos": "phrase",
+     "phonetic": "/meɪk ɪt tuː/",
+     "meaning_zh": "成功赶上；设法到达/参加",
+     "example_en": "The 41-year-old is understood to be currently contracted with Ferrari until the end of the 2027 season, and speaking before this weekend’s US Grand Prix he said he would like to continue racing for at least another four years in order to make it to the meeting in Rwanda.",
+     "example_zh": "据了解，这位41岁的车手目前与法拉利的合同持续到2027赛季结束；在本周末美国大奖赛前发言时，他表示希望至少再继续比赛四年，以便赶上在卢旺达举行的这场比赛。"
+    },
+    {
+     "word": "sportswashing",
+     "pos": "n.",
+     "phonetic": "/ˈspɔːtswɒʃɪŋ/",
+     "meaning_zh": "体育洗白（借举办体育赛事改善形象、转移对不良记录的关注）",
+     "example_en": "“A 10-year grand prix ‘presented by Visit Rwanda’ is a sportswashing prize for the Rwandan authorities,” said Felix Jakens, Amnesty UK’s head of campaigns.",
+     "example_zh": "“一场由‘Visit Rwanda’冠名的十年大奖赛，对卢旺达当局来说是一份体育洗白的奖品，”国际特赦组织英国分部运动负责人费利克斯·贾肯斯说。"
+    },
+    {
+     "word": "deflect from",
+     "pos": "phrase",
+     "phonetic": "/dɪˈflekt frəm/",
+     "meaning_zh": "转移对……的注意力；使人不去关注",
+     "example_en": "Rwanda is buying into the world’s biggest sports to polish its image and deflect from its appalling human rights record.",
+     "example_zh": "卢旺达正投入世界最大体育项目，以美化形象、转移人们对其骇人的人权记录的关注。"
+    },
+    {
+     "word": "ring hollow",
+     "pos": "phrase",
+     "phonetic": "/rɪŋ ˈhɒləʊ/",
+     "meaning_zh": "听起来空洞；显得虚伪",
+     "example_en": "That rings hollow if F1 shrugs off who it is partnering with.",
+     "example_zh": "如果F1对自己与谁合作不以为意，那这话听起来就很空洞。"
+    },
+    {
+     "word": "shrug off",
+     "pos": "phrase",
+     "phonetic": "/ʃrʌɡ ɒf/",
+     "meaning_zh": "对……不以为意；置之不理",
+     "example_en": "That rings hollow if F1 shrugs off who it is partnering with.",
+     "example_zh": "如果F1对自己与谁合作不以为意，那这话听起来就很空洞。"
+    },
+    {
+     "word": "prolific",
+     "pos": "adj.",
+     "phonetic": "/prəˈlɪfɪk/",
+     "meaning_zh": "（在坏事上）频繁的；大量的",
+     "example_en": "Rwanda’s authorities are prolific in arbitrary detention, torture and the repression of free speech.",
+     "example_zh": "卢旺达当局在任意拘留、酷刑和压制言论自由方面行为频仍。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 801,
+   "level": "B2"
+  },
   {
    "id": "labor-coalition-and-crossbench-mps-afrai",
    "date": "2026-10-22",
