@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T01:21:21",
- "count": 50,
+ "updated": "2026-10-24T01:25:58",
+ "count": 60,
  "vocab": [
   {
    "word": "a raft of",
@@ -183,6 +183,36 @@
    ]
   },
   {
+   "word": "embattled",
+   "pos": "adj.",
+   "phonetic": "/ɪmˈbætld/",
+   "meaning_zh": "陷入困境的；饱受批评或挑战的",
+   "count": 1,
+   "dates": [
+    "2026-10-24"
+   ]
+  },
+  {
+   "word": "exemption",
+   "pos": "n.",
+   "phonetic": "/ɪɡˈzempʃn/",
+   "meaning_zh": "豁免；免除",
+   "count": 1,
+   "dates": [
+    "2026-10-24"
+   ]
+  },
+  {
+   "word": "flip control of",
+   "pos": "phrase",
+   "phonetic": "/flɪp kənˈtroʊl əv/",
+   "meaning_zh": "翻转对……的控制权；夺取控制权",
+   "count": 1,
+   "dates": [
+    "2026-10-24"
+   ]
+  },
+  {
    "word": "floated",
    "pos": "v.",
    "phonetic": "/ˈfləʊtɪd/",
@@ -223,6 +253,16 @@
    ]
   },
   {
+   "word": "hand a win to",
+   "pos": "phrase",
+   "phonetic": "/hænd ə wɪn tə/",
+   "meaning_zh": "给某人送去一场胜利；让某人获益",
+   "count": 1,
+   "dates": [
+    "2026-10-24"
+   ]
+  },
+  {
    "word": "harassing",
    "pos": "adj.",
    "phonetic": "/ˈhærəsɪŋ/",
@@ -250,6 +290,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "incur",
+   "pos": "v.",
+   "phonetic": "/ɪnˈkɜːr/",
+   "meaning_zh": "招致；遭受（损失、费用等）",
+   "count": 1,
+   "dates": [
+    "2026-10-24"
    ]
   },
   {
@@ -383,6 +433,16 @@
    ]
   },
   {
+   "word": "refine the scope of",
+   "pos": "phrase",
+   "phonetic": "/rɪˈfaɪn ðə skoʊp əv/",
+   "meaning_zh": "调整……的范围",
+   "count": 1,
+   "dates": [
+    "2026-10-24"
+   ]
+  },
+  {
    "word": "repress",
    "pos": "v.",
    "phonetic": "/rɪˈpres/",
@@ -433,6 +493,16 @@
    ]
   },
   {
+   "word": "seize on",
+   "pos": "phrase",
+   "phonetic": "/siːz ɑːn/",
+   "meaning_zh": "抓住（机会、话题等）大做文章；利用",
+   "count": 1,
+   "dates": [
+    "2026-10-24"
+   ]
+  },
+  {
    "word": "shrug off",
    "pos": "phrase",
    "phonetic": "/ʃrʌɡ ɒf/",
@@ -473,6 +543,16 @@
    ]
   },
   {
+   "word": "take a hit",
+   "pos": "phrase",
+   "phonetic": "/teɪk ə hɪt/",
+   "meaning_zh": "遭受打击；受到负面影响",
+   "count": 1,
+   "dates": [
+    "2026-10-24"
+   ]
+  },
+  {
    "word": "terminate",
    "pos": "v.",
    "phonetic": "/ˈtɜːmɪneɪt/",
@@ -480,6 +560,26 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "toss-up",
+   "pos": "n.",
+   "phonetic": "/ˈtɔːs ʌp/",
+   "meaning_zh": "胜负难料的局面；胶着的竞争",
+   "count": 1,
+   "dates": [
+    "2026-10-24"
+   ]
+  },
+  {
+   "word": "touch a nerve",
+   "pos": "phrase",
+   "phonetic": "/tʌtʃ ə nɜːrv/",
+   "meaning_zh": "触动敏感神经；引起强烈反应",
+   "count": 1,
+   "dates": [
+    "2026-10-24"
    ]
   },
   {

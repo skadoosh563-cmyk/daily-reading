@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-23T01:21:21",
- "count": 5,
+ "updated": "2026-10-24T01:25:58",
+ "count": 6,
  "items": [
+  {
+   "id": "trump-drops-some-canada-tariffs-in-bid-t",
+   "date": "2026-10-24",
+   "title_zh": "特朗普取消部分对加拿大关税，以助缅因州陷入苦战的苏珊·柯林斯",
+   "summary": "文章报道特朗普政府以“更好地服务公共利益”为由，取消了对加拿大部分农产品和加工设备的关税，此举被视为对缅因州共和党参议员苏珊·柯林斯的选举助攻。柯林斯正面临与民主党人特洛伊·杰克逊的激烈选战，这场选举可能决定参议院控制权归属。文章分析了关税对缅因州经济的冲击、加美贸易战背景，以及民主党对特朗普此举政治动机的批评。",
+   "vocab": [
+    {
+     "word": "hand a win to",
+     "pos": "phrase",
+     "phonetic": "/hænd ə wɪn tə/",
+     "meaning_zh": "给某人送去一场胜利；让某人获益",
+     "example_en": "Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins.",
+     "example_zh": "白宫表示，唐纳德·特朗普周五取消了对加拿大部分商品的关税，以“更好地服务公共利益”，这给苏珊·柯林斯送去了一场胜利。"
+    },
+    {
+     "word": "embattled",
+     "pos": "adj.",
+     "phonetic": "/ɪmˈbætld/",
+     "meaning_zh": "陷入困境的；饱受批评或挑战的",
+     "example_en": "…handing a win to Susan Collins, the embattled Republican senator for Maine…",
+     "example_zh": "……给缅因州陷入苦战的共和党参议员苏珊·柯林斯送去了一场胜利……"
+    },
+    {
+     "word": "flip control of",
+     "pos": "phrase",
+     "phonetic": "/flɪp kənˈtroʊl əv/",
+     "meaning_zh": "翻转对……的控制权；夺取控制权",
+     "example_en": "…a tight re-election campaign that will help determine whether Democrats can flip control of Congress.",
+     "example_zh": "……一场激烈的连任竞选，这将有助于决定民主党能否翻转对国会的控制权。"
+    },
+    {
+     "word": "exemption",
+     "pos": "n.",
+     "phonetic": "/ɪɡˈzempʃn/",
+     "meaning_zh": "豁免；免除",
+     "example_en": "Collins announced that the exemptions would apply to nine agricultural products…",
+     "example_zh": "柯林斯宣布，豁免将适用于九种农产品……"
+    },
+    {
+     "word": "incur",
+     "pos": "v.",
+     "phonetic": "/ɪnˈkɜːr/",
+     "meaning_zh": "招致；遭受（损失、费用等）",
+     "example_en": "…that are “unavailable from American suppliers or cannot be replaced without incurring significant expense”.",
+     "example_zh": "……这些材料“无法从美国供应商处获得，或者替换它们将招致巨额费用”。"
+    },
+    {
+     "word": "refine the scope of",
+     "pos": "phrase",
+     "phonetic": "/rɪˈfaɪn ðə skoʊp əv/",
+     "meaning_zh": "调整……的范围",
+     "example_en": "“President Trump is further refining the scope of the July 20 and September 8 actions to better serve the public interest…”",
+     "example_zh": "“特朗普总统正在进一步调整7月20日和9月8日行动的范围，以更好地服务公共利益……”"
+    },
+    {
+     "word": "toss-up",
+     "pos": "n.",
+     "phonetic": "/ˈtɔːs ʌp/",
+     "meaning_zh": "胜负难料的局面；胶着的竞争",
+     "example_en": "The race is crucial for the Democratic party’s hopes of flipping control of the chamber, and is so far considered a toss-up.",
+     "example_zh": "这场竞选对民主党翻转参议院控制权的希望至关重要，而且到目前为止被认为胜负难料。"
+    },
+    {
+     "word": "touch a nerve",
+     "pos": "phrase",
+     "phonetic": "/tʌtʃ ə nɜːrv/",
+     "meaning_zh": "触动敏感神经；引起强烈反应",
+     "example_en": "The trade war between Canada and Maine has touched a nerve in the state, which relies heavily on commerce with Canada.",
+     "example_zh": "加拿大与缅因州之间的贸易战触动了该州的敏感神经，该州严重依赖与加拿大的商业往来。"
+    },
+    {
+     "word": "take a hit",
+     "pos": "phrase",
+     "phonetic": "/teɪk ə hɪt/",
+     "meaning_zh": "遭受打击；受到负面影响",
+     "example_en": "Many of the industries most entrenched in the state’s history – such as logging, lobstering and fishing – were expected to take a hit after Trump’s tariff announcements this year.",
+     "example_zh": "该州历史上最根深蒂固的许多产业——如伐木业、龙虾捕捞业和渔业——预计在特朗普今年宣布关税后将遭受打击。"
+    },
+    {
+     "word": "seize on",
+     "pos": "phrase",
+     "phonetic": "/siːz ɑːn/",
+     "meaning_zh": "抓住（机会、话题等）大做文章；利用",
+     "example_en": "Jackson has frequently seized on this line of attack since replacing Graham Platner on the Democratic ticket.",
+     "example_zh": "杰克逊自取代格雷厄姆·普拉特纳成为民主党候选人以来，经常抓住这一攻击线大做文章。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 704,
+   "level": "C1"
+  },
   {
    "id": "lewis-hamilton-aims-to-extend-career-til",
    "date": "2026-10-23",
