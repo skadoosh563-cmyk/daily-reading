@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24T01:25:58",
- "count": 60,
+ "updated": "2026-10-25T00:56:01",
+ "count": 70,
  "vocab": [
   {
    "word": "a raft of",
@@ -83,6 +83,16 @@
    ]
   },
   {
+   "word": "besiege",
+   "pos": "v.",
+   "phonetic": "/bɪˈsiːdʒ/",
+   "meaning_zh": "围困；包围",
+   "count": 1,
+   "dates": [
+    "2026-10-25"
+   ]
+  },
+  {
    "word": "beyond cavil",
    "pos": "phrase",
    "phonetic": "/bɪˈjɒnd ˈkævɪl/",
@@ -133,6 +143,16 @@
    ]
   },
   {
+   "word": "compound",
+   "pos": "v.",
+   "phonetic": "/kəmˈpaʊnd/",
+   "meaning_zh": "使加重；使恶化",
+   "count": 1,
+   "dates": [
+    "2026-10-25"
+   ]
+  },
+  {
    "word": "condolence",
    "pos": "n.",
    "phonetic": "/kənˈdəʊləns/",
@@ -163,6 +183,16 @@
    ]
   },
   {
+   "word": "descend into",
+   "pos": "phr.",
+   "phonetic": "/dɪˈsend ˈɪntuː/",
+   "meaning_zh": "陷入（某种坏状态）",
+   "count": 1,
+   "dates": [
+    "2026-10-25"
+   ]
+  },
+  {
    "word": "destitute",
    "pos": "adj.",
    "phonetic": "/ˈdestɪtjuːt/",
@@ -183,6 +213,16 @@
    ]
   },
   {
+   "word": "dwindle",
+   "pos": "v.",
+   "phonetic": "/ˈdwɪndl/",
+   "meaning_zh": "逐渐减少；缩小",
+   "count": 1,
+   "dates": [
+    "2026-10-25"
+   ]
+  },
+  {
    "word": "embattled",
    "pos": "adj.",
    "phonetic": "/ɪmˈbætld/",
@@ -200,6 +240,16 @@
    "count": 1,
    "dates": [
     "2026-10-24"
+   ]
+  },
+  {
+   "word": "ferry",
+   "pos": "v.",
+   "phonetic": "/ˈferi/",
+   "meaning_zh": "（用船或车）运送",
+   "count": 1,
+   "dates": [
+    "2026-10-25"
    ]
   },
   {
@@ -403,6 +453,16 @@
    ]
   },
   {
+   "word": "prohibitive",
+   "pos": "adj.",
+   "phonetic": "/prəˈhɪbətɪv/",
+   "meaning_zh": "（价格）高得令人望而却步的",
+   "count": 1,
+   "dates": [
+    "2026-10-25"
+   ]
+  },
+  {
    "word": "prolific",
    "pos": "adj.",
    "phonetic": "/prəˈlɪfɪk/",
@@ -430,6 +490,26 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "ramp up",
+   "pos": "phr.",
+   "phonetic": "/ræmp ʌp/",
+   "meaning_zh": "加大；加强",
+   "count": 1,
+   "dates": [
+    "2026-10-25"
+   ]
+  },
+  {
+   "word": "ration",
+   "pos": "v.",
+   "phonetic": "/ˈræʃn/",
+   "meaning_zh": "限量使用；配给",
+   "count": 1,
+   "dates": [
+    "2026-10-25"
    ]
   },
   {
@@ -480,6 +560,16 @@
    "count": 1,
    "dates": [
     "2026-10-23"
+   ]
+  },
+  {
+   "word": "scrape by",
+   "pos": "phr.",
+   "phonetic": "/skreɪp baɪ/",
+   "meaning_zh": "勉强维持生计",
+   "count": 1,
+   "dates": [
+    "2026-10-25"
    ]
   },
   {
@@ -540,6 +630,16 @@
    "count": 1,
    "dates": [
     "2026-10-23"
+   ]
+  },
+  {
+   "word": "strangle",
+   "pos": "v.",
+   "phonetic": "/ˈstræŋɡl/",
+   "meaning_zh": "扼杀；抑制；使窒息",
+   "count": 1,
+   "dates": [
+    "2026-10-25"
    ]
   },
   {

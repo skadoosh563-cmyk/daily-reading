@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-24T01:25:58",
- "count": 6,
+ "updated": "2026-10-25T00:56:01",
+ "count": 7,
  "items": [
+  {
+   "id": "drinking-water-supplies-dwindle-in-yemen",
+   "date": "2026-10-25",
+   "title_zh": "也门城市遭胡塞武装围困，饮用水供应日益减少",
+   "summary": "这篇 NPR 报道讲述了也门第三大城市塔伊兹在胡塞武装围困下饮用水和燃料严重短缺的困境。文章通过具体家庭案例、援助组织数据和分析人士观点，展现了围困对平民生活的多重打击。报道结构清晰，包含大量数据、引语和因果分析，适合学习如何用英文描述人道主义危机，也是练习外刊长难句和固定搭配的好材料。",
+   "vocab": [
+    {
+     "word": "dwindle",
+     "pos": "v.",
+     "phonetic": "/ˈdwɪndl/",
+     "meaning_zh": "逐渐减少；缩小",
+     "example_en": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels.",
+     "example_zh": "也门城市遭胡塞武装围困，饮用水供应日益减少。"
+    },
+    {
+     "word": "besiege",
+     "pos": "v.",
+     "phonetic": "/bɪˈsiːdʒ/",
+     "meaning_zh": "围困；包围",
+     "example_en": "Iran-backed Houthi rebels besiege Yemen's third-largest city in their escalating conflict with government forces.",
+     "example_zh": "伊朗支持的胡塞叛军在不断升级的冲突中围困了也门第三大城市。"
+    },
+    {
+     "word": "ration",
+     "pos": "v.",
+     "phonetic": "/ˈræʃn/",
+     "meaning_zh": "限量使用；配给",
+     "example_en": "Families are rationing every drop.",
+     "example_zh": "家家户户都在省着用每一滴水。"
+    },
+    {
+     "word": "compound",
+     "pos": "v.",
+     "phonetic": "/kəmˈpaʊnd/",
+     "meaning_zh": "使加重；使恶化",
+     "example_en": "Fuel is also in short supply, making it difficult to maintain basic services such as hospitals and sanitation, which compounds the public health risks.",
+     "example_zh": "燃料也供应短缺，使医院和卫生等基本服务难以维持，这加重了公共卫生风险。"
+    },
+    {
+     "word": "strangle",
+     "pos": "v.",
+     "phonetic": "/ˈstræŋɡl/",
+     "meaning_zh": "扼杀；抑制；使窒息",
+     "example_en": "Houthis strangle Taiz, cut off residents' access to wells.",
+     "example_zh": "胡塞武装扼住塔伊兹的咽喉，切断居民取用井水的通道。"
+    },
+    {
+     "word": "descend into",
+     "pos": "phr.",
+     "phonetic": "/dɪˈsend ˈɪntuː/",
+     "meaning_zh": "陷入（某种坏状态）",
+     "example_en": "Yemen descended into civil war in 2014, when the Houthis seized much of the country's north.",
+     "example_zh": "也门在2014年陷入内战，当时胡塞武装夺取了该国北部大片地区。"
+    },
+    {
+     "word": "ramp up",
+     "pos": "phr.",
+     "phonetic": "/ræmp ʌp/",
+     "meaning_zh": "加大；加强",
+     "example_en": "The Houthis ramped up their advance on Taiz last month, after a lightning-fast capture of the port city of Mokha.",
+     "example_zh": "胡塞武装上月加强了对塔伊兹的攻势，此前他们闪电般攻占了港口城市莫卡。"
+    },
+    {
+     "word": "ferry",
+     "pos": "v.",
+     "phonetic": "/ˈferi/",
+     "meaning_zh": "（用船或车）运送",
+     "example_en": "The truckers that have managed to ferry water into Taiz have in some cases tripled their rates to make the perilous journey.",
+     "example_zh": "那些设法将水运进塔伊兹的卡车司机，有些将运费提高了两倍，以补偿这趟危险旅程。"
+    },
+    {
+     "word": "scrape by",
+     "pos": "phr.",
+     "phonetic": "/skreɪp baɪ/",
+     "meaning_zh": "勉强维持生计",
+     "example_en": "He used to earn money hauling construction material, but that income is no longer steady and his family is barely scraping by.",
+     "example_zh": "他过去靠搬运建筑材料赚钱，但这份收入已不再稳定，他家勉强维持生计。"
+    },
+    {
+     "word": "prohibitive",
+     "pos": "adj.",
+     "phonetic": "/prəˈhɪbətɪv/",
+     "meaning_zh": "（价格）高得令人望而却步的",
+     "example_en": "Leaving Taiz is not an option for al-Shahid because the costs of travel and renting a home in another province are prohibitive.",
+     "example_zh": "离开塔伊兹对沙希德来说不是选项，因为旅费和在另一个省租房的价格高得令人却步。"
+    }
+   ],
+   "source": "NPR · World",
+   "word_count": 1121,
+   "level": "B2"
+  },
   {
    "id": "trump-drops-some-canada-tariffs-in-bid-t",
    "date": "2026-10-24",
