@@ -16,6 +16,10 @@ on:
         description: "只归档不发邮件（填 true / false）"
         required: false
         default: "false"
+      url:
+        description: "指定文章链接（留空则自动挑选）"
+        required: false
+        default: ""
 
 # 需要写回仓库（归档 Markdown 和去重记录），所以要有写权限
 permissions:
@@ -87,23 +91,28 @@ jobs:
             echo "::error title=缺少 LLM_API_KEY::未配置大模型 API Key，本次未生成任何内容。请到 Settings → Secrets and variables → Actions 添加 LLM_API_KEY 后重新运行。"
             exit 1
           fi
-          ARGS=""
+          # 用数组拼参数，避免 URL 里的 & ? 被 shell 解释
+          ARGS=()
           COUNT="${{ github.event.inputs.count }}"
           NO_EMAIL="${{ github.event.inputs.no_email }}"
-          if [ -n "$COUNT" ]; then ARGS="$ARGS --count $COUNT"; fi
-          if [ "$NO_EMAIL" = "true" ]; then ARGS="$ARGS --no-email"; fi
-          echo "运行参数：$ARGS"
-          python main.py $ARGS
+          URL="${{ github.event.inputs.url }}"
+          if [ -n "$COUNT" ]; then ARGS+=(--count "$COUNT"); fi
+          if [ "$NO_EMAIL" = "true" ]; then ARGS+=(--no-email); fi
+          if [ -n "$URL" ]; then ARGS+=(--url "$URL"); fi
+          echo "运行参数：${ARGS[*]}"
+          python main.py "${ARGS[@]}"
 
-      # 兜底：生成环节即便"没报错"也要留下文件，否则说明它其实什么都没做
-      - name: 校验今日确有产出
+      # 兜底：必须确认【本次】真的产出了文件。
+      # 原来只看"今天有没有 md"，早上已经成功过的话，后面这次失败也会被掩盖成成功。
+      - name: 校验本次确有产出
         run: |
           TODAY=$(TZ=Asia/Shanghai date +%F)
-          if ls output/${TODAY:0:7}/${TODAY}-*.md >/dev/null 2>&1; then
-            echo "今日归档："
-            ls -lh output/${TODAY:0:7}/${TODAY}-*
+          NEW=$(git status --porcelain --untracked-files=all output/ | grep -c '\.md$' || true)
+          if [ "$NEW" -gt 0 ]; then
+            echo "本次新增 $NEW 篇："
+            ls -lh output/${TODAY:0:7}/${TODAY}-* 2>/dev/null || ls -lh output/
           else
-            echo "::error title=今日无产出::output 里没有 $TODAY 的归档，生成环节被跳过或失败了（看上一段日志）"
+            echo "::error title=本次无产出::本次运行没有生成任何新归档，生成环节失败了（看上一段日志，多半是选到的文章模型解析不出来）"
             exit 1
           fi
 
