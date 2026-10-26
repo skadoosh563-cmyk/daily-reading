@@ -21,6 +21,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 
 import requests
 
@@ -71,21 +72,36 @@ def build_digest_text(data: dict, meta: dict) -> str:
     return "\n".join(lines)
 
 
+def _serverchan_url(key: str) -> str:
+    """按 key 的版本决定推送地址。
+
+    旧版 SendKey 是 SCT 开头，走 sctapi.ftqq.com；
+    新版「Server酱³」是 sctp 开头，uid 就夹在 "sctp" 和 "t" 之间，
+    要走独立的 {uid}.push.ft07.com 域名，用错地址会直接 404。
+    """
+    m = re.match(r"sctp(\d+)t", key)
+    if m:
+        return f"https://{m.group(1)}.push.ft07.com/send/{key}.send"
+    return f"https://sctapi.ftqq.com/{key}.send"
+
+
 def push_serverchan(title: str, body: str) -> bool:
     """Server 酱：https://sct.ftqq.com/"""
     key = os.environ.get("SERVERCHAN_KEY", "").strip()
     if not key:
         return False
-    url = f"https://sctapi.ftqq.com/{key}.send"
+    url = _serverchan_url(key)
     try:
         resp = requests.post(
             url,
             data={"title": _truncate(title, 100), "desp": body},
             timeout=TIMEOUT,
         )
-        data = resp.json()
+        # 和 analyze.py 一样，不依赖响应头的 charset
+        data = json.loads(resp.content.decode("utf-8", "replace"))
         ok = data.get("code") in (0, 200)
-        print(f"  [Server酱] {'已推送' if ok else '失败：' + str(data)}")
+        msg = data.get("message") or data.get("info") or data
+        print(f"  [Server酱] {'已推送' if ok else '失败：' + str(msg)}")
         return ok
     except Exception as exc:  # noqa: BLE001
         print(f"  [Server酱] 推送出错：{type(exc).__name__} {exc}")
