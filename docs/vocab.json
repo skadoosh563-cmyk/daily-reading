@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T00:56:01",
- "count": 70,
+ "updated": "2026-10-26T01:04:10",
+ "count": 80,
  "vocab": [
   {
    "word": "a raft of",
@@ -113,6 +113,16 @@
    ]
   },
   {
+   "word": "buxom",
+   "pos": "adj.",
+   "phonetic": "/ˈbʌksəm/",
+   "meaning_zh": "（女子）体态丰满的",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "word": "calibre",
    "pos": "n.",
    "phonetic": "/ˈkælɪbə(r)/",
@@ -183,6 +193,16 @@
    ]
   },
   {
+   "word": "derriere",
+   "pos": "n.",
+   "phonetic": "/ˌderiˈeə(r)/",
+   "meaning_zh": "臀部（法语借词，较委婉）",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "word": "descend into",
    "pos": "phr.",
    "phonetic": "/dɪˈsend ˈɪntuː/",
@@ -200,6 +220,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "don",
+   "pos": "v.",
+   "phonetic": "/dɒn/",
+   "meaning_zh": "穿上，戴上（衣物）",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
    ]
   },
   {
@@ -373,6 +403,16 @@
    ]
   },
   {
+   "word": "liken to",
+   "pos": "phrase",
+   "phonetic": "/ˈlaɪkən tu/",
+   "meaning_zh": "把……比作",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "word": "longevity",
    "pos": "n.",
    "phonetic": "/lɒnˈdʒevəti/",
@@ -400,6 +440,26 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "neck and neck",
+   "pos": "phrase",
+   "phonetic": "/ˌnek ən ˈnek/",
+   "meaning_zh": "（竞争中）不相上下，势均力敌",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
+   "word": "off the record",
+   "pos": "phrase",
+   "phonetic": "/ˌɒf ðə ˈrekɔːd/",
+   "meaning_zh": "非正式地，私下说说（不供发表）",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
    ]
   },
   {
@@ -473,6 +533,16 @@
    ]
   },
   {
+   "word": "purported",
+   "pos": "adj.",
+   "phonetic": "/pəˈpɔːtɪd/",
+   "meaning_zh": "据称的，声称的",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "word": "purpose-built",
    "pos": "adj.",
    "phonetic": "/ˌpɜːpəs ˈbɪlt/",
@@ -523,6 +593,16 @@
    ]
   },
   {
+   "word": "reiterate",
+   "pos": "v.",
+   "phonetic": "/riˈɪtəreɪt/",
+   "meaning_zh": "反复说，重申",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "word": "repress",
    "pos": "v.",
    "phonetic": "/rɪˈpres/",
@@ -560,6 +640,26 @@
    "count": 1,
    "dates": [
     "2026-10-23"
+   ]
+  },
+  {
+   "word": "rip off",
+   "pos": "phrase",
+   "phonetic": "/rɪp ɒf/",
+   "meaning_zh": "敲诈，占便宜",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
+   "word": "scramble for",
+   "pos": "phrase",
+   "phonetic": "/ˈskræmbl fɔː(r)/",
+   "meaning_zh": "争夺，抢夺",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
    ]
   },
   {
