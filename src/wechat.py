@@ -33,12 +33,24 @@ def _truncate(text: str, limit: int) -> str:
     return text if len(text) <= limit else text[: limit - 1] + "…"
 
 
-def build_digest_text(data: dict, meta: dict) -> str:
-    """推送到微信的纯文本摘要。
+def _fit_bytes(text: str, limit: int) -> str:
+    """按 UTF-8 字节数截断。
 
-    微信通道不适合推长文（公众号模板消息有长度限制，
-    群机器人的 markdown 也不适合塞整篇翻译），所以只推
-    「导读 + 生词表 + 原文链接」，完整内容在仓库和邮件里看。
+    微信各通道的长度限制都是按字节算的（中文一个字 3 字节），
+    按字符数截断会超。
+    """
+    raw = text.encode("utf-8")
+    if len(raw) <= limit:
+        return text
+    return raw[: limit - 30].decode("utf-8", "ignore") + "\n\n…（全文见邮件或网页版）"
+
+
+def build_digest_text(data: dict, meta: dict) -> str:
+    """拼出推送到微信的正文。
+
+    微信里不适合塞整篇英文原文（太长，手机上读断句很累），所以推
+    「导读 + 逐段翻译 + 生词 + 长难句 + 理解题」，英文原文留链接。
+    企业微信群机器人只有 4096 字节，会被自动截断；Server 酱放得下全文。
     """
     lines: list[str] = []
     title = data.get("title_zh") or meta.get("title") or "今日外刊"
@@ -53,6 +65,15 @@ def build_digest_text(data: dict, meta: dict) -> str:
         lines.append(data["summary_zh"].strip())
         lines.append("")
 
+    translation = data.get("translation") or []
+    if translation:
+        lines.append(f"**逐段翻译（{len(translation)} 段）**")
+        for i, seg in enumerate(translation, 1):
+            zh = (seg.get("zh") or "").strip()
+            if zh:
+                lines.append(f"{i}. {zh}")
+        lines.append("")
+
     vocab = data.get("vocab") or []
     if vocab:
         lines.append(f"**今日生词（{len(vocab)}）**")
@@ -62,6 +83,17 @@ def build_digest_text(data: dict, meta: dict) -> str:
             lines.append(f"- {word} — {meaning}")
         lines.append("")
 
+    grammar = data.get("grammar") or []
+    if grammar:
+        lines.append(f"**长难句（{len(grammar)}）**")
+        for i, g in enumerate(grammar, 1):
+            lines.append(f"{i}. {g.get('sentence', '')}")
+            point = g.get("point", "")
+            explain = g.get("explain_zh", "")
+            if point or explain:
+                lines.append(f"　　{point}：{explain}")
+        lines.append("")
+
     if data.get("questions"):
         lines.append("**理解题**")
         for i, q in enumerate(data["questions"], 1):
@@ -69,7 +101,7 @@ def build_digest_text(data: dict, meta: dict) -> str:
         lines.append("")
 
     lines.append(f"[读原文]({meta.get('url', '')})")
-    return "\n".join(lines)
+    return _fit_bytes("\n".join(lines), 30000)
 
 
 def _serverchan_url(key: str) -> str:
@@ -117,7 +149,8 @@ def push_wecom(title: str, body: str) -> bool:
         return False
     payload = {
         "msgtype": "markdown",
-        "markdown": {"content": _truncate(f"# {title}\n{body}", 4000)},
+        # 企业微信 markdown 上限是 4096 字节（不是字符），中文要按字节截
+        "markdown": {"content": _fit_bytes(f"# {title}\n{body}", 4000)},
     }
     return _post_json(hook, payload, "企业微信")
 

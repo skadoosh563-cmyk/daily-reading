@@ -227,9 +227,12 @@ def run(cfg: dict, args) -> int:
 
         # ---- 2. 抽取正文 ----
         print("[2/5] 抽取正文 ...")
+        # 多留 2 篇备选：模型偶尔会对某些题材返回非 JSON（实测遇到过），
+        # 得能换下一篇重试，否则一整天白跑。
+        buffer = want if (args.url or args.from_json) else want + 2
         articles = []
         for c in candidates:
-            if len(articles) >= want:
+            if len(articles) >= buffer:
                 break
             body = extract.extract(c.link, c.summary, title=c.title)
             wc = fetch.word_count(body)
@@ -266,13 +269,23 @@ def run(cfg: dict, args) -> int:
     # ---- 3. 精读 ----
     print("[3/5] 生成精读材料 ...")
     day_dir.mkdir(parents=True, exist_ok=True)
+    target = want if not args.from_json else len(articles)
+    done = 0
     for i, (c, body, wc) in enumerate(articles):
+        if done >= target:
+            break
         data = ready.get(i)
         if data is None:
             try:
                 data = analyze_mod.analyze(cfg, c.source, c.title, c.link, body)
             except Exception as exc:  # noqa: BLE001
                 print(f"  [失败] 精读出错：{type(exc).__name__} {exc}")
+                # 记进去重，免得明天又抽到同一篇；然后换下一篇备选
+                if not args.from_json:
+                    seen.add(c.key)
+                left = len(articles) - i - 1
+                print(f"  [换一篇] 还有 {left} 篇备选可用，继续尝试"
+                      if left else "  [放弃] 没有更多备选了")
                 continue
         else:
             print("  [离线] 使用 JSON 里的现成精读结果")
@@ -311,6 +324,7 @@ def run(cfg: dict, args) -> int:
 
         if not args.from_json:
             seen.add(c.key)
+        done += 1
 
     save_seen(seen)
     prune_output(out_root, int(cfg["output"].get("keep_days", 0)))
