@@ -83,7 +83,11 @@ def _post(cfg: dict, messages: list[dict], force_json: bool) -> dict:
     # "é£é£" 这种乱码（英文不受影响，所以很容易漏看）。
     # JSON 标准规定就是 UTF-8，这里直接拿原始字节强制按 UTF-8 解析。
     data = json.loads(resp.content.decode("utf-8"))
-    return data["choices"][0]["message"]["content"]
+    choice = data["choices"][0]
+    if choice.get("finish_reason") == "length":
+        print("  [警告] 输出被 max_tokens 截断（finish_reason=length），"
+              "这篇很可能解析失败，可调高 config.yaml 里的 llm.max_tokens")
+    return choice["message"]["content"]
 
 
 def _parse_json(text: str) -> dict:
@@ -118,14 +122,28 @@ def analyze(cfg: dict, source: str, title: str, url: str, body: str) -> dict:
         {"role": "user", "content": user},
     ]
 
-    # 先试 JSON 模式；有的服务商不支持，失败就去掉重试
-    try:
-        raw = _post(cfg, messages, force_json=True)
-    except Exception as exc:  # noqa: BLE001
-        print(f"  [提示] JSON 模式不可用（{exc}），改用普通模式重试")
-        raw = _post(cfg, messages, force_json=False)
+    # JSON 格式错误多半是模型的偶发输出（同一篇重跑往往就好），所以解析失败要重试。
+    # 最多 3 次，全失败才抛给上层 —— 上层会换下一篇候选。
+    for attempt in range(1, 4):
+        # 先试 JSON 模式；有的服务商不支持，失败就去掉重试
+        try:
+            raw = _post(cfg, messages, force_json=True)
+        except Exception as exc:  # noqa: BLE001
+            print(f"  [提示] JSON 模式不可用（{exc}），改用普通模式重试")
+            raw = _post(cfg, messages, force_json=False)
+        try:
+            result = _parse_json(raw)
+            break
+        except ValueError as exc:
+            if attempt >= 3:
+                raise
+            print(f"  [重试 {attempt}/2] 解析失败（{exc}），再生成一次")
+            messages = messages + [{
+                "role": "user",
+                "content": "上一次输出不是合法 JSON。请重新输出：只用双引号、字段之间必须有逗号、"
+                           "不要输出 markdown 代码块或任何解释文字，整段必须能被 JSON 解析。",
+            }]
 
-    result = _parse_json(raw)
     result.setdefault("translation", [])
     result.setdefault("vocab", [])
     result.setdefault("grammar", [])

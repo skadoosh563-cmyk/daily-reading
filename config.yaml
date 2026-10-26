@@ -81,7 +81,9 @@ llm:
   model: deepseek-v4.1-flash
   temperature: 0.3
   timeout: 300
-  max_tokens: 8192
+  # 8192 在 800 词以上的文章上会不够用（实测 822 词那篇输出被腰斩成半个 JSON）。
+  # 16384 有更大的余量；不支持这么长输出的服务商会直接报 400，届时退回 8192。
+  max_tokens: 16384
 
 # ---------- 四、精读内容 ----------
 study:
