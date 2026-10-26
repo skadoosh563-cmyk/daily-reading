@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T11:12:04",
- "count": 8,
+ "updated": "2026-10-26T03:17:29",
+ "count": 9,
  "items": [
   {
    "id": "trump-rallies-for-mike-rogers-and-nicki",
@@ -92,6 +92,97 @@
    "source": "The Guardian · World",
    "word_count": 624,
    "level": "C1"
+  },
+  {
+   "id": "volkswagen-to-build-4bn-audi-suv-factory",
+   "date": "2026-10-26",
+   "title_zh": "大众汽车不顾本土裁员，仍将在美投资40亿美元建奥迪SUV工厂",
+   "summary": "奥迪宣布将在美国佐治亚州梅肯市投资40亿美元建厂，生产大型SUV，预计创造4500个岗位。此举发生在特朗普关税政策给大众带来巨额成本、且大众在德国本土裁员关厂的背景下。奥迪CEO还罕见地出现在特朗普的竞选集会上。文章揭示了跨国车企在贸易战与选举政治夹缝中的两难处境，适合学习商业报道中「关税、就业、投资」类高频表达。",
+   "vocab": [
+    {
+     "word": "steep tariffs",
+     "pos": "n. phrase",
+     "phonetic": "/stiːp ˈtærɪfs/",
+     "meaning_zh": "高额关税",
+     "example_en": "Volkswagen, struggles with the impact of steep tariffs imposed by Donald Trump.",
+     "example_zh": "大众汽车正艰难应对唐纳德·特朗普征收的高额关税带来的冲击。"
+    },
+    {
+     "word": "campaign rally",
+     "pos": "n. phrase",
+     "phonetic": "/kæmˈpeɪn ˈræli/",
+     "meaning_zh": "竞选集会",
+     "example_en": "joined Trump on stage at a campaign rally on Saturday night",
+     "example_zh": "周六晚上在特朗普的一场竞选集会上同台"
+    },
+    {
+     "word": "retain control",
+     "pos": "v. phrase",
+     "phonetic": "/rɪˈteɪn kənˈtroʊl/",
+     "meaning_zh": "保住控制权",
+     "example_en": "The Republican party under Trump is trying to retain control of both houses of Congress",
+     "example_zh": "特朗普领导下的共和党正试图保住对国会两院的控制权"
+    },
+    {
+     "word": "poll poorly",
+     "pos": "v. phrase",
+     "phonetic": "/poʊl ˈpʊrli/",
+     "meaning_zh": "民调表现不佳",
+     "example_en": "it is polling poorly as it struggles with higher fuel prices",
+     "example_zh": "由于难以应对燃料价格上涨，其民调表现不佳"
+    },
+    {
+     "word": "seize on",
+     "pos": "v. phrase",
+     "phonetic": "/siːz ɒn/",
+     "meaning_zh": "抓住（机会、话题等）大做文章",
+     "example_en": "has seized on any new factory investments",
+     "example_zh": "抓住任何新的工厂投资大做文章"
+    },
+    {
+     "word": "premium brand",
+     "pos": "n. phrase",
+     "phonetic": "/ˈpriːmiəm brænd/",
+     "meaning_zh": "高端品牌",
+     "example_en": "Audi, Volkswagen’s most important premium brand, has suffered from Trump’s 15% tariffs",
+     "example_zh": "奥迪是大众最重要的高端品牌，已因特朗普对欧盟进口商品征收15%关税而受损"
+    },
+    {
+     "word": "in favour of",
+     "pos": "prep. phrase",
+     "phonetic": "/ɪn ˈfeɪvər əv/",
+     "meaning_zh": "偏向、支持（此处指转而支持燃油车）",
+     "example_en": "the president’s efforts to cut sales of battery electric vehicles in favour of petrol cars",
+     "example_zh": "总统削减纯电动车销量、转而支持燃油车的举措"
+    },
+    {
+     "word": "shift ... from ... to ...",
+     "pos": "v. phrase",
+     "phonetic": "/ʃɪft frəm ... tə .../",
+     "meaning_zh": "把……从……转移到……",
+     "example_en": "shifting some production from Bratislava in Slovakia",
+     "example_zh": "将部分生产从斯洛伐克的布拉迪斯拉发转移过来"
+    },
+    {
+     "word": "add to tensions",
+     "pos": "v. phrase",
+     "phonetic": "/æd tə ˈtenʃənz/",
+     "meaning_zh": "加剧紧张局势",
+     "example_en": "The new factory may add to tensions in Germany",
+     "example_zh": "新工厂可能会加剧德国的紧张局势"
+    },
+    {
+     "word": "out of respect for",
+     "pos": "prep. phrase",
+     "phonetic": "/aʊt əv rɪˈspekt fər/",
+     "meaning_zh": "出于对……的尊重",
+     "example_en": "Döllner said he accepted the invitation to speak at Trump’s rally out of respect for the US.",
+     "example_zh": "德尔纳表示，他接受在特朗普集会上发言的邀请是出于对美国的尊重。"
+    }
+   ],
+   "source": "The Guardian · Business",
+   "word_count": 475,
+   "level": "B2"
   },
   {
    "id": "drinking-water-supplies-dwindle-in-yemen",

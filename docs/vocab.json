@@ -1,7 +1,18 @@
 {
- "updated": "2026-10-26T11:12:04",
- "count": 80,
+ "updated": "2026-10-26T03:17:29",
+ "count": 89,
  "vocab": [
+  {
+   "word": "seize on",
+   "pos": "phrase",
+   "phonetic": "/siːz ɑːn/",
+   "meaning_zh": "抓住（机会、话题等）大做文章；利用",
+   "count": 2,
+   "dates": [
+    "2026-10-24",
+    "2026-10-26"
+   ]
+  },
   {
    "word": "a raft of",
    "pos": "量词短语",
@@ -20,6 +31,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "add to tensions",
+   "pos": "v. phrase",
+   "phonetic": "/æd tə ˈtenʃənz/",
+   "meaning_zh": "加剧紧张局势",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
    ]
   },
   {
@@ -130,6 +151,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "campaign rally",
+   "pos": "n. phrase",
+   "phonetic": "/kæmˈpeɪn ˈræli/",
+   "meaning_zh": "竞选集会",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
    ]
   },
   {
@@ -373,6 +404,16 @@
    ]
   },
   {
+   "word": "in favour of",
+   "pos": "prep. phrase",
+   "phonetic": "/ɪn ˈfeɪvər əv/",
+   "meaning_zh": "偏向、支持（此处指转而支持燃油车）",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "word": "incur",
    "pos": "v.",
    "phonetic": "/ɪnˈkɜːr/",
@@ -463,6 +504,16 @@
    ]
   },
   {
+   "word": "out of respect for",
+   "pos": "prep. phrase",
+   "phonetic": "/aʊt əv rɪˈspekt fər/",
+   "meaning_zh": "出于对……的尊重",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "word": "path to permanent residency",
    "pos": "phrase",
    "phonetic": "/pɑːθ tuː ˈpɜːmənənt ˈrezɪdənsi/",
@@ -503,6 +554,16 @@
    ]
   },
   {
+   "word": "poll poorly",
+   "pos": "v. phrase",
+   "phonetic": "/poʊl ˈpʊrli/",
+   "meaning_zh": "民调表现不佳",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "word": "precautions",
    "pos": "n.",
    "phonetic": "/prɪˈkɔːʃnz/",
@@ -510,6 +571,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "premium brand",
+   "pos": "n. phrase",
+   "phonetic": "/ˈpriːmiəm brænd/",
+   "meaning_zh": "高端品牌",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
    ]
   },
   {
@@ -633,6 +704,16 @@
    ]
   },
   {
+   "word": "retain control",
+   "pos": "v. phrase",
+   "phonetic": "/rɪˈteɪn kənˈtroʊl/",
+   "meaning_zh": "保住控制权",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "word": "ring hollow",
    "pos": "phrase",
    "phonetic": "/rɪŋ ˈhɒləʊ/",
@@ -683,13 +764,13 @@
    ]
   },
   {
-   "word": "seize on",
-   "pos": "phrase",
-   "phonetic": "/siːz ɑːn/",
-   "meaning_zh": "抓住（机会、话题等）大做文章；利用",
+   "word": "shift ... from ... to ...",
+   "pos": "v. phrase",
+   "phonetic": "/ʃɪft frəm ... tə .../",
+   "meaning_zh": "把……从……转移到……",
    "count": 1,
    "dates": [
-    "2026-10-24"
+    "2026-10-26"
    ]
   },
   {
@@ -730,6 +811,16 @@
    "count": 1,
    "dates": [
     "2026-10-23"
+   ]
+  },
+  {
+   "word": "steep tariffs",
+   "pos": "n. phrase",
+   "phonetic": "/stiːp ˈtærɪfs/",
+   "meaning_zh": "高额关税",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
    ]
   },
   {
