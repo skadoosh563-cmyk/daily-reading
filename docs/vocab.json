@@ -1,7 +1,106 @@
 {
- "updated": "2026-10-26T03:06:51",
- "count": 80,
+ "updated": "2026-10-26T03:10:21",
+ "count": 81,
  "vocab": [
+  {
+   "word": "besiege",
+   "pos": "v.",
+   "phonetic": "/bɪˈsiːdʒ/",
+   "meaning_zh": "围困；包围",
+   "count": 2,
+   "dates": [
+    "2026-10-25",
+    "2026-10-26"
+   ]
+  },
+  {
+   "word": "compound",
+   "pos": "v.",
+   "phonetic": "/kəmˈpaʊnd/",
+   "meaning_zh": "使加重；使恶化",
+   "count": 2,
+   "dates": [
+    "2026-10-25",
+    "2026-10-26"
+   ]
+  },
+  {
+   "word": "descend into",
+   "pos": "phr.",
+   "phonetic": "/dɪˈsend ˈɪntuː/",
+   "meaning_zh": "陷入（某种坏状态）",
+   "count": 2,
+   "dates": [
+    "2026-10-25",
+    "2026-10-26"
+   ]
+  },
+  {
+   "word": "dwindle",
+   "pos": "v.",
+   "phonetic": "/ˈdwɪndl/",
+   "meaning_zh": "逐渐减少；缩小",
+   "count": 2,
+   "dates": [
+    "2026-10-25",
+    "2026-10-26"
+   ]
+  },
+  {
+   "word": "ferry",
+   "pos": "v.",
+   "phonetic": "/ˈferi/",
+   "meaning_zh": "（用船或车）运送",
+   "count": 2,
+   "dates": [
+    "2026-10-25",
+    "2026-10-26"
+   ]
+  },
+  {
+   "word": "prohibitive",
+   "pos": "adj.",
+   "phonetic": "/prəˈhɪbətɪv/",
+   "meaning_zh": "（价格）高得令人望而却步的",
+   "count": 2,
+   "dates": [
+    "2026-10-25",
+    "2026-10-26"
+   ]
+  },
+  {
+   "word": "ration",
+   "pos": "v.",
+   "phonetic": "/ˈræʃn/",
+   "meaning_zh": "限量使用；配给",
+   "count": 2,
+   "dates": [
+    "2026-10-25",
+    "2026-10-26"
+   ]
+  },
+  {
+   "word": "scrape by",
+   "pos": "phr.",
+   "phonetic": "/skreɪp baɪ/",
+   "meaning_zh": "勉强维持生计",
+   "count": 2,
+   "dates": [
+    "2026-10-25",
+    "2026-10-26"
+   ]
+  },
+  {
+   "word": "strangle",
+   "pos": "v.",
+   "phonetic": "/ˈstræŋɡl/",
+   "meaning_zh": "扼杀；抑制；使窒息",
+   "count": 2,
+   "dates": [
+    "2026-10-25",
+    "2026-10-26"
+   ]
+  },
   {
    "word": "a raft of",
    "pos": "量词短语",
@@ -83,16 +182,6 @@
    ]
   },
   {
-   "word": "besiege",
-   "pos": "v.",
-   "phonetic": "/bɪˈsiːdʒ/",
-   "meaning_zh": "围困；包围",
-   "count": 1,
-   "dates": [
-    "2026-10-25"
-   ]
-  },
-  {
    "word": "beyond cavil",
    "pos": "phrase",
    "phonetic": "/bɪˈjɒnd ˈkævɪl/",
@@ -153,16 +242,6 @@
    ]
   },
   {
-   "word": "compound",
-   "pos": "v.",
-   "phonetic": "/kəmˈpaʊnd/",
-   "meaning_zh": "使加重；使恶化",
-   "count": 1,
-   "dates": [
-    "2026-10-25"
-   ]
-  },
-  {
    "word": "condolence",
    "pos": "n.",
    "phonetic": "/kənˈdəʊləns/",
@@ -203,16 +282,6 @@
    ]
   },
   {
-   "word": "descend into",
-   "pos": "phr.",
-   "phonetic": "/dɪˈsend ˈɪntuː/",
-   "meaning_zh": "陷入（某种坏状态）",
-   "count": 1,
-   "dates": [
-    "2026-10-25"
-   ]
-  },
-  {
    "word": "destitute",
    "pos": "adj.",
    "phonetic": "/ˈdestɪtjuːt/",
@@ -243,16 +312,6 @@
    ]
   },
   {
-   "word": "dwindle",
-   "pos": "v.",
-   "phonetic": "/ˈdwɪndl/",
-   "meaning_zh": "逐渐减少；缩小",
-   "count": 1,
-   "dates": [
-    "2026-10-25"
-   ]
-  },
-  {
    "word": "embattled",
    "pos": "adj.",
    "phonetic": "/ɪmˈbætld/",
@@ -270,16 +329,6 @@
    "count": 1,
    "dates": [
     "2026-10-24"
-   ]
-  },
-  {
-   "word": "ferry",
-   "pos": "v.",
-   "phonetic": "/ˈferi/",
-   "meaning_zh": "（用船或车）运送",
-   "count": 1,
-   "dates": [
-    "2026-10-25"
    ]
   },
   {
@@ -433,6 +482,16 @@
    ]
   },
   {
+   "word": "mangnify",
+   "pos": "v.",
+   "phonetic": "/ˈmæɡnɪfaɪ/",
+   "meaning_zh": "放大；加剧",
+   "count": 1,
+   "dates": [
+    "2026-10-26"
+   ]
+  },
+  {
    "word": "mixed",
    "pos": "adj.",
    "phonetic": "/mɪkst/",
@@ -513,16 +572,6 @@
    ]
   },
   {
-   "word": "prohibitive",
-   "pos": "adj.",
-   "phonetic": "/prəˈhɪbətɪv/",
-   "meaning_zh": "（价格）高得令人望而却步的",
-   "count": 1,
-   "dates": [
-    "2026-10-25"
-   ]
-  },
-  {
    "word": "prolific",
    "pos": "adj.",
    "phonetic": "/prəˈlɪfɪk/",
@@ -567,16 +616,6 @@
    "pos": "phr.",
    "phonetic": "/ræmp ʌp/",
    "meaning_zh": "加大；加强",
-   "count": 1,
-   "dates": [
-    "2026-10-25"
-   ]
-  },
-  {
-   "word": "ration",
-   "pos": "v.",
-   "phonetic": "/ˈræʃn/",
-   "meaning_zh": "限量使用；配给",
    "count": 1,
    "dates": [
     "2026-10-25"
@@ -663,16 +702,6 @@
    ]
   },
   {
-   "word": "scrape by",
-   "pos": "phr.",
-   "phonetic": "/skreɪp baɪ/",
-   "meaning_zh": "勉强维持生计",
-   "count": 1,
-   "dates": [
-    "2026-10-25"
-   ]
-  },
-  {
    "word": "seek to do sth",
    "pos": "phrase",
    "phonetic": "/siːk tuː/",
@@ -730,16 +759,6 @@
    "count": 1,
    "dates": [
     "2026-10-23"
-   ]
-  },
-  {
-   "word": "strangle",
-   "pos": "v.",
-   "phonetic": "/ˈstræŋɡl/",
-   "meaning_zh": "扼杀；抑制；使窒息",
-   "count": 1,
-   "dates": [
-    "2026-10-25"
    ]
   },
   {
