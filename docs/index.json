@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-26T03:17:29",
- "count": 9,
+ "updated": "2026-10-27T01:31:04",
+ "count": 10,
  "items": [
+  {
+   "id": "endangered-turtles-and-exceptional-coral",
+   "date": "2026-10-27",
+   "title_zh": "监管机构称：Woodside在西澳的天然气钻探危及濒危海龟和“非凡”珊瑚",
+   "summary": "这篇文章报道了澳大利亚西澳州独立环境监管机构对Woodside能源公司Browse气田开发计划的严厉批评。2023年的草案信件显示，该计划可能严重损害Scott Reef的珊瑚礁和濒危海龟、蓝鲸等物种，且漏油风险难以降至可接受水平。Woodside随后增加了剪切闸板等技术措施，但环保人士和专家质疑其有效性。文章揭示了监管压力、企业应对与生态保护之间的复杂博弈，适合学习环境新闻中的常用表达和长难句结构。",
+   "vocab": [
+    {
+     "word": "watchdog",
+     "pos": "n.",
+     "phonetic": "/ˈwɒtʃdɒɡ/",
+     "meaning_zh": "监管机构；监督机构",
+     "example_en": "according to advice from the state’s independent environmental watchdog.",
+     "example_zh": "根据该州独立环境监管机构的建议。"
+    },
+    {
+     "word": "sharply criticised",
+     "pos": "v.+adv.",
+     "phonetic": "/ˈʃɑːpli ˈkrɪtɪsaɪzd/",
+     "meaning_zh": "严厉批评",
+     "example_en": "A draft letter from WA’s Environmental Protection Authority written in 2023, seen by the Guardian, sharply criticised Woodside’s proposal to develop the Browse gasfield.",
+     "example_zh": "《卫报》看到的一封西澳环境保护局2023年起草的草案信件，严厉批评了Woodside开发Browse气田的提案。"
+    },
+    {
+     "word": "ineffective",
+     "pos": "adj.",
+     "phonetic": "/ˌɪnɪˈfektɪv/",
+     "meaning_zh": "无效的；不起作用的",
+     "example_en": "saying its plans to protect endangered turtles and blue whales near Scott Reef would be ineffective.",
+     "example_zh": "称其保护Scott Reef附近濒危海龟和蓝鲸的计划将无效。"
+    },
+    {
+     "word": "precautionary principle",
+     "pos": "n.",
+     "phonetic": "/prɪˈkɔːʃənəri ˈprɪnsəpl/",
+     "meaning_zh": "预防原则",
+     "example_en": "The threats were considered serious enough that the staff said the precautionary principle should be invoked.",
+     "example_zh": "这些威胁被认为足够严重，工作人员表示应援引预防原则。"
+    },
+    {
+     "word": "irreversible",
+     "pos": "adj.",
+     "phonetic": "/ˌɪrɪˈvɜːsəbl/",
+     "meaning_zh": "不可逆的",
+     "example_en": "there was a threat of serious or irreversible harm to turtles and whales and more generally due to oil spills.",
+     "example_zh": "海龟和鲸鱼面临严重或不可逆伤害的威胁，更广泛地说，还有漏油造成的威胁。"
+    },
+    {
+     "word": "shear rams",
+     "pos": "n.",
+     "phonetic": "/ʃɪə ræmz/",
+     "meaning_zh": "剪切闸板（用于封井的装置）",
+     "example_en": "Woodside added explosive-driven shear rams to its drilling plans, a step that could allow it to seal a leaking well in seconds.",
+     "example_zh": "Woodside在其钻探计划中增加了爆炸驱动剪切闸板，这一步可使其在几秒钟内封住泄漏的井。"
+    },
+    {
+     "word": "unproven",
+     "pos": "adj.",
+     "phonetic": "/ʌnˈpruːvn/",
+     "meaning_zh": "未经证实的",
+     "example_en": "In 2024, fellow WA gas exporter Chevron rejected “pyrotechnic shearing” technology for its own wells, describing it as unproven and impossible to test in the field.",
+     "example_zh": "2024年，西澳另一家天然气出口商雪佛龙拒绝了为其自己的井使用“烟火剪切”技术，称其未经证实且无法在实地测试。"
+    },
+    {
+     "word": "capping stack",
+     "pos": "n.",
+     "phonetic": "/ˈkæpɪŋ stæk/",
+     "meaning_zh": "封井器；盖帽堆",
+     "example_en": "A Woodside spokesperson said if the shear rams failed it would deploy a capping stack to stop the oil flow within 16 days.",
+     "example_zh": "Woodside发言人表示，如果剪切闸板失效，它将部署封井器在16天内阻止石油流动。"
+    },
+    {
+     "word": "backflip",
+     "pos": "n.",
+     "phonetic": "/ˈbækflɪp/",
+     "meaning_zh": "（立场、决定的）彻底转变；出尔反尔",
+     "example_en": "“It would be a major backflip for both the WA EPA and the national EPA to now recommend approving this project,” he said.",
+     "example_zh": "“如果西澳环保局和国家环保局现在建议批准这个项目，那将是一次重大的立场转变，”他说。"
+    },
+    {
+     "word": "heritage listing",
+     "pos": "n.",
+     "phonetic": "/ˈherɪtɪdʒ ˈlɪstɪŋ/",
+     "meaning_zh": "遗产名录登记",
+     "example_en": "Greenpeace last week nominated Scott Reef for national heritage listing based on its ecological and scientific values.",
+     "example_zh": "绿色和平组织上周基于Scott Reef的生态和科学价值，提名其列入国家遗产名录。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 974,
+   "level": "C1"
+  },
   {
    "id": "trump-rallies-for-mike-rogers-and-nicki",
    "date": "2026-10-26",

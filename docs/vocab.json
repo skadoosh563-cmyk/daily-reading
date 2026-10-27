@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T03:17:29",
- "count": 89,
+ "updated": "2026-10-27T01:31:04",
+ "count": 99,
  "vocab": [
   {
    "word": "seize on",
@@ -71,6 +71,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "backflip",
+   "pos": "n.",
+   "phonetic": "/ˈbækflɪp/",
+   "meaning_zh": "（立场、决定的）彻底转变；出尔反尔",
+   "count": 1,
+   "dates": [
+    "2026-10-27"
    ]
   },
   {
@@ -161,6 +171,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "capping stack",
+   "pos": "n.",
+   "phonetic": "/ˈkæpɪŋ stæk/",
+   "meaning_zh": "封井器；盖帽堆",
+   "count": 1,
+   "dates": [
+    "2026-10-27"
    ]
   },
   {
@@ -384,6 +404,16 @@
    ]
   },
   {
+   "word": "heritage listing",
+   "pos": "n.",
+   "phonetic": "/ˈherɪtɪdʒ ˈlɪstɪŋ/",
+   "meaning_zh": "遗产名录登记",
+   "count": 1,
+   "dates": [
+    "2026-10-27"
+   ]
+  },
+  {
    "word": "homogenous",
    "pos": "adj.",
    "phonetic": "/həˈmɒdʒənəs/",
@@ -421,6 +451,26 @@
    "count": 1,
    "dates": [
     "2026-10-24"
+   ]
+  },
+  {
+   "word": "ineffective",
+   "pos": "adj.",
+   "phonetic": "/ˌɪnɪˈfektɪv/",
+   "meaning_zh": "无效的；不起作用的",
+   "count": 1,
+   "dates": [
+    "2026-10-27"
+   ]
+  },
+  {
+   "word": "irreversible",
+   "pos": "adj.",
+   "phonetic": "/ˌɪrɪˈvɜːsəbl/",
+   "meaning_zh": "不可逆的",
+   "count": 1,
+   "dates": [
+    "2026-10-27"
    ]
   },
   {
@@ -561,6 +611,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "precautionary principle",
+   "pos": "n.",
+   "phonetic": "/prɪˈkɔːʃənəri ˈprɪnsəpl/",
+   "meaning_zh": "预防原则",
+   "count": 1,
+   "dates": [
+    "2026-10-27"
    ]
   },
   {
@@ -764,6 +824,26 @@
    ]
   },
   {
+   "word": "sharply criticised",
+   "pos": "v.+adv.",
+   "phonetic": "/ˈʃɑːpli ˈkrɪtɪsaɪzd/",
+   "meaning_zh": "严厉批评",
+   "count": 1,
+   "dates": [
+    "2026-10-27"
+   ]
+  },
+  {
+   "word": "shear rams",
+   "pos": "n.",
+   "phonetic": "/ʃɪə ræmz/",
+   "meaning_zh": "剪切闸板（用于封井的装置）",
+   "count": 1,
+   "dates": [
+    "2026-10-27"
+   ]
+  },
+  {
    "word": "shift ... from ... to ...",
    "pos": "v. phrase",
    "phonetic": "/ʃɪft frəm ... tə .../",
@@ -884,6 +964,16 @@
    ]
   },
   {
+   "word": "unproven",
+   "pos": "adj.",
+   "phonetic": "/ʌnˈpruːvn/",
+   "meaning_zh": "未经证实的",
+   "count": 1,
+   "dates": [
+    "2026-10-27"
+   ]
+  },
+  {
    "word": "vested interests",
    "pos": "n.",
    "phonetic": "/ˌvestɪd ˈɪntrəsts/",
@@ -891,6 +981,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "watchdog",
+   "pos": "n.",
+   "phonetic": "/ˈwɒtʃdɒɡ/",
+   "meaning_zh": "监管机构；监督机构",
+   "count": 1,
+   "dates": [
+    "2026-10-27"
    ]
   }
  ]
