@@ -1,10 +1,17 @@
 name: 每日外刊精读
 
-# 定时触发：UTC 23:00 = 北京时间次日 07:00
-# 注意 GitHub 的 cron 用的是 UTC，不是北京时间
+# 定时触发（UTC，不是北京时间）：
+#   "37 21" = 北京 05:37
+#   "53 23" = 北京 07:37
+# 为什么是两个点、为什么不用整点：
+#   GitHub 的 schedule 跑在共享队列上、best-effort，官方明确说整点是高峰，
+#   高负载时不仅会延迟，还可能直接丢弃（不报错、不通知）。
+#   避开整点能少延迟；设两个时间点是为了「第一次丢了还有第二次」。
+#   两次之间有幂等判断：今天已经生成过就跳过，不会重复出两篇。
 on:
   schedule:
-    - cron: "0 23 * * *"
+    - cron: "37 21 * * *"
+    - cron: "53 23 * * *"
   # 也允许手动点按钮触发，方便测试
   workflow_dispatch:
     inputs:
@@ -71,7 +78,23 @@ jobs:
             if [ -n "$val" ]; then echo "✅ $v 已配置"; else echo "⬜ $v 未配置"; fi
           done
 
+      # 一天有两次定时机会，先看看今天是不是已经出过了，避免重复生成两篇。
+      # 手动触发（workflow_dispatch）不受这个限制，方便随时补跑。
+      - name: 检查今天是否已生成
+        id: guard
+        run: |
+          TODAY=$(TZ=Asia/Shanghai date +%F)
+          if [ -n "$(ls output/${TODAY:0:7}/${TODAY}-*.md 2>/dev/null)" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "今天已有归档，跳过生成："
+            ls -1 output/${TODAY:0:7}/${TODAY}-*.md
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "今天还没有归档，开始生成"
+          fi
+
       - name: 生成今日精读
+        if: steps.guard.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
         env:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           # 选配：想在 Secrets 里临时换模型/换服务商，填这两个即可覆盖 config.yaml
@@ -105,6 +128,7 @@ jobs:
       # 兜底：必须确认【本次】真的产出了文件。
       # 原来只看"今天有没有 md"，早上已经成功过的话，后面这次失败也会被掩盖成成功。
       - name: 校验本次确有产出
+        if: steps.guard.outputs.skip != 'true' || github.event_name == 'workflow_dispatch'
         run: |
           TODAY=$(TZ=Asia/Shanghai date +%F)
           NEW=$(git status --porcelain --untracked-files=all output/ | grep -c '\.md$' || true)
