@@ -55,28 +55,89 @@ def _endpoint(base_url: str) -> str:
     return base + "/chat/completions"
 
 
-def _post(cfg: dict, messages: list[dict], force_json: bool) -> dict:
+def _payload(cfg: dict, messages: list[dict], force_json: bool, stream: bool) -> dict:
     llm = cfg["llm"]
-    payload = {
+    p = {
         "model": llm["model"],
         "messages": messages,
         "temperature": llm.get("temperature", 0.3),
         "max_tokens": llm.get("max_tokens", 8192),
+        "stream": stream,
     }
     if force_json:
-        payload["response_format"] = {"type": "json_object"}
+        p["response_format"] = {"type": "json_object"}
+    return p
 
+
+def _headers(cfg: dict) -> dict:
+    return {
+        "Authorization": f"Bearer {cfg['llm']['api_key']}",
+        "Content-Type": "application/json",
+    }
+
+
+def _warn_if_truncated(finish_reason: str | None) -> None:
+    if finish_reason == "length":
+        print("  [警告] 输出被 max_tokens 截断（finish_reason=length），"
+              "这篇很可能解析失败，可调高 config.yaml 里的 llm.max_tokens")
+
+
+def _post_stream(cfg: dict, messages: list[dict], force_json: bool) -> str:
+    """流式请求，边收边拼。
+
+    现在不少中转站（例如 svip 分组）已经**禁用非流式请求**，
+    直接返回 400「请使用 stream=true」，所以流式才是主路径。
+    """
+    llm = cfg["llm"]
     resp = requests.post(
         _endpoint(llm["base_url"]),
-        headers={
-            "Authorization": f"Bearer {llm['api_key']}",
-            "Content-Type": "application/json",
-        },
-        json=payload,
+        headers=_headers(cfg),
+        json=_payload(cfg, messages, force_json, True),
+        timeout=llm.get("timeout", 300),
+        stream=True,
+    )
+    if resp.status_code >= 400:
+        detail = resp.content.decode("utf-8", "replace")[:400]
+        raise RuntimeError(f"HTTP {resp.status_code}: {detail}")
+
+    parts: list[str] = []
+    finish = None
+    for raw in resp.iter_lines(decode_unicode=False):
+        if not raw:
+            continue
+        line = raw.decode("utf-8", "replace").strip()
+        if not line.startswith("data:"):
+            continue
+        data = line[5:].strip()
+        if data == "[DONE]":
+            break
+        try:
+            obj = json.loads(data)
+        except json.JSONDecodeError:
+            continue
+        choices = obj.get("choices") or []
+        if not choices:
+            continue
+        ch = choices[0]
+        piece = (ch.get("delta") or {}).get("content")
+        if piece:
+            parts.append(piece)
+        if ch.get("finish_reason"):
+            finish = ch["finish_reason"]
+    _warn_if_truncated(finish)
+    return "".join(parts)
+
+
+def _post_plain(cfg: dict, messages: list[dict], force_json: bool) -> str:
+    llm = cfg["llm"]
+    resp = requests.post(
+        _endpoint(llm["base_url"]),
+        headers=_headers(cfg),
+        json=_payload(cfg, messages, force_json, False),
         timeout=llm.get("timeout", 300),
     )
     if resp.status_code >= 400:
-        detail = resp.content.decode("utf-8", "replace")[:500]
+        detail = resp.content.decode("utf-8", "replace")[:400]
         raise RuntimeError(f"HTTP {resp.status_code}: {detail}")
     # 注意：部分中转站的响应头只写 application/json、不带 charset，
     # 此时 requests 会按 ISO-8859-1 解码，模型返回的中文就会变成
@@ -84,10 +145,19 @@ def _post(cfg: dict, messages: list[dict], force_json: bool) -> dict:
     # JSON 标准规定就是 UTF-8，这里直接拿原始字节强制按 UTF-8 解析。
     data = json.loads(resp.content.decode("utf-8"))
     choice = data["choices"][0]
-    if choice.get("finish_reason") == "length":
-        print("  [警告] 输出被 max_tokens 截断（finish_reason=length），"
-              "这篇很可能解析失败，可调高 config.yaml 里的 llm.max_tokens")
+    _warn_if_truncated(choice.get("finish_reason"))
     return choice["message"]["content"]
+
+
+def _post(cfg: dict, messages: list[dict], force_json: bool) -> str:
+    """先走流式；万一服务商不支持流式，再退回非流式。"""
+    try:
+        return _post_stream(cfg, messages, force_json)
+    except RuntimeError as exc:
+        if "stream" in str(exc).lower():
+            print("  [提示] 流式请求被拒，改用非流式重试")
+            return _post_plain(cfg, messages, force_json)
+        raise
 
 
 def _parse_json(text: str) -> dict:
