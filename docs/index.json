@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-27T01:31:04",
- "count": 10,
+ "updated": "2026-10-28T00:44:15",
+ "count": 11,
  "items": [
+  {
+   "id": "former-met-officer-who-worked-with-wayne",
+   "date": "2026-10-28",
+   "title_zh": "曾与韦恩·库森斯共事的前大都会警察局警官被判强奸罪成",
+   "summary": "文章报道前伦敦大都会警察局警官马克·泰瑞尔因强奸一名在工作中结识的女子及多项性犯罪被判有罪。法庭还认定他试图删除信息、妨碍司法公正，并披露他曾与库森斯和卡里克在同一指挥部任职。报道引用了警队高层的谴责，说明个案如何引发对警队信任问题的关注。这篇适合精读法律新闻常用表达、被动转述和复杂定语从句。",
+   "vocab": [
+    {
+     "word": "be found guilty of",
+     "pos": "v. phr.",
+     "phonetic": "/bi faʊnd ˈɡɪlti əv/",
+     "meaning_zh": "被裁定犯有（某罪）",
+     "example_en": "A former Metropolitan police officer who served in the same unit as Sarah Everard’s killer, Wayne Couzens, has been found guilty of sexual offences against a woman he met through his work as an officer.",
+     "example_zh": "一名曾在莎拉·埃弗拉德的凶手韦恩·库森斯所在同一部门任职的前伦敦大都会警察局警官，因对一名在工作中结识的女子实施性犯罪而被裁定罪名成立。"
+    },
+    {
+     "word": "sexual offences",
+     "pos": "n. phr.",
+     "phonetic": "/ˈsekʃuəl əˈfensɪz/",
+     "meaning_zh": "性犯罪",
+     "example_en": "A former Metropolitan police officer who served in the same unit as Sarah Everard’s killer, Wayne Couzens, has been found guilty of sexual offences against a woman he met through his work as an officer.",
+     "example_zh": "一名曾在莎拉·埃弗拉德的凶手韦恩·库森斯所在同一部门任职的前伦敦大都会警察局警官，因对一名在工作中结识的女子实施性犯罪而被裁定罪名成立。"
+    },
+    {
+     "word": "be attached to",
+     "pos": "v. phr.",
+     "phonetic": "/bi əˈtætʃt tu/",
+     "meaning_zh": "被派驻；隶属于",
+     "example_en": "Tyrrell had been attached to the parliamentary and diplomatic protection command, which is where the convicted rapists Couzens and David Carrick both worked.",
+     "example_zh": "泰瑞尔曾被派驻议会与外交保护指挥部，而已经被定罪的强奸犯库森斯和戴维·卡里克都曾在那里工作。"
+    },
+    {
+     "word": "convicted",
+     "pos": "adj.",
+     "phonetic": "/kənˈvɪktɪd/",
+     "meaning_zh": "已被定罪的",
+     "example_en": "Tyrrell had been attached to the parliamentary and diplomatic protection command, which is where the convicted rapists Couzens and David Carrick both worked.",
+     "example_zh": "泰瑞尔曾被派驻议会与外交保护指挥部，而已经被定罪的强奸犯库森斯和戴维·卡里克都曾在那里工作。"
+    },
+    {
+     "word": "pervert the course of justice",
+     "pos": "v. phr.",
+     "phonetic": "/pəˈvɜːt ðə kɔːs əv ˈdʒʌstɪs/",
+     "meaning_zh": "妨碍司法公正",
+     "example_en": "The former PC was found guilty of perverting the course of justice by attempting to delete messages with the woman.",
+     "example_zh": "这名前警员因试图删除与该女子的信息，被裁定妨碍司法公正罪名成立。"
+    },
+    {
+     "word": "sexual advances",
+     "pos": "n. phr.",
+     "phonetic": "/ˈsekʃuəl ədˈvɑːnsɪz/",
+     "meaning_zh": "性挑逗；性要求",
+     "example_en": "Prosecutor Catherine Farrelly KC alleged that when the woman resisted Tyrrell’s sexual advances “he simply chose to take what he wanted”.",
+     "example_zh": "检察官凯瑟琳·法雷利指控称，当该女子抗拒泰瑞尔的性挑逗时，“他干脆选择拿走自己想要的东西”。"
+    },
+    {
+     "word": "consensual",
+     "pos": "adj.",
+     "phonetic": "/kənˈsenʃuəl/",
+     "meaning_zh": "双方同意的；自愿的",
+     "example_en": "In his evidence, Tyrrell claimed sexual intercourse between them was always consensual and “there was never any forcefulness to it”.",
+     "example_zh": "泰瑞尔在作证时声称，他们之间的性交始终是双方同意的，而且“其中从来没有任何强迫性”。"
+    },
+    {
+     "word": "abhorrent",
+     "pos": "adj.",
+     "phonetic": "/əbˈhɒrənt/",
+     "meaning_zh": "令人憎恶的",
+     "example_en": "This kind of conduct is abhorrent but even more so when it is carried out by a serving officer, who had gained the trust of the victim.",
+     "example_zh": "这种行为令人憎恶，尤其当它是由一名现役警官实施、而该警官又曾获得受害者信任时，就更是如此。"
+    },
+    {
+     "word": "appalled",
+     "pos": "adj.",
+     "phonetic": "/əˈpɔːld/",
+     "meaning_zh": "感到震惊和愤慨的",
+     "example_en": "We remain appalled that someone like this was serving within our organisation and it is right he has been brought to justice.",
+     "example_zh": "我们仍然感到震惊，这样的人竟然在我们机构内任职；他被绳之以法是正确的。"
+    },
+    {
+     "word": "plead guilty to",
+     "pos": "v. phr.",
+     "phonetic": "/pliːd ˈɡɪlti tu/",
+     "meaning_zh": "对……认罪",
+     "example_en": "He also pleaded guilty to perverting the course of justice by persuading the woman to lie to the police about why he was in her bedroom.",
+     "example_zh": "他还承认，自己通过说服该女子向警方谎称他为何会在她卧室里，从而妨碍司法公正。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 477,
+   "level": "B2"
+  },
   {
    "id": "endangered-turtles-and-exceptional-coral",
    "date": "2026-10-27",

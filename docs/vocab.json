@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T01:31:04",
- "count": 99,
+ "updated": "2026-10-28T00:44:15",
+ "count": 109,
  "vocab": [
   {
    "word": "seize on",
@@ -21,6 +21,16 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "abhorrent",
+   "pos": "adj.",
+   "phonetic": "/əbˈhɒrənt/",
+   "meaning_zh": "令人憎恶的",
+   "count": 1,
+   "dates": [
+    "2026-10-28"
    ]
   },
   {
@@ -74,6 +84,16 @@
    ]
   },
   {
+   "word": "appalled",
+   "pos": "adj.",
+   "phonetic": "/əˈpɔːld/",
+   "meaning_zh": "感到震惊和愤慨的",
+   "count": 1,
+   "dates": [
+    "2026-10-28"
+   ]
+  },
+  {
    "word": "backflip",
    "pos": "n.",
    "phonetic": "/ˈbækflɪp/",
@@ -81,6 +101,26 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "be attached to",
+   "pos": "v. phr.",
+   "phonetic": "/bi əˈtætʃt tu/",
+   "meaning_zh": "被派驻；隶属于",
+   "count": 1,
+   "dates": [
+    "2026-10-28"
+   ]
+  },
+  {
+   "word": "be found guilty of",
+   "pos": "v. phr.",
+   "phonetic": "/bi faʊnd ˈɡɪlti əv/",
+   "meaning_zh": "被裁定犯有（某罪）",
+   "count": 1,
+   "dates": [
+    "2026-10-28"
    ]
   },
   {
@@ -221,6 +261,26 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "consensual",
+   "pos": "adj.",
+   "phonetic": "/kənˈsenʃuəl/",
+   "meaning_zh": "双方同意的；自愿的",
+   "count": 1,
+   "dates": [
+    "2026-10-28"
+   ]
+  },
+  {
+   "word": "convicted",
+   "pos": "adj.",
+   "phonetic": "/kənˈvɪktɪd/",
+   "meaning_zh": "已被定罪的",
+   "count": 1,
+   "dates": [
+    "2026-10-28"
    ]
   },
   {
@@ -584,6 +644,16 @@
    ]
   },
   {
+   "word": "pervert the course of justice",
+   "pos": "v. phr.",
+   "phonetic": "/pəˈvɜːt ðə kɔːs əv ˈdʒʌstɪs/",
+   "meaning_zh": "妨碍司法公正",
+   "count": 1,
+   "dates": [
+    "2026-10-28"
+   ]
+  },
+  {
    "word": "pharmacological",
    "pos": "adj.",
    "phonetic": "/ˌfɑːməkəˈlɒdʒɪkl/",
@@ -601,6 +671,16 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "plead guilty to",
+   "pos": "v. phr.",
+   "phonetic": "/pliːd ˈɡɪlti tu/",
+   "meaning_zh": "对……认罪",
+   "count": 1,
+   "dates": [
+    "2026-10-28"
    ]
   },
   {
@@ -821,6 +901,26 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "sexual advances",
+   "pos": "n. phr.",
+   "phonetic": "/ˈsekʃuəl ədˈvɑːnsɪz/",
+   "meaning_zh": "性挑逗；性要求",
+   "count": 1,
+   "dates": [
+    "2026-10-28"
+   ]
+  },
+  {
+   "word": "sexual offences",
+   "pos": "n. phr.",
+   "phonetic": "/ˈsekʃuəl əˈfensɪz/",
+   "meaning_zh": "性犯罪",
+   "count": 1,
+   "dates": [
+    "2026-10-28"
    ]
   },
   {
