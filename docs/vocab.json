@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-28T00:44:15",
- "count": 109,
+ "updated": "2026-10-29T01:12:35",
+ "count": 120,
  "vocab": [
   {
    "word": "seize on",
@@ -11,6 +11,17 @@
    "dates": [
     "2026-10-24",
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "terminate",
+   "pos": "v.",
+   "phonetic": "/ˈtɜːmɪneɪt/",
+   "meaning_zh": "终止、结束",
+   "count": 2,
+   "dates": [
+    "2026-10-21",
+    "2026-10-29"
    ]
   },
   {
@@ -154,6 +165,16 @@
    ]
   },
   {
+   "word": "bear the brunt of",
+   "pos": "phrase",
+   "phonetic": "/ber ðə brʌnt ʌv/",
+   "meaning_zh": "承受……的主要冲击（或压力）",
+   "count": 1,
+   "dates": [
+    "2026-10-29"
+   ]
+  },
+  {
    "word": "besiege",
    "pos": "v.",
    "phonetic": "/bɪˈsiːdʒ/",
@@ -284,6 +305,16 @@
    ]
   },
   {
+   "word": "crippling",
+   "pos": "adj.",
+   "phonetic": "/ˈkrɪplɪŋ/",
+   "meaning_zh": "造成严重损害的，使瘫痪的",
+   "count": 1,
+   "dates": [
+    "2026-10-29"
+   ]
+  },
+  {
    "word": "crossbench",
    "pos": "n./adj.",
    "phonetic": "/ˈkrɒsbentʃ/",
@@ -291,6 +322,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "curtail",
+   "pos": "v.",
+   "phonetic": "/kɜːrˈteɪl/",
+   "meaning_zh": "削减，限制",
+   "count": 1,
+   "dates": [
+    "2026-10-29"
    ]
   },
   {
@@ -444,6 +485,16 @@
    ]
   },
   {
+   "word": "gut",
+   "pos": "v.",
+   "phonetic": "/ɡʌt/",
+   "meaning_zh": "掏空，削弱（法规、制度等的实质内容）",
+   "count": 1,
+   "dates": [
+    "2026-10-29"
+   ]
+  },
+  {
    "word": "hand a win to",
    "pos": "phrase",
    "phonetic": "/hænd ə wɪn tə/",
@@ -471,6 +522,16 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "hold sb accountable for",
+   "pos": "phrase",
+   "phonetic": "/hoʊld ˌækaʊntəbl fɔːr/",
+   "meaning_zh": "让某人对……负责",
+   "count": 1,
+   "dates": [
+    "2026-10-29"
    ]
   },
   {
@@ -764,6 +825,16 @@
    ]
   },
   {
+   "word": "push back against",
+   "pos": "phrase",
+   "phonetic": "/pʊʃ bæk əˈɡenst/",
+   "meaning_zh": "抵制，反对",
+   "count": 1,
+   "dates": [
+    "2026-10-29"
+   ]
+  },
+  {
    "word": "raise the alarm",
    "pos": "phrase",
    "phonetic": "/reɪz ði əˈlɑːm/",
@@ -834,6 +905,16 @@
    ]
   },
   {
+   "word": "rescin",
+   "pos": "v.",
+   "phonetic": "/rɪˈsɪnd/",
+   "meaning_zh": "撤销，废除（法律、决定等）",
+   "count": 1,
+   "dates": [
+    "2026-10-29"
+   ]
+  },
+  {
    "word": "retain",
    "pos": "v.",
    "phonetic": "/rɪˈteɪn/",
@@ -851,6 +932,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "revise",
+   "pos": "v.",
+   "phonetic": "/rɪˈvaɪz/",
+   "meaning_zh": "修订，修改（法规、文件等）",
+   "count": 1,
+   "dates": [
+    "2026-10-29"
    ]
   },
   {
@@ -964,6 +1055,16 @@
    ]
   },
   {
+   "word": "skyrocket",
+   "pos": "v.",
+   "phonetic": "/ˈskaɪrɑːkɪt/",
+   "meaning_zh": "飞涨，猛增",
+   "count": 1,
+   "dates": [
+    "2026-10-29"
+   ]
+  },
+  {
    "word": "slug",
    "pos": "v.",
    "phonetic": "/slʌɡ/",
@@ -1024,16 +1125,6 @@
    ]
   },
   {
-   "word": "terminate",
-   "pos": "v.",
-   "phonetic": "/ˈtɜːmɪneɪt/",
-   "meaning_zh": "终止、结束",
-   "count": 1,
-   "dates": [
-    "2026-10-21"
-   ]
-  },
-  {
    "word": "toss-up",
    "pos": "n.",
    "phonetic": "/ˈtɔːs ʌp/",
@@ -1064,6 +1155,16 @@
    ]
   },
   {
+   "word": "unleash",
+   "pos": "v.",
+   "phonetic": "/ʌnˈliːʃ/",
+   "meaning_zh": "释放，放开（能量、潜力等）",
+   "count": 1,
+   "dates": [
+    "2026-10-29"
+   ]
+  },
+  {
    "word": "unproven",
    "pos": "adj.",
    "phonetic": "/ʌnˈpruːvn/",
@@ -1081,6 +1182,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "violate",
+   "pos": "v.",
+   "phonetic": "/ˈvaɪəleɪt/",
+   "meaning_zh": "违反，违背（法律、原则等）",
+   "count": 1,
+   "dates": [
+    "2026-10-29"
    ]
   },
   {

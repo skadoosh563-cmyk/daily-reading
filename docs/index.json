@@ -1,7 +1,114 @@
 {
- "updated": "2026-10-28T00:44:15",
- "count": 11,
+ "updated": "2026-10-29T01:12:35",
+ "count": 12,
  "items": [
+  {
+   "id": "trump-says-government-to-terminate-biden",
+   "date": "2026-10-29",
+   "title_zh": "特朗普称政府将“终止”拜登时代的甲烷排放规定",
+   "summary": "特朗普在得州集会上宣布废除拜登时期针对油气行业甲烷泄漏的监管规定，称此举可节省开支并增加产量。EPA署长称赞此举是“结束对油气战争”，但环保与公共卫生团体批评该提案违反《清洁空气法》、危害社区健康。文章还揭露了油气行业在幕后游说削弱监管、与新政府频繁接触的内幕，并指出美国油气行业甲烷排放量全球居首。这篇报道展现了政策博弈中各方立场与利益冲突，适合学习政治环保类外刊的论证与引述表达。",
+   "vocab": [
+    {
+     "word": "terminate",
+     "pos": "v.",
+     "phonetic": "/ˈtɜːrmɪneɪt/",
+     "meaning_zh": "终止，废除（规定、协议等）",
+     "example_en": "Donald Trump said his administration was “terminating” Biden-era regulations holding oil and gas companies accountable for large leaks of planet-warming methane.",
+     "example_zh": "唐纳德·特朗普表示，他的政府将“终止”拜登时代要求油气公司对大量温室气体甲烷泄漏负责的规定。"
+    },
+    {
+     "word": "hold sb accountable for",
+     "pos": "phrase",
+     "phonetic": "/hoʊld ˌækaʊntəbl fɔːr/",
+     "meaning_zh": "让某人对……负责",
+     "example_en": "regulations holding oil and gas companies accountable for large leaks of planet-warming methane",
+     "example_zh": "要求油气公司对大量温室气体甲烷泄漏负责的规定"
+    },
+    {
+     "word": "crippling",
+     "pos": "adj.",
+     "phonetic": "/ˈkrɪplɪŋ/",
+     "meaning_zh": "造成严重损害的，使瘫痪的",
+     "example_en": "lifting what he called “crippling regulations on methane that caused prices to skyrocket”",
+     "example_zh": "取消他所谓的“导致价格飞涨的、具有破坏性的甲烷规定”"
+    },
+    {
+     "word": "skyrocket",
+     "pos": "v.",
+     "phonetic": "/ˈskaɪrɑːkɪt/",
+     "meaning_zh": "飞涨，猛增",
+     "example_en": "regulations on methane that caused prices to skyrocket",
+     "example_zh": "导致价格飞涨的甲烷规定"
+    },
+    {
+     "word": "revise",
+     "pos": "v.",
+     "phonetic": "/rɪˈvaɪz/",
+     "meaning_zh": "修订，修改（法规、文件等）",
+     "example_en": "by revising oil and natural gas regulations under the Clean Air Act",
+     "example_zh": "通过修订《清洁空气法》下的石油和天然气法规"
+    },
+    {
+     "word": "violate",
+     "pos": "v.",
+     "phonetic": "/ˈvaɪəleɪt/",
+     "meaning_zh": "违反，违背（法律、原则等）",
+     "example_en": "The EPA’s proposal violates the Clean Air Act’s duty to protect public health and welfare.",
+     "example_zh": "EPA的提案违反了《清洁空气法》保护公众健康与福祉的义务。"
+    },
+    {
+     "word": "rescin",
+     "pos": "v.",
+     "phonetic": "/rɪˈsɪnd/",
+     "meaning_zh": "撤销，废除（法律、决定等）",
+     "example_en": "the agency must rescind this unlawful proposal and implement the 2024 rule without delay",
+     "example_zh": "该机构必须撤销这一非法提案，并立即实施2024年的规定"
+    },
+    {
+     "word": "bear the brunt of",
+     "pos": "phrase",
+     "phonetic": "/ber ðə brʌnt ʌv/",
+     "meaning_zh": "承受……的主要冲击（或压力）",
+     "example_en": "harm the communities who bear the brunt of dirtier air and a warming planet",
+     "example_zh": "伤害那些承受更脏空气和地球变暖主要冲击的社区"
+    },
+    {
+     "word": "push back against",
+     "pos": "phrase",
+     "phonetic": "/pʊʃ bæk əˈɡenst/",
+     "meaning_zh": "抵制，反对",
+     "example_en": "Continental Resources wrote a letter to the EPA pushing back against measures in the methane rule",
+     "example_zh": "大陆资源公司致信EPA，抵制甲烷规定中的一些措施"
+    },
+    {
+     "word": "gut",
+     "pos": "v.",
+     "phonetic": "/ɡʌt/",
+     "meaning_zh": "掏空，削弱（法规、制度等的实质内容）",
+     "example_en": "industry trade groups and corporations worked behind the scenes to gut the methane regulations",
+     "example_zh": "行业贸易团体和公司则在幕后努力削弱甲烷规定的实质内容"
+    },
+    {
+     "word": "curtail",
+     "pos": "v.",
+     "phonetic": "/kɜːrˈteɪl/",
+     "meaning_zh": "削减，限制",
+     "example_en": "the Trump administration was seeking to curtail the federal government’s ability to do anything to address climate pollution",
+     "example_zh": "特朗普政府正试图削弱联邦政府应对气候污染的能力"
+    },
+    {
+     "word": "unleash",
+     "pos": "v.",
+     "phonetic": "/ʌnˈliːʃ/",
+     "meaning_zh": "释放，放开（能量、潜力等）",
+     "example_en": "to ensure that they do not prevent America from unleashing energy dominance",
+     "example_zh": "以确保它们不会阻碍美国释放能源主导地位"
+    }
+   ],
+   "source": "The Guardian · Business",
+   "word_count": 905,
+   "level": "C1"
+  },
   {
    "id": "former-met-officer-who-worked-with-wayne",
    "date": "2026-10-28",
