@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T01:12:35",
- "count": 120,
+ "updated": "2026-10-30T03:01:11",
+ "count": 130,
  "vocab": [
   {
    "word": "seize on",
@@ -425,6 +425,16 @@
    ]
   },
   {
+   "word": "extractivist",
+   "pos": "adj.",
+   "phonetic": "/ɪkˈstræktɪvɪst/",
+   "meaning_zh": "开采主义的（指过度开采自然资源的经济模式）",
+   "count": 1,
+   "dates": [
+    "2026-10-30"
+   ]
+  },
+  {
    "word": "ferry",
    "pos": "v.",
    "phonetic": "/ˈferi/",
@@ -432,6 +442,16 @@
    "count": 1,
    "dates": [
     "2026-10-25"
+   ]
+  },
+  {
+   "word": "flagging",
+   "pos": "adj.",
+   "phonetic": "/ˈflæɡɪŋ/",
+   "meaning_zh": "疲弱的，日渐衰弱的",
+   "count": 1,
+   "dates": [
+    "2026-10-30"
    ]
   },
   {
@@ -665,6 +685,16 @@
    ]
   },
   {
+   "word": "obsequience",
+   "pos": "n.",
+   "phonetic": "/ˈɒbsɪkwiəns/",
+   "meaning_zh": "谄媚，奴颜婢膝（文中拼写为 obsequience，常见形式为 obsequiousness）",
+   "count": 1,
+   "dates": [
+    "2026-10-30"
+   ]
+  },
+  {
    "word": "off the record",
    "pos": "phrase",
    "phonetic": "/ˌɒf ðə ˈrekɔːd/",
@@ -732,6 +762,16 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "playbook",
+   "pos": "n.",
+   "phonetic": "/ˈpleɪbʊk/",
+   "meaning_zh": "行动指南，策略手册",
+   "count": 1,
+   "dates": [
+    "2026-10-30"
    ]
   },
   {
@@ -852,6 +892,16 @@
    "count": 1,
    "dates": [
     "2026-10-25"
+   ]
+  },
+  {
+   "word": "rapturous",
+   "pos": "adj.",
+   "phonetic": "/ˈræptʃərəs/",
+   "meaning_zh": "狂喜的，热烈的",
+   "count": 1,
+   "dates": [
+    "2026-10-30"
    ]
   },
   {
@@ -1075,6 +1125,16 @@
    ]
   },
   {
+   "word": "social mandate",
+   "pos": "phrase",
+   "phonetic": "/ˈsəʊʃl ˈmændeɪt/",
+   "meaning_zh": "社会授权，公众认可",
+   "count": 1,
+   "dates": [
+    "2026-10-30"
+   ]
+  },
+  {
    "word": "softly spoken",
    "pos": "adj.",
    "phonetic": "/ˌsɒftli ˈspəʊkən/",
@@ -1095,6 +1155,16 @@
    ]
   },
   {
+   "word": "staunch the flow",
+   "pos": "phrase",
+   "phonetic": "/stɔːntʃ ðə fləʊ/",
+   "meaning_zh": "止住（流血等）流动；遏制恶化趋势",
+   "count": 1,
+   "dates": [
+    "2026-10-30"
+   ]
+  },
+  {
    "word": "steep tariffs",
    "pos": "n. phrase",
    "phonetic": "/stiːp ˈtærɪfs/",
@@ -1102,6 +1172,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "stodgy",
+   "pos": "adj.",
+   "phonetic": "/ˈstɒdʒi/",
+   "meaning_zh": "乏味的，老套的，缺乏活力的",
+   "count": 1,
+   "dates": [
+    "2026-10-30"
    ]
   },
   {
@@ -1142,6 +1222,16 @@
    "count": 1,
    "dates": [
     "2026-10-24"
+   ]
+  },
+  {
+   "word": "trounce",
+   "pos": "v.",
+   "phonetic": "/traʊns/",
+   "meaning_zh": "彻底击败，大败（对手）",
+   "count": 1,
+   "dates": [
+    "2026-10-30"
    ]
   },
   {
@@ -1202,6 +1292,16 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "write off",
+   "pos": "phr. v.",
+   "phonetic": "/raɪt ɒf/",
+   "meaning_zh": "认定（某人）已失败、不再抱希望",
+   "count": 1,
+   "dates": [
+    "2026-10-30"
    ]
   }
  ]

@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-29T01:12:35",
- "count": 12,
+ "updated": "2026-10-30T03:01:11",
+ "count": 13,
  "items": [
+  {
+   "id": "brazil-s-victory-for-the-planet-and-demo",
+   "date": "2026-10-30",
+   "title_zh": "巴西的胜利：对地球与民主而言——卢拉胜选带来的七个启示",
+   "summary": "文章以巴西卢拉在总统决选中击败极右翼对手为切入点，指出这场胜利不仅对亚马逊保护和全球气候行动意义重大，也为其他面临选举的国家提供了社会与环保运动的行动范本。作者随后总结七条经验：政治优先、绝不放弃、动员竞选大军、反击美国科技巨头、夺回国家象征、加大社会支出、捍卫主权民主与可持续性。最后提醒卢拉仍面临国会、地方势力与国际压力，巴西的希望须激发他国政治变革才能真正持久。",
+   "vocab": [
+    {
+     "word": "trounce",
+     "pos": "v.",
+     "phonetic": "/traʊns/",
+     "meaning_zh": "彻底击败，大败（对手）",
+     "example_en": "Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened.",
+     "example_zh": "谢谢你，巴西，你展示了如何在加强亚马逊保护的同时彻底击败极右翼。"
+    },
+    {
+     "word": "staunch the flow",
+     "pos": "phrase",
+     "phonetic": "/stɔːntʃ ðə fləʊ/",
+     "meaning_zh": "止住（流血等）流动；遏制恶化趋势",
+     "example_en": "voters and forest defenders in this global south powerhouse have shown it is possible to staunch the flow.",
+     "example_zh": "这个全球南方强国的选民和森林守护者已经表明，止住这种流失是可能的。"
+    },
+    {
+     "word": "playbook",
+     "pos": "n.",
+     "phonetic": "/ˈpleɪbʊk/",
+     "meaning_zh": "行动指南，策略手册",
+     "example_en": "This should provide much needed inspiration and, more practically, a playbook for social and environmental movements in other countries facing elections.",
+     "example_zh": "这应当提供亟需的鼓舞，更实际地说，为其他面临选举的国家的社会与环保运动提供一本行动指南。"
+    },
+    {
+     "word": "rapturous",
+     "pos": "adj.",
+     "phonetic": "/ˈræptʃərəs/",
+     "meaning_zh": "狂喜的，热烈的",
+     "example_en": "has brought oceans of rapturous supporters on to the streets",
+     "example_zh": "让大批狂喜的支持者涌上街头"
+    },
+    {
+     "word": "flagging",
+     "pos": "adj.",
+     "phonetic": "/ˈflæɡɪŋ/",
+     "meaning_zh": "疲弱的，日渐衰弱的",
+     "example_en": "That would provide a huge boost to flagging global efforts to stabilise the climate and protect degraded ecosystems.",
+     "example_zh": "那将极大地提振全球日趋疲弱的稳定气候和保护退化生态系统的努力。"
+    },
+    {
+     "word": "extractivist",
+     "pos": "adj.",
+     "phonetic": "/ɪkˈstræktɪvɪst/",
+     "meaning_zh": "开采主义的（指过度开采自然资源的经济模式）",
+     "example_en": "Brazil’s congress is now dominated by agribusiness and mining interests ... and will push hard to allow more extractivist industries in indigenous lands",
+     "example_zh": "巴西国会现在由农业综合企业和矿业利益集团主导……并将大力推动允许更多开采型产业进入原住民土地"
+    },
+    {
+     "word": "write off",
+     "pos": "phr. v.",
+     "phonetic": "/raɪt ɒf/",
+     "meaning_zh": "认定（某人）已失败、不再抱希望",
+     "example_en": "Lula was largely written off by the markets and some polls after his first-round defeat.",
+     "example_zh": "首轮失利后，卢拉基本上被市场和部分民调判定出局。"
+    },
+    {
+     "word": "stodgy",
+     "pos": "adj.",
+     "phonetic": "/ˈstɒdʒi/",
+     "meaning_zh": "乏味的，老套的，缺乏活力的",
+     "example_en": "The first round of Lula’s campaign had been stodgy, old-fashioned and defensive",
+     "example_zh": "卢拉首轮竞选活动乏味、老套且处于守势"
+    },
+    {
+     "word": "obsequience",
+     "pos": "n.",
+     "phonetic": "/ˈɒbsɪkwiəns/",
+     "meaning_zh": "谄媚，奴颜婢膝（文中拼写为 obsequience，常见形式为 obsequiousness）",
+     "example_en": "They highlighted the interlinked threats posed by the obsequience to Trump",
+     "example_zh": "他们强调了对特朗普的谄媚所带来的相互关联的威胁"
+    },
+    {
+     "word": "social mandate",
+     "pos": "phrase",
+     "phonetic": "/ˈsəʊʃl ˈmændeɪt/",
+     "meaning_zh": "社会授权，公众认可",
+     "example_en": "This makes it harder for extractive companies to secure a social mandate",
+     "example_zh": "这使得开采型企业更难获得社会授权"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 1273,
+   "level": "C1"
+  },
   {
    "id": "trump-says-government-to-terminate-biden",
    "date": "2026-10-29",
