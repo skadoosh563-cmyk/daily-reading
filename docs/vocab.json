@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T03:01:11",
- "count": 130,
+ "updated": "2026-10-31T01:00:36",
+ "count": 140,
  "vocab": [
   {
    "word": "seize on",
@@ -415,6 +415,16 @@
    ]
   },
   {
+   "word": "erase",
+   "pos": "v.",
+   "phonetic": "/ɪˈreɪz/",
+   "meaning_zh": "抹去；消除（此处指市值蒸发）",
+   "count": 1,
+   "dates": [
+    "2026-10-31"
+   ]
+  },
+  {
    "word": "exemption",
    "pos": "n.",
    "phonetic": "/ɪɡˈzempʃn/",
@@ -432,6 +442,16 @@
    "count": 1,
    "dates": [
     "2026-10-30"
+   ]
+  },
+  {
+   "word": "fall short of",
+   "pos": "phrase",
+   "phonetic": "/fɔːl ʃɔːt ɒv/",
+   "meaning_zh": "未达到；不及",
+   "count": 1,
+   "dates": [
+    "2026-10-31"
    ]
   },
   {
@@ -465,6 +485,16 @@
    ]
   },
   {
+   "word": "flirt with",
+   "pos": "phrase",
+   "phonetic": "/flɜːt wɪð/",
+   "meaning_zh": "接近于；险些达到（此处指接近最差单日表现）",
+   "count": 1,
+   "dates": [
+    "2026-10-31"
+   ]
+  },
+  {
    "word": "floated",
    "pos": "v.",
    "phonetic": "/ˈfləʊtɪd/",
@@ -482,6 +512,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "gain steam",
+   "pos": "phrase",
+   "phonetic": "/ɡeɪn stiːm/",
+   "meaning_zh": "势头增强；加速发展",
+   "count": 1,
+   "dates": [
+    "2026-10-31"
    ]
   },
   {
@@ -712,6 +752,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "overshadow",
+   "pos": "v.",
+   "phonetic": "/ˌəʊvəˈʃædəʊ/",
+   "meaning_zh": "使黯然失色；掩盖……的重要性",
+   "count": 1,
+   "dates": [
+    "2026-10-31"
    ]
   },
   {
@@ -1015,6 +1065,16 @@
    ]
   },
   {
+   "word": "run into turbulence",
+   "pos": "phrase",
+   "phonetic": "/rʌn ˈɪntu ˈtɜːbjələns/",
+   "meaning_zh": "遭遇动荡；陷入不稳定",
+   "count": 1,
+   "dates": [
+    "2026-10-31"
+   ]
+  },
+  {
    "word": "scramble for",
    "pos": "phrase",
    "phonetic": "/ˈskræmbl fɔː(r)/",
@@ -1035,6 +1095,16 @@
    ]
   },
   {
+   "word": "scrutiny",
+   "pos": "n.",
+   "phonetic": "/ˈskruːtəni/",
+   "meaning_zh": "仔细审查；审视",
+   "count": 1,
+   "dates": [
+    "2026-10-31"
+   ]
+  },
+  {
    "word": "seek to do sth",
    "pos": "phrase",
    "phonetic": "/siːk tuː/",
@@ -1042,6 +1112,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "sell-off",
+   "pos": "n.",
+   "phonetic": "/ˈsel ɒf/",
+   "meaning_zh": "抛售；大量卖出",
+   "count": 1,
+   "dates": [
+    "2026-10-31"
    ]
   },
   {
@@ -1195,6 +1275,16 @@
    ]
   },
   {
+   "word": "subpar",
+   "pos": "adj.",
+   "phonetic": "/ˌsʌbˈpɑː(r)/",
+   "meaning_zh": "低于标准的；不及预期的",
+   "count": 1,
+   "dates": [
+    "2026-10-31"
+   ]
+  },
+  {
    "word": "take a hit",
    "pos": "phrase",
    "phonetic": "/teɪk ə hɪt/",
@@ -1292,6 +1382,16 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "wipeout",
+   "pos": "n.",
+   "phonetic": "/ˈwaɪpaʊt/",
+   "meaning_zh": "彻底损失；全军覆没（此处指市值大幅蒸发）",
+   "count": 1,
+   "dates": [
+    "2026-10-31"
    ]
   },
   {

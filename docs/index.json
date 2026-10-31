@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-30T03:01:11",
- "count": 13,
+ "updated": "2026-10-31T01:00:36",
+ "count": 14,
  "items": [
+  {
+   "id": "tech-sell-off-drives-us-markets-down-by",
+   "date": "2026-10-31",
+   "title_zh": "科技股抛售潮致美国市场在财报不及预期后蒸发近1万亿美元",
+   "summary": "本周科技股遭遇大规模抛售，纳斯达克一周内市值蒸发近1万亿美元，一个月内缩水约2万亿美元。多家科技巨头财报不及预期，加上市场对人工智能巨额投入能否快速产生回报的疑虑加深，引发投资者恐慌。文章梳理了英特尔、亚马逊、Alphabet、英伟达等个股的具体跌幅与原因，并指出高利率可能进一步拖慢数据中心建设。这篇报道适合学习财经新闻的常用表达和因果逻辑链条的写法。",
+   "vocab": [
+    {
+     "word": "sell-off",
+     "pos": "n.",
+     "phonetic": "/ˈsel ɒf/",
+     "meaning_zh": "抛售；大量卖出",
+     "example_en": "A sell-off of tech stocks that began earlier this month and gained steam with disappointing earnings from leading tech companies drove US markets down by hundreds of billions of dollars Friday.",
+     "example_zh": "本月早些时候开始的科技股抛售潮，随着主要科技公司令人失望的财报而加剧，周五推动美国市场下跌数千亿美元。"
+    },
+    {
+     "word": "gain steam",
+     "pos": "phrase",
+     "phonetic": "/ɡeɪn stiːm/",
+     "meaning_zh": "势头增强；加速发展",
+     "example_en": "A sell-off of tech stocks that began earlier this month and gained steam with disappointing earnings from leading tech companies drove US markets down by hundreds of billions of dollars Friday.",
+     "example_zh": "本月早些时候开始的科技股抛售潮，随着主要科技公司令人失望的财报而加剧，周五推动美国市场下跌数千亿美元。"
+    },
+    {
+     "word": "subpar",
+     "pos": "adj.",
+     "phonetic": "/ˌsʌbˈpɑː(r)/",
+     "meaning_zh": "低于标准的；不及预期的",
+     "example_en": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports.",
+     "example_zh": "财报不及预期后，科技股抛售推动美国市场下跌近1万亿美元。"
+    },
+    {
+     "word": "erase",
+     "pos": "v.",
+     "phonetic": "/ɪˈreɪz/",
+     "meaning_zh": "抹去；消除（此处指市值蒸发）",
+     "example_en": "In total, the decline has knocked nearly $1tn in value off the tech-heavy Nasdaq exchange in one week and erased about $2tn in a month.",
+     "example_zh": "总体而言，此次下跌在一周内使以科技股为主的纳斯达克交易所市值蒸发近1万亿美元，一个月内抹去约2万亿美元。"
+    },
+    {
+     "word": "wipeout",
+     "pos": "n.",
+     "phonetic": "/ˈwaɪpaʊt/",
+     "meaning_zh": "彻底损失；全军覆没（此处指市值大幅蒸发）",
+     "example_en": "The wipeout would amount to slightly more than SpaceX’s entire market value.",
+     "example_zh": "这一蒸发规模将略高于SpaceX的全部市值。"
+    },
+    {
+     "word": "scrutiny",
+     "pos": "n.",
+     "phonetic": "/ˈskruːtəni/",
+     "meaning_zh": "仔细审查；审视",
+     "example_en": "More than $2tn in market value is set to be wiped from the Nasdaq 100 this month, as big tech earnings intensified investor scrutiny of whether the billions being poured into artificial intelligence can generate returns quickly enough.",
+     "example_zh": "本月纳斯达克100指数预计将蒸发超过2万亿美元市值，因为大型科技公司的财报加剧了投资者的审视：投入人工智能的数十亿美元能否足够快地产生回报。"
+    },
+    {
+     "word": "run into turbulence",
+     "pos": "phrase",
+     "phonetic": "/rʌn ˈɪntu ˈtɜːbjələns/",
+     "meaning_zh": "遭遇动荡；陷入不稳定",
+     "example_en": "The index has fallen more than 5.8% so far in October as the AI trade ran into turbulence, with hyperscalers Meta Platforms, Alphabet and Amazon raising spending forecasts further as they race to expand AI infrastructure.",
+     "example_zh": "截至10月，该指数已下跌超过5.8%，原因是AI交易遭遇动荡，超大规模云服务商Meta、Alphabet和亚马逊在竞相扩展AI基础设施的过程中进一步上调了支出预期。"
+    },
+    {
+     "word": "flirt with",
+     "pos": "phrase",
+     "phonetic": "/flɜːt wɪð/",
+     "meaning_zh": "接近于；险些达到（此处指接近最差单日表现）",
+     "example_en": "Intel tumbled nearly 30% and is flirting with its worst day since 1974, even though the chipmaker reported a stronger profit for the latest quarter than analysts expected.",
+     "example_zh": "英特尔暴跌近30%，接近1974年以来最差单日表现，尽管这家芯片制造商最新季度利润高于分析师预期。"
+    },
+    {
+     "word": "fall short of",
+     "pos": "phrase",
+     "phonetic": "/fɔːl ʃɔːt ɒv/",
+     "meaning_zh": "未达到；不及",
+     "example_en": "It gave a forecast for profit in the final three months of this year that fell far short of analysts’ expectations.",
+     "example_zh": "该公司对今年最后三个月的利润预测远低于分析师预期。"
+    },
+    {
+     "word": "overshadow",
+     "pos": "v.",
+     "phonetic": "/ˌəʊvəˈʃædəʊ/",
+     "meaning_zh": "使黯然失色；掩盖……的重要性",
+     "example_en": "Such losses overshadowed an otherwise mixed day for the rest of Wall Street, with the S&P 500 roughly evenly split between gainers and losers.",
+     "example_zh": "这些亏损掩盖了华尔街其他板块原本涨跌互现的一天，标普500指数中上涨和下跌的股票数量大致相当。"
+    }
+   ],
+   "source": "The Guardian · Business",
+   "word_count": 496,
+   "level": "B2"
+  },
   {
    "id": "brazil-s-victory-for-the-planet-and-demo",
    "date": "2026-10-30",
