@@ -1,7 +1,98 @@
 {
- "updated": "2026-10-31T01:00:36",
- "count": 14,
+ "updated": "2026-11-01T00:24:33",
+ "count": 15,
  "items": [
+  {
+   "id": "severe-rainfall-and-flood-warnings-issue",
+   "date": "2026-11-01",
+   "title_zh": "希腊中部和土耳其西部发布强降雨和洪水预警",
+   "summary": "本文是一篇天气综述报道，覆盖了从欧洲东南部到西太平洋的多个极端天气事件：希腊和土耳其遭遇强降雨与龙卷风，印度受气旋Arnab袭击，西太平洋出现超强台风In-fa，墨西哥受热带风暴Vance影响。文章信息密集、地理跨度大，适合用来练习快速抓取多地天气事件的核心信息，并积累灾害类外刊高频词汇。",
+   "vocab": [
+    {
+     "word": "low pressure",
+     "pos": "n.",
+     "phonetic": "/ˌləʊ ˈpreʃə(r)/",
+     "meaning_zh": "低气压",
+     "example_en": "an area of low pressure in the region has allowed for the formation of powerful thunderstorms",
+     "example_zh": "该地区的一个低气压区促成了强雷暴的形成"
+    },
+    {
+     "word": "make landfall",
+     "pos": "phrase",
+     "phonetic": "/meɪk ˈlændfɔːl/",
+     "meaning_zh": "（风暴）登陆",
+     "example_en": "strong winds and heavy rainfall have swept across the Indian regions of Odisha and Andhra Pradesh as Cyclone Arnab made landfall",
+     "example_zh": "随着气旋Arnab登陆，强风暴雨席卷了印度奥迪沙和安得拉邦地区"
+    },
+    {
+     "word": "gust",
+     "pos": "n.",
+     "phonetic": "/ɡʌst/",
+     "meaning_zh": "一阵狂风；阵风",
+     "example_en": "With wind gusts in excess of 85mph (140km/h)",
+     "example_zh": "阵风风速超过每小时85英里（140公里）"
+    },
+    {
+     "word": "evacuation",
+     "pos": "n.",
+     "phonetic": "/ɪˌvækjuˈeɪʃn/",
+     "meaning_zh": "疏散；撤离",
+     "example_en": "the severe storm has prompted mass evacuations of more than 180,000 people",
+     "example_zh": "这场强风暴促使超过18万人大规模撤离"
+    },
+    {
+     "word": "disruption",
+     "pos": "n.",
+     "phonetic": "/dɪsˈrʌpʃn/",
+     "meaning_zh": "中断；扰乱",
+     "example_en": "as well as widespread disruption to energy and transport infrastructure",
+     "example_zh": "以及能源和交通基础设施的广泛中断"
+    },
+    {
+     "word": "traverse",
+     "pos": "v.",
+     "phonetic": "/trəˈvɜːs/",
+     "meaning_zh": "穿过；横越",
+     "example_en": "The cyclone will weaken as it continues to traverse northwards over the coming days",
+     "example_zh": "气旋在未来几天继续向北移动的过程中将逐渐减弱"
+    },
+    {
+     "word": "upgrade",
+     "pos": "v.",
+     "phonetic": "/ˌʌpˈɡreɪd/",
+     "meaning_zh": "升级；提升级别",
+     "example_en": "Typhoon In-fa was upgraded on Wednesday to super typhoon status",
+     "example_zh": "台风“烟花”周三被升级为超强台风级别"
+    },
+    {
+     "word": "batter",
+     "pos": "v.",
+     "phonetic": "/ˈbætə(r)/",
+     "meaning_zh": "连续猛击；重创",
+     "example_en": "which have already been battered by four super typhoons this year alone",
+     "example_zh": "仅今年一年该群岛就已遭受四次超强台风的猛烈袭击"
+    },
+    {
+     "word": "landslide",
+     "pos": "n.",
+     "phonetic": "/ˈlændslaɪd/",
+     "meaning_zh": "山体滑坡；泥石流",
+     "example_en": "The high rainfall totals are expected to cause disruption due to flooding and landslides",
+     "example_zh": "预计高降雨量将因洪水和山体滑坡造成交通中断"
+    },
+    {
+     "word": "rip current",
+     "pos": "n.",
+     "phonetic": "/ˈrɪp kʌrənt/",
+     "meaning_zh": "离岸流；裂流",
+     "example_en": "with the storm swell resulting in dangerous surf and rip current conditions off the coast",
+     "example_zh": "风暴涌浪导致近海出现危险的浪况和离岸流"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 350,
+   "level": "B2"
+  },
   {
    "id": "tech-sell-off-drives-us-markets-down-by",
    "date": "2026-10-31",

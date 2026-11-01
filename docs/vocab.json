@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T01:00:36",
- "count": 140,
+ "updated": "2026-11-01T00:24:33",
+ "count": 150,
  "vocab": [
   {
    "word": "seize on",
@@ -112,6 +112,16 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "batter",
+   "pos": "v.",
+   "phonetic": "/ˈbætə(r)/",
+   "meaning_zh": "连续猛击；重创",
+   "count": 1,
+   "dates": [
+    "2026-11-01"
    ]
   },
   {
@@ -375,6 +385,16 @@
    ]
   },
   {
+   "word": "disruption",
+   "pos": "n.",
+   "phonetic": "/dɪsˈrʌpʃn/",
+   "meaning_zh": "中断；扰乱",
+   "count": 1,
+   "dates": [
+    "2026-11-01"
+   ]
+  },
+  {
    "word": "don",
    "pos": "v.",
    "phonetic": "/dɒn/",
@@ -422,6 +442,16 @@
    "count": 1,
    "dates": [
     "2026-10-31"
+   ]
+  },
+  {
+   "word": "evacuation",
+   "pos": "n.",
+   "phonetic": "/ɪˌvækjuˈeɪʃn/",
+   "meaning_zh": "疏散；撤离",
+   "count": 1,
+   "dates": [
+    "2026-11-01"
    ]
   },
   {
@@ -545,6 +575,16 @@
    ]
   },
   {
+   "word": "gust",
+   "pos": "n.",
+   "phonetic": "/ɡʌst/",
+   "meaning_zh": "一阵狂风；阵风",
+   "count": 1,
+   "dates": [
+    "2026-11-01"
+   ]
+  },
+  {
    "word": "gut",
    "pos": "v.",
    "phonetic": "/ɡʌt/",
@@ -655,6 +695,16 @@
    ]
   },
   {
+   "word": "landslide",
+   "pos": "n.",
+   "phonetic": "/ˈlændslaɪd/",
+   "meaning_zh": "山体滑坡；泥石流",
+   "count": 1,
+   "dates": [
+    "2026-11-01"
+   ]
+  },
+  {
    "word": "last-minute",
    "pos": "adj.",
    "phonetic": "/ˌlɑːst ˈmɪnɪt/",
@@ -695,6 +745,16 @@
    ]
   },
   {
+   "word": "low pressure",
+   "pos": "n.",
+   "phonetic": "/ˌləʊ ˈpreʃə(r)/",
+   "meaning_zh": "低气压",
+   "count": 1,
+   "dates": [
+    "2026-11-01"
+   ]
+  },
+  {
    "word": "make it to",
    "pos": "phrase",
    "phonetic": "/meɪk ɪt tuː/",
@@ -702,6 +762,16 @@
    "count": 1,
    "dates": [
     "2026-10-23"
+   ]
+  },
+  {
+   "word": "make landfall",
+   "pos": "phrase",
+   "phonetic": "/meɪk ˈlændfɔːl/",
+   "meaning_zh": "（风暴）登陆",
+   "count": 1,
+   "dates": [
+    "2026-11-01"
    ]
   },
   {
@@ -1055,6 +1125,16 @@
    ]
   },
   {
+   "word": "rip current",
+   "pos": "n.",
+   "phonetic": "/ˈrɪp kʌrənt/",
+   "meaning_zh": "离岸流；裂流",
+   "count": 1,
+   "dates": [
+    "2026-11-01"
+   ]
+  },
+  {
    "word": "rip off",
    "pos": "phrase",
    "phonetic": "/rɪp ɒf/",
@@ -1315,6 +1395,16 @@
    ]
   },
   {
+   "word": "traverse",
+   "pos": "v.",
+   "phonetic": "/trəˈvɜːs/",
+   "meaning_zh": "穿过；横越",
+   "count": 1,
+   "dates": [
+    "2026-11-01"
+   ]
+  },
+  {
    "word": "trounce",
    "pos": "v.",
    "phonetic": "/traʊns/",
@@ -1352,6 +1442,16 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "upgrade",
+   "pos": "v.",
+   "phonetic": "/ˌʌpˈɡreɪd/",
+   "meaning_zh": "升级；提升级别",
+   "count": 1,
+   "dates": [
+    "2026-11-01"
    ]
   },
   {
