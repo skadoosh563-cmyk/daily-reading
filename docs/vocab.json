@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T00:24:33",
- "count": 150,
+ "updated": "2026-11-02T01:00:36",
+ "count": 160,
  "vocab": [
   {
    "word": "seize on",
@@ -475,6 +475,16 @@
    ]
   },
   {
+   "word": "fall off the headlines",
+   "pos": "phrase",
+   "phonetic": "/fɔːl ɒf ðə ˈhedlaɪnz/",
+   "meaning_zh": "不再占据新闻头条，淡出公众视野",
+   "count": 1,
+   "dates": [
+    "2026-11-02"
+   ]
+  },
+  {
    "word": "fall short of",
    "pos": "phrase",
    "phonetic": "/fɔːl ʃɔːt ɒv/",
@@ -555,6 +565,16 @@
    ]
   },
   {
+   "word": "gain the upper hand",
+   "pos": "phrase",
+   "phonetic": "/ɡeɪn ði ˈʌpə hænd/",
+   "meaning_zh": "占据上风，取得优势",
+   "count": 1,
+   "dates": [
+    "2026-11-02"
+   ]
+  },
+  {
    "word": "gastrointestinal",
    "pos": "adj.",
    "phonetic": "/ˌɡæstrəʊɪnˈtestɪnl/",
@@ -572,6 +592,16 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "go off the rails",
+   "pos": "phrase",
+   "phonetic": "/ɡəʊ ɒf ðə reɪlz/",
+   "meaning_zh": "失控，行为出格",
+   "count": 1,
+   "dates": [
+    "2026-11-02"
    ]
   },
   {
@@ -642,6 +672,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "if push comes to shove",
+   "pos": "phrase",
+   "phonetic": "/ɪf pʊʃ kʌmz tə ʃʌv/",
+   "meaning_zh": "万一情况紧急，迫不得已时",
+   "count": 1,
+   "dates": [
+    "2026-11-02"
    ]
   },
   {
@@ -772,6 +812,16 @@
    "count": 1,
    "dates": [
     "2026-11-01"
+   ]
+  },
+  {
+   "word": "mercantilistic",
+   "pos": "adj.",
+   "phonetic": "/ˌmɜːkəntɪˈlɪstɪk/",
+   "meaning_zh": "重商主义的，以出口导向和贸易顺差为核心的",
+   "count": 1,
+   "dates": [
+    "2026-11-02"
    ]
   },
   {
@@ -952,6 +1002,16 @@
    "count": 1,
    "dates": [
     "2026-10-25"
+   ]
+  },
+  {
+   "word": "proliferate",
+   "pos": "v.",
+   "phonetic": "/prəˈlɪfəreɪt/",
+   "meaning_zh": "激增，迅速扩散",
+   "count": 1,
+   "dates": [
+    "2026-11-02"
    ]
   },
   {
@@ -1365,6 +1425,16 @@
    ]
   },
   {
+   "word": "take a back seat",
+   "pos": "phrase",
+   "phonetic": "/teɪk ə bæk siːt/",
+   "meaning_zh": "退居次要地位，让位于",
+   "count": 1,
+   "dates": [
+    "2026-11-02"
+   ]
+  },
+  {
    "word": "take a hit",
    "pos": "phrase",
    "phonetic": "/teɪk ə hɪt/",
@@ -1372,6 +1442,16 @@
    "count": 1,
    "dates": [
     "2026-10-24"
+   ]
+  },
+  {
+   "word": "tit-for-tat",
+   "pos": "adj.",
+   "phonetic": "/ˌtɪt fə ˈtæt/",
+   "meaning_zh": "针锋相对的，以牙还牙的",
+   "count": 1,
+   "dates": [
+    "2026-11-02"
    ]
   },
   {
@@ -1445,6 +1525,16 @@
    ]
   },
   {
+   "word": "upend",
+   "pos": "v.",
+   "phonetic": "/ʌpˈend/",
+   "meaning_zh": "颠覆，推翻",
+   "count": 1,
+   "dates": [
+    "2026-11-02"
+   ]
+  },
+  {
    "word": "upgrade",
    "pos": "v.",
    "phonetic": "/ˌʌpˈɡreɪd/",
@@ -1492,6 +1582,16 @@
    "count": 1,
    "dates": [
     "2026-10-31"
+   ]
+  },
+  {
+   "word": "writ large",
+   "pos": "phrase",
+   "phonetic": "/rɪt lɑːdʒ/",
+   "meaning_zh": "整体而言，放大来看",
+   "count": 1,
+   "dates": [
+    "2026-11-02"
    ]
   },
   {

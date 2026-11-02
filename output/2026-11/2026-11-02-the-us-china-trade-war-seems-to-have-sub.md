@@ -1,0 +1,191 @@
+# 外刊精读 · 2026-11-02
+
+**美中贸易战似乎已经平息——但这种平静的错觉具有误导性**
+
+> 来源：The Guardian · World ｜ 难度：C1 ｜ 词数：987
+> 原文：https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi
+
+## 一、导读
+
+这篇文章指出，尽管美中贸易战不再占据头条，但表面的平静具有误导性。两国并未建立任何互信机制，反而在争夺供应链主导权上展开新一轮较量，涉及关键矿产、半导体和稀土等战略资源。作者认为，这种以国家安全为名的经济对抗可能滑向真正的冲突，历史上有过类似先例。文章呼吁双方界定“合法国家安全风险”的边界，但同时对和平前景持悲观态度。
+
+## 二、原文
+
+Donald Trump’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that.
+
+The sense of calm is misleading. Under the radar, the world is marching toward an economic war of potentially epic proportions, one that, history suggests, could well spill over into the real thing.
+
+The truce reached by Washington and Beijing last year in their escalating trade conflict, which has been extended until next January, lowered the heat between the two – putting an end to the escalation of tit-for-tat tariffs and opening a door to some as yet undefined future trade deal.
+
+But neither China nor the US has done anything to establish the mutual assurances that could limit the outbreak of new hostilities. Rather, they are both focused on gaining the upper hand in what seems like an inevitable next round, in a standoff that both sides have defined as a national security priority, essential to ensure economic, technological and military supremacy.
+
+The new arms race is different from those in the past. Rather than building weapons to blow each other up, China and the US are focusing on ensuring the resilience of the international supply chains on which they rely and figuring out how to constrain – and if push comes to shove, throttle – the supply chains essential to the economic and technological progress of their rival.
+
+The paired strategies go back at least to the Covid pandemic, when China’s Xi Jinping called on the nation to “tighten international production chains’ dependence on China, forming a powerful countermeasure and deterrent capability against foreigners who would artificially cut off supply [to China]”.
+
+Early in the Biden administration, national security adviser Jake Sullivan articulated the American goals: to limit China’s access to a narrow set of advanced technologies with military applications without upending the global economic order. He described the strategy as building a “small yard” of forbidden tech surrounded by a “high fence” of trade and investment controls.
+
+By now, the conflict has breached the bounds of these initial rationales. Restrictions on American tech exports, investments and technology transfers to China have proliferated over the last half decade. And they are hitting not only China’s military capabilities but slowing its technological progress writ large. And Trump’s wanton deployment of tariffs is not helping.
+
+China, on the other hand, is becoming increasingly assertive, leveraging its overwhelming dominance over the supply of critical minerals that are essential to high-tech industries for civilian and military uses. Last year, it stunned the Trump administration by throttling exports of rare earths and magnets made from them to retaliate against US tariffs and efforts to restrict China’s access to high-end semiconductors and the lithography machines needed to make them.
+
+It has relaxed some of these controls, but it maintains many other restrictions. While they have largely been imposed to retaliate against American actions, they have also been used to hit other countries for a variety of policies it dislikes. The stakes are high. The International Energy Agency has estimated that if China were to block the US’s and Europe’s access to rare earth magnets, it could cost their economies about $1.5tn per year.
+
+Where does the supply chain war go from here? The Trump administration is pouring hundreds of millions into projects to mine and process rare earths and other critical minerals, hoping to close China’s lead. It is also doubling down on efforts to limit China’s access to frontier semiconductors and to bar it from buying the machinery needed to make them.
+
+China, on the other hand, has announced a range of high-tech export restrictions, covering things such as artificial intelligence chips and solar power technology. Moreover, it has threatened to punish countries that work to reduce their dependence on its mineral inputs.
+
+One hopes there is a path to a peaceful entente. This would probably require some shared understanding of what constitutes a legitimate national security risk that may warrant actions to block supply chains. Defining the “yard” is essential. Frustrations of standard commerce should not be dealt with on a wartime footing.
+
+China will probably dominate renewable energy technologies, especially the solar power industry, into the foreseeable future. It may also dominate the electric vehicle industry. This might hurt in Brussels and Washington, but it’s not worth a war. China, on the other hand, will have to accept that its mercantilistic economic strategy is not tenable for the rest of the world. Its combination of massive export growth with zero import growth is not sustainable.
+
+This might seem doable. And yet the odds that the world economy will remain at peace seem slim. One might recall the Axis powers’ efforts to seize territories as the League of Nations curtailed their access to raw materials in the early stages of the second world war. Or FDR’s blocking of sales of American scrap steel and oil to Japan, which likely contributed to Tokyo’s decision to attack Pearl Harbor. Today, American fighter jets, submarines and missiles use rare earth magnets. What would happen if China blocked access to these materials?
+
+The moment is strange. It’s not that long ago that trade was proposed as perhaps the most powerful tool to deliver world peace, building positive-sum interdependence among nations. That’s over. Interdependence has become a vulnerability. As China and the United States fight over who will control the next generation of technology, trade has become a theater of war.
+
+## 三、逐段翻译
+
+**1.** Donald Trump’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that.
+
+唐纳德·特朗普的贸易战基本上已经不再占据新闻头条。每当这位美国总统行为出格时，对新关税的担忧就会不时爆发——例如，威胁要终止美国与对其有贸易逆差的国家的贸易，除非美联储降息。但关于世界两大经济体正在公然走向经济大冲突的感觉，已经让位于其他更突出的担忧，比如特朗普终结美国民主、人工智能杀死我们所有人之类的。
+
+**2.** The sense of calm is misleading. Under the radar, the world is marching toward an economic war of potentially epic proportions, one that, history suggests, could well spill over into the real thing.
+
+这种平静的感觉具有误导性。在雷达之下，世界正在走向一场可能规模巨大的经济战争，历史表明，这场战争很可能外溢为真正的战争。
+
+**3.** The truce reached by Washington and Beijing last year in their escalating trade conflict, which has been extended until next January, lowered the heat between the two – putting an end to the escalation of tit-for-tat tariffs and opening a door to some as yet undefined future trade deal.
+
+华盛顿和北京去年在不断升级的贸易冲突中达成的休战协议已延长至明年一月，这降低了双方之间的紧张程度——结束了针锋相对的关税升级，并为未来某种尚未定义的贸易协议打开了大门。
+
+**4.** But neither China nor the US has done anything to establish the mutual assurances that could limit the outbreak of new hostilities. Rather, they are both focused on gaining the upper hand in what seems like an inevitable next round, in a standoff that both sides have defined as a national security priority, essential to ensure economic, technological and military supremacy.
+
+但中国和美国都没有采取任何行动来建立能够限制新敌对行动爆发的相互保证。相反，双方都专注于在似乎不可避免的下一轮较量中占据上风，这场对峙被双方定义为国家安全优先事项，对确保经济、技术和军事霸权至关重要。
+
+**5.** The new arms race is different from those in the past. Rather than building weapons to blow each other up, China and the US are focusing on ensuring the resilience of the international supply chains on which they rely and figuring out how to constrain – and if push comes to shove, throttle – the supply chains essential to the economic and technological progress of their rival.
+
+新的军备竞赛与过去不同。与其建造武器互相摧毁，美中两国更专注于确保各自所依赖的国际供应链的韧性，并设法限制——如果迫不得已，则扼杀——对手经济和技术进步所必需的供应链。
+
+**6.** The paired strategies go back at least to the Covid pandemic, when China’s Xi Jinping called on the nation to “tighten international production chains’ dependence on China, forming a powerful countermeasure and deterrent capability against foreigners who would artificially cut off supply [to China]”.
+
+这一对战略至少可以追溯到新冠疫情期间，当时中国的习近平呼吁全国“加紧国际生产链对中国的依赖，形成对人为切断[对华]供应的外国势力的强大反制能力和威慑能力”。
+
+**7.** Early in the Biden administration, national security adviser Jake Sullivan articulated the American goals: to limit China’s access to a narrow set of advanced technologies with military applications without upending the global economic order. He described the strategy as building a “small yard” of forbidden tech surrounded by a “high fence” of trade and investment controls.
+
+在拜登政府初期，国家安全顾问杰克·沙利文阐述了美国的目标：限制中国获取一小部分具有军事用途的先进技术，同时不颠覆全球经济秩序。他将这一战略描述为建造一个“小院”，里面是禁止的技术，周围是贸易和投资管制的“高墙”。
+
+**8.** By now, the conflict has breached the bounds of these initial rationales. Restrictions on American tech exports, investments and technology transfers to China have proliferated over the last half decade. And they are hitting not only China’s military capabilities but slowing its technological progress writ large. And Trump’s wanton deployment of tariffs is not helping.
+
+到目前为止，这场冲突已经突破了这些最初理由的界限。过去五年里，美国对华技术出口、投资和技术转让的限制措施激增。而且这些限制不仅打击了中国的军事能力，还整体上减缓了其技术进步。而特朗普肆意加征关税也无济于事。
+
+**9.** China, on the other hand, is becoming increasingly assertive, leveraging its overwhelming dominance over the supply of critical minerals that are essential to high-tech industries for civilian and military uses. Last year, it stunned the Trump administration by throttling exports of rare earths and magnets made from them to retaliate against US tariffs and efforts to restrict China’s access to high-end semiconductors and the lithography machines needed to make them.
+
+另一方面，中国正变得越来越强势，利用其对关键矿产供应的压倒性主导地位，这些矿产对民用和军事高科技产业至关重要。去年，它通过限制稀土及其制成的磁铁的出口，震惊了特朗普政府，以报复美国关税以及限制中国获取高端半导体和制造半导体所需光刻机的努力。
+
+**10.** It has relaxed some of these controls, but it maintains many other restrictions. While they have largely been imposed to retaliate against American actions, they have also been used to hit other countries for a variety of policies it dislikes. The stakes are high. The International Energy Agency has estimated that if China were to block the US’s and Europe’s access to rare earth magnets, it could cost their economies about $1.5tn per year.
+
+它已经放松了其中一些管制，但仍维持许多其他限制。虽然这些限制主要是为了报复美国的行动，但也被用来打击其他一些国家，以回应其不喜欢的各种政策。利害关系重大。国际能源署估计，如果中国阻断美国和欧洲获取稀土磁铁，可能每年给它们的 economies 造成约1.5万亿美元的损失。
+
+**11.** Where does the supply chain war go from here? The Trump administration is pouring hundreds of millions into projects to mine and process rare earths and other critical minerals, hoping to close China’s lead. It is also doubling down on efforts to limit China’s access to frontier semiconductors and to bar it from buying the machinery needed to make them.
+
+供应链战争接下来走向何方？特朗普政府正在投入数亿美元用于开采和加工稀土及其他关键矿产的项目，希望缩小中国的领先优势。它还在加倍努力限制中国获取前沿半导体，并禁止中国购买制造这些半导体所需的机器。
+
+**12.** China, on the other hand, has announced a range of high-tech export restrictions, covering things such as artificial intelligence chips and solar power technology. Moreover, it has threatened to punish countries that work to reduce their dependence on its mineral inputs.
+
+另一方面，中国宣布了一系列高科技出口限制，涵盖人工智能芯片和太阳能技术等。此外，它还威胁要惩罚那些努力减少对其矿产投入依赖的国家。
+
+**13.** One hopes there is a path to a peaceful entente. This would probably require some shared understanding of what constitutes a legitimate national security risk that may warrant actions to block supply chains. Defining the “yard” is essential. Frustrations of standard commerce should not be dealt with on a wartime footing.
+
+人们希望存在一条通往和平谅解的道路。这可能需要双方对什么构成合法的国家安全风险——即可能值得采取行动阻断供应链的风险——达成某种共识。界定“小院”至关重要。标准商业中的挫折不应以战时姿态来应对。
+
+**14.** China will probably dominate renewable energy technologies, especially the solar power industry, into the foreseeable future. It may also dominate the electric vehicle industry. This might hurt in Brussels and Washington, but it’s not worth a war. China, on the other hand, will have to accept that its mercantilistic economic strategy is not tenable for the rest of the world. Its combination of massive export growth with zero import growth is not sustainable.
+
+在可预见的未来，中国可能会主导可再生能源技术，尤其是太阳能产业。它也可能主导电动汽车产业。这可能会让布鲁塞尔和华盛顿感到痛苦，但不值得为此发动战争。另一方面，中国将不得不接受，其重商主义经济战略对世界其他地区而言是不可持续的。其出口大幅增长与进口零增长相结合的模式是不可持续的。
+
+**15.** This might seem doable. And yet the odds that the world economy will remain at peace seem slim. One might recall the Axis powers’ efforts to seize territories as the League of Nations curtailed their access to raw materials in the early stages of the second world war. Or FDR’s blocking of sales of American scrap steel and oil to Japan, which likely contributed to Tokyo’s decision to attack Pearl Harbor. Today, American fighter jets, submarines and missiles use rare earth magnets. What would happen if China blocked access to these materials?
+
+这似乎可行。然而，世界经济保持和平的可能性似乎很小。人们或许会想起二战初期国际联盟限制轴心国获取原材料时，轴心国夺取领土的努力。或者罗斯福阻止向日本出售美国废钢和石油，这很可能促成了东京袭击珍珠港的决定。今天，美国的战斗机、潜艇和导弹使用稀土磁铁。如果中国阻断这些材料的获取，会发生什么？
+
+**16.** The moment is strange. It’s not that long ago that trade was proposed as perhaps the most powerful tool to deliver world peace, building positive-sum interdependence among nations. That’s over. Interdependence has become a vulnerability. As China and the United States fight over who will control the next generation of technology, trade has become a theater of war.
+
+这个时刻很奇怪。不久之前，贸易还被提议为或许是最强大的工具，可以带来世界和平，在各国之间建立正和相互依赖。那个时代已经结束。相互依赖已成为一种脆弱性。随着中国和美国争夺下一代技术的控制权，贸易已成为战争的舞台。
+
+## 四、生词表
+
+| 词 | 词性 | 音标 | 释义 |
+| --- | --- | --- | --- |
+| fall off the headlines | phrase | /fɔːl ɒf ðə ˈhedlaɪnz/ | 不再占据新闻头条，淡出公众视野 |
+| go off the rails | phrase | /ɡəʊ ɒf ðə reɪlz/ | 失控，行为出格 |
+| take a back seat | phrase | /teɪk ə bæk siːt/ | 退居次要地位，让位于 |
+| tit-for-tat | adj. | /ˌtɪt fə ˈtæt/ | 针锋相对的，以牙还牙的 |
+| gain the upper hand | phrase | /ɡeɪn ði ˈʌpə hænd/ | 占据上风，取得优势 |
+| if push comes to shove | phrase | /ɪf pʊʃ kʌmz tə ʃʌv/ | 万一情况紧急，迫不得已时 |
+| upend | v. | /ʌpˈend/ | 颠覆，推翻 |
+| proliferate | v. | /prəˈlɪfəreɪt/ | 激增，迅速扩散 |
+| writ large | phrase | /rɪt lɑːdʒ/ | 整体而言，放大来看 |
+| mercantilistic | adj. | /ˌmɜːkəntɪˈlɪstɪk/ | 重商主义的，以出口导向和贸易顺差为核心的 |
+
+- **fall off the headlines** 不再占据新闻头条，淡出公众视野
+  - Donald Trump’s trade wars have largely fallen off the headlines.
+  - 唐纳德·特朗普的贸易战基本上已经不再占据新闻头条。
+- **go off the rails** 失控，行为出格
+  - Fears of new tariffs flare up from time to time when the US president goes off the rails.
+  - 每当这位美国总统行为出格时，对新关税的担忧就会不时爆发。
+- **take a back seat** 退居次要地位，让位于
+  - But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears.
+  - 但关于世界两大经济体正在公然走向经济大冲突的感觉，已经让位于其他更突出的担忧。
+- **tit-for-tat** 针锋相对的，以牙还牙的
+  - The truce reached by Washington and Beijing last year in their escalating trade conflict, which has been extended until next January, lowered the heat between the two – putting an end to the escalation of tit-for-tat tariffs and opening a door to some as yet undefined future trade deal.
+  - 华盛顿和北京去年在不断升级的贸易冲突中达成的休战协议已延长至明年一月，这降低了双方之间的紧张程度——结束了针锋相对的关税升级，并为未来某种尚未定义的贸易协议打开了大门。
+- **gain the upper hand** 占据上风，取得优势
+  - Rather, they are both focused on gaining the upper hand in what seems like an inevitable next round.
+  - 相反，双方都专注于在似乎不可避免的下一轮较量中占据上风。
+- **if push comes to shove** 万一情况紧急，迫不得已时
+  - Rather than building weapons to blow each other up, China and the US are focusing on ensuring the resilience of the international supply chains on which they rely and figuring out how to constrain – and if push comes to shove, throttle – the supply chains essential to the economic and technological progress of their rival.
+  - 与其建造武器互相摧毁，美中两国更专注于确保各自所依赖的国际供应链的韧性，并设法限制——如果迫不得已，则扼杀——对手经济和技术进步所必需的供应链。
+- **upend** 颠覆，推翻
+  - Early in the Biden administration, national security adviser Jake Sullivan articulated the American goals: to limit China’s access to a narrow set of advanced technologies with military applications without upending the global economic order.
+  - 在拜登政府初期，国家安全顾问杰克·沙利文阐述了美国的目标：限制中国获取一小部分具有军事用途的先进技术，同时不颠覆全球经济秩序。
+- **proliferate** 激增，迅速扩散
+  - Restrictions on American tech exports, investments and technology transfers to China have proliferated over the last half decade.
+  - 过去五年里，美国对华技术出口、投资和技术转让的限制措施激增。
+- **writ large** 整体而言，放大来看
+  - And they are hitting not only China’s military capabilities but slowing its technological progress writ large.
+  - 而且这些限制不仅打击了中国的军事能力，还整体上减缓了其技术进步。
+- **mercantilistic** 重商主义的，以出口导向和贸易顺差为核心的
+  - China, on the other hand, will have to accept that its mercantilistic economic strategy is not tenable for the rest of the world.
+  - 另一方面，中国将不得不接受，其重商主义经济战略对世界其他地区而言是不可持续的。
+
+## 五、长难句拆解
+
+**1）But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that.**
+
+- 结构：同位语从句 + 后置修饰
+- 讲解：that引导的同位语从句解释the sense的具体内容，说明“这种感觉”是什么。about...介词短语后置修饰fears，列举具体担忧。这种写法先给抽象名词，再用从句和介词短语层层展开，是外刊中常见的“抽象名词+解释性成分”结构，使句子信息密度高但不失清晰。
+
+**2）Rather than building weapons to blow each other up, China and the US are focusing on ensuring the resilience of the international supply chains on which they rely and figuring out how to constrain – and if push comes to shove, throttle – the supply chains essential to the economic and technological progress of their rival.**
+
+- 结构：Rather than引导的对比状语 + 定语从句 + 插入语
+- 讲解：Rather than...置于句首，形成鲜明对比，突出“不是造武器，而是打供应链”。on which they rely是定语从句修饰supply chains。破折号中的if push comes to shove是插入语，补充说明“限制”的升级版是“扼杀”，语气层层递进，增强表现力。这种结构让句子有节奏感，先对比、再展开、后插入强调。
+
+**3）One might recall the Axis powers’ efforts to seize territories as the League of Nations curtailed their access to raw materials in the early stages of the second world war.**
+
+- 结构：as引导的时间/原因状语从句 + 过去时态的历史类比
+- 讲解：as在这里兼有“当……时”和“因为”的意味，引导从句说明背景。主句用One might recall（人们或许会想起）是一种委婉的提醒句式，引出历史类比，暗示当前局势与二战前有相似之处。这种写法不直接下判断，而是让读者自己联想，是评论性文章中常见的修辞策略。
+
+## 六、理解题
+
+**1.** What is the author’s main argument in the article?
+
+> 参考答案：作者的核心论点是：美中贸易战表面上看似平息，但实际上两国并未建立任何互信机制，反而在供应链和关键技术领域展开新一轮对抗。这种以国家安全为名的经济战可能升级为真正的冲突，而历史上的先例（如二战前对原材料获取的限制）表明这种风险不容忽视。作者呼吁界定“合法国家安全风险”的边界，但对和平前景持悲观态度。
+
+**2.** Why does the author mention the Axis powers and FDR’s blocking of scrap steel and oil sales to Japan?
+
+> 参考答案：作者引用这些历史事件是为了类比当前美中在关键矿产和供应链上的对抗。二战前，国际联盟限制轴心国获取原材料，以及美国对日本实施废钢和石油禁运，都被认为是加剧冲突甚至触发战争的因素。作者借此暗示，如果中国阻断稀土磁铁等关键材料的供应，而美国战斗机、潜艇和导弹依赖这些材料，类似的升级风险可能重演。
+
+**3.** According to the article, what is the fundamental disagreement between the US and China that makes a peaceful resolution difficult?
+
+> 参考答案：根本分歧在于双方对“国家安全风险”的界定不同。美国认为限制中国获取先进技术（“小院高墙”策略）是合法的国家安全措施，而中国认为这是对其发展的遏制，并以限制关键矿产出口作为反制。双方都将当前对峙定义为国家安全优先事项，但缺乏对什么构成合法安全风险的共同理解，因此难以建立互信和限制冲突升级的机制。
+
+---
+
+*由「外刊精读」自动生成 · 每天一篇，读原文，也读世界*

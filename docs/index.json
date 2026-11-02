@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-01T00:24:33",
- "count": 15,
+ "updated": "2026-11-02T01:00:36",
+ "count": 16,
  "items": [
+  {
+   "id": "the-us-china-trade-war-seems-to-have-sub",
+   "date": "2026-11-02",
+   "title_zh": "美中贸易战似乎已经平息——但这种平静的错觉具有误导性",
+   "summary": "这篇文章指出，尽管美中贸易战不再占据头条，但表面的平静具有误导性。两国并未建立任何互信机制，反而在争夺供应链主导权上展开新一轮较量，涉及关键矿产、半导体和稀土等战略资源。作者认为，这种以国家安全为名的经济对抗可能滑向真正的冲突，历史上有过类似先例。文章呼吁双方界定“合法国家安全风险”的边界，但同时对和平前景持悲观态度。",
+   "vocab": [
+    {
+     "word": "fall off the headlines",
+     "pos": "phrase",
+     "phonetic": "/fɔːl ɒf ðə ˈhedlaɪnz/",
+     "meaning_zh": "不再占据新闻头条，淡出公众视野",
+     "example_en": "Donald Trump’s trade wars have largely fallen off the headlines.",
+     "example_zh": "唐纳德·特朗普的贸易战基本上已经不再占据新闻头条。"
+    },
+    {
+     "word": "go off the rails",
+     "pos": "phrase",
+     "phonetic": "/ɡəʊ ɒf ðə reɪlz/",
+     "meaning_zh": "失控，行为出格",
+     "example_en": "Fears of new tariffs flare up from time to time when the US president goes off the rails.",
+     "example_zh": "每当这位美国总统行为出格时，对新关税的担忧就会不时爆发。"
+    },
+    {
+     "word": "take a back seat",
+     "pos": "phrase",
+     "phonetic": "/teɪk ə bæk siːt/",
+     "meaning_zh": "退居次要地位，让位于",
+     "example_en": "But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears.",
+     "example_zh": "但关于世界两大经济体正在公然走向经济大冲突的感觉，已经让位于其他更突出的担忧。"
+    },
+    {
+     "word": "tit-for-tat",
+     "pos": "adj.",
+     "phonetic": "/ˌtɪt fə ˈtæt/",
+     "meaning_zh": "针锋相对的，以牙还牙的",
+     "example_en": "The truce reached by Washington and Beijing last year in their escalating trade conflict, which has been extended until next January, lowered the heat between the two – putting an end to the escalation of tit-for-tat tariffs and opening a door to some as yet undefined future trade deal.",
+     "example_zh": "华盛顿和北京去年在不断升级的贸易冲突中达成的休战协议已延长至明年一月，这降低了双方之间的紧张程度——结束了针锋相对的关税升级，并为未来某种尚未定义的贸易协议打开了大门。"
+    },
+    {
+     "word": "gain the upper hand",
+     "pos": "phrase",
+     "phonetic": "/ɡeɪn ði ˈʌpə hænd/",
+     "meaning_zh": "占据上风，取得优势",
+     "example_en": "Rather, they are both focused on gaining the upper hand in what seems like an inevitable next round.",
+     "example_zh": "相反，双方都专注于在似乎不可避免的下一轮较量中占据上风。"
+    },
+    {
+     "word": "if push comes to shove",
+     "pos": "phrase",
+     "phonetic": "/ɪf pʊʃ kʌmz tə ʃʌv/",
+     "meaning_zh": "万一情况紧急，迫不得已时",
+     "example_en": "Rather than building weapons to blow each other up, China and the US are focusing on ensuring the resilience of the international supply chains on which they rely and figuring out how to constrain – and if push comes to shove, throttle – the supply chains essential to the economic and technological progress of their rival.",
+     "example_zh": "与其建造武器互相摧毁，美中两国更专注于确保各自所依赖的国际供应链的韧性，并设法限制——如果迫不得已，则扼杀——对手经济和技术进步所必需的供应链。"
+    },
+    {
+     "word": "upend",
+     "pos": "v.",
+     "phonetic": "/ʌpˈend/",
+     "meaning_zh": "颠覆，推翻",
+     "example_en": "Early in the Biden administration, national security adviser Jake Sullivan articulated the American goals: to limit China’s access to a narrow set of advanced technologies with military applications without upending the global economic order.",
+     "example_zh": "在拜登政府初期，国家安全顾问杰克·沙利文阐述了美国的目标：限制中国获取一小部分具有军事用途的先进技术，同时不颠覆全球经济秩序。"
+    },
+    {
+     "word": "proliferate",
+     "pos": "v.",
+     "phonetic": "/prəˈlɪfəreɪt/",
+     "meaning_zh": "激增，迅速扩散",
+     "example_en": "Restrictions on American tech exports, investments and technology transfers to China have proliferated over the last half decade.",
+     "example_zh": "过去五年里，美国对华技术出口、投资和技术转让的限制措施激增。"
+    },
+    {
+     "word": "writ large",
+     "pos": "phrase",
+     "phonetic": "/rɪt lɑːdʒ/",
+     "meaning_zh": "整体而言，放大来看",
+     "example_en": "And they are hitting not only China’s military capabilities but slowing its technological progress writ large.",
+     "example_zh": "而且这些限制不仅打击了中国的军事能力，还整体上减缓了其技术进步。"
+    },
+    {
+     "word": "mercantilistic",
+     "pos": "adj.",
+     "phonetic": "/ˌmɜːkəntɪˈlɪstɪk/",
+     "meaning_zh": "重商主义的，以出口导向和贸易顺差为核心的",
+     "example_en": "China, on the other hand, will have to accept that its mercantilistic economic strategy is not tenable for the rest of the world.",
+     "example_zh": "另一方面，中国将不得不接受，其重商主义经济战略对世界其他地区而言是不可持续的。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 987,
+   "level": "C1"
+  },
   {
    "id": "severe-rainfall-and-flood-warnings-issue",
    "date": "2026-11-01",
