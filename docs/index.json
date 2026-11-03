@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-02T01:00:36",
- "count": 16,
+ "updated": "2026-11-03T03:02:57",
+ "count": 17,
  "items": [
+  {
+   "id": "trump-s-doj-charges-six-more-people-in-v",
+   "date": "2026-11-03",
+   "title_zh": "特朗普司法部在加州‘选民欺诈’打击行动中再起诉六人",
+   "summary": "中期选举前夕，美国司法部在加州再次起诉六名绿卡持有者，指控他们非法登记投票并在入籍申请中作虚假陈述。此前司法部已起诉28人，并高调解说逮捕过程。文章揭示了司法部施压加州搁置约2万张选票的诉讼被法院驳回，同时专家指出非公民投票极为罕见，司法部在选举中期采取此类行动非同寻常，被质疑带有政治动机。",
+   "vocab": [
+    {
+     "word": "escalation",
+     "pos": "n.",
+     "phonetic": "/ˌeskəˈleɪʃn/",
+     "meaning_zh": "升级；加剧",
+     "example_en": "The US Department of Justice (DoJ) in California has charged six more people with alleged voter fraud crimes, an escalation of the Trump administration’s campaign against the state’s election processes on the eve of the midterms.",
+     "example_zh": "加州美国司法部（DoJ）又起诉了六名涉嫌选民欺诈犯罪的人，这标志着特朗普政府在中期选举前夕针对该州选举程序的行动进一步升级。"
+    },
+    {
+     "word": "on the eve of",
+     "pos": "phrase",
+     "phonetic": "/ɒn ði iːv ɒv/",
+     "meaning_zh": "在……前夕",
+     "example_en": "The US Department of Justice (DoJ) in California has charged six more people with alleged voter fraud crimes, an escalation of the Trump administration’s campaign against the state’s election processes on the eve of the midterms.",
+     "example_zh": "加州美国司法部（DoJ）又起诉了六名涉嫌选民欺诈犯罪的人，这标志着特朗普政府在中期选举前夕针对该州选举程序的行动进一步升级。"
+    },
+    {
+     "word": "lawful permanent resident",
+     "pos": "n.",
+     "phonetic": "/ˈlɔːfl ˈpɜːmənənt ˈrezɪdənt/",
+     "meaning_zh": "合法永久居民（绿卡持有者）",
+     "example_en": "Bill Essayli, the top federal prosecutor in Los Angeles and a close ally of the president, announced on Monday that his office was prosecuting six lawful permanent residents accused of unlawfully registering to vote and casting fraudulent ballots.",
+     "example_zh": "洛杉矶最高联邦检察官、总统的亲密盟友比尔·埃萨利周一宣布，他的办公室正在起诉六名合法永久居民，他们被指控非法登记投票并投出欺诈性选票。"
+    },
+    {
+     "word": "barred from",
+     "pos": "phrase",
+     "phonetic": "/bɑːd frɒm/",
+     "meaning_zh": "被禁止（做某事）",
+     "example_en": "The six new defendants are all green card holders, according to criminal complaints filed in federal court, meaning they are immigrants who have legal status, but are barred from voting.",
+     "example_zh": "根据提交给联邦法院的刑事起诉书，六名新被告都是绿卡持有者，这意味着他们是拥有合法身份的移民，但被禁止投票。"
+    },
+    {
+     "word": "set aside",
+     "pos": "phrase",
+     "phonetic": "/set əˈsaɪd/",
+     "meaning_zh": "搁置；保留（以备处理）",
+     "example_en": "The latest arrests come as the DoJ pushes ahead with its lawsuit seeking to force California election officials to set aside roughly 20,000 ballots that federal prosecutors say may belong to noncitizens who fraudulently registered.",
+     "example_zh": "最新逮捕行动发生之际，司法部正推进其诉讼，试图迫使加州选举官员搁置大约2万张选票，联邦检察官称这些选票可能属于欺诈登记的非公民。"
+    },
+    {
+     "word": "disenfranchise",
+     "pos": "v.",
+     "phonetic": "/ˌdɪsɪnˈfræntʃaɪz/",
+     "meaning_zh": "剥夺（某人）的选举权",
+     "example_en": "State election leaders have countered that prosecutors’ list and methodology was unreliable and that complying with the demands in the middle of an election would be logistically impossible and would risk disenfranchising US citizens.",
+     "example_zh": "州选举领导人反驳说，检察官的名单和方法不可靠，在选举中途满足这些要求在操作上不可能，并有可能剥夺美国公民的选举权。"
+    },
+    {
+     "word": "rebuff",
+     "pos": "v.",
+     "phonetic": "/rɪˈbʌf/",
+     "meaning_zh": "断然拒绝；驳回",
+     "example_en": "Multiple judges have rebuffed the DoJ’s efforts as unconstitutional and a threat to democracy, and the US supreme court on Monday rejected the Trump administration’s appeals.",
+     "example_zh": "多名法官驳回司法部的行动，认为其违宪并威胁民主，美国最高法院周一也驳回了特朗普政府的上诉。"
+    },
+    {
+     "word": "affidavit",
+     "pos": "n.",
+     "phonetic": "/ˌæfəˈdeɪvɪt/",
+     "meaning_zh": "宣誓书；书面陈述",
+     "example_en": "All six are accused of a single charge each of making false statements on a naturalization application, with affidavits alleging they unlawfully registered to vote, and then when they later applied for citizenship, they falsely claimed that they had never previously registered.",
+     "example_zh": "六人均被指控一项在入籍申请中作虚假陈述的罪名，宣誓书声称他们非法登记投票，后来申请公民身份时又谎称此前从未登记过。"
+    },
+    {
+     "word": "galling",
+     "pos": "adj.",
+     "phonetic": "/ˈɡɔːlɪŋ/",
+     "meaning_zh": "令人恼怒的；使人愤慨的",
+     "example_en": "Former prosecutors and defense lawyers have said it was especially galling to see the government present the arrests in such a showy manner, blasting mugshots and parading defendants in front of news cameras.",
+     "example_zh": "前检察官和辩护律师表示，看到政府以如此炫耀的方式展示逮捕行动——大肆发布嫌犯照片并在新闻镜头前游街示众——尤其令人愤慨。"
+    },
+    {
+     "word": "rebuke",
+     "pos": "n.",
+     "phonetic": "/rɪˈbjuːk/",
+     "meaning_zh": "谴责；批评",
+     "example_en": "The DoJ in recent days has also repeatedly threatened to criminally prosecute election officials who process fraudulent ballots, prompting a rebuke from a federal judge on Friday, who said the DoJ’s “intimidation, threats, and attempts at coercion force election workers daily to choose between acceding to [the DoJ’s] unlawful demands or adhering to their duties and thereby subjecting themselves to a serious risk of criminal investigation and prosecution”.",
+     "example_zh": "司法部近日还多次威胁要刑事起诉处理欺诈性选票的选举官员，这招致一名联邦法官周五的谴责，该法官称司法部的“恐吓、威胁和胁迫企图迫使选举工作人员每天在服从（司法部）非法要求与坚守职责之间做出选择，而后者会使他们面临刑事调查和起诉的严重风险”。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 987,
+   "level": "C1"
+  },
   {
    "id": "the-us-china-trade-war-seems-to-have-sub",
    "date": "2026-11-02",

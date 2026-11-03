@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02T01:00:36",
- "count": 160,
+ "updated": "2026-11-03T03:02:57",
+ "count": 170,
  "vocab": [
   {
    "word": "seize on",
@@ -75,6 +75,16 @@
    ]
   },
   {
+   "word": "affidavit",
+   "pos": "n.",
+   "phonetic": "/ˌæfəˈdeɪvɪt/",
+   "meaning_zh": "宣誓书；书面陈述",
+   "count": 1,
+   "dates": [
+    "2026-11-03"
+   ]
+  },
+  {
    "word": "angle for",
    "pos": "phrase",
    "phonetic": "/ˈæŋɡl fɔː(r)/",
@@ -112,6 +122,16 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "barred from",
+   "pos": "phrase",
+   "phonetic": "/bɑːd frɒm/",
+   "meaning_zh": "被禁止（做某事）",
+   "count": 1,
+   "dates": [
+    "2026-11-03"
    ]
   },
   {
@@ -385,6 +405,16 @@
    ]
   },
   {
+   "word": "disenfranchise",
+   "pos": "v.",
+   "phonetic": "/ˌdɪsɪnˈfræntʃaɪz/",
+   "meaning_zh": "剥夺（某人）的选举权",
+   "count": 1,
+   "dates": [
+    "2026-11-03"
+   ]
+  },
+  {
    "word": "disruption",
    "pos": "n.",
    "phonetic": "/dɪsˈrʌpʃn/",
@@ -442,6 +472,16 @@
    "count": 1,
    "dates": [
     "2026-10-31"
+   ]
+  },
+  {
+   "word": "escalation",
+   "pos": "n.",
+   "phonetic": "/ˌeskəˈleɪʃn/",
+   "meaning_zh": "升级；加剧",
+   "count": 1,
+   "dates": [
+    "2026-11-03"
    ]
   },
   {
@@ -572,6 +612,16 @@
    "count": 1,
    "dates": [
     "2026-11-02"
+   ]
+  },
+  {
+   "word": "galling",
+   "pos": "adj.",
+   "phonetic": "/ˈɡɔːlɪŋ/",
+   "meaning_zh": "令人恼怒的；使人愤慨的",
+   "count": 1,
+   "dates": [
+    "2026-11-03"
    ]
   },
   {
@@ -755,6 +805,16 @@
    ]
   },
   {
+   "word": "lawful permanent resident",
+   "pos": "n.",
+   "phonetic": "/ˈlɔːfl ˈpɜːmənənt ˈrezɪdənt/",
+   "meaning_zh": "合法永久居民（绿卡持有者）",
+   "count": 1,
+   "dates": [
+    "2026-11-03"
+   ]
+  },
+  {
    "word": "levy",
    "pos": "n.",
    "phonetic": "/ˈlevi/",
@@ -862,6 +922,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "on the eve of",
+   "pos": "phrase",
+   "phonetic": "/ɒn ði iːv ɒv/",
+   "meaning_zh": "在……前夕",
+   "count": 1,
+   "dates": [
+    "2026-11-03"
    ]
   },
   {
@@ -1095,6 +1165,26 @@
    ]
   },
   {
+   "word": "rebuff",
+   "pos": "v.",
+   "phonetic": "/rɪˈbʌf/",
+   "meaning_zh": "断然拒绝；驳回",
+   "count": 1,
+   "dates": [
+    "2026-11-03"
+   ]
+  },
+  {
+   "word": "rebuke",
+   "pos": "n.",
+   "phonetic": "/rɪˈbjuːk/",
+   "meaning_zh": "谴责；批评",
+   "count": 1,
+   "dates": [
+    "2026-11-03"
+   ]
+  },
+  {
    "word": "refine the scope of",
    "pos": "phrase",
    "phonetic": "/rɪˈfaɪn ðə skoʊp əv/",
@@ -1262,6 +1352,16 @@
    "count": 1,
    "dates": [
     "2026-10-31"
+   ]
+  },
+  {
+   "word": "set aside",
+   "pos": "phrase",
+   "phonetic": "/set əˈsaɪd/",
+   "meaning_zh": "搁置；保留（以备处理）",
+   "count": 1,
+   "dates": [
+    "2026-11-03"
    ]
   },
   {
