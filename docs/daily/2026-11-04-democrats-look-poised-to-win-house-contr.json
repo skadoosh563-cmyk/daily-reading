@@ -1,0 +1,212 @@
+{
+ "id": "democrats-look-poised-to-win-house-contr",
+ "date": "2026-11-04",
+ "slug": "democrats-look-poised-to-win-house-contr",
+ "title_zh": "经历特朗普两届动荡任期后，民主党似将在中期选举中赢得众议院控制权",
+ "meta_line": "来源：The Guardian · World ｜ 难度：B2 ｜ 词数：657",
+ "summary": "本文报道美国中期选举的选情：民主党只需净赢三席即可夺回众议院控制权，多家预测机构看好其净增15至25席。文章分析了执政党中期选举通常失利的历史规律、特朗普低支持率与伊朗战争等不利因素，并介绍了民主党夺回众议院后将展开的调查方向、有望成为首位黑人议长的杰弗里斯，以及共和党选区重划策略收效有限的情况。最后按时间顺序呈现了印第安纳、肯塔基、佛罗里达等州的投票进展与关键选区结果。文章结构清晰、数据密集，是练习外刊政治报道阅读与选举词汇的好材料。",
+ "vocab": [
+  {
+   "word": "poised",
+   "pos": "adj.",
+   "phonetic": "/pɔɪzd/",
+   "meaning_zh": "准备就绪的；很可能即将（做某事）的",
+   "example_en": "Democrats are poised to take control of the US House of Representatives after two tumultuous years of Donald Trump’s second presidency.",
+   "example_zh": "在唐纳德·特朗普第二个总统任期经历两年动荡之后，民主党准备接管美国众议院。"
+  },
+  {
+   "word": "tumultuous",
+   "pos": "adj.",
+   "phonetic": "/tjuːˈmʌltʃuəs/",
+   "meaning_zh": "动荡的；混乱的；喧嚣的",
+   "example_en": "Democrats are poised to take control of the US House of Representatives after two tumultuous years of Donald Trump’s second presidency.",
+   "example_zh": "在唐纳德·特朗普第二个总统任期经历两年动荡之后，民主党准备接管美国众议院。"
+  },
+  {
+   "word": "perch",
+   "pos": "n.",
+   "phonetic": "/pɜːtʃ/",
+   "meaning_zh": "（引申）立足点、有利位置；原指鸟类栖息的枝头",
+   "example_en": "A change in House control would give Democrats a perch to conduct robust oversight of the administration for its final two years.",
+   "example_zh": "众议院控制权的变更将给民主党一个立足点，使其能在政府最后两年对其进行有力的监督。"
+  },
+  {
+   "word": "robust oversight",
+   "pos": "n. phrase",
+   "phonetic": "/rəʊˈbʌst ˈəʊvəsaɪt/",
+   "meaning_zh": "有力的监督",
+   "example_en": "A change in House control would give Democrats a perch to conduct robust oversight of the administration for its final two years.",
+   "example_zh": "众议院控制权的变更将给民主党一个立足点，使其能在政府最后两年对其进行有力的监督。"
+  },
+  {
+   "word": "flip",
+   "pos": "v.",
+   "phonetic": "/flɪp/",
+   "meaning_zh": "（选举语境）翻转、夺下（原本属于对方的席位）",
+   "example_en": "Democrats need to flip just three seats to gain control of the House, something they are expected to do easily.",
+   "example_zh": "民主党只需翻转三个席位就能获得众议院的控制权，而他们预计能轻松做到这一点。"
+  },
+  {
+   "word": "non-partisan",
+   "pos": "adj.",
+   "phonetic": "/ˌnɒn ˈpɑːtɪzæn/",
+   "meaning_zh": "无党派的；中立的",
+   "example_en": "While there is still some uncertainty about how many seats Democrats could gain, the non-partisan Cook Political Report predicts Democrats will pick up 15 to 25 seats, which could give them anywhere from 230 to 240 seats in the House.",
+   "example_zh": "虽然民主党能增加多少席位仍存在一些不确定性，但无党派的《库克政治报告》预测民主党将净增15至25个席位，这可能使他们在众议院拥有230至240个席位。"
+  },
+  {
+   "word": "pick up",
+   "pos": "phrasal v.",
+   "phonetic": "/pɪk ʌp/",
+   "meaning_zh": "（选举中）赢得、增加（席位）",
+   "example_en": "While there is still some uncertainty about how many seats Democrats could gain, the non-partisan Cook Political Report predicts Democrats will pick up 15 to 25 seats, which could give them anywhere from 230 to 240 seats in the House.",
+   "example_zh": "虽然民主党能增加多少席位仍存在一些不确定性，但无党派的《库克政治报告》预测民主党将净增15至25个席位，这可能使他们在众议院拥有230至240个席位。"
+  },
+  {
+   "word": "headwinds",
+   "pos": "n.",
+   "phonetic": "/ˈhedwɪndz/",
+   "meaning_zh": "（比喻）逆风、不利因素",
+   "example_en": "Republicans are facing significant headwinds this year with Trump’s approval rating hitting record lows.",
+   "example_zh": "共和党今年面临重大逆风，特朗普的支持率跌至历史最低点。"
+  },
+  {
+   "word": "subpoena",
+   "pos": "v.",
+   "phonetic": "/səˈpiːnə/",
+   "meaning_zh": "传唤；用传票要求（提供文件或出庭）",
+   "example_en": "Gaining a majority in the House would give Democrats control of the body’s committees and the ability to subpoena documents and witnesses as part of investigations.",
+   "example_zh": "获得众议院多数将使民主党控制该机构的各委员会，并有权在调查中传唤文件和证人。"
+  },
+  {
+   "word": "toss-up",
+   "pos": "n.",
+   "phonetic": "/ˈtɒs ʌp/",
+   "meaning_zh": "（胜负）难分高下、结果难料的事",
+   "example_en": "The Cook Political Report rates the race as a toss-up despite a partisan lean towards Republicans, and a Dembo victory could indicate a big night ahead for Democrats.",
+   "example_zh": "尽管该选区在党派倾向上偏向共和党，《库克政治报告》仍将这场竞选评为胜负难料；如果登博获胜，可能预示着民主党将迎来一个大胜之夜。"
+  }
+ ],
+ "grammar": [
+  {
+   "sentence": "Democrats need to flip just three seats to gain control of the House, something they are expected to do easily.",
+   "point": "同位语（something 指代前文整件事）",
+   "explain_zh": "逗号后的 something 是代词作同位语，指代前面“只需翻转三席即可控制众议院”这一整件事，后面接省略了关系代词 that 的定语从句 they are expected to do easily。这种写法避免重复整个句子，使表达紧凑，外刊中极常见，可套用为“……, something they are expected/likely to do”。"
+  },
+  {
+   "sentence": "While there is still some uncertainty about how many seats Democrats could gain, the non-partisan Cook Political Report predicts Democrats will pick up 15 to 25 seats, which could give them anywhere from 230 to 240 seats in the House.",
+   "point": "while 让步状语从句 + 宾语从句省略 that + 非限制性定语从句",
+   "explain_zh": "句首 While 引导让步状语从句，表示“虽然”；predicts 后接宾语从句，连词 that 被省略，是报道类文体的常见省略；句末 which 引导非限制性定语从句，指代前面“净增15至25席”这一情况，补充说明其后果。整句层层递进：先承认不确定性，再给出预测，最后说明影响。"
+  },
+  {
+   "sentence": "Had the district been in place in 2024, Trump would have won it by 11 points.",
+   "point": "虚拟语气（省略 if 的倒装条件句）",
+   "explain_zh": "这是与过去事实相反的虚拟条件句，省略了 if，把助动词 Had 提到句首构成倒装，相当于 If the district had been in place in 2024。主句用 would have won。这种省略 if 的倒装比普通条件句更正式、更有书面感，外刊在分析“如果……本会怎样”时经常使用。"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why does the article say Democrats are expected to win the House despite Republican redistricting efforts?",
+   "a": "因为整体政治环境对共和党极为不利：特朗普支持率创历史新低、伊朗战争极不受欢迎、汽油价格居高不下。文章指出，民主党甚至可能在共和党重划过的阿拉巴马、北卡罗来纳选区以及得克萨斯新增的对共和党友好选区中获胜，共和党可能只从重划中净得少数几个席位。"
+  },
+  {
+   "q": "What does the author imply by mentioning that Hakeem Jeffries would be the first Black speaker in US history?",
+   "a": "作者借此强调这次中期选举可能具有的历史意义：民主党夺回众议院不仅会改变权力格局，还可能产生美国历史上首位黑人议长，凸显选举结果的分量。这属于细节推断题，作者并未直接评论，而是通过“历史性”事实让读者体会其意义。"
+  },
+  {
+   "q": "According to the article, what concrete powers would Democrats gain if they win the House majority, and how do they plan to use them?",
+   "a": "民主党将控制众议院各委员会，并有权在调查中传唤文件和证人。他们已表示将调查特朗普家族企业、移民执法、与爱泼斯坦相关的事项，以及小罗伯特·F·肯尼迪对疫苗程序和推荐意见的处理等问题，对政府进行有力监督。\n\n---\n\n*由「外刊精读」自动生成 · 每天一篇，读原文，也读世界*"
+  }
+ ],
+ "translation": [
+  {
+   "idx": 1,
+   "en": "Democrats are poised to take control of the US House of Representatives after two tumultuous years of Donald Trump’s second presidency. A change in House control would give Democrats a perch to conduct robust oversight of the administration for its final two years.",
+   "zh": "在唐纳德·特朗普第二个总统任期经历两年动荡之后，民主党准备接管美国众议院。众议院控制权的变更将给民主党一个立足点，使其能在政府最后两年对其进行有力的监督。"
+  },
+  {
+   "idx": 2,
+   "en": "Republicans currently hold 218 seats in the House and Democrats have 214. (There is one vacancy in a Republican seat and one vacancy in a Democratic seat, and one Republican member switched his party affiliation to independent.) Democrats need to flip just three seats to gain control of the House, something they are expected to do easily.",
+   "zh": "共和党目前在众议院拥有218个席位，民主党拥有214个。（共和党席位中有一个空缺，民主党席位中也有一个空缺，另有一名共和党议员将党派归属转为独立人士。）民主党只需翻转三个席位就能获得众议院的控制权，而他们预计能轻松做到这一点。"
+  },
+  {
+   "idx": 3,
+   "en": "All members of the House run for re-election every two years. To have a majority in the House, a party must control at least 218 seats. While there is still some uncertainty about how many seats Democrats could gain, the non-partisan Cook Political Report predicts Democrats will pick up 15 to 25 seats, which could give them anywhere from 230 to 240 seats in the House.",
+   "zh": "众议院所有议员每两年都要竞选连任。要在众议院拥有多数，一个政党必须控制至少218个席位。虽然民主党能增加多少席位仍存在一些不确定性，但无党派的《库克政治报告》预测民主党将净增15至25个席位，这可能使他们在众议院拥有230至240个席位。"
+  },
+  {
+   "idx": 4,
+   "en": "The Center for Politics at the University of Virginia, another forecaster, lists 239 House seats in Democrats’ favor.",
+   "zh": "另一家预测机构、弗吉尼亚大学政治中心则将239个众议院席位列为对民主党有利。"
+  },
+  {
+   "idx": 5,
+   "en": "Traditionally, the president’s party performs poorly in the midterms – held midway through the president’s four-year term. Republicans are facing significant headwinds this year with Trump’s approval rating hitting record lows. The war in Iran also remains deeply unpopular and gas prices remain extremely high.",
+   "zh": "传统上，总统所属政党在中期选举中表现不佳——中期选举在总统四年任期的中途举行。共和党今年面临重大逆风，特朗普的支持率跌至历史最低点。伊朗战争也仍然极不受欢迎，汽油价格也依然极高。"
+  },
+  {
+   "idx": 6,
+   "en": "Gaining a majority in the House would give Democrats control of the body’s committees and the ability to subpoena documents and witnesses as part of investigations. Democrats have signaled they will investigate Trump’s family business, immigration enforcement, matters related to Jeffrey Epstein, and Robert F Kennedy Jr’s handling of vaccine procedures and recommendations, among other issues.",
+   "zh": "获得众议院多数将使民主党控制该机构的各委员会，并有权在调查中传唤文件和证人。民主党已表示，他们将调查特朗普家族企业、移民执法、与杰弗里·爱泼斯坦相关的事项，以及小罗伯特·F·肯尼迪对疫苗程序和推荐意见的处理等问题。"
+  },
+  {
+   "idx": 7,
+   "en": "If Democrats retake the House, Hakeem Jeffries, a Democrat from Brooklyn first elected in 2012, is expected to become speaker. The 56-year-old would be the first Black speaker in US history.",
+   "zh": "如果民主党重新夺回众议院，来自布鲁克林、2012年首次当选的民主党人哈基姆·杰弗里斯预计将出任议长。这位56岁的议员将成为美国历史上第一位黑人议长。"
+  },
+  {
+   "idx": 8,
+   "en": "Democrats are expected to take control of the House despite an unusual and aggressive effort by Republicans to redraw congressional districts before the election to their advantage.",
+   "zh": "尽管共和党在选举前异乎寻常且咄咄逼人地努力重划国会选区以使其对自己有利，民主党仍预计将控制众议院。"
+  },
+  {
+   "idx": 9,
+   "en": "At the request of Trump, Republicans in Texas, Florida, Missouri and other Republican-led states redrew their districts to add more GOP-friendly ones. After the supreme court issued a landmark ruling significantly weakening a key provision of the Voting Rights Act, lawmakers in Alabama, North Carolina and Tennessee redrew their maps to eliminate districts where Black voters had been able to elect a candidate of their choosing.",
+   "zh": "在特朗普的要求下，得克萨斯、佛罗里达、密苏里等共和党主政州的共和党人重新划分了选区，以增加更多对共和党友好的选区。在最高法院作出一项大幅削弱《选举权法》一项关键条款的里程碑式裁决后，阿拉巴马、北卡罗来纳和田纳西的议员重新绘制了选区地图，取消了黑人选民此前能够选出自己心仪候选人的选区。"
+  },
+  {
+   "idx": 10,
+   "en": "But the political environment is so unfavorable to Republicans that Democrats could win races in the Alabama and North Carolina districts that were redrawn. Some GOP-friendly districts added in Texas also appear winnable for Democrats. Overall, Republicans may only pick up a handful of the districts they redrew to their advantage.",
+   "zh": "但政治环境对共和党如此不利，以至于民主党可能在阿拉巴马和北卡罗来纳那些被重新划分的选区中获胜。得克萨斯新增的一些对共和党友好的选区似乎也可能被民主党拿下。总体而言，共和党可能只在他们为自身利益重划的选区中赢得少数几个。"
+  },
+  {
+   "idx": 11,
+   "en": "The first polls closed in Indiana and Kentucky at 6pm ET, with more states following mostly hourly after that. Results in Kentucky’s sixth district will be closely watched, as Democrat Zach Dembo, a Navy veteran and former prosecutor, takes on Republican Dr Ralph Alvarado, whom Trump has backed, for the open seat. The Cook Political Report rates the race as a toss-up despite a partisan lean towards Republicans, and a Dembo victory could indicate a big night ahead for Democrats.",
+   "zh": "印第安纳州和肯塔基州的首批投票站于美国东部时间下午6点关闭，此后更多州大多每小时跟进。肯塔基州第六选区的结果将受到密切关注，民主党人、海军退伍军人、前检察官扎克·登博将与特朗普支持的共和党人拉尔夫·阿尔瓦拉多医生争夺这个空缺席位。《库克政治报告》尽管认为该选区在党派倾向上偏向共和党，仍将这场竞选评为胜负难料；如果登博获胜，可能预示着民主党将迎来一个大胜之夜。"
+  },
+  {
+   "idx": 12,
+   "en": "Polls closed across Florida at 7pm ET; there are also several competitive House races in the state, even in districts that state Republicans recently redrew in their favor. Democrat Kathy Castor, for example, won in a district that includes Tampa that was redrawn to be more favorable to Republicans. Had the district been in place in 2024, Trump would have won it by 11 points. The Cook Political Report rated the race as one of the most competitive this cycle.",
+   "zh": "佛罗里达州各地投票站于美国东部时间晚上7点关闭；该州还有几场竞争激烈的众议院选举，甚至包括州共和党人最近为重划为对自己有利的选区。例如，民主党人凯西·卡斯托在一个包含坦帕、被重划为更有利于共和党的选区中获胜。如果该选区在2024年就已存在，特朗普本会以11个百分点的优势拿下它。《库克政治报告》将这场竞选评为本轮周期竞争最激烈的选战之一。"
+  },
+  {
+   "idx": 13,
+   "en": "Democrat Jared Moskowitz also won a highly competitive race in Florida’s 25th congressional district that Republicans redrew in their favor.",
+   "zh": "民主党人贾里德·莫斯科维茨也在佛罗里达州第25国会选区赢得了一场竞争极其激烈的选举，该选区曾被共和党人重划为对自己有利。"
+  },
+  {
+   "idx": 14,
+   "en": "Representative Debbie Wasserman Schultz easily won re-election in Florida’s 20th district, which is heavily Democratic, according to the AP.",
+   "zh": "据美联社报道，众议员黛比·沃瑟曼·舒尔茨在民主党占绝对优势的佛罗里达州第20选区轻松赢得连任。"
+  }
+ ],
+ "article": [
+  "Democrats are poised to take control of the US House of Representatives after two tumultuous years of Donald Trump’s second presidency. A change in House control would give Democrats a perch to conduct robust oversight of the administration for its final two years.",
+  "Republicans currently hold 218 seats in the House and Democrats have 214. (There is one vacancy in a Republican seat and one vacancy in a Democratic seat, and one Republican member switched his party affiliation to independent.) Democrats need to flip just three seats to gain control of the House, something they are expected to do easily.",
+  "All members of the House run for re-election every two years. To have a majority in the House, a party must control at least 218 seats. While there is still some uncertainty about how many seats Democrats could gain, the non-partisan Cook Political Report predicts Democrats will pick up 15 to 25 seats, which could give them anywhere from 230 to 240 seats in the House.",
+  "The Center for Politics at the University of Virginia, another forecaster, lists 239 House seats in Democrats’ favor.",
+  "Traditionally, the president’s party performs poorly in the midterms – held midway through the president’s four-year term. Republicans are facing significant headwinds this year with Trump’s approval rating hitting record lows. The war in Iran also remains deeply unpopular and gas prices remain extremely high.",
+  "Gaining a majority in the House would give Democrats control of the body’s committees and the ability to subpoena documents and witnesses as part of investigations. Democrats have signaled they will investigate Trump’s family business, immigration enforcement, matters related to Jeffrey Epstein, and Robert F Kennedy Jr’s handling of vaccine procedures and recommendations, among other issues.",
+  "If Democrats retake the House, Hakeem Jeffries, a Democrat from Brooklyn first elected in 2012, is expected to become speaker. The 56-year-old would be the first Black speaker in US history.",
+  "Democrats are expected to take control of the House despite an unusual and aggressive effort by Republicans to redraw congressional districts before the election to their advantage.",
+  "At the request of Trump, Republicans in Texas, Florida, Missouri and other Republican-led states redrew their districts to add more GOP-friendly ones. After the supreme court issued a landmark ruling significantly weakening a key provision of the Voting Rights Act, lawmakers in Alabama, North Carolina and Tennessee redrew their maps to eliminate districts where Black voters had been able to elect a candidate of their choosing.",
+  "But the political environment is so unfavorable to Republicans that Democrats could win races in the Alabama and North Carolina districts that were redrawn. Some GOP-friendly districts added in Texas also appear winnable for Democrats. Overall, Republicans may only pick up a handful of the districts they redrew to their advantage.",
+  "The first polls closed in Indiana and Kentucky at 6pm ET, with more states following mostly hourly after that. Results in Kentucky’s sixth district will be closely watched, as Democrat Zach Dembo, a Navy veteran and former prosecutor, takes on Republican Dr Ralph Alvarado, whom Trump has backed, for the open seat. The Cook Political Report rates the race as a toss-up despite a partisan lean towards Republicans, and a Dembo victory could indicate a big night ahead for Democrats.",
+  "Polls closed across Florida at 7pm ET; there are also several competitive House races in the state, even in districts that state Republicans recently redrew in their favor. Democrat Kathy Castor, for example, won in a district that includes Tampa that was redrawn to be more favorable to Republicans. Had the district been in place in 2024, Trump would have won it by 11 points. The Cook Political Report rated the race as one of the most competitive this cycle.",
+  "Democrat Jared Moskowitz also won a highly competitive race in Florida’s 25th congressional district that Republicans redrew in their favor.",
+  "Representative Debbie Wasserman Schultz easily won re-election in Florida’s 20th district, which is heavily Democratic, according to the AP."
+ ],
+ "source": "The Guardian · World",
+ "word_count": 657,
+ "level": "B2"
+}

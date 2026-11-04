@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T03:02:57",
- "count": 170,
+ "updated": "2026-11-04T01:38:02",
+ "count": 179,
  "vocab": [
   {
    "word": "seize on",
@@ -22,6 +22,17 @@
    "dates": [
     "2026-10-21",
     "2026-10-29"
+   ]
+  },
+  {
+   "word": "toss-up",
+   "pos": "n.",
+   "phonetic": "/ˈtɔːs ʌp/",
+   "meaning_zh": "胜负难料的局面；胶着的竞争",
+   "count": 2,
+   "dates": [
+    "2026-10-24",
+    "2026-11-04"
    ]
   },
   {
@@ -555,6 +566,16 @@
    ]
   },
   {
+   "word": "flip",
+   "pos": "v.",
+   "phonetic": "/flɪp/",
+   "meaning_zh": "（选举语境）翻转、夺下（原本属于对方的席位）",
+   "count": 1,
+   "dates": [
+    "2026-11-04"
+   ]
+  },
+  {
    "word": "flip control of",
    "pos": "phrase",
    "phonetic": "/flɪp kənˈtroʊl əv/",
@@ -692,6 +713,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "headwinds",
+   "pos": "n.",
+   "phonetic": "/ˈhedwɪndz/",
+   "meaning_zh": "（比喻）逆风、不利因素",
+   "count": 1,
+   "dates": [
+    "2026-11-04"
    ]
   },
   {
@@ -905,6 +936,16 @@
    ]
   },
   {
+   "word": "non-partisan",
+   "pos": "adj.",
+   "phonetic": "/ˌnɒn ˈpɑːtɪzæn/",
+   "meaning_zh": "无党派的；中立的",
+   "count": 1,
+   "dates": [
+    "2026-11-04"
+   ]
+  },
+  {
    "word": "obsequience",
    "pos": "n.",
    "phonetic": "/ˈɒbsɪkwiəns/",
@@ -975,6 +1016,16 @@
    ]
   },
   {
+   "word": "perch",
+   "pos": "n.",
+   "phonetic": "/pɜːtʃ/",
+   "meaning_zh": "（引申）立足点、有利位置；原指鸟类栖息的枝头",
+   "count": 1,
+   "dates": [
+    "2026-11-04"
+   ]
+  },
+  {
    "word": "pervert the course of justice",
    "pos": "v. phr.",
    "phonetic": "/pəˈvɜːt ðə kɔːs əv ˈdʒʌstɪs/",
@@ -992,6 +1043,16 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "pick up",
+   "pos": "phrasal v.",
+   "phonetic": "/pɪk ʌp/",
+   "meaning_zh": "（选举中）赢得、增加（席位）",
+   "count": 1,
+   "dates": [
+    "2026-11-04"
    ]
   },
   {
@@ -1022,6 +1083,16 @@
    "count": 1,
    "dates": [
     "2026-10-28"
+   ]
+  },
+  {
+   "word": "poised",
+   "pos": "adj.",
+   "phonetic": "/pɔɪzd/",
+   "meaning_zh": "准备就绪的；很可能即将（做某事）的",
+   "count": 1,
+   "dates": [
+    "2026-11-04"
    ]
   },
   {
@@ -1295,6 +1366,16 @@
    ]
   },
   {
+   "word": "robust oversight",
+   "pos": "n. phrase",
+   "phonetic": "/rəʊˈbʌst ˈəʊvəsaɪt/",
+   "meaning_zh": "有力的监督",
+   "count": 1,
+   "dates": [
+    "2026-11-04"
+   ]
+  },
+  {
    "word": "run into turbulence",
    "pos": "phrase",
    "phonetic": "/rʌn ˈɪntu ˈtɜːbjələns/",
@@ -1525,6 +1606,16 @@
    ]
   },
   {
+   "word": "subpoena",
+   "pos": "v.",
+   "phonetic": "/səˈpiːnə/",
+   "meaning_zh": "传唤；用传票要求（提供文件或出庭）",
+   "count": 1,
+   "dates": [
+    "2026-11-04"
+   ]
+  },
+  {
    "word": "take a back seat",
    "pos": "phrase",
    "phonetic": "/teɪk ə bæk siːt/",
@@ -1555,16 +1646,6 @@
    ]
   },
   {
-   "word": "toss-up",
-   "pos": "n.",
-   "phonetic": "/ˈtɔːs ʌp/",
-   "meaning_zh": "胜负难料的局面；胶着的竞争",
-   "count": 1,
-   "dates": [
-    "2026-10-24"
-   ]
-  },
-  {
    "word": "touch a nerve",
    "pos": "phrase",
    "phonetic": "/tʌtʃ ə nɜːrv/",
@@ -1592,6 +1673,16 @@
    "count": 1,
    "dates": [
     "2026-10-30"
+   ]
+  },
+  {
+   "word": "tumultuous",
+   "pos": "adj.",
+   "phonetic": "/tjuːˈmʌltʃuəs/",
+   "meaning_zh": "动荡的；混乱的；喧嚣的",
+   "count": 1,
+   "dates": [
+    "2026-11-04"
    ]
   },
   {

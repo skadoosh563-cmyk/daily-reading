@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-03T03:02:57",
- "count": 17,
+ "updated": "2026-11-04T01:38:02",
+ "count": 18,
  "items": [
+  {
+   "id": "democrats-look-poised-to-win-house-contr",
+   "date": "2026-11-04",
+   "title_zh": "经历特朗普两届动荡任期后，民主党似将在中期选举中赢得众议院控制权",
+   "summary": "本文报道美国中期选举的选情：民主党只需净赢三席即可夺回众议院控制权，多家预测机构看好其净增15至25席。文章分析了执政党中期选举通常失利的历史规律、特朗普低支持率与伊朗战争等不利因素，并介绍了民主党夺回众议院后将展开的调查方向、有望成为首位黑人议长的杰弗里斯，以及共和党选区重划策略收效有限的情况。最后按时间顺序呈现了印第安纳、肯塔基、佛罗里达等州的投票进展与关键选区结果。文章结构清晰、数据密集，是练习外刊政治报道阅读与选举词汇的好材料。",
+   "vocab": [
+    {
+     "word": "poised",
+     "pos": "adj.",
+     "phonetic": "/pɔɪzd/",
+     "meaning_zh": "准备就绪的；很可能即将（做某事）的",
+     "example_en": "Democrats are poised to take control of the US House of Representatives after two tumultuous years of Donald Trump’s second presidency.",
+     "example_zh": "在唐纳德·特朗普第二个总统任期经历两年动荡之后，民主党准备接管美国众议院。"
+    },
+    {
+     "word": "tumultuous",
+     "pos": "adj.",
+     "phonetic": "/tjuːˈmʌltʃuəs/",
+     "meaning_zh": "动荡的；混乱的；喧嚣的",
+     "example_en": "Democrats are poised to take control of the US House of Representatives after two tumultuous years of Donald Trump’s second presidency.",
+     "example_zh": "在唐纳德·特朗普第二个总统任期经历两年动荡之后，民主党准备接管美国众议院。"
+    },
+    {
+     "word": "perch",
+     "pos": "n.",
+     "phonetic": "/pɜːtʃ/",
+     "meaning_zh": "（引申）立足点、有利位置；原指鸟类栖息的枝头",
+     "example_en": "A change in House control would give Democrats a perch to conduct robust oversight of the administration for its final two years.",
+     "example_zh": "众议院控制权的变更将给民主党一个立足点，使其能在政府最后两年对其进行有力的监督。"
+    },
+    {
+     "word": "robust oversight",
+     "pos": "n. phrase",
+     "phonetic": "/rəʊˈbʌst ˈəʊvəsaɪt/",
+     "meaning_zh": "有力的监督",
+     "example_en": "A change in House control would give Democrats a perch to conduct robust oversight of the administration for its final two years.",
+     "example_zh": "众议院控制权的变更将给民主党一个立足点，使其能在政府最后两年对其进行有力的监督。"
+    },
+    {
+     "word": "flip",
+     "pos": "v.",
+     "phonetic": "/flɪp/",
+     "meaning_zh": "（选举语境）翻转、夺下（原本属于对方的席位）",
+     "example_en": "Democrats need to flip just three seats to gain control of the House, something they are expected to do easily.",
+     "example_zh": "民主党只需翻转三个席位就能获得众议院的控制权，而他们预计能轻松做到这一点。"
+    },
+    {
+     "word": "non-partisan",
+     "pos": "adj.",
+     "phonetic": "/ˌnɒn ˈpɑːtɪzæn/",
+     "meaning_zh": "无党派的；中立的",
+     "example_en": "While there is still some uncertainty about how many seats Democrats could gain, the non-partisan Cook Political Report predicts Democrats will pick up 15 to 25 seats, which could give them anywhere from 230 to 240 seats in the House.",
+     "example_zh": "虽然民主党能增加多少席位仍存在一些不确定性，但无党派的《库克政治报告》预测民主党将净增15至25个席位，这可能使他们在众议院拥有230至240个席位。"
+    },
+    {
+     "word": "pick up",
+     "pos": "phrasal v.",
+     "phonetic": "/pɪk ʌp/",
+     "meaning_zh": "（选举中）赢得、增加（席位）",
+     "example_en": "While there is still some uncertainty about how many seats Democrats could gain, the non-partisan Cook Political Report predicts Democrats will pick up 15 to 25 seats, which could give them anywhere from 230 to 240 seats in the House.",
+     "example_zh": "虽然民主党能增加多少席位仍存在一些不确定性，但无党派的《库克政治报告》预测民主党将净增15至25个席位，这可能使他们在众议院拥有230至240个席位。"
+    },
+    {
+     "word": "headwinds",
+     "pos": "n.",
+     "phonetic": "/ˈhedwɪndz/",
+     "meaning_zh": "（比喻）逆风、不利因素",
+     "example_en": "Republicans are facing significant headwinds this year with Trump’s approval rating hitting record lows.",
+     "example_zh": "共和党今年面临重大逆风，特朗普的支持率跌至历史最低点。"
+    },
+    {
+     "word": "subpoena",
+     "pos": "v.",
+     "phonetic": "/səˈpiːnə/",
+     "meaning_zh": "传唤；用传票要求（提供文件或出庭）",
+     "example_en": "Gaining a majority in the House would give Democrats control of the body’s committees and the ability to subpoena documents and witnesses as part of investigations.",
+     "example_zh": "获得众议院多数将使民主党控制该机构的各委员会，并有权在调查中传唤文件和证人。"
+    },
+    {
+     "word": "toss-up",
+     "pos": "n.",
+     "phonetic": "/ˈtɒs ʌp/",
+     "meaning_zh": "（胜负）难分高下、结果难料的事",
+     "example_en": "The Cook Political Report rates the race as a toss-up despite a partisan lean towards Republicans, and a Dembo victory could indicate a big night ahead for Democrats.",
+     "example_zh": "尽管该选区在党派倾向上偏向共和党，《库克政治报告》仍将这场竞选评为胜负难料；如果登博获胜，可能预示着民主党将迎来一个大胜之夜。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 657,
+   "level": "B2"
+  },
   {
    "id": "trump-s-doj-charges-six-more-people-in-v",
    "date": "2026-11-03",
