@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T01:38:02",
- "count": 179,
+ "updated": "2026-11-05T01:45:20",
+ "count": 189,
  "vocab": [
   {
    "word": "seize on",
@@ -93,6 +93,16 @@
    "count": 1,
    "dates": [
     "2026-11-03"
+   ]
+  },
+  {
+   "word": "aftershock",
+   "pos": "n.",
+   "phonetic": "/ˈɑːftəʃɒk/",
+   "meaning_zh": "余震；（事件的）后续冲击",
+   "count": 1,
+   "dates": [
+    "2026-11-05"
    ]
   },
   {
@@ -236,6 +246,16 @@
    ]
   },
   {
+   "word": "bloody-mindedness",
+   "pos": "n.",
+   "phonetic": "/ˈblʌdi ˈmaɪndɪdnəs/",
+   "meaning_zh": "故意作对；顽固不化",
+   "count": 1,
+   "dates": [
+    "2026-11-05"
+   ]
+  },
+  {
    "word": "bollards",
    "pos": "n.",
    "phonetic": "/ˈbɒlədz/",
@@ -273,6 +293,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "capitulate",
+   "pos": "v.",
+   "phonetic": "/kəˈpɪtʃuleɪt/",
+   "meaning_zh": "屈服；投降",
+   "count": 1,
+   "dates": [
+    "2026-11-05"
    ]
   },
   {
@@ -456,6 +486,16 @@
    ]
   },
   {
+   "word": "downblend",
+   "pos": "v.",
+   "phonetic": "/ˈdaʊnblend/",
+   "meaning_zh": "稀释（高浓缩铀与低浓缩铀混合以降低浓度）",
+   "count": 1,
+   "dates": [
+    "2026-11-05"
+   ]
+  },
+  {
    "word": "dwindle",
    "pos": "v.",
    "phonetic": "/ˈdwɪndl/",
@@ -473,6 +513,16 @@
    "count": 1,
    "dates": [
     "2026-10-24"
+   ]
+  },
+  {
+   "word": "ensnare",
+   "pos": "v.",
+   "phonetic": "/ɪnˈsneə(r)/",
+   "meaning_zh": "使陷入困境；拖累",
+   "count": 1,
+   "dates": [
+    "2026-11-05"
    ]
   },
   {
@@ -716,6 +766,16 @@
    ]
   },
   {
+   "word": "harbour a hope",
+   "pos": "固定搭配",
+   "phonetic": "/ˈhɑːbə ə həʊp/",
+   "meaning_zh": "怀有希望",
+   "count": 1,
+   "dates": [
+    "2026-11-05"
+   ]
+  },
+  {
    "word": "headwinds",
    "pos": "n.",
    "phonetic": "/ˈhedwɪndz/",
@@ -733,6 +793,16 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "hold in vice",
+   "pos": "固定搭配",
+   "phonetic": "/həʊld ɪn vaɪs/",
+   "meaning_zh": "紧紧钳制；牢牢控制",
+   "count": 1,
+   "dates": [
+    "2026-11-05"
    ]
   },
   {
@@ -1053,6 +1123,16 @@
    "count": 1,
    "dates": [
     "2026-11-04"
+   ]
+  },
+  {
+   "word": "piquant",
+   "pos": "adj.",
+   "phonetic": "/ˈpiːkənt/",
+   "meaning_zh": "令人回味且带刺的；辛辣而有趣的",
+   "count": 1,
+   "dates": [
+    "2026-11-05"
    ]
   },
   {
@@ -1526,6 +1606,16 @@
    ]
   },
   {
+   "word": "smeared in the dirt",
+   "pos": "固定搭配",
+   "phonetic": "/smɪəd ɪn ðə dɜːt/",
+   "meaning_zh": "名誉扫地；被抹黑",
+   "count": 1,
+   "dates": [
+    "2026-11-05"
+   ]
+  },
+  {
    "word": "social mandate",
    "pos": "phrase",
    "phonetic": "/ˈsəʊʃl ˈmændeɪt/",
@@ -1663,6 +1753,16 @@
    "count": 1,
    "dates": [
     "2026-11-01"
+   ]
+  },
+  {
+   "word": "triumphalism",
+   "pos": "n.",
+   "phonetic": "/traɪˈʌmfəlɪzəm/",
+   "meaning_zh": "得意洋洋；胜利主义情绪",
+   "count": 1,
+   "dates": [
+    "2026-11-05"
    ]
   },
   {
