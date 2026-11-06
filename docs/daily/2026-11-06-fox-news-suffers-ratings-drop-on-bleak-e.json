@@ -1,0 +1,176 @@
+{
+ "id": "fox-news-suffers-ratings-drop-on-bleak-e",
+ "date": "2026-11-06",
+ "slug": "fox-news-suffers-ratings-drop-on-bleak-e",
+ "title_zh": "福克斯新闻在共和党惨淡的选举之夜收视率下滑",
+ "meta_line": "来源：The Guardian · World ｜ 难度：B2 ｜ 词数：377",
+ "summary": "这篇《卫报》报道聚焦美国中期选举当晚的电视收视数据：一向在选举夜领先的福克斯新闻频道，此次收视率落后于NBC和ABC两大广播网，与2022年相比跌幅约41%。文章将这一变化与特朗普不受欢迎、观众疲劳以及福克斯被特朗普批评等因素联系起来，同时引用了尼尔森公司的最终收视数据。对B2学习者来说，这篇文章是练习外媒数据报道、政治词汇和长句拆解的好材料。",
+ "vocab": [
+  {
+   "word": "disillusionment",
+   "pos": "n.",
+   "phonetic": "/ˌdɪsɪˈluːʒnmənt/",
+   "meaning_zh": "失望；幻想破灭",
+   "example_en": "the country’s most prominent conservative television network seemingly felt the brunt of viewer disillusionment with Donald Trump and his party",
+   "example_zh": "美国最著名的保守派电视网络似乎首当其冲，感受到了观众对唐纳德·特朗普及其政党的失望。"
+  },
+  {
+   "word": "bear the brunt of",
+   "pos": "phrase",
+   "phonetic": "/beə ðə brʌnt ɒv/",
+   "meaning_zh": "承受……的主要冲击；首当其冲",
+   "example_en": "the country’s most prominent conservative television network seemingly felt the brunt of viewer disillusionment",
+   "example_zh": "美国最著名的保守派电视网络似乎首当其冲，感受到了观众的失望。"
+  },
+  {
+   "word": "edge out",
+   "pos": "phrasal v.",
+   "phonetic": "/edʒ aʊt/",
+   "meaning_zh": "险胜；以微弱优势超过",
+   "example_en": "though it edged out fellow cable networks CNN (4.1 million viewers) and MS Now (3.7 million viewers)",
+   "example_zh": "尽管它险胜了同属有线电视网的CNN（410万观众）和MS Now（370万观众）。"
+  },
+  {
+   "word": "handedly",
+   "pos": "adv.",
+   "phonetic": "/ˈhændɪdli/",
+   "meaning_zh": "轻松地；轻而易举地（文中handedly defeat意为“轻松击败”）",
+   "example_en": "Fox News handedly defeat CBS News, which attracted just 2.8 million viewers.",
+   "example_zh": "福克斯新闻轻松击败了仅吸引280万观众的CBS新闻。"
+  },
+  {
+   "word": "demographic",
+   "pos": "n.",
+   "phonetic": "/ˌdeməˈɡræfɪk/",
+   "meaning_zh": "（特定）人群；受众群体",
+   "example_en": "CNN performed better in the 25-to-54 age demographic prized by advertisers",
+   "example_zh": "CNN在广告商看重的25至54岁年龄群体中表现更好。"
+  },
+  {
+   "word": "prized",
+   "pos": "adj.",
+   "phonetic": "/praɪzd/",
+   "meaning_zh": "珍视的；受重视的",
+   "example_en": "the 25-to-54 age demographic prized by advertisers",
+   "example_zh": "广告商看重的25至54岁年龄群体"
+  },
+  {
+   "word": "tune out",
+   "pos": "phrasal v.",
+   "phonetic": "/tjuːn aʊt/",
+   "meaning_zh": "不再关注；转台不看",
+   "example_en": "Fox News has seen some viewers tune out in recent weeks.",
+   "example_zh": "最近几周，福克斯新闻的一些观众不再收看。"
+  },
+  {
+   "word": "fatigue",
+   "pos": "n.",
+   "phonetic": "/fəˈtiːɡ/",
+   "meaning_zh": "疲劳；厌倦",
+   "example_en": "Lachlan Murdoch, the chief executive of parent company Fox Corp, acknowledged “viewer fatigue” in an earnings call on Monday.",
+   "example_zh": "母公司福克斯公司的首席执行官拉克兰·默多克在周一的财报电话会议上承认存在“观众疲劳”。"
+  },
+  {
+   "word": "chalk up",
+   "pos": "phrasal v.",
+   "phonetic": "/tʃɔːk ʌp/",
+   "meaning_zh": "把……归因于；将……解释为",
+   "example_en": "poked fun at the network’s October figures in a Truth Social post, chalking up the decline to the channel’s industry-standard practice",
+   "example_zh": "在Truth Social的帖子中调侃了该网络10月份的收视数据，把下滑归因于该频道按行业惯例邀请民主党候选人接受采访的做法。"
+  },
+  {
+   "word": "poke fun at",
+   "pos": "phrase",
+   "phonetic": "/pəʊk fʌn æt/",
+   "meaning_zh": "拿……开玩笑；调侃",
+   "example_en": "Trump ... poked fun at the network’s October figures in a Truth Social post",
+   "example_zh": "特朗普……在Truth Social的帖子中调侃了该网络10月份的收视数据。"
+  }
+ ],
+ "grammar": [
+  {
+   "sentence": "On a midterm election night that was a huge disappointment for Republicans, with Democrats taking control of the US House and Senate, the country’s most prominent conservative television network seemingly felt the brunt of viewer disillusionment with Donald Trump and his party, according to final audience numbers released on Thursday.",
+   "point": "介词短语前置 + with复合结构 + 过去分词后置定语",
+   "explain_zh": "句子开头用“On a midterm election night that...”把时间背景放在句首，that引导定语从句修饰night；“with Democrats taking control of...”是with复合结构（with + 名词 + 现在分词），补充说明背景，使信息层次更丰富。句末“released on Thursday”是过去分词短语作后置定语，修饰numbers。这种写法常见于新闻报道，先交代背景，再给主句和消息来源，读者能一步步抓住重点。"
+  },
+  {
+   "sentence": "According to ratings dating from the Nielsen firm, the network averaged 4.3 million total viewers between 8 and 11pm, behind broadcast networks NBC (6.7 million viewers) and ABC (5.2 million viewers), though it edged out fellow cable networks CNN (4.1 million viewers) and MS Now (3.7 million viewers).",
+   "point": "现在分词作后置定语 + 省略结构 + though引导的让步状语从句",
+   "explain_zh": "“dating from the Nielsen firm”是现在分词短语作后置定语，修饰ratings，说明数据来源。“behind broadcast networks...”是省略结构，完整意思是“it was behind...”，省略了主语和be动词，使句子更紧凑。though引导让步状语从句，表示“尽管它险胜了……”，形成前后对比：落后于广播网，但领先于有线同行。这种省略和对比是数据类报道的典型写法。"
+  },
+  {
+   "sentence": "Trump, who criticized Fox throughout election night and blamed the network for his party’s losses, poked fun at the network’s October figures in a Truth Social post, chalking up the decline to the channel’s industry-standard practice of booking Democratic candidates for interviews.",
+   "point": "非限制性定语从句 + 现在分词作伴随状语",
+   "explain_zh": "“who criticized Fox... and blamed...”是非限制性定语从句，补充说明Trump的身份和态度，插在主语和谓语之间，让读者先了解背景再进入主句动作。“chalking up...”是现在分词短语作伴随状语，说明poked fun at的同时还做了另一个动作，即把收视下滑归因于……。这种结构让一句话承载多层信息，是外刊长句的常见手法。"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the main point of the article?",
+   "a": "文章主要报道福克斯新闻在中期选举之夜收视率大幅下滑，被NBC和ABC等广播网超越，并与2022年相比下降约41%；文章将此与特朗普不受欢迎、观众疲劳以及特朗普本人批评福克斯等因素联系起来。"
+  },
+  {
+   "q": "What is the author’s attitude toward Fox News’ ratings decline?",
+   "a": "作者态度总体客观，以尼尔森数据为依据陈述事实，同时通过“seemingly felt the brunt”“viewer disillusionment”等措辞暗示下滑与特朗普及共和党选情有关，但并未直接表达强烈立场。"
+  },
+  {
+   "q": "According to the article, how did Trump explain Fox News’ ratings decline?",
+   "a": "特朗普把福克斯收视率下滑归因于该频道花太多时间报道他所谓的“Trump Deranged Dumocrats”（精神错乱的民主党人），以及按行业惯例邀请民主党候选人接受采访；他还强调“是他们的问题，不是我的”，并称自己的数字比以往更好。\n\n---\n\n*由「外刊精读」自动生成 · 每天一篇，读原文，也读世界*"
+  }
+ ],
+ "translation": [
+  {
+   "idx": 1,
+   "en": "On a midterm election night that was a huge disappointment for Republicans, with Democrats taking control of the US House and Senate, the country’s most prominent conservative television network seemingly felt the brunt of viewer disillusionment with Donald Trump and his party, according to final audience numbers released on Thursday.",
+   "zh": "在一个对共和党人来说极其失望的中期选举之夜，民主党人控制了美国众议院和参议院。根据周四公布的最终收视数据，美国最著名的保守派电视网络似乎首当其冲，感受到了观众对唐纳德·特朗普及其政党的失望。"
+  },
+  {
+   "idx": 2,
+   "en": "The Fox News channel, which often leads among all news networks in viewership on election nights, fell behind two top broadcasters on Tuesday. According to ratings dating from the Nielsen firm, the network averaged 4.3 million total viewers between 8 and 11pm, behind broadcast networks NBC (6.7 million viewers) and ABC (5.2 million viewers), though it edged out fellow cable networks CNN (4.1 million viewers) and MS Now (3.7 million viewers). Fox News handedly defeat CBS News, which attracted just 2.8 million viewers. CNN performed better in the 25-to-54 age demographic prized by advertisers, besting Fox News, MS Now and CBS.",
+   "zh": "福克斯新闻频道通常在选举之夜的收视率领先于所有新闻网络，但周二却落后于两家顶级广播公司。根据尼尔森公司的收视数据，该网络在晚上8点至11点之间平均拥有430万总观众，落后于广播网NBC（670万观众）和ABC（520万观众），不过它险胜了同属有线电视网的CNN（410万观众）和MS Now（370万观众）。福克斯新闻轻松击败了仅吸引280万观众的CBS新闻。CNN在广告商看重的25至54岁年龄群体中表现更好，胜过了福克斯新闻、MS Now和CBS。"
+  },
+  {
+   "idx": 3,
+   "en": "Originally, preliminary viewership numbers released Wednesday put Fox News behind both CNN and MS Now in total viewership in primetime.",
+   "zh": "起初，周三公布的初步收视数据显示，福克斯新闻在黄金时段的总收视率落后于CNN和MS Now。"
+  },
+  {
+   "idx": 4,
+   "en": "Overall, the big six television networks averaged nearly 27 million total viewers during prime-time election coverage, up from 22.215 million total viewers in 2022. During those 2022 elections, Fox News averaged 7.422 million viewers, meaning its viewership slipped about 41% on Tuesday.",
+   "zh": "总体而言，六大电视网络在黄金时段选举报道期间平均拥有近2700万总观众，高于2022年的2221.5万总观众。在2022年选举期间，福克斯新闻平均拥有742.2万观众，这意味着周二其收视率下滑了约41%。"
+  },
+  {
+   "idx": 5,
+   "en": "With Trump reaching historic levels of unpopularity, Fox News has seen some viewers tune out in recent weeks. Last month, the network’s viewership was down 27% compared with the same month last year in total day viewers, though it still handily defeated CNN and MS Now. Lachlan Murdoch, the chief executive of parent company Fox Corp, acknowledged “viewer fatigue” in an earnings call on Monday.",
+   "zh": "随着特朗普的不受欢迎程度达到历史水平，最近几周福克斯新闻的一些观众不再收看。上个月，该网络的全天总观众数较去年同期下降了27%，尽管它仍轻松击败了CNN和MS Now。母公司福克斯公司的首席执行官拉克兰·默多克在周一的财报电话会议上承认存在“观众疲劳”。"
+  },
+  {
+   "idx": 6,
+   "en": "Trump, who criticized Fox throughout election night and blamed the network for his party’s losses, poked fun at the network’s October figures in a Truth Social post, chalking up the decline to the channel’s industry-standard practice of booking Democratic candidates for interviews.",
+   "zh": "特朗普在整个选举之夜批评福克斯，并将所在政党的失利归咎于该网络。他在Truth Social的帖子中调侃了该网络10月份的收视数据，把下滑归因于该频道按行业惯例邀请民主党候选人接受采访的做法。"
+  },
+  {
+   "idx": 7,
+   "en": "“FoxNews Ratings are way down (27%!) because they’re spending too much time covering the Trump Deranged Dumocrats!” he wrote on Tuesday evening. “All of those people who used to watch Fox, and no longer do, get it. It’s them, not me – My numbers are better than they have ever been.”",
+   "zh": "“福克斯新闻的收视率大幅下降（27%！），因为他们花了太多时间报道特朗普精神错乱的‘蠢主党’！”他在周二晚上写道。“所有那些过去看福克斯、现在不再看的人，都明白。是他们的问题，不是我的——我的数字比以往任何时候都好。”"
+  },
+  {
+   "idx": 8,
+   "en": "This story was updated on Thursday afternoon to reflect final viewership figures released by Nielsen.",
+   "zh": "这篇报道于周四下午更新，以反映尼尔森公司发布的最终收视数据。"
+  }
+ ],
+ "article": [
+  "On a midterm election night that was a huge disappointment for Republicans, with Democrats taking control of the US House and Senate, the country’s most prominent conservative television network seemingly felt the brunt of viewer disillusionment with Donald Trump and his party, according to final audience numbers released on Thursday.",
+  "The Fox News channel, which often leads among all news networks in viewership on election nights, fell behind two top broadcasters on Tuesday. According to ratings dating from the Nielsen firm, the network averaged 4.3 million total viewers between 8 and 11pm, behind broadcast networks NBC (6.7 million viewers) and ABC (5.2 million viewers), though it edged out fellow cable networks CNN (4.1 million viewers) and MS Now (3.7 million viewers). Fox News handedly defeat CBS News, which attracted just 2.8 million viewers. CNN performed better in the 25-to-54 age demographic prized by advertisers, besting Fox News, MS Now and CBS.",
+  "Originally, preliminary viewership numbers released Wednesday put Fox News behind both CNN and MS Now in total viewership in primetime.",
+  "Overall, the big six television networks averaged nearly 27 million total viewers during prime-time election coverage, up from 22.215 million total viewers in 2022. During those 2022 elections, Fox News averaged 7.422 million viewers, meaning its viewership slipped about 41% on Tuesday.",
+  "With Trump reaching historic levels of unpopularity, Fox News has seen some viewers tune out in recent weeks. Last month, the network’s viewership was down 27% compared with the same month last year in total day viewers, though it still handily defeated CNN and MS Now. Lachlan Murdoch, the chief executive of parent company Fox Corp, acknowledged “viewer fatigue” in an earnings call on Monday.",
+  "Trump, who criticized Fox throughout election night and blamed the network for his party’s losses, poked fun at the network’s October figures in a Truth Social post, chalking up the decline to the channel’s industry-standard practice of booking Democratic candidates for interviews.",
+  "“FoxNews Ratings are way down (27%!) because they’re spending too much time covering the Trump Deranged Dumocrats!” he wrote on Tuesday evening. “All of those people who used to watch Fox, and no longer do, get it. It’s them, not me – My numbers are better than they have ever been.”",
+  "This story was updated on Thursday afternoon to reflect final viewership figures released by Nielsen."
+ ],
+ "source": "The Guardian · World",
+ "word_count": 377,
+ "level": "B2"
+}

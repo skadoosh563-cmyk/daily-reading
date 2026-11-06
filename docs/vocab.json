@@ -1,7 +1,18 @@
 {
- "updated": "2026-11-05T01:45:20",
- "count": 189,
+ "updated": "2026-11-06T01:46:58",
+ "count": 198,
  "vocab": [
+  {
+   "word": "bear the brunt of",
+   "pos": "phrase",
+   "phonetic": "/ber ðə brʌnt ʌv/",
+   "meaning_zh": "承受……的主要冲击（或压力）",
+   "count": 2,
+   "dates": [
+    "2026-10-29",
+    "2026-11-06"
+   ]
+  },
   {
    "word": "seize on",
    "pos": "phrase",
@@ -216,16 +227,6 @@
    ]
   },
   {
-   "word": "bear the brunt of",
-   "pos": "phrase",
-   "phonetic": "/ber ðə brʌnt ʌv/",
-   "meaning_zh": "承受……的主要冲击（或压力）",
-   "count": 1,
-   "dates": [
-    "2026-10-29"
-   ]
-  },
-  {
    "word": "besiege",
    "pos": "v.",
    "phonetic": "/bɪˈsiːdʒ/",
@@ -313,6 +314,16 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "chalk up",
+   "pos": "phrasal v.",
+   "phonetic": "/tʃɔːk ʌp/",
+   "meaning_zh": "把……归因于；将……解释为",
+   "count": 1,
+   "dates": [
+    "2026-11-06"
    ]
   },
   {
@@ -416,6 +427,16 @@
    ]
   },
   {
+   "word": "demographic",
+   "pos": "n.",
+   "phonetic": "/ˌdeməˈɡræfɪk/",
+   "meaning_zh": "（特定）人群；受众群体",
+   "count": 1,
+   "dates": [
+    "2026-11-06"
+   ]
+  },
+  {
    "word": "derriere",
    "pos": "n.",
    "phonetic": "/ˌderiˈeə(r)/",
@@ -453,6 +474,16 @@
    "count": 1,
    "dates": [
     "2026-11-03"
+   ]
+  },
+  {
+   "word": "disillusionment",
+   "pos": "n.",
+   "phonetic": "/ˌdɪsɪˈluːʒnmənt/",
+   "meaning_zh": "失望；幻想破灭",
+   "count": 1,
+   "dates": [
+    "2026-11-06"
    ]
   },
   {
@@ -503,6 +534,16 @@
    "count": 1,
    "dates": [
     "2026-10-25"
+   ]
+  },
+  {
+   "word": "edge out",
+   "pos": "phrasal v.",
+   "phonetic": "/edʒ aʊt/",
+   "meaning_zh": "险胜；以微弱优势超过",
+   "count": 1,
+   "dates": [
+    "2026-11-06"
    ]
   },
   {
@@ -593,6 +634,16 @@
    "count": 1,
    "dates": [
     "2026-10-31"
+   ]
+  },
+  {
+   "word": "fatigue",
+   "pos": "n.",
+   "phonetic": "/fəˈtiːɡ/",
+   "meaning_zh": "疲劳；厌倦",
+   "count": 1,
+   "dates": [
+    "2026-11-06"
    ]
   },
   {
@@ -753,6 +804,16 @@
    "count": 1,
    "dates": [
     "2026-10-24"
+   ]
+  },
+  {
+   "word": "handedly",
+   "pos": "adv.",
+   "phonetic": "/ˈhændɪdli/",
+   "meaning_zh": "轻松地；轻而易举地（文中handedly defeat意为“轻松击败”）",
+   "count": 1,
+   "dates": [
+    "2026-11-06"
    ]
   },
   {
@@ -1176,6 +1237,16 @@
    ]
   },
   {
+   "word": "poke fun at",
+   "pos": "phrase",
+   "phonetic": "/pəʊk fʌn æt/",
+   "meaning_zh": "拿……开玩笑；调侃",
+   "count": 1,
+   "dates": [
+    "2026-11-06"
+   ]
+  },
+  {
    "word": "poll poorly",
    "pos": "v. phrase",
    "phonetic": "/poʊl ˈpʊrli/",
@@ -1213,6 +1284,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "prized",
+   "pos": "adj.",
+   "phonetic": "/praɪzd/",
+   "meaning_zh": "珍视的；受重视的",
+   "count": 1,
+   "dates": [
+    "2026-11-06"
    ]
   },
   {
@@ -1783,6 +1864,16 @@
    "count": 1,
    "dates": [
     "2026-11-04"
+   ]
+  },
+  {
+   "word": "tune out",
+   "pos": "phrasal v.",
+   "phonetic": "/tjuːn aʊt/",
+   "meaning_zh": "不再关注；转台不看",
+   "count": 1,
+   "dates": [
+    "2026-11-06"
    ]
   },
   {

@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-05T01:45:20",
- "count": 19,
+ "updated": "2026-11-06T01:46:58",
+ "count": 20,
  "items": [
+  {
+   "id": "fox-news-suffers-ratings-drop-on-bleak-e",
+   "date": "2026-11-06",
+   "title_zh": "福克斯新闻在共和党惨淡的选举之夜收视率下滑",
+   "summary": "这篇《卫报》报道聚焦美国中期选举当晚的电视收视数据：一向在选举夜领先的福克斯新闻频道，此次收视率落后于NBC和ABC两大广播网，与2022年相比跌幅约41%。文章将这一变化与特朗普不受欢迎、观众疲劳以及福克斯被特朗普批评等因素联系起来，同时引用了尼尔森公司的最终收视数据。对B2学习者来说，这篇文章是练习外媒数据报道、政治词汇和长句拆解的好材料。",
+   "vocab": [
+    {
+     "word": "disillusionment",
+     "pos": "n.",
+     "phonetic": "/ˌdɪsɪˈluːʒnmənt/",
+     "meaning_zh": "失望；幻想破灭",
+     "example_en": "the country’s most prominent conservative television network seemingly felt the brunt of viewer disillusionment with Donald Trump and his party",
+     "example_zh": "美国最著名的保守派电视网络似乎首当其冲，感受到了观众对唐纳德·特朗普及其政党的失望。"
+    },
+    {
+     "word": "bear the brunt of",
+     "pos": "phrase",
+     "phonetic": "/beə ðə brʌnt ɒv/",
+     "meaning_zh": "承受……的主要冲击；首当其冲",
+     "example_en": "the country’s most prominent conservative television network seemingly felt the brunt of viewer disillusionment",
+     "example_zh": "美国最著名的保守派电视网络似乎首当其冲，感受到了观众的失望。"
+    },
+    {
+     "word": "edge out",
+     "pos": "phrasal v.",
+     "phonetic": "/edʒ aʊt/",
+     "meaning_zh": "险胜；以微弱优势超过",
+     "example_en": "though it edged out fellow cable networks CNN (4.1 million viewers) and MS Now (3.7 million viewers)",
+     "example_zh": "尽管它险胜了同属有线电视网的CNN（410万观众）和MS Now（370万观众）。"
+    },
+    {
+     "word": "handedly",
+     "pos": "adv.",
+     "phonetic": "/ˈhændɪdli/",
+     "meaning_zh": "轻松地；轻而易举地（文中handedly defeat意为“轻松击败”）",
+     "example_en": "Fox News handedly defeat CBS News, which attracted just 2.8 million viewers.",
+     "example_zh": "福克斯新闻轻松击败了仅吸引280万观众的CBS新闻。"
+    },
+    {
+     "word": "demographic",
+     "pos": "n.",
+     "phonetic": "/ˌdeməˈɡræfɪk/",
+     "meaning_zh": "（特定）人群；受众群体",
+     "example_en": "CNN performed better in the 25-to-54 age demographic prized by advertisers",
+     "example_zh": "CNN在广告商看重的25至54岁年龄群体中表现更好。"
+    },
+    {
+     "word": "prized",
+     "pos": "adj.",
+     "phonetic": "/praɪzd/",
+     "meaning_zh": "珍视的；受重视的",
+     "example_en": "the 25-to-54 age demographic prized by advertisers",
+     "example_zh": "广告商看重的25至54岁年龄群体"
+    },
+    {
+     "word": "tune out",
+     "pos": "phrasal v.",
+     "phonetic": "/tjuːn aʊt/",
+     "meaning_zh": "不再关注；转台不看",
+     "example_en": "Fox News has seen some viewers tune out in recent weeks.",
+     "example_zh": "最近几周，福克斯新闻的一些观众不再收看。"
+    },
+    {
+     "word": "fatigue",
+     "pos": "n.",
+     "phonetic": "/fəˈtiːɡ/",
+     "meaning_zh": "疲劳；厌倦",
+     "example_en": "Lachlan Murdoch, the chief executive of parent company Fox Corp, acknowledged “viewer fatigue” in an earnings call on Monday.",
+     "example_zh": "母公司福克斯公司的首席执行官拉克兰·默多克在周一的财报电话会议上承认存在“观众疲劳”。"
+    },
+    {
+     "word": "chalk up",
+     "pos": "phrasal v.",
+     "phonetic": "/tʃɔːk ʌp/",
+     "meaning_zh": "把……归因于；将……解释为",
+     "example_en": "poked fun at the network’s October figures in a Truth Social post, chalking up the decline to the channel’s industry-standard practice",
+     "example_zh": "在Truth Social的帖子中调侃了该网络10月份的收视数据，把下滑归因于该频道按行业惯例邀请民主党候选人接受采访的做法。"
+    },
+    {
+     "word": "poke fun at",
+     "pos": "phrase",
+     "phonetic": "/pəʊk fʌn æt/",
+     "meaning_zh": "拿……开玩笑；调侃",
+     "example_en": "Trump ... poked fun at the network’s October figures in a Truth Social post",
+     "example_zh": "特朗普……在Truth Social的帖子中调侃了该网络10月份的收视数据。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 377,
+   "level": "B2"
+  },
   {
    "id": "iran-unveils-we-will-kill-trump-banner-b",
    "date": "2026-11-05",
