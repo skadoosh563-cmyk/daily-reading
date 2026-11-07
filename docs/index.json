@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-06T01:46:58",
- "count": 20,
+ "updated": "2026-11-07T01:08:47",
+ "count": 21,
  "items": [
+  {
+   "id": "tech-barons-cozied-up-to-trump-what-will",
+   "date": "2026-11-07",
+   "title_zh": "科技大亨曾向特朗普示好，如今在变蓝的美国他们怎么办？",
+   "summary": "文章以硅谷亿万富翁在特朗普就职典礼上的合影为切入点，回顾他们押注右翼政治得势后财富暴涨，但中期选举民主党大胜让他们措手不及。民主党人誓言调查科技巨头、暂停数据中心建设，马斯克成为焦点。作者指出，这些富豪长期只迎合权力，在民众关心的生活成本与腐败议题上几乎没有发言权，形象难以挽回。",
+   "vocab": [
+    {
+     "word": "cozy up to",
+     "pos": "phr.v.",
+     "phonetic": "/ˈkoʊzi ʌp tuː/",
+     "meaning_zh": "讨好，献殷勤",
+     "example_en": "Tech barons cozied up to Trump.",
+     "example_zh": "科技大亨们曾向特朗普示好。"
+    },
+    {
+     "word": "symbiosis",
+     "pos": "n.",
+     "phonetic": "/ˌsɪmbaɪˈoʊsɪs/",
+     "meaning_zh": "共生关系",
+     "example_en": "a symbiosis of the ultra-rich",
+     "example_zh": "超级富豪之间的共生关系"
+    },
+    {
+     "word": "unhedged",
+     "pos": "adj.",
+     "phonetic": "/ʌnˈhedʒd/",
+     "meaning_zh": "未对冲的，未留后路的",
+     "example_en": "going all-in on Maga seems an unwisely unhedged bet",
+     "example_zh": "全力押注Maga似乎是一笔不明智的、未留后路的赌注"
+    },
+    {
+     "word": "flip",
+     "pos": "v.",
+     "phonetic": "/flɪp/",
+     "meaning_zh": "翻转（席位），赢下",
+     "example_en": "flipping seats right and left",
+     "example_zh": "四处翻转席位"
+    },
+    {
+     "word": "blatant",
+     "pos": "adj.",
+     "phonetic": "/ˈbleɪtnt/",
+     "meaning_zh": "公然的，明目张胆的",
+     "example_en": "oligarchs’ blatant attempts to create a political environment to their liking",
+     "example_zh": "寡头们公然试图营造合他们心意的政治环境"
+    },
+    {
+     "word": "bring ... to heel",
+     "pos": "phr.",
+     "phonetic": "/hiːl/",
+     "meaning_zh": "使……就范，驯服",
+     "example_en": "He pledged to bring “big tech to heel”.",
+     "example_zh": "他承诺要让“大型科技公司就范”。"
+    },
+    {
+     "word": "hamstring",
+     "pos": "v.",
+     "phonetic": "/ˈhæmstrɪŋ/",
+     "meaning_zh": "严重削弱，使瘫痪",
+     "example_en": "which may hamstring compute-hungry AI companies",
+     "example_zh": "这可能会严重制约渴求算力的AI公司"
+    },
+    {
+     "word": "moratorium",
+     "pos": "n.",
+     "phonetic": "/ˌmɔːrəˈtɔːriəm/",
+     "meaning_zh": "暂停令，禁令",
+     "example_en": "moratoriums on datacenters",
+     "example_zh": "暂停数据中心建设"
+    },
+    {
+     "word": "lay-up",
+     "pos": "n.",
+     "phonetic": "/ˈleɪ ʌp/",
+     "meaning_zh": "唾手可得的事，轻而易举的成功",
+     "example_en": "will be a political lay-up for Democrats",
+     "example_zh": "对民主党来说将是政治上唾手可得的胜利"
+    },
+    {
+     "word": "capitulation",
+     "pos": "n.",
+     "phonetic": "/kəˌpɪtʃuˈleɪʃn/",
+     "meaning_zh": "投降，屈服",
+     "example_en": "In what seemed like capitulation",
+     "example_zh": "这看起来像是投降"
+    }
+   ],
+   "source": "The Guardian · Business",
+   "word_count": 996,
+   "level": "C1"
+  },
   {
    "id": "fox-news-suffers-ratings-drop-on-bleak-e",
    "date": "2026-11-06",

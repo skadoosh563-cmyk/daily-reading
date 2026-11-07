@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T01:46:58",
- "count": 198,
+ "updated": "2026-11-07T01:08:47",
+ "count": 207,
  "vocab": [
   {
    "word": "bear the brunt of",
@@ -11,6 +11,17 @@
    "dates": [
     "2026-10-29",
     "2026-11-06"
+   ]
+  },
+  {
+   "word": "flip",
+   "pos": "v.",
+   "phonetic": "/flɪp/",
+   "meaning_zh": "（选举语境）翻转、夺下（原本属于对方的席位）",
+   "count": 2,
+   "dates": [
+    "2026-11-04",
+    "2026-11-07"
    ]
   },
   {
@@ -247,6 +258,16 @@
    ]
   },
   {
+   "word": "blatant",
+   "pos": "adj.",
+   "phonetic": "/ˈbleɪtnt/",
+   "meaning_zh": "公然的，明目张胆的",
+   "count": 1,
+   "dates": [
+    "2026-11-07"
+   ]
+  },
+  {
    "word": "bloody-mindedness",
    "pos": "n.",
    "phonetic": "/ˈblʌdi ˈmaɪndɪdnəs/",
@@ -264,6 +285,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "bring ... to heel",
+   "pos": "phr.",
+   "phonetic": "/hiːl/",
+   "meaning_zh": "使……就范，驯服",
+   "count": 1,
+   "dates": [
+    "2026-11-07"
    ]
   },
   {
@@ -304,6 +335,16 @@
    "count": 1,
    "dates": [
     "2026-11-05"
+   ]
+  },
+  {
+   "word": "capitulation",
+   "pos": "n.",
+   "phonetic": "/kəˌpɪtʃuˈleɪʃn/",
+   "meaning_zh": "投降，屈服",
+   "count": 1,
+   "dates": [
+    "2026-11-07"
    ]
   },
   {
@@ -384,6 +425,16 @@
    "count": 1,
    "dates": [
     "2026-10-28"
+   ]
+  },
+  {
+   "word": "cozy up to",
+   "pos": "phr.v.",
+   "phonetic": "/ˈkoʊzi ʌp tuː/",
+   "meaning_zh": "讨好，献殷勤",
+   "count": 1,
+   "dates": [
+    "2026-11-07"
    ]
   },
   {
@@ -667,16 +718,6 @@
    ]
   },
   {
-   "word": "flip",
-   "pos": "v.",
-   "phonetic": "/flɪp/",
-   "meaning_zh": "（选举语境）翻转、夺下（原本属于对方的席位）",
-   "count": 1,
-   "dates": [
-    "2026-11-04"
-   ]
-  },
-  {
    "word": "flip control of",
    "pos": "phrase",
    "phonetic": "/flɪp kənˈtroʊl əv/",
@@ -794,6 +835,16 @@
    "count": 1,
    "dates": [
     "2026-10-29"
+   ]
+  },
+  {
+   "word": "hamstring",
+   "pos": "v.",
+   "phonetic": "/ˈhæmstrɪŋ/",
+   "meaning_zh": "严重削弱，使瘫痪",
+   "count": 1,
+   "dates": [
+    "2026-11-07"
    ]
   },
   {
@@ -977,6 +1028,16 @@
    ]
   },
   {
+   "word": "lay-up",
+   "pos": "n.",
+   "phonetic": "/ˈleɪ ʌp/",
+   "meaning_zh": "唾手可得的事，轻而易举的成功",
+   "count": 1,
+   "dates": [
+    "2026-11-07"
+   ]
+  },
+  {
    "word": "levy",
    "pos": "n.",
    "phonetic": "/ˈlevi/",
@@ -1054,6 +1115,16 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "moratorium",
+   "pos": "n.",
+   "phonetic": "/ˌmɔːrəˈtɔːriəm/",
+   "meaning_zh": "暂停令，禁令",
+   "count": 1,
+   "dates": [
+    "2026-11-07"
    ]
   },
   {
@@ -1787,6 +1858,16 @@
    ]
   },
   {
+   "word": "symbiosis",
+   "pos": "n.",
+   "phonetic": "/ˌsɪmbaɪˈoʊsɪs/",
+   "meaning_zh": "共生关系",
+   "count": 1,
+   "dates": [
+    "2026-11-07"
+   ]
+  },
+  {
    "word": "take a back seat",
    "pos": "phrase",
    "phonetic": "/teɪk ə bæk siːt/",
@@ -1884,6 +1965,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "unhedged",
+   "pos": "adj.",
+   "phonetic": "/ʌnˈhedʒd/",
+   "meaning_zh": "未对冲的，未留后路的",
+   "count": 1,
+   "dates": [
+    "2026-11-07"
    ]
   },
   {
