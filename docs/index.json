@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-07T01:08:47",
- "count": 21,
+ "updated": "2026-11-08T00:53:48",
+ "count": 22,
  "items": [
+  {
+   "id": "how-do-you-broker-un-climate-talks-when",
+   "date": "2026-11-08",
+   "title_zh": "当你的国家是煤炭和天然气出口大国时，如何斡旋联合国气候谈判？克里斯·鲍文即将揭晓答案",
+   "summary": "本文报道澳大利亚气候部长克里斯·鲍文在COP31气候谈判中担任谈判主席，面临一个核心矛盾：澳大利亚既是全球主要的煤炭和天然气出口国，又要推动全球摆脱化石燃料。文章介绍了COP31的议程重点、鲍文的立场、气候专家的质疑以及澳大利亚国内的政治分歧，揭示了气候外交中“言行一致”的困境。值得读的地方在于，它展示了国际气候谈判的现实政治逻辑，以及一个国家如何在经济利益与全球责任之间走钢丝。",
+   "vocab": [
+    {
+     "word": "broker",
+     "pos": "v.",
+     "phonetic": "/ˈbrəʊkə(r)/",
+     "meaning_zh": "斡旋；促成（协议）",
+     "example_en": "How do you broker UN climate talks when your own country is a big coal and gas exporter?",
+     "example_zh": "当你的国家是煤炭和天然气出口大国时，你如何斡旋联合国气候谈判？"
+    },
+    {
+     "word": "set aside",
+     "pos": "phr.",
+     "phonetic": "/set əˈsaɪd/",
+     "meaning_zh": "搁置；放下（不考虑）",
+     "example_en": "Australia has been urged to set aside support for its near US$100bn fossil fuel export industries.",
+     "example_zh": "澳大利亚被敦促搁置对其近1000亿美元化石燃料出口产业的支持。"
+    },
+    {
+     "word": "amid",
+     "pos": "prep.",
+     "phonetic": "/əˈmɪd/",
+     "meaning_zh": "在……之中；在……背景下",
+     "example_en": "Two weeks of climate talks held amid geopolitical turmoil.",
+     "example_zh": "为期两周的气候谈判在地缘政治动荡中举行。"
+    },
+    {
+     "word": "on par with",
+     "pos": "phr.",
+     "phonetic": "/ɒn pɑː(r) wɪð/",
+     "meaning_zh": "与……相当；与……持平",
+     "example_en": "About one fifth of the world’s liquefied natural gas exports also come from its shores – on par with Qatar, but behind the world’s biggest exporter, the United States.",
+     "example_zh": "全球约五分之一的液化天然气出口也来自其海岸——与卡塔尔持平，但落后于世界最大出口国美国。"
+    },
+    {
+     "word": "vie for",
+     "pos": "phr.",
+     "phonetic": "/vaɪ fɔː(r)/",
+     "meaning_zh": "争夺；竞争",
+     "example_en": "Turkey and Australia vied for hosting rights and came to a compromise.",
+     "example_zh": "土耳其和澳大利亚争夺主办权，最终达成妥协。"
+    },
+    {
+     "word": "existential threat",
+     "pos": "n. phr.",
+     "phonetic": "/ˌeɡzɪˈstenʃl θret/",
+     "meaning_zh": "生存威胁",
+     "example_en": "Poorer vulnerable countries for whom climate change is seen as an existential threat.",
+     "example_zh": "对较贫穷的脆弱国家来说，气候变化被视为生存威胁。"
+    },
+    {
+     "word": "overshoot",
+     "pos": "n.",
+     "phonetic": "/ˈəʊvəʃuːt/",
+     "meaning_zh": "超调；超出（目标）",
+     "example_en": "Minimising overshoot past the 1.5C Paris agreement temperature goal.",
+     "example_zh": "尽量减少对《巴黎协定》1.5摄氏度温控目标的超出幅度。"
+    },
+    {
+     "word": "dismiss",
+     "pos": "v.",
+     "phonetic": "/dɪsˈmɪs/",
+     "meaning_zh": "不予理会；驳回",
+     "example_en": "Bowen dismissed that notion, saying all countries were dealing with the transition.",
+     "example_zh": "鲍文驳回了这一观点，称所有国家都在应对转型。"
+    },
+    {
+     "word": "thread the needle",
+     "pos": "phr.",
+     "phonetic": "/θred ðə ˈniːdl/",
+     "meaning_zh": "在复杂局面中小心平衡；走钢丝",
+     "example_en": "The prime minister will need to thread this political needle when he speaks during a two-day leaders summit.",
+     "example_zh": "总理在为期两天的领导人峰会上发言时，将需要在这种政治夹缝中小心平衡。"
+    },
+    {
+     "word": "pass the pub test",
+     "pos": "phr.",
+     "phonetic": "/pɑːs ðə pʌb test/",
+     "meaning_zh": "经得起普通人的常识检验；说得过去",
+     "example_en": "It doesn’t pass the pub test to talk about limiting overshoot while approving corporate proposals for new coal and gas.",
+     "example_zh": "一边谈论限制超调，一边批准企业的新煤炭和天然气项目，这说不过去。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 1032,
+   "level": "C1"
+  },
   {
    "id": "tech-barons-cozied-up-to-trump-what-will",
    "date": "2026-11-07",
