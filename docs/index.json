@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-08T00:53:48",
- "count": 22,
+ "updated": "2026-11-09T01:11:15",
+ "count": 23,
  "items": [
+  {
+   "id": "pope-s-visit-to-argentina-sets-up-showdo",
+   "date": "2026-11-09",
+   "title_zh": "教皇访问阿根廷，与“超级资本主义者”米莱的对决一触即发",
+   "summary": "教皇利奥十四世即将访问阿根廷，这是他首次以教皇身份到访，也是自1987年以来首次教皇访问。阿根廷总统米莱是极右翼自由经济学家，曾称教皇方济各为“白痴”，并大幅削减残疾人士拨款等公共开支。文章分析了教皇与米莱在意识形态上的对立，涉及残疾 funding、人工智能监管、社会正义等议题，以及阿根廷社会运动与教会的关系变化。这篇报道有助于了解拉美政治与宗教的互动，并学习外刊中常见的政治社会类词汇和句式。",
+   "vocab": [
+    {
+     "word": "showdown",
+     "pos": "n.",
+     "phonetic": "/ˈʃaʊndaʊn/",
+     "meaning_zh": "对决，摊牌",
+     "example_en": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+     "example_zh": "教皇访问阿根廷，与“超级资本主义者”米莱的对决一触即发"
+    },
+    {
+     "word": "hyper-capitalist",
+     "pos": "n./adj.",
+     "phonetic": "/ˌhaɪpərˈkæpɪtəlɪst/",
+     "meaning_zh": "超级资本主义者；极端资本主义的",
+     "example_en": "Milei is a “hyper-capitalist” who believes only “those who compete the most should be rewarded”.",
+     "example_zh": "米莱是一个“超级资本主义者”，他认为只有“竞争最激烈的人才应该得到奖励”。"
+    },
+    {
+     "word": "wide-ranging",
+     "pos": "adj.",
+     "phonetic": "/ˌwaɪd ˈreɪndʒɪŋ/",
+     "meaning_zh": "广泛的，大范围的",
+     "example_en": "Argentina’s president, Javier Milei, has made wide-ranging cuts to disability funding.",
+     "example_zh": "阿根廷总统哈维尔·米莱大幅削减了残疾人士拨款。"
+    },
+    {
+     "word": "flashpoint",
+     "pos": "n.",
+     "phonetic": "/ˈflæʃpɔɪnt/",
+     "meaning_zh": "爆发点，冲突点",
+     "example_en": "Disability funding has been a flashpoint between church and state.",
+     "example_zh": "残疾人士拨款一直是教会与国家之间的冲突点。"
+    },
+    {
+     "word": "impasse",
+     "pos": "n.",
+     "phonetic": "/ˈɪmpæs/",
+     "meaning_zh": "僵局，绝境",
+     "example_en": "The ministry has met the bishops twice since, in April and again on 5 October, but without resolving the impasse.",
+     "example_zh": "此后，该部与主教们于4月和10月5日两次会面，但未能打破僵局。"
+    },
+    {
+     "word": "downplay",
+     "pos": "v.",
+     "phonetic": "/ˌdaʊnˈpleɪ/",
+     "meaning_zh": "淡化，轻描淡写",
+     "example_en": "The government is trying to downplay potential tensions.",
+     "example_zh": "政府正试图淡化潜在的紧张局势。"
+    },
+    {
+     "word": "speak for itself",
+     "pos": "phrase",
+     "phonetic": "/spiːk fɔːr ɪtˈself/",
+     "meaning_zh": "不言自明，本身就说明问题",
+     "example_en": "Juan Cruz Esquivel, director of Buenos Aires University’s Barometer of Religions and Beliefs, says the itinerary speaks for itself.",
+     "example_zh": "布宜诺斯艾利斯大学宗教与信仰晴雨表主任胡安·克鲁斯·埃斯基维尔说，行程本身就不言自明。"
+    },
+    {
+     "word": "uphold",
+     "pos": "v.",
+     "phonetic": "/ʌpˈhoʊld/",
+     "meaning_zh": "维护，坚持",
+     "example_en": "Pope Leo has been saying it without confronting, but he keeps upholding the church’s social doctrine as the key axis of his ministry.",
+     "example_zh": "教皇利奥一直在不正面冲突的情况下表达这一点，但他始终将教会的社会教义作为其牧职的核心轴心。"
+    },
+    {
+     "word": "hegemony",
+     "pos": "n.",
+     "phonetic": "/hɪˈdʒemoʊni/",
+     "meaning_zh": "霸权，主导地位",
+     "example_en": "Although Catholicism remains Argentina’s majority religion, it has lost its cultural hegemony and its influence on legislative agenda.",
+     "example_zh": "尽管天主教仍是阿根廷的主要宗教，但它已失去文化霸权和对立法议程的影响力。"
+    },
+    {
+     "word": "take refuge in",
+     "pos": "phrase",
+     "phonetic": "/teɪk ˈrefjuːdʒ ɪn/",
+     "meaning_zh": "避难，寻求庇护",
+     "example_en": "In the face of dehumanisation, ordinary people are taking refuge in the only global voice that’s speaking out about this today.",
+     "example_zh": "面对非人化，普通民众正在寻求庇护，依靠当今唯一就此发声的全球声音。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 1331,
+   "level": "B2"
+  },
   {
    "id": "how-do-you-broker-un-climate-talks-when",
    "date": "2026-11-08",
