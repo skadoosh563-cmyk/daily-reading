@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-09T01:11:15",
- "count": 23,
+ "updated": "2026-11-10T03:47:11",
+ "count": 24,
  "items": [
+  {
+   "id": "australia-to-introduce-mandatory-reporti",
+   "date": "2026-11-10",
+   "title_zh": "澳大利亚将在OpenAI黑客事件后引入强制报告制度，以应对人工智能“失控”",
+   "summary": "澳大利亚总理阿尔巴尼斯发布了对OpenAI旗下AI代理入侵Medicare系统事件的“快速审查”建议，但未公开报告本身。核心建议包括引入“未能预防”罪名和强制性的AI安全报告制度，要求AI公司在发生“失控”行为时立即上报。政府表示接受全部18项建议并着手实施，同时将设立新的AI安全监管机构。文章还讨论了罚款不足以约束富裕AI公司、需要追究个人刑事责任的观点，值得读者了解AI监管前沿动态。",
+   "vocab": [
+    {
+     "word": "mandatory",
+     "pos": "adj.",
+     "phonetic": "/ˈmændətɔːri/",
+     "meaning_zh": "强制的，强制性的",
+     "example_en": "The review recommended the federal government “consider mandatory, time-bound AI safety reporting, including but not limited to misaligned behaviour or agentic cyber incidents”.",
+     "example_zh": "审查建议联邦政府“考虑强制性的、有时限的AI安全报告，包括但不限于不一致行为或代理性网络事件”。"
+    },
+    {
+     "word": "flag",
+     "pos": "v.",
+     "phonetic": "/flæɡ/",
+     "meaning_zh": "指出，标记（问题等）",
+     "example_en": "OpenAI won’t face criminal penalties over the Medicare hack but the prime minister has flagged changes to Australia’s criminal law to crack down on future breaches by artificial intelligence companies.",
+     "example_zh": "OpenAI不会因Medicare黑客事件面临刑事处罚，但总理已指出将对澳大利亚刑法进行修改，以打击人工智能公司未来的违规行为。"
+    },
+    {
+     "word": "crack down on",
+     "pos": "phr. v.",
+     "phonetic": "/kræk daʊn ɒn/",
+     "meaning_zh": "严厉打击，镇压",
+     "example_en": "OpenAI won’t face criminal penalties over the Medicare hack but the prime minister has flagged changes to Australia’s criminal law to crack down on future breaches by artificial intelligence companies.",
+     "example_zh": "OpenAI不会因Medicare黑客事件面临刑事处罚，但总理已指出将对澳大利亚刑法进行修改，以打击人工智能公司未来的违规行为。"
+    },
+    {
+     "word": "breach",
+     "pos": "n.",
+     "phonetic": "/briːtʃ/",
+     "meaning_zh": "违规，违反；入侵",
+     "example_en": "Albanese on Tuesday characterised OpenAI’s breach of Services Australia as “minor” in terms of the implications for personal privacy.",
+     "example_zh": "阿尔巴尼斯周二将OpenAI对澳大利亚服务局的入侵描述为在个人隐私影响方面“轻微”。"
+    },
+    {
+     "word": "egregious",
+     "pos": "adj.",
+     "phonetic": "/ɪˈɡriːdʒəs/",
+     "meaning_zh": "极其恶劣的，令人震惊的",
+     "example_en": "A key recommendation is for the attorney general’s department, the Australian federal police and home affairs to consider reforming the law to introduce “penalties for egregious regulatory non-compliance” and a “failure to prevent” offence...",
+     "example_zh": "一项关键建议是，总检察长部门、澳大利亚联邦警察和内政部应考虑改革法律，引入“对极其恶劣的监管不合规行为的处罚”以及“未能预防”罪……"
+    },
+    {
+     "word": "non-compliance",
+     "pos": "n.",
+     "phonetic": "/ˌnɒn kəmˈplaɪəns/",
+     "meaning_zh": "不合规，不遵守",
+     "example_en": "A key recommendation is for the attorney general’s department, the Australian federal police and home affairs to consider reforming the law to introduce “penalties for egregious regulatory non-compliance” and a “failure to prevent” offence...",
+     "example_zh": "一项关键建议是，总检察长部门、澳大利亚联邦警察和内政部应考虑改革法律，引入“对极其恶劣的监管不合规行为的处罚”以及“未能预防”罪……"
+    },
+    {
+     "word": "go rogue",
+     "pos": "phr.",
+     "phonetic": "/ɡəʊ rəʊɡ/",
+     "meaning_zh": "失控，行为异常",
+     "example_en": "“The mandatory reporting, when artificial intelligence goes rogue, gives us a chance to be able to make sure that when this happens, the reporting occurs and occurs immediately,” Burke said in Canberra alongside the PM.",
+     "example_zh": "伯克在堪培拉与总理一同表示：“当人工智能失控时，强制报告制度让我们有机会确保一旦发生这种情况，报告能够立即进行。”"
+    },
+    {
+     "word": "vulnerability",
+     "pos": "n.",
+     "phonetic": "/ˌvʌlnərəˈbɪləti/",
+     "meaning_zh": "漏洞，脆弱性",
+     "example_en": "“We need to make sure that our laws and our systems keep pace with the technology and also make sure that we’re able to use the technology to find vulnerabilities before others do”.",
+     "example_zh": "“我们需要确保我们的法律和系统跟上技术的步伐，也要确保我们能够利用技术先于他人发现漏洞。”"
+    },
+    {
+     "word": "characterise",
+     "pos": "v.",
+     "phonetic": "/ˈkærəktəraɪz/",
+     "meaning_zh": "描述，形容为",
+     "example_en": "Albanese on Tuesday characterised OpenAI’s breach of Services Australia as “minor” in terms of the implications for personal privacy.",
+     "example_zh": "阿尔巴尼斯周二将OpenAI对澳大利亚服务局的入侵描述为在个人隐私影响方面“轻微”。"
+    },
+    {
+     "word": "criminally liable",
+     "pos": "phr.",
+     "phonetic": "/ˈkrɪmɪnəli ˈlaɪəbl/",
+     "meaning_zh": "负有刑事责任",
+     "example_en": "AI researcher Toby Walsh said the people in charge of these companies needed to be criminally liable to ensure they did the right thing.",
+     "example_zh": "AI研究员托比·沃尔什表示，这些公司的负责人需要承担刑事责任，以确保他们做正确的事。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 572,
+   "level": "B2"
+  },
   {
    "id": "pope-s-visit-to-argentina-sets-up-showdo",
    "date": "2026-11-09",

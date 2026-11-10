@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09T01:11:15",
- "count": 226,
+ "updated": "2026-11-10T03:47:11",
+ "count": 236,
  "vocab": [
   {
    "word": "bear the brunt of",
@@ -309,6 +309,16 @@
    ]
   },
   {
+   "word": "breach",
+   "pos": "n.",
+   "phonetic": "/briːtʃ/",
+   "meaning_zh": "违规，违反；入侵",
+   "count": 1,
+   "dates": [
+    "2026-11-10"
+   ]
+  },
+  {
    "word": "bring ... to heel",
    "pos": "phr.",
    "phonetic": "/hiːl/",
@@ -409,6 +419,16 @@
    ]
   },
   {
+   "word": "characterise",
+   "pos": "v.",
+   "phonetic": "/ˈkærəktəraɪz/",
+   "meaning_zh": "描述，形容为",
+   "count": 1,
+   "dates": [
+    "2026-11-10"
+   ]
+  },
+  {
    "word": "commonsense",
    "pos": "adj.",
    "phonetic": "/ˌkɒmənˈsens/",
@@ -466,6 +486,26 @@
    "count": 1,
    "dates": [
     "2026-11-07"
+   ]
+  },
+  {
+   "word": "crack down on",
+   "pos": "phr. v.",
+   "phonetic": "/kræk daʊn ɒn/",
+   "meaning_zh": "严厉打击，镇压",
+   "count": 1,
+   "dates": [
+    "2026-11-10"
+   ]
+  },
+  {
+   "word": "criminally liable",
+   "pos": "phr.",
+   "phonetic": "/ˈkrɪmɪnəli ˈlaɪəbl/",
+   "meaning_zh": "负有刑事责任",
+   "count": 1,
+   "dates": [
+    "2026-11-10"
    ]
   },
   {
@@ -649,6 +689,16 @@
    ]
   },
   {
+   "word": "egregious",
+   "pos": "adj.",
+   "phonetic": "/ɪˈɡriːdʒəs/",
+   "meaning_zh": "极其恶劣的，令人震惊的",
+   "count": 1,
+   "dates": [
+    "2026-11-10"
+   ]
+  },
+  {
    "word": "embattled",
    "pos": "adj.",
    "phonetic": "/ɪmˈbætld/",
@@ -769,6 +819,16 @@
    ]
   },
   {
+   "word": "flag",
+   "pos": "v.",
+   "phonetic": "/flæɡ/",
+   "meaning_zh": "指出，标记（问题等）",
+   "count": 1,
+   "dates": [
+    "2026-11-10"
+   ]
+  },
+  {
    "word": "flagging",
    "pos": "adj.",
    "phonetic": "/ˈflæɡɪŋ/",
@@ -886,6 +946,16 @@
    "count": 1,
    "dates": [
     "2026-11-02"
+   ]
+  },
+  {
+   "word": "go rogue",
+   "pos": "phr.",
+   "phonetic": "/ɡəʊ rəʊɡ/",
+   "meaning_zh": "失控，行为异常",
+   "count": 1,
+   "dates": [
+    "2026-11-10"
    ]
   },
   {
@@ -1199,6 +1269,16 @@
    ]
   },
   {
+   "word": "mandatory",
+   "pos": "adj.",
+   "phonetic": "/ˈmændətɔːri/",
+   "meaning_zh": "强制的，强制性的",
+   "count": 1,
+   "dates": [
+    "2026-11-10"
+   ]
+  },
+  {
    "word": "mercantilistic",
    "pos": "adj.",
    "phonetic": "/ˌmɜːkəntɪˈlɪstɪk/",
@@ -1236,6 +1316,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "non-compliance",
+   "pos": "n.",
+   "phonetic": "/ˌnɒn kəmˈplaɪəns/",
+   "meaning_zh": "不合规，不遵守",
+   "count": 1,
+   "dates": [
+    "2026-11-10"
    ]
   },
   {
@@ -2216,6 +2306,16 @@
    "count": 1,
    "dates": [
     "2026-10-29"
+   ]
+  },
+  {
+   "word": "vulnerability",
+   "pos": "n.",
+   "phonetic": "/ˌvʌlnərəˈbɪləti/",
+   "meaning_zh": "漏洞，脆弱性",
+   "count": 1,
+   "dates": [
+    "2026-11-10"
    ]
   },
   {
