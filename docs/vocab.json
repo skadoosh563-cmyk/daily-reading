@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-10T03:47:11",
- "count": 236,
+ "updated": "2026-11-11T01:27:58",
+ "count": 246,
  "vocab": [
   {
    "word": "bear the brunt of",
@@ -136,6 +136,16 @@
    "count": 1,
    "dates": [
     "2026-11-05"
+   ]
+  },
+  {
+   "word": "ambivalent",
+   "pos": "adj.",
+   "phonetic": "/æmˈbɪvələnt/",
+   "meaning_zh": "矛盾心理的；犹豫不决的",
+   "count": 1,
+   "dates": [
+    "2026-11-11"
    ]
   },
   {
@@ -769,6 +779,16 @@
    ]
   },
   {
+   "word": "exorbitant",
+   "pos": "adj.",
+   "phonetic": "/ɪɡˈzɔːbɪtənt/",
+   "meaning_zh": "过高的；离谱的",
+   "count": 1,
+   "dates": [
+    "2026-11-11"
+   ]
+  },
+  {
    "word": "extractivist",
    "pos": "adj.",
    "phonetic": "/ɪkˈstræktɪvɪst/",
@@ -776,6 +796,16 @@
    "count": 1,
    "dates": [
     "2026-10-30"
+   ]
+  },
+  {
+   "word": "fall behind",
+   "pos": "phr.",
+   "phonetic": "/fɔːl bɪˈhaɪnd/",
+   "meaning_zh": "落后",
+   "count": 1,
+   "dates": [
+    "2026-11-11"
    ]
   },
   {
@@ -1229,6 +1259,16 @@
    ]
   },
   {
+   "word": "linchpin",
+   "pos": "n.",
+   "phonetic": "/ˈlɪntʃpɪn/",
+   "meaning_zh": "关键人物；关键因素",
+   "count": 1,
+   "dates": [
+    "2026-11-11"
+   ]
+  },
+  {
    "word": "longevity",
    "pos": "n.",
    "phonetic": "/lɒnˈdʒevəti/",
@@ -1649,6 +1689,16 @@
    ]
   },
   {
+   "word": "put sth into action",
+   "pos": "phr.",
+   "phonetic": "/pʊt ˈsʌmθɪŋ ˈɪntuː ˈækʃn/",
+   "meaning_zh": "将（想法、言论）付诸行动",
+   "count": 1,
+   "dates": [
+    "2026-11-11"
+   ]
+  },
+  {
    "word": "raise the alarm",
    "pos": "phrase",
    "phonetic": "/reɪz ði əˈlɑːm/",
@@ -1979,6 +2029,16 @@
    ]
   },
   {
+   "word": "sluggish",
+   "pos": "adj.",
+   "phonetic": "/ˈslʌɡɪʃ/",
+   "meaning_zh": "缓慢的；疲软的",
+   "count": 1,
+   "dates": [
+    "2026-11-11"
+   ]
+  },
+  {
    "word": "smeared in the dirt",
    "pos": "固定搭配",
    "phonetic": "/smɪəd ɪn ðə dɜːt/",
@@ -2049,6 +2109,16 @@
    ]
   },
   {
+   "word": "step into",
+   "pos": "phr.",
+   "phonetic": "/step ˈɪntuː/",
+   "meaning_zh": "开始承担（某个角色或职责）",
+   "count": 1,
+   "dates": [
+    "2026-11-11"
+   ]
+  },
+  {
    "word": "stodgy",
    "pos": "adj.",
    "phonetic": "/ˈstɒdʒi/",
@@ -2066,6 +2136,16 @@
    "count": 1,
    "dates": [
     "2026-10-25"
+   ]
+  },
+  {
+   "word": "stumble along",
+   "pos": "phr.",
+   "phonetic": "/ˈstʌmbl əˈlɒŋ/",
+   "meaning_zh": "跌跌撞撞地前进；勉强维持",
+   "count": 1,
+   "dates": [
+    "2026-11-11"
    ]
   },
   {
@@ -2279,6 +2359,16 @@
    ]
   },
   {
+   "word": "uptick",
+   "pos": "n.",
+   "phonetic": "/ˈʌptɪk/",
+   "meaning_zh": "小幅增加；上升",
+   "count": 1,
+   "dates": [
+    "2026-11-11"
+   ]
+  },
+  {
    "word": "vested interests",
    "pos": "n.",
    "phonetic": "/ˌvestɪd ˈɪntrəsts/",
@@ -2286,6 +2376,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "vex",
+   "pos": "v.",
+   "phonetic": "/veks/",
+   "meaning_zh": "使烦恼；困扰",
+   "count": 1,
+   "dates": [
+    "2026-11-11"
    ]
   },
   {

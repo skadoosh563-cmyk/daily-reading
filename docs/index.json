@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-10T03:47:11",
- "count": 24,
+ "updated": "2026-11-11T01:27:58",
+ "count": 25,
  "items": [
+  {
+   "id": "us-and-rest-of-world-must-follow-china-s",
+   "date": "2026-11-11",
+   "title_zh": "约翰·克里：美国及世界其他国家必须效仿中国发展绿色能源",
+   "summary": "本文报道了美国前国务卿约翰·克里在COP31气候峰会开幕之际对《卫报》发表的看法：中国在摆脱化石燃料方面领先世界，其他国家包括美国必须跟进。文章分析了中国在清洁技术出口和供应链上的主导地位、其“五年计划”中首次承诺“积极引领全球气候治理”的转变，以及地缘政治冲突如何加速全球能源转型。同时，文章也指出中国在国内消费疲软、国际信任不足等背景下，是否真正愿意承担领导角色仍存疑问。这篇报道有助于读者理解气候政治与绿色经济竞争的交织。",
+   "vocab": [
+    {
+     "word": "step into",
+     "pos": "phr.",
+     "phonetic": "/step ˈɪntuː/",
+     "meaning_zh": "开始承担（某个角色或职责）",
+     "example_en": "there is plenty of speculation about whether China will finally step into the leadership role that it has long avoided.",
+     "example_zh": "有很多猜测认为中国是否会最终承担起它长期回避的领导角色。"
+    },
+    {
+     "word": "put sth into action",
+     "pos": "phr.",
+     "phonetic": "/pʊt ˈsʌmθɪŋ ˈɪntuː ˈækʃn/",
+     "meaning_zh": "将（想法、言论）付诸行动",
+     "example_en": "Cop31 could provide the first indications Beijing is ready to put that rhetoric into action, something it has historically been reluctant to do.",
+     "example_zh": "COP31可能首次表明北京准备将这一言论付诸行动，而这是它历史上一直不愿做的。"
+    },
+    {
+     "word": "sluggish",
+     "pos": "adj.",
+     "phonetic": "/ˈslʌɡɪʃ/",
+     "meaning_zh": "缓慢的；疲软的",
+     "example_en": "Green energy is a vital component of the export engine that has kept China’s sluggish post-pandemic economy on track.",
+     "example_zh": "绿色能源是出口引擎的重要组成部分，这一引擎使疫情后疲软的中国经济保持正轨。"
+    },
+    {
+     "word": "vex",
+     "pos": "v.",
+     "phonetic": "/veks/",
+     "meaning_zh": "使烦恼；困扰",
+     "example_en": "a structural weakness that has persistently vexed leaders.",
+     "example_zh": "一种长期困扰领导人的结构性弱点。"
+    },
+    {
+     "word": "linchpin",
+     "pos": "n.",
+     "phonetic": "/ˈlɪntʃpɪn/",
+     "meaning_zh": "关键人物；关键因素",
+     "example_en": "Smart moves now by China would position it as a linchpin in a future electrostate world order.",
+     "example_zh": "中国现在采取明智的举措，将使其在未来的电力国家世界秩序中成为关键角色。"
+    },
+    {
+     "word": "fall behind",
+     "pos": "phr.",
+     "phonetic": "/fɔːl bɪˈhaɪnd/",
+     "meaning_zh": "落后",
+     "example_en": "Meanwhile other countries, including the US under Donald Trump, have fallen badly behind.",
+     "example_zh": "与此同时，其他国家，包括唐纳德·特朗普领导下的美国，已经严重落后。"
+    },
+    {
+     "word": "stumble along",
+     "pos": "phr.",
+     "phonetic": "/ˈstʌmbl əˈlɒŋ/",
+     "meaning_zh": "跌跌撞撞地前进；勉强维持",
+     "example_en": "The rest of the world is stumbling along while Mother Nature is sending us more powerful signals every week, every day.",
+     "example_zh": "世界其他地区在跌跌撞撞地前进，而大自然母亲每周、每天都在向我们发出更强烈的信号。"
+    },
+    {
+     "word": "uptick",
+     "pos": "n.",
+     "phonetic": "/ˈʌptɪk/",
+     "meaning_zh": "小幅增加；上升",
+     "example_en": "There’s been a massive uptick in deployment of renewables.",
+     "example_zh": "可再生能源的部署出现了大幅增长。"
+    },
+    {
+     "word": "exorbitant",
+     "pos": "adj.",
+     "phonetic": "/ɪɡˈzɔːbɪtənt/",
+     "meaning_zh": "过高的；离谱的",
+     "example_en": "Even they can read a spreadsheet, and understand where costs are exorbitant [in fossil fuels], and where you have a better deal.",
+     "example_zh": "即使是他们也能看懂电子表格，明白化石燃料的成本高得离谱，而哪里有更划算的交易。"
+    },
+    {
+     "word": "ambivalent",
+     "pos": "adj.",
+     "phonetic": "/æmˈbɪvələnt/",
+     "meaning_zh": "矛盾心理的；犹豫不决的",
+     "example_en": "Its attitude to the plans to set a global target for electrification has been ambivalent, even though it would easily hit it.",
+     "example_zh": "尽管中国很容易实现全球电气化目标，但它对此类计划的态度一直矛盾。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 1189,
+   "level": "C1"
+  },
   {
    "id": "australia-to-introduce-mandatory-reporti",
    "date": "2026-11-10",
