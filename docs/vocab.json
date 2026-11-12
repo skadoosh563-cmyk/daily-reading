@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T01:27:58",
- "count": 246,
+ "updated": "2026-11-12T02:29:12",
+ "count": 264,
  "vocab": [
   {
    "word": "bear the brunt of",
@@ -139,6 +139,16 @@
    ]
   },
   {
+   "word": "allay",
+   "pos": "v.",
+   "phonetic": "/əˈleɪ/",
+   "meaning_zh": "减轻；缓解",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
+   ]
+  },
+  {
    "word": "ambivalent",
    "pos": "adj.",
    "phonetic": "/æmˈbɪvələnt/",
@@ -196,6 +206,16 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "backsliding",
+   "pos": "n.",
+   "phonetic": "/ˈbækslaɪdɪŋ/",
+   "meaning_zh": "倒退",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
    ]
   },
   {
@@ -409,6 +429,16 @@
    ]
   },
   {
+   "word": "carve-up",
+   "pos": "n.",
+   "phonetic": "/ˈkɑːv ʌp/",
+   "meaning_zh": "瓜分；分割",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
+   ]
+  },
+  {
    "word": "chalk up",
    "pos": "phrasal v.",
    "phonetic": "/tʃɔːk ʌp/",
@@ -436,6 +466,26 @@
    "count": 1,
    "dates": [
     "2026-11-10"
+   ]
+  },
+  {
+   "word": "co-opt",
+   "pos": "v.",
+   "phonetic": "/kəʊˈɒpt/",
+   "meaning_zh": "吸收；同化",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
+   ]
+  },
+  {
+   "word": "coalesce",
+   "pos": "v.",
+   "phonetic": "/ˌkəʊəˈles/",
+   "meaning_zh": "联合；结合",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
    ]
   },
   {
@@ -546,6 +596,16 @@
    "count": 1,
    "dates": [
     "2026-10-29"
+   ]
+  },
+  {
+   "word": "decipher",
+   "pos": "v.",
+   "phonetic": "/dɪˈsaɪfə(r)/",
+   "meaning_zh": "破译；解读",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
    ]
   },
   {
@@ -829,6 +889,16 @@
    ]
   },
   {
+   "word": "fatalistic",
+   "pos": "adj.",
+   "phonetic": "/ˌfeɪtəˈlɪstɪk/",
+   "meaning_zh": "宿命论的；听天由命的",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
+   ]
+  },
+  {
    "word": "fatigue",
    "pos": "n.",
    "phonetic": "/fəˈtiːɡ/",
@@ -846,6 +916,16 @@
    "count": 1,
    "dates": [
     "2026-10-25"
+   ]
+  },
+  {
+   "word": "figurehead",
+   "pos": "n.",
+   "phonetic": "/ˈfɪɡəhed/",
+   "meaning_zh": "名义领袖；傀儡",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
    ]
   },
   {
@@ -1079,6 +1159,16 @@
    ]
   },
   {
+   "word": "hem in",
+   "pos": "phr. v.",
+   "phonetic": "/hem ɪn/",
+   "meaning_zh": "围困；限制",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
+   ]
+  },
+  {
    "word": "heritage listing",
    "pos": "n.",
    "phonetic": "/ˈherɪtɪdʒ ˈlɪstɪŋ/",
@@ -1206,6 +1296,16 @@
    "count": 1,
    "dates": [
     "2026-11-01"
+   ]
+  },
+  {
+   "word": "lash out",
+   "pos": "phr. v.",
+   "phonetic": "/læʃ aʊt/",
+   "meaning_zh": "猛烈抨击；突然攻击",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
    ]
   },
   {
@@ -1719,6 +1819,16 @@
    ]
   },
   {
+   "word": "rancour",
+   "pos": "n.",
+   "phonetic": "/ˈræŋkə(r)/",
+   "meaning_zh": "深仇；怨恨",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
+   ]
+  },
+  {
    "word": "rapturous",
    "pos": "adj.",
    "phonetic": "/ˈræptʃərəs/",
@@ -1756,6 +1866,16 @@
    "count": 1,
    "dates": [
     "2026-11-03"
+   ]
+  },
+  {
+   "word": "recoil from",
+   "pos": "phr. v.",
+   "phonetic": "/rɪˈkɔɪl frəm/",
+   "meaning_zh": "畏缩；对…退缩",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
    ]
   },
   {
@@ -1806,6 +1926,16 @@
    "count": 1,
    "dates": [
     "2026-10-29"
+   ]
+  },
+  {
+   "word": "resounding",
+   "pos": "adj.",
+   "phonetic": "/rɪˈzaʊndɪŋ/",
+   "meaning_zh": "彻底的；巨大的（胜利或失败）",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
    ]
   },
   {
@@ -1929,6 +2059,16 @@
    ]
   },
   {
+   "word": "seismic",
+   "pos": "adj.",
+   "phonetic": "/ˈsaɪzmɪk/",
+   "meaning_zh": "影响深远的；重大的",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
+   ]
+  },
+  {
    "word": "sell-off",
    "pos": "n.",
    "phonetic": "/ˈsel ɒf/",
@@ -2006,6 +2146,16 @@
    "count": 1,
    "dates": [
     "2026-10-23"
+   ]
+  },
+  {
+   "word": "sideline",
+   "pos": "v.",
+   "phonetic": "/ˈsaɪdlaɪn/",
+   "meaning_zh": "使靠边；把…排除在外",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
    ]
   },
   {
@@ -2139,6 +2289,16 @@
    ]
   },
   {
+   "word": "straw in the wind",
+   "pos": "n. phrase",
+   "phonetic": "/strɔː ɪn ðə wɪnd/",
+   "meaning_zh": "风向标；预示",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
+   ]
+  },
+  {
    "word": "stumble along",
    "pos": "phr.",
    "phonetic": "/ˈstʌmbl əˈlɒŋ/",
@@ -2216,6 +2376,16 @@
    "count": 1,
    "dates": [
     "2026-11-08"
+   ]
+  },
+  {
+   "word": "thwart",
+   "pos": "v.",
+   "phonetic": "/θwɔːt/",
+   "meaning_zh": "阻挠；挫败",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
    ]
   },
   {
@@ -2366,6 +2536,16 @@
    "count": 1,
    "dates": [
     "2026-11-11"
+   ]
+  },
+  {
+   "word": "vaunt",
+   "pos": "v.",
+   "phonetic": "/vɔːnt/",
+   "meaning_zh": "吹嘘；炫耀",
+   "count": 1,
+   "dates": [
+    "2026-11-12"
    ]
   },
   {

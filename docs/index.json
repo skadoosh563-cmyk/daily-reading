@@ -1,7 +1,162 @@
 {
- "updated": "2026-11-11T01:27:58",
- "count": 25,
+ "updated": "2026-11-12T02:29:12",
+ "count": 26,
  "items": [
+  {
+   "id": "is-the-us-blue-wave-a-turning-point-for",
+   "date": "2026-11-12",
+   "title_zh": "美国“蓝色浪潮”对欧洲而言也是转折点吗？",
+   "summary": "文章讨论美国中期选举民主党大胜对欧洲的影响。短期看，特朗普在国内受制后可能更肆意外交，对欧洲更对抗，欧洲处境未必改善。中期看，民主党掌控国会未必会替欧洲出面，民族主义民粹政党也未必因与特朗普关联而受损。长期看，美国民主的韧性可能给欧洲进步力量带来希望，激励主流政党回应青年诉求。文章逻辑层层递进，适合学习外刊常见政治评论表达。",
+   "vocab": [
+    {
+     "word": "seismic",
+     "pos": "adj.",
+     "phonetic": "/ˈsaɪzmɪk/",
+     "meaning_zh": "影响深远的；重大的",
+     "example_en": "“Is Maga dead?” asked Margaret, a Guardian reader in Switzerland, in a live Q&A with our correspondents after the seismic US midterm elections.",
+     "example_zh": "“Maga死了吗？”瑞士的《卫报》读者玛格丽特在具有重大影响的美国中期选举后，在我们的记者直播问答中问道。"
+    },
+    {
+     "word": "resounding",
+     "pos": "adj.",
+     "phonetic": "/rɪˈzaʊndɪŋ/",
+     "meaning_zh": "彻底的；巨大的（胜利或失败）",
+     "example_en": "The resounding defeat for Donald Trump’s Republicans and the installation of a Democratic-controlled US Congress has been met with understandable relief in European capitals.",
+     "example_zh": "唐纳德·特朗普所属共和党的惨败以及民主党控制的美国国会的成立，在欧洲各国首都引发了可以理解的宽慰。"
+    },
+    {
+     "word": "hem in",
+     "pos": "phr. v.",
+     "phonetic": "/hem ɪn/",
+     "meaning_zh": "围困；限制",
+     "example_en": "Hemmed in now on domestic policy, the US president may, many European leaders fear, use his extensive foreign policy powers to become even more confrontational on the world stage.",
+     "example_zh": "许多欧洲领导人担心，如今在国内政策上受到制约的美国总统，可能会利用其广泛的外交政策权力，在世界舞台上变得更加对抗。"
+    },
+    {
+     "word": "lash out",
+     "pos": "phr. v.",
+     "phonetic": "/læʃ aʊt/",
+     "meaning_zh": "猛烈抨击；突然攻击",
+     "example_en": "Europe, warned Nathalie Tocci, is exactly where Trump will lash out.",
+     "example_zh": "娜塔莉·托奇警告说，欧洲正是特朗普将猛烈抨击的地方。"
+    },
+    {
+     "word": "rancour",
+     "pos": "n.",
+     "phonetic": "/ˈræŋkə(r)/",
+     "meaning_zh": "深仇；怨恨",
+     "example_en": "Now that those foes have made a comeback at home, Trump’s rancour towards Europe is likely to grow.",
+     "example_zh": "既然这些敌人在国内卷土重来，特朗普对欧洲的怨恨可能会加深。"
+    },
+    {
+     "word": "figurehead",
+     "pos": "n.",
+     "phonetic": "/ˈfɪɡəhed/",
+     "meaning_zh": "名义领袖；傀儡",
+     "example_en": "As the humiliated Maga figurehead (one Washington expert likened the movement now to “a cornered ferret”), Trump could veto aid for Ukraine and thwart Kyiv’s access to defence technology.",
+     "example_zh": "作为受辱的Maga名义领袖（一位华盛顿专家现在将该运动比作“被逼入绝境的雪貂”），特朗普可能会否决对乌克兰的援助，并阻挠基辅获得国防技术。"
+    },
+    {
+     "word": "thwart",
+     "pos": "v.",
+     "phonetic": "/θwɔːt/",
+     "meaning_zh": "阻挠；挫败",
+     "example_en": "As the humiliated Maga figurehead (one Washington expert likened the movement now to “a cornered ferret”), Trump could veto aid for Ukraine and thwart Kyiv’s access to defence technology.",
+     "example_zh": "作为受辱的Maga名义领袖（一位华盛顿专家现在将该运动比作“被逼入绝境的雪貂”），特朗普可能会否决对乌克兰的援助，并阻挠基辅获得国防技术。"
+    },
+    {
+     "word": "carve-up",
+     "pos": "n.",
+     "phonetic": "/ˈkɑːv ʌp/",
+     "meaning_zh": "瓜分；分割",
+     "example_en": "Paul Taylor sketched a fearful scenario in which he could even attempt a carve-up of eastern Europe in the so-called “big, beautiful deal” for Ukraine that he says he is working on with Russia.",
+     "example_zh": "保罗·泰勒描绘了一个可怕的情景：特朗普甚至可能试图在他所称正与俄罗斯推进的所谓“宏大而美好的协议”中瓜分东欧。"
+    },
+    {
+     "word": "sideline",
+     "pos": "v.",
+     "phonetic": "/ˈsaɪdlaɪn/",
+     "meaning_zh": "使靠边；把…排除在外",
+     "example_en": "The omens for Europe were poor as US-mediated talks opened in Abu Dhabi, with delegates from Germany, France, the UK and the EU literally sidelined.",
+     "example_zh": "随着美国斡旋的会谈在阿布扎比开始，来自德国、法国、英国和欧盟的代表被完全排除在外，这对欧洲来说是不祥之兆。"
+    },
+    {
+     "word": "decipher",
+     "pos": "v.",
+     "phonetic": "/dɪˈsaɪfə(r)/",
+     "meaning_zh": "破译；解读",
+     "example_en": "Their foreign policy is, at this point, difficult to decipher.",
+     "example_zh": "在目前阶段，他们的外交政策很难解读。"
+    },
+    {
+     "word": "vaunt",
+     "pos": "v.",
+     "phonetic": "/vɔːnt/",
+     "meaning_zh": "吹嘘；炫耀",
+     "example_en": "Poland’s conservative president Karol Nawrocki, who is backed by the opposition Eurosceptic Law and Justice party and has vaunted his proximity to Trump, is now facing awkward questions.",
+     "example_zh": "波兰保守派总统卡罗尔·纳夫罗茨基由反对派欧洲怀疑主义政党法律与公正党支持，并曾吹嘘自己与特朗普关系密切，现在正面临尴尬的问题。"
+    },
+    {
+     "word": "allay",
+     "pos": "v.",
+     "phonetic": "/əˈleɪ/",
+     "meaning_zh": "减轻；缓解",
+     "example_en": "In Italy meanwhile, the far-right prime minister Giorgia Meloni played up tensions with Trump months ago, a strategic move to allay the concerns of voters, the majority of whom despise him.",
+     "example_zh": "与此同时在意大利，极右翼总理焦尔吉娅·梅洛尼几个月前渲染了与特朗普的紧张关系，这是一项战略性举措，以缓解选民的担忧，其中大多数人鄙视特朗普。"
+    },
+    {
+     "word": "recoil from",
+     "pos": "phr. v.",
+     "phonetic": "/rɪˈkɔɪl frəm/",
+     "meaning_zh": "畏缩；对…退缩",
+     "example_en": "Above all, they recoiled from the corrosive impact of Trump’s policies on purchasing power in France, whether via trade tariffs or the war in Iran.",
+     "example_zh": "最重要的是，他们对特朗普政策对法国购买力的侵蚀性影响感到退缩，无论是通过贸易关税还是伊朗战争。"
+    },
+    {
+     "word": "straw in the wind",
+     "pos": "n. phrase",
+     "phonetic": "/strɔː ɪn ðə wɪnd/",
+     "meaning_zh": "风向标；预示",
+     "example_en": "Socialist prime minister Pedro Sánchez, who called a snap election for 29 November, welcomed Trump’s defeat as a straw in the wind for the revival of progressive forces.",
+     "example_zh": "社会党首相佩德罗·桑切斯呼吁在11月29日提前举行选举，他欢迎特朗普的失败，认为这是进步力量复兴的风向标。"
+    },
+    {
+     "word": "coalesce",
+     "pos": "v.",
+     "phonetic": "/ˌkəʊəˈles/",
+     "meaning_zh": "联合；结合",
+     "example_en": "But amid public outcry over housing and wages (the cause of Wednesday’s general strike), the momentum is with the opposition rightwing Popular Party (PP) – which could coalesce with the far-right Vox.",
+     "example_zh": "但在公众对住房和工资的强烈抗议（周三总罢工的原因）中，势头在反对派右翼人民党（PP）一边——该党可能与极右翼Vox联合。"
+    },
+    {
+     "word": "backsliding",
+     "pos": "n.",
+     "phonetic": "/ˈbækslaɪdɪŋ/",
+     "meaning_zh": "倒退",
+     "example_en": "And yet, longer term, the broader, more hopeful lesson from across the Atlantic could be that after years of global backsliding liberal democracy is not dead.",
+     "example_zh": "然而，从长远来看，来自大西洋彼岸的更广泛、更有希望的教训可能是，在多年的全球倒退之后，自由民主并未死亡。"
+    },
+    {
+     "word": "fatalistic",
+     "pos": "adj.",
+     "phonetic": "/ˌfeɪtəˈlɪstɪk/",
+     "meaning_zh": "宿命论的；听天由命的",
+     "example_en": "The US vote could even shake Europe’s ailing mainstream parties out of their fatalistic mimicking of far-right policies and into action.",
+     "example_zh": "美国的投票甚至可能促使欧洲病痛缠身的主流政党摆脱对极右政策的宿命论式模仿，采取行动。"
+    },
+    {
+     "word": "co-opt",
+     "pos": "v.",
+     "phonetic": "/kəʊˈɒpt/",
+     "meaning_zh": "吸收；同化",
+     "example_en": "Or that failure to do so could allow grassroots anger to be co-opted into the same kind of anti-system nihilism that fuelled Maga.",
+     "example_zh": "或者，如果不这样做，可能会让基层愤怒被吸收为助长Maga的同类反体制虚无主义。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 1155,
+   "level": "C1"
+  },
   {
    "id": "us-and-rest-of-world-must-follow-china-s",
    "date": "2026-11-11",
