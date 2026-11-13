@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12T02:29:12",
- "count": 264,
+ "updated": "2026-11-13T02:06:10",
+ "count": 274,
  "vocab": [
   {
    "word": "bear the brunt of",
@@ -86,6 +86,16 @@
    "count": 1,
    "dates": [
     "2026-10-28"
+   ]
+  },
+  {
+   "word": "abject failure",
+   "pos": "n. phr.",
+   "phonetic": "/ˈæbdʒekt ˈfeɪljə(r)/",
+   "meaning_zh": "彻底失败；惨败",
+   "count": 1,
+   "dates": [
+    "2026-11-13"
    ]
   },
   {
@@ -456,6 +466,16 @@
    "count": 1,
    "dates": [
     "2026-10-23"
+   ]
+  },
+  {
+   "word": "channel",
+   "pos": "v.",
+   "phonetic": "/ˈtʃænl/",
+   "meaning_zh": "把（精力、资源等）投入到；引导",
+   "count": 1,
+   "dates": [
+    "2026-11-13"
    ]
   },
   {
@@ -1069,6 +1089,16 @@
    ]
   },
   {
+   "word": "good riddance",
+   "pos": "n. phr.",
+   "phonetic": "/ɡʊd ˈrɪdns/",
+   "meaning_zh": "终于摆脱了；送走瘟神（表示庆幸摆脱某人或某物）",
+   "count": 1,
+   "dates": [
+    "2026-11-13"
+   ]
+  },
+  {
    "word": "gust",
    "pos": "n.",
    "phonetic": "/ɡʌst/",
@@ -1439,6 +1469,16 @@
    ]
   },
   {
+   "word": "monstrosity",
+   "pos": "n.",
+   "phonetic": "/mɒnˈstrɒsəti/",
+   "meaning_zh": "丑陋可怕的东西；怪物",
+   "count": 1,
+   "dates": [
+    "2026-11-13"
+   ]
+  },
+  {
    "word": "moratorium",
    "pos": "n.",
    "phonetic": "/ˌmɔːrəˈtɔːriəm/",
@@ -1519,6 +1559,16 @@
    ]
   },
   {
+   "word": "opportunity cost",
+   "pos": "n. phr.",
+   "phonetic": "/ˌɒpəˈtjuːnəti kɒst/",
+   "meaning_zh": "机会成本",
+   "count": 1,
+   "dates": [
+    "2026-11-13"
+   ]
+  },
+  {
    "word": "out of respect for",
    "pos": "prep. phrase",
    "phonetic": "/aʊt əv rɪˈspekt fər/",
@@ -1526,6 +1576,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "outweigh",
+   "pos": "v.",
+   "phonetic": "/ˌaʊtˈweɪ/",
+   "meaning_zh": "超过；比……更重要",
+   "count": 1,
+   "dates": [
+    "2026-11-13"
    ]
   },
   {
@@ -1676,6 +1736,16 @@
    "count": 1,
    "dates": [
     "2026-11-06"
+   ]
+  },
+  {
+   "word": "polarising",
+   "pos": "adj.",
+   "phonetic": "/ˈpəʊləraɪzɪŋ/",
+   "meaning_zh": "两极分化的；引起强烈对立的",
+   "count": 1,
+   "dates": [
+    "2026-11-13"
    ]
   },
   {
@@ -2009,6 +2079,16 @@
    ]
   },
   {
+   "word": "rough go of it",
+   "pos": "n. phr.",
+   "phonetic": "/rʌf ɡoʊ əv ɪt/",
+   "meaning_zh": "日子不好过；处境艰难",
+   "count": 1,
+   "dates": [
+    "2026-11-13"
+   ]
+  },
+  {
    "word": "run into turbulence",
    "pos": "phrase",
    "phonetic": "/rʌn ˈɪntu ˈtɜːbjələns/",
@@ -2016,6 +2096,16 @@
    "count": 1,
    "dates": [
     "2026-10-31"
+   ]
+  },
+  {
+   "word": "safety hazard",
+   "pos": "n. phr.",
+   "phonetic": "/ˈseɪfti ˈhæzəd/",
+   "meaning_zh": "安全隐患",
+   "count": 1,
+   "dates": [
+    "2026-11-13"
    ]
   },
   {
@@ -2616,6 +2706,16 @@
    "count": 1,
    "dates": [
     "2026-11-09"
+   ]
+  },
+  {
+   "word": "wind down",
+   "pos": "phr. v.",
+   "phonetic": "/waɪnd daʊn/",
+   "meaning_zh": "逐步停止；逐渐收尾",
+   "count": 1,
+   "dates": [
+    "2026-11-13"
    ]
   },
   {

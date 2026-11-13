@@ -1,0 +1,158 @@
+{
+ "id": "farewell-to-elon-musk-s-cybertruck-has-a",
+ "date": "2026-11-13",
+ "slug": "farewell-to-elon-musk-s-cybertruck-has-a",
+ "title_zh": "告别埃隆·马斯克的Cybertruck。有哪款车比它更令人反感？| 阿尔瓦·马赫达维",
+ "meta_line": "来源：The Guardian · Business ｜ 难度：B2 ｜ 词数：426",
+ "summary": "本文是《卫报》的一篇评论文章，作者以讽刺的笔调总结了埃隆·马斯克近期的多重挫折：中期选举投入巨资却失败、搬家后所在州变蓝、成为纪录片批评对象、可能面临法律调查，以及他心爱的Cybertruck停产。文章重点批评Cybertruck不仅外观丑陋、存在安全隐患，还因其两极分化的形象给车主带来社交困扰，最终以“送走瘟神”的态度收尾。文章语言生动、观点鲜明，适合学习外刊评论中的讽刺表达和实用词汇。",
+ "vocab": [
+  {
+   "word": "rough go of it",
+   "pos": "n. phr.",
+   "phonetic": "/rʌf ɡoʊ əv ɪt/",
+   "meaning_zh": "日子不好过；处境艰难",
+   "example_en": "Elon Musk is having a rough go of it, isn’t he?",
+   "example_zh": "埃隆·马斯克最近日子不好过，不是吗？"
+  },
+  {
+   "word": "monstrosity",
+   "pos": "n.",
+   "phonetic": "/mɒnˈstrɒsəti/",
+   "meaning_zh": "丑陋可怕的东西；怪物",
+   "example_en": "Musk’s beloved Cybertruck, the steel monstrosity that looks as if it were designed by a five-year-old, is winding down production.",
+   "example_zh": "马斯克心爱的Cybertruck——那个看起来像五岁小孩设计的钢铁怪物——正在逐步停产。"
+  },
+  {
+   "word": "wind down",
+   "pos": "phr. v.",
+   "phonetic": "/waɪnd daʊn/",
+   "meaning_zh": "逐步停止；逐渐收尾",
+   "example_en": "Musk’s beloved Cybertruck … is winding down production.",
+   "example_zh": "马斯克心爱的Cybertruck……正在逐步停产。"
+  },
+  {
+   "word": "abject failure",
+   "pos": "n. phr.",
+   "phonetic": "/ˈæbdʒekt ˈfeɪljə(r)/",
+   "meaning_zh": "彻底失败；惨败",
+   "example_en": "According to Musk, this isn’t because it’s an abject failure, but because he is channelling his energy into other things.",
+   "example_zh": "据马斯克说，这并不是因为它彻底失败了，而是因为他正把精力投入到其他事情上。"
+  },
+  {
+   "word": "channel",
+   "pos": "v.",
+   "phonetic": "/ˈtʃænl/",
+   "meaning_zh": "把（精力、资源等）投入到；引导",
+   "example_en": "…because he is channelling his energy into other things.",
+   "example_zh": "……因为他正把精力投入到其他事情上。"
+  },
+  {
+   "word": "opportunity cost",
+   "pos": "n. phr.",
+   "phonetic": "/ˌɒpəˈtjuːnəti kɒst/",
+   "meaning_zh": "机会成本",
+   "example_en": "the opportunity cost of the complexity of Cybertruck is vastly outweighed by the value of incremental Cybercab production.",
+   "example_zh": "Cybertruck复杂性的机会成本远远被Cybercab增量生产的价值所抵消。"
+  },
+  {
+   "word": "outweigh",
+   "pos": "v.",
+   "phonetic": "/ˌaʊtˈweɪ/",
+   "meaning_zh": "超过；比……更重要",
+   "example_en": "…the opportunity cost of the complexity of Cybertruck is vastly outweighed by the value of incremental Cybercab production.",
+   "example_zh": "……Cybertruck复杂性的机会成本远远被Cybercab增量生产的价值所抵消。"
+  },
+  {
+   "word": "good riddance",
+   "pos": "n. phr.",
+   "phonetic": "/ɡʊd ˈrɪdns/",
+   "meaning_zh": "终于摆脱了；送走瘟神（表示庆幸摆脱某人或某物）",
+   "example_en": "Anyway, good riddance to the Cybertruck, which isn’t just ugly but, arguably, a safety hazard.",
+   "example_zh": "总之，Cybertruck终于走了，真是大快人心——它不仅丑，而且可以说是个安全隐患。"
+  },
+  {
+   "word": "safety hazard",
+   "pos": "n. phr.",
+   "phonetic": "/ˈseɪfti ˈhæzəd/",
+   "meaning_zh": "安全隐患",
+   "example_en": "…which isn’t just ugly but, arguably, a safety hazard.",
+   "example_zh": "……它不仅丑，而且可以说是个安全隐患。"
+  },
+  {
+   "word": "polarising",
+   "pos": "adj.",
+   "phonetic": "/ˈpəʊləraɪzɪŋ/",
+   "meaning_zh": "两极分化的；引起强烈对立的",
+   "example_en": "Roger Davis, meanwhile, said he loved how polarising the car was.",
+   "example_zh": "而罗杰·戴维斯说，他喜欢这辆车引起的两极分化反应。"
+  }
+ ],
+ "grammar": [
+  {
+   "sentence": "Now the tech mogul, who moved from California to Texas to escape Democrats and regulations, finds himself in a newly blue state.",
+   "point": "非限制性定语从句 + find oneself in + 后置定语",
+   "explain_zh": "who moved... 是非限制性定语从句，补充说明 the tech mogul 的背景，用逗号隔开，不影响主句结构。finds himself in a newly blue state 中 find oneself in 表示“发现自己处于某种境地”，newly blue 是形容词短语作前置定语修饰 state，blue 在美式政治语境中指民主党占优势的州。这种写法把背景信息塞进从句，主句简洁有力，是外刊人物评论的常见手法。"
+  },
+  {
+   "sentence": "Not least because it has lots of sharp edges that road safety campaigners condemned as dangerous to other road users and pedestrians.",
+   "point": "Not least because + 定语从句 + condemn as",
+   "explain_zh": "Not least because 是承上省略的省略句，完整意思是“尤其因为……”，用来强调原因。that road safety campaigners condemned as dangerous to... 是定语从句修饰 sharp edges，condemn sth as sth 意为“谴责某物为……”。这种结构先给结论再补原因，语气层层递进，适合评论写作。"
+  },
+  {
+   "sentence": "Instead of being a revolutionary pickup truck, Musk’s creation seems to have been very good at driving people away.",
+   "point": "Instead of + 动名词 + seem to have done 完成式",
+   "explain_zh": "Instead of being... 是介词短语作状语，表示“非但没有成为……”，与主句形成对比。seems to have been very good at 使用 seem to have done 结构，表示对过去状态的推测，暗示这款车从一开始就擅长把人赶跑。Instead of 的对比结构加上反讽语气，是本文讽刺笔调的典型体现。"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the author’s overall attitude towards the Cybertruck and Elon Musk?",
+   "a": "作者持讽刺和批评的态度。文章用“steel monstrosity”“looks as if it were designed by a five-year-old”等贬义表达形容Cybertruck，用“good riddance”表示庆幸其停产，并列举安全隐患和社交尴尬，同时对马斯克的解释进行嘲讽（如“Dude, you want to build colonies on Mars”），整体语气是挖苦和不以为然的。"
+  },
+  {
+   "q": "According to Musk, why is Cybertruck production winding down?",
+   "a": "马斯克声称停产不是因为Cybertruck不盈利，而是因为Cybertruck的复杂性带来的机会成本远远超过增量生产Cybercab的价值，他要把精力投入到其他事情上。但作者对此持怀疑和讽刺态度，暗示真实原因可能是这款车本身失败。"
+  },
+  {
+   "q": "What can be inferred about the social reactions Cybertruck owners receive from the Wired profile?",
+   "a": "从《连线》的采访可以推断，Cybertruck车主经常遭遇负面甚至侮辱性的反应，比如被贴侮辱性纸条、被做猥琐手势，甚至有人因为开这车而婚姻受影响。这说明这款车不仅没有带来正面形象，反而在社会交往中给车主造成困扰，印证了作者“擅长把人赶跑”的讽刺结论。\n\n---\n\n*由「外刊精读」自动生成 · 每天一篇，读原文，也读世界*"
+  }
+ ],
+ "translation": [
+  {
+   "idx": 1,
+   "en": "Elon Musk is having a rough go of it, isn’t he? The world’s richest man spent almost half a billion dollars on the midterms in a failed attempt to defend Republican control of government. Now the tech mogul, who moved from California to Texas to escape Democrats and regulations, finds himself in a newly blue state. He also finds himself the subject of an unflattering documentary and, if the Democrats follow through on threats to investigate him, could potentially be in a spot of legal bother.",
+   "zh": "埃隆·马斯克最近日子不好过，不是吗？这位世界首富在中期选举上花了近五亿美元，试图保住共和党对政府的控制，却以失败告终。如今，这位为了逃离民主党和监管而从加州搬到得州的科技巨头，发现自己身处一个刚刚变蓝的州。他还发现自己成了一部不光彩纪录片的主角，而且如果民主党兑现调查他的威胁，他可能还会惹上法律麻烦。"
+  },
+  {
+   "idx": 2,
+   "en": "And to top it all off? Musk’s beloved Cybertruck, the steel monstrosity that looks as if it were designed by a five-year-old, is winding down production. According to Musk, this isn’t because it’s an abject failure, but because he is channelling his energy into other things. “This is not a case of Cybertruck being unprofitable, as has been misreported by legacy media,” Musk tweeted on Monday. “But rather that the opportunity cost of the complexity of Cybertruck is vastly outweighed by the value of incremental Cybercab production.” (The Cybercab is a two-passenger robotaxi.)",
+   "zh": "而最糟的是什么呢？马斯克心爱的Cybertruck——那个看起来像五岁小孩设计的钢铁怪物——正在逐步停产。据马斯克说，这并不是因为它彻底失败了，而是因为他正把精力投入到其他事情上。马斯克周一发推说：“这不是Cybertruck不盈利的问题，传统媒体误报了。而是Cybertruck复杂性的机会成本远远被Cybercab增量生产的价值所抵消。”（Cybercab是一款双座自动驾驶出租车。）"
+  },
+  {
+   "idx": 3,
+   "en": "Why not just build a bigger factory, one account on X asked. “It is insanely fucking hard to build a high-volume factory,” Musk replied. “That’s why.” Dude, you want to build colonies on Mars. A factory should be nothing compared to sustaining life on a toxic planet where the temperature can drop as low as minus 128C.",
+   "zh": "X上一个账号问，为什么不干脆建个更大的工厂。马斯克回答说：“建一个高产量的工厂简直他妈的难到离谱。这就是原因。”老兄，你还想在火星上建殖民地呢。在一个有毒、温度能低到零下128摄氏度的星球上维持生命，跟这比起来，建个工厂算得了什么。"
+  },
+  {
+   "idx": 4,
+   "en": "Anyway, good riddance to the Cybertruck, which isn’t just ugly but, arguably, a safety hazard. Not least because it has lots of sharp edges that road safety campaigners condemned as dangerous to other road users and pedestrians. Indeed, the truck is heavily restricted in Europe because it doesn’t meet safety standards.",
+   "zh": "总之，Cybertruck终于走了，真是大快人心——它不仅丑，而且可以说是个安全隐患。尤其因为它有很多锋利的边缘，道路安全活动人士谴责这些边缘对其他道路使用者和行人构成危险。事实上，这款卡车在欧洲受到严格限制，因为它不符合安全标准。"
+  },
+  {
+   "idx": 5,
+   "en": "Cybertrucks can also pose a social hazard to the owner. In 2025, Wired profiled seven Cybertruck drivers about the reactions their vehicle elicited, and they were largely unflattering. One man complained that a woman had put a note on his car saying: “This is an extension of your small dick.” Another man (who was later arrested for taking part in the 6 January attack on the Capitol) said people sometimes made obscene hand gestures at him. Roger Davis, meanwhile, said he loved how polarising the car was. When Wired asked Davis if he was married, he replied: “I was married, but I’m not married any more. Women don’t like the vehicle.” Instead of being a revolutionary pickup truck, Musk’s creation seems to have been very good at driving people away.",
+   "zh": "Cybertruck还可能给车主带来社交隐患。2025年，《连线》杂志采访了七位Cybertruck车主，了解他们的车引发的反应，结果大多不怎么样。一位男士抱怨说，有个女人在他车上贴了张纸条，写着：“这是你小弟弟的延伸。”另一位男士（后来因参与1月6日国会大厦袭击被捕）说，人们有时朝他做猥琐的手势。而罗杰·戴维斯说，他喜欢这辆车引起的两极分化反应。《连线》问戴维斯是否已婚，他回答说：“我结过婚，但现在不是了。女人不喜欢这车。”马斯克的这款作品非但没有成为革命性的皮卡，反而似乎非常擅长把人赶跑。"
+  }
+ ],
+ "article": [
+  "Elon Musk is having a rough go of it, isn’t he? The world’s richest man spent almost half a billion dollars on the midterms in a failed attempt to defend Republican control of government. Now the tech mogul, who moved from California to Texas to escape Democrats and regulations, finds himself in a newly blue state. He also finds himself the subject of an unflattering documentary and, if the Democrats follow through on threats to investigate him, could potentially be in a spot of legal bother.",
+  "And to top it all off? Musk’s beloved Cybertruck, the steel monstrosity that looks as if it were designed by a five-year-old, is winding down production. According to Musk, this isn’t because it’s an abject failure, but because he is channelling his energy into other things. “This is not a case of Cybertruck being unprofitable, as has been misreported by legacy media,” Musk tweeted on Monday. “But rather that the opportunity cost of the complexity of Cybertruck is vastly outweighed by the value of incremental Cybercab production.” (The Cybercab is a two-passenger robotaxi.)",
+  "Why not just build a bigger factory, one account on X asked. “It is insanely fucking hard to build a high-volume factory,” Musk replied. “That’s why.” Dude, you want to build colonies on Mars. A factory should be nothing compared to sustaining life on a toxic planet where the temperature can drop as low as minus 128C.",
+  "Anyway, good riddance to the Cybertruck, which isn’t just ugly but, arguably, a safety hazard. Not least because it has lots of sharp edges that road safety campaigners condemned as dangerous to other road users and pedestrians. Indeed, the truck is heavily restricted in Europe because it doesn’t meet safety standards.",
+  "Cybertrucks can also pose a social hazard to the owner. In 2025, Wired profiled seven Cybertruck drivers about the reactions their vehicle elicited, and they were largely unflattering. One man complained that a woman had put a note on his car saying: “This is an extension of your small dick.” Another man (who was later arrested for taking part in the 6 January attack on the Capitol) said people sometimes made obscene hand gestures at him. Roger Davis, meanwhile, said he loved how polarising the car was. When Wired asked Davis if he was married, he replied: “I was married, but I’m not married any more. Women don’t like the vehicle.” Instead of being a revolutionary pickup truck, Musk’s creation seems to have been very good at driving people away."
+ ],
+ "source": "The Guardian · Business",
+ "word_count": 426,
+ "level": "B2"
+}

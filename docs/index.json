@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-12T02:29:12",
- "count": 26,
+ "updated": "2026-11-13T02:06:10",
+ "count": 27,
  "items": [
+  {
+   "id": "farewell-to-elon-musk-s-cybertruck-has-a",
+   "date": "2026-11-13",
+   "title_zh": "告别埃隆·马斯克的Cybertruck。有哪款车比它更令人反感？| 阿尔瓦·马赫达维",
+   "summary": "本文是《卫报》的一篇评论文章，作者以讽刺的笔调总结了埃隆·马斯克近期的多重挫折：中期选举投入巨资却失败、搬家后所在州变蓝、成为纪录片批评对象、可能面临法律调查，以及他心爱的Cybertruck停产。文章重点批评Cybertruck不仅外观丑陋、存在安全隐患，还因其两极分化的形象给车主带来社交困扰，最终以“送走瘟神”的态度收尾。文章语言生动、观点鲜明，适合学习外刊评论中的讽刺表达和实用词汇。",
+   "vocab": [
+    {
+     "word": "rough go of it",
+     "pos": "n. phr.",
+     "phonetic": "/rʌf ɡoʊ əv ɪt/",
+     "meaning_zh": "日子不好过；处境艰难",
+     "example_en": "Elon Musk is having a rough go of it, isn’t he?",
+     "example_zh": "埃隆·马斯克最近日子不好过，不是吗？"
+    },
+    {
+     "word": "monstrosity",
+     "pos": "n.",
+     "phonetic": "/mɒnˈstrɒsəti/",
+     "meaning_zh": "丑陋可怕的东西；怪物",
+     "example_en": "Musk’s beloved Cybertruck, the steel monstrosity that looks as if it were designed by a five-year-old, is winding down production.",
+     "example_zh": "马斯克心爱的Cybertruck——那个看起来像五岁小孩设计的钢铁怪物——正在逐步停产。"
+    },
+    {
+     "word": "wind down",
+     "pos": "phr. v.",
+     "phonetic": "/waɪnd daʊn/",
+     "meaning_zh": "逐步停止；逐渐收尾",
+     "example_en": "Musk’s beloved Cybertruck … is winding down production.",
+     "example_zh": "马斯克心爱的Cybertruck……正在逐步停产。"
+    },
+    {
+     "word": "abject failure",
+     "pos": "n. phr.",
+     "phonetic": "/ˈæbdʒekt ˈfeɪljə(r)/",
+     "meaning_zh": "彻底失败；惨败",
+     "example_en": "According to Musk, this isn’t because it’s an abject failure, but because he is channelling his energy into other things.",
+     "example_zh": "据马斯克说，这并不是因为它彻底失败了，而是因为他正把精力投入到其他事情上。"
+    },
+    {
+     "word": "channel",
+     "pos": "v.",
+     "phonetic": "/ˈtʃænl/",
+     "meaning_zh": "把（精力、资源等）投入到；引导",
+     "example_en": "…because he is channelling his energy into other things.",
+     "example_zh": "……因为他正把精力投入到其他事情上。"
+    },
+    {
+     "word": "opportunity cost",
+     "pos": "n. phr.",
+     "phonetic": "/ˌɒpəˈtjuːnəti kɒst/",
+     "meaning_zh": "机会成本",
+     "example_en": "the opportunity cost of the complexity of Cybertruck is vastly outweighed by the value of incremental Cybercab production.",
+     "example_zh": "Cybertruck复杂性的机会成本远远被Cybercab增量生产的价值所抵消。"
+    },
+    {
+     "word": "outweigh",
+     "pos": "v.",
+     "phonetic": "/ˌaʊtˈweɪ/",
+     "meaning_zh": "超过；比……更重要",
+     "example_en": "…the opportunity cost of the complexity of Cybertruck is vastly outweighed by the value of incremental Cybercab production.",
+     "example_zh": "……Cybertruck复杂性的机会成本远远被Cybercab增量生产的价值所抵消。"
+    },
+    {
+     "word": "good riddance",
+     "pos": "n. phr.",
+     "phonetic": "/ɡʊd ˈrɪdns/",
+     "meaning_zh": "终于摆脱了；送走瘟神（表示庆幸摆脱某人或某物）",
+     "example_en": "Anyway, good riddance to the Cybertruck, which isn’t just ugly but, arguably, a safety hazard.",
+     "example_zh": "总之，Cybertruck终于走了，真是大快人心——它不仅丑，而且可以说是个安全隐患。"
+    },
+    {
+     "word": "safety hazard",
+     "pos": "n. phr.",
+     "phonetic": "/ˈseɪfti ˈhæzəd/",
+     "meaning_zh": "安全隐患",
+     "example_en": "…which isn’t just ugly but, arguably, a safety hazard.",
+     "example_zh": "……它不仅丑，而且可以说是个安全隐患。"
+    },
+    {
+     "word": "polarising",
+     "pos": "adj.",
+     "phonetic": "/ˈpəʊləraɪzɪŋ/",
+     "meaning_zh": "两极分化的；引起强烈对立的",
+     "example_en": "Roger Davis, meanwhile, said he loved how polarising the car was.",
+     "example_zh": "而罗杰·戴维斯说，他喜欢这辆车引起的两极分化反应。"
+    }
+   ],
+   "source": "The Guardian · Business",
+   "word_count": 426,
+   "level": "B2"
+  },
   {
    "id": "is-the-us-blue-wave-a-turning-point-for",
    "date": "2026-11-12",
