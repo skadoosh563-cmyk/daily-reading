@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-13T02:06:10",
- "count": 27,
+ "updated": "2026-11-14T01:43:13",
+ "count": 28,
  "items": [
+  {
+   "id": "storm-charles-causes-floods-and-flight-c",
+   "date": "2026-11-14",
+   "title_zh": "风暴查尔斯席卷南欧，引发洪水与航班取消",
+   "summary": "本文报道了风暴查尔斯本周侵袭伊比利亚半岛，带来暴雨和强风，导致葡萄牙和西班牙大面积洪水与航班取消，随后系统向法国南部和意大利北部移动，造成更多破坏。同时，加拿大不列颠哥伦比亚省也遭遇连续强降雨和强风，引发洪水和山体滑坡。文章包含大量气象数据，适合学习描述极端天气的词汇和句式。",
+   "vocab": [
+    {
+     "word": "destructive",
+     "pos": "adj.",
+     "phonetic": "/dɪˈstrʌktɪv/",
+     "meaning_zh": "破坏性的，造成严重损害的",
+     "example_en": "Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain.",
+     "example_zh": "本周，风暴查尔斯给伊比利亚半岛带来了破坏性天气，尤其是葡萄牙和西班牙最南部地区。"
+    },
+    {
+     "word": "wind gust",
+     "pos": "n.",
+     "phonetic": "/wɪnd ɡʌst/",
+     "meaning_zh": "阵风，一阵突发的强风",
+     "example_en": "A wind gust of 84.5mph (136 km/h) was recorded at Funchal airport, alongside rainfall totals reaching 355mm (13.97in) in 12 hours.",
+     "example_zh": "丰沙尔机场记录到时速84.5英里（136公里）的阵风，同时12小时内的降雨量达到355毫米（13.97英寸）。"
+    },
+    {
+     "word": "cancellation",
+     "pos": "n.",
+     "phonetic": "/ˌkænsəˈleɪʃn/",
+     "meaning_zh": "取消，撤销（此处指航班取消）",
+     "example_en": "In Lisbon, 183 flights were cancelled on Wednesday, about a third of its normal daily traffic, while Madrid Barajas airport had 155 cancellations.",
+     "example_zh": "在里斯本，周三有183架次航班被取消，约占正常日客流量的三分之一，而马德里巴拉哈斯机场有155架次取消。"
+    },
+    {
+     "word": "track",
+     "pos": "n.",
+     "phonetic": "/træk/",
+     "meaning_zh": "路线，路径（此处指风暴的移动路线）",
+     "example_en": "After causing widespread flooding in Spain and Portugal, the system moved on a north-easterly track through southern France and then towards northern Italy.",
+     "example_zh": "在西班牙和葡萄牙造成大面积洪水后，该系统沿东北方向路线穿过法国南部，随后向意大利北部移动。"
+    },
+    {
+     "word": "red warning",
+     "pos": "n.",
+     "phonetic": "/red ˈwɔːnɪŋ/",
+     "meaning_zh": "红色预警，最高级别的警报",
+     "example_en": "The Italian weather service issued a red rainfall warning, its highest level, for the area extending from Tuscany to Venezia.",
+     "example_zh": "意大利气象部门对从托斯卡纳到威尼斯一带发布了红色降雨预警，这是最高级别。"
+    },
+    {
+     "word": "accumulate",
+     "pos": "v.",
+     "phonetic": "/əˈkjuːmjəleɪt/",
+     "meaning_zh": "积累，积聚（此处指降雨量累积）",
+     "example_en": "Further heavy rain is expected to fall in Italy and the Balkans over the next few days, with the latest forecast models indicating an additional 100mm could accumulate widely.",
+     "example_zh": "预计未来几天意大利和巴尔干地区将有更多强降雨，最新预报模型显示，广泛地区可能再累积100毫米的降雨。"
+    },
+    {
+     "word": "successive",
+     "pos": "adj.",
+     "phonetic": "/səkˈsesɪv/",
+     "meaning_zh": "连续的，接连的",
+     "example_en": "Successive rounds of heavy rain and strong winds have caused flooding, landslides and disruption across British Columbia, Canada through the last week or so.",
+     "example_zh": "过去一周左右，连续几轮强降雨和强风在加拿大不列颠哥伦比亚省引发了洪水、山体滑坡和混乱。"
+    },
+    {
+     "word": "landslide",
+     "pos": "n.",
+     "phonetic": "/ˈlændslaɪd/",
+     "meaning_zh": "山体滑坡，塌方",
+     "example_en": "These unsettled conditions continued into the weekend, with further heavy rain leaving 135,000 customers without power, alongside downed trees, flooded roads and landslides.",
+     "example_zh": "这些不稳定的天气持续到周末，进一步的强降雨导致13.5万用户断电，同时还伴有树木倒伏、道路被淹和山体滑坡。"
+    },
+    {
+     "word": "unsettled",
+     "pos": "adj.",
+     "phonetic": "/ʌnˈsetld/",
+     "meaning_zh": "不稳定的，多变的（形容天气）",
+     "example_en": "These unsettled conditions continued into the weekend, with further heavy rain leaving 135,000 customers without power, alongside downed trees, flooded roads and landslides.",
+     "example_zh": "这些不稳定的天气持续到周末，进一步的强降雨导致13.5万用户断电，同时还伴有树木倒伏、道路被淹和山体滑坡。"
+    },
+    {
+     "word": "flash flooding",
+     "pos": "n.",
+     "phonetic": "/flæʃ ˈflʌdɪŋ/",
+     "meaning_zh": "突发性洪水，山洪暴发",
+     "example_en": "Additionally, the River Forecast Centre issued flood warnings on Wednesday across the south coast with heavy rain and high streamflow continuing to bring an increased risk of flash flooding and landslides.",
+     "example_zh": "此外，河流预报中心周三在南海岸发布了洪水警告，强降雨和高流量继续增加突发性洪水和山体滑坡的风险。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 392,
+   "level": "B2"
+  },
   {
    "id": "farewell-to-elon-musk-s-cybertruck-has-a",
    "date": "2026-11-13",

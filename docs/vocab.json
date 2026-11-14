@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13T02:06:10",
- "count": 274,
+ "updated": "2026-11-14T01:43:13",
+ "count": 283,
  "vocab": [
   {
    "word": "bear the brunt of",
@@ -22,6 +22,17 @@
    "dates": [
     "2026-11-04",
     "2026-11-07"
+   ]
+  },
+  {
+   "word": "landslide",
+   "pos": "n.",
+   "phonetic": "/ˈlændslaɪd/",
+   "meaning_zh": "山体滑坡；泥石流",
+   "count": 2,
+   "dates": [
+    "2026-11-01",
+    "2026-11-14"
    ]
   },
   {
@@ -96,6 +107,16 @@
    "count": 1,
    "dates": [
     "2026-11-13"
+   ]
+  },
+  {
+   "word": "accumulate",
+   "pos": "v.",
+   "phonetic": "/əˈkjuːmjəleɪt/",
+   "meaning_zh": "积累，积聚（此处指降雨量累积）",
+   "count": 1,
+   "dates": [
+    "2026-11-14"
    ]
   },
   {
@@ -409,6 +430,16 @@
    ]
   },
   {
+   "word": "cancellation",
+   "pos": "n.",
+   "phonetic": "/ˌkænsəˈleɪʃn/",
+   "meaning_zh": "取消，撤销（此处指航班取消）",
+   "count": 1,
+   "dates": [
+    "2026-11-14"
+   ]
+  },
+  {
    "word": "capitulate",
    "pos": "v.",
    "phonetic": "/kəˈpɪtʃuleɪt/",
@@ -676,6 +707,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "destructive",
+   "pos": "adj.",
+   "phonetic": "/dɪˈstrʌktɪv/",
+   "meaning_zh": "破坏性的，造成严重损害的",
+   "count": 1,
+   "dates": [
+    "2026-11-14"
    ]
   },
   {
@@ -966,6 +1007,16 @@
    "count": 1,
    "dates": [
     "2026-10-30"
+   ]
+  },
+  {
+   "word": "flash flooding",
+   "pos": "n.",
+   "phonetic": "/flæʃ ˈflʌdɪŋ/",
+   "meaning_zh": "突发性洪水，山洪暴发",
+   "count": 1,
+   "dates": [
+    "2026-11-14"
    ]
   },
   {
@@ -1316,16 +1367,6 @@
    "count": 1,
    "dates": [
     "2026-10-27"
-   ]
-  },
-  {
-   "word": "landslide",
-   "pos": "n.",
-   "phonetic": "/ˈlændslaɪd/",
-   "meaning_zh": "山体滑坡；泥石流",
-   "count": 1,
-   "dates": [
-    "2026-11-01"
    ]
   },
   {
@@ -1949,6 +1990,16 @@
    ]
   },
   {
+   "word": "red warning",
+   "pos": "n.",
+   "phonetic": "/red ˈwɔːnɪŋ/",
+   "meaning_zh": "红色预警，最高级别的警报",
+   "count": 1,
+   "dates": [
+    "2026-11-14"
+   ]
+  },
+  {
    "word": "refine the scope of",
    "pos": "phrase",
    "phonetic": "/rɪˈfaɪn ðə skoʊp əv/",
@@ -2419,6 +2470,16 @@
    ]
   },
   {
+   "word": "successive",
+   "pos": "adj.",
+   "phonetic": "/səkˈsesɪv/",
+   "meaning_zh": "连续的，接连的",
+   "count": 1,
+   "dates": [
+    "2026-11-14"
+   ]
+  },
+  {
    "word": "symbiosis",
    "pos": "n.",
    "phonetic": "/ˌsɪmbaɪˈoʊsɪs/",
@@ -2496,6 +2557,16 @@
    "count": 1,
    "dates": [
     "2026-10-24"
+   ]
+  },
+  {
+   "word": "track",
+   "pos": "n.",
+   "phonetic": "/træk/",
+   "meaning_zh": "路线，路径（此处指风暴的移动路线）",
+   "count": 1,
+   "dates": [
+    "2026-11-14"
    ]
   },
   {
@@ -2586,6 +2657,16 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "unsettled",
+   "pos": "adj.",
+   "phonetic": "/ʌnˈsetld/",
+   "meaning_zh": "不稳定的，多变的（形容天气）",
+   "count": 1,
+   "dates": [
+    "2026-11-14"
    ]
   },
   {
@@ -2716,6 +2797,16 @@
    "count": 1,
    "dates": [
     "2026-11-13"
+   ]
+  },
+  {
+   "word": "wind gust",
+   "pos": "n.",
+   "phonetic": "/wɪnd ɡʌst/",
+   "meaning_zh": "阵风，一阵突发的强风",
+   "count": 1,
+   "dates": [
+    "2026-11-14"
    ]
   },
   {
