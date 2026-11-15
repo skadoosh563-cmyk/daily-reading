@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T01:43:13",
- "count": 283,
+ "updated": "2026-11-15T01:16:27",
+ "count": 292,
  "vocab": [
   {
    "word": "bear the brunt of",
@@ -33,6 +33,17 @@
    "dates": [
     "2026-11-01",
     "2026-11-14"
+   ]
+  },
+  {
+   "word": "raise the alarm",
+   "pos": "phrase",
+   "phonetic": "/reɪz ði əˈlɑːm/",
+   "meaning_zh": "发出警告、敲响警钟",
+   "count": 2,
+   "dates": [
+    "2026-10-21",
+    "2026-11-15"
    ]
   },
   {
@@ -117,6 +128,16 @@
    "count": 1,
    "dates": [
     "2026-11-14"
+   ]
+  },
+  {
+   "word": "acquisition of property",
+   "pos": "n. phrase",
+   "phonetic": "/ˌækwɪˈzɪʃən əv ˈprɒpəti/",
+   "meaning_zh": "取得财产；财产征收",
+   "count": 1,
+   "dates": [
+    "2026-11-15"
    ]
   },
   {
@@ -1520,6 +1541,16 @@
    ]
   },
   {
+   "word": "mooted",
+   "pos": "adj.",
+   "phonetic": "/ˈmuːtɪd/",
+   "meaning_zh": "被提出讨论的；拟议中的",
+   "count": 1,
+   "dates": [
+    "2026-11-15"
+   ]
+  },
+  {
    "word": "moratorium",
    "pos": "n.",
    "phonetic": "/ˌmɔːrəˈtɔːriəm/",
@@ -1580,6 +1611,16 @@
    ]
   },
   {
+   "word": "on just terms",
+   "pos": "phrase",
+   "phonetic": "/ɒn dʒʌst tɜːmz/",
+   "meaning_zh": "按公平条件；给予公正补偿",
+   "count": 1,
+   "dates": [
+    "2026-11-15"
+   ]
+  },
+  {
    "word": "on par with",
    "pos": "phr.",
    "phonetic": "/ɒn pɑː(r) wɪð/",
@@ -1607,6 +1648,16 @@
    "count": 1,
    "dates": [
     "2026-11-13"
+   ]
+  },
+  {
+   "word": "opt-out",
+   "pos": "adj./n.",
+   "phonetic": "/ˈɒpt aʊt/",
+   "meaning_zh": "选择退出（制）；退出选项",
+   "count": 1,
+   "dates": [
+    "2026-11-15"
    ]
   },
   {
@@ -1840,6 +1891,16 @@
    ]
   },
   {
+   "word": "profiteering",
+   "pos": "n.",
+   "phonetic": "/ˌprɒfɪˈtɪərɪŋ/",
+   "meaning_zh": "牟取暴利；投机倒把",
+   "count": 1,
+   "dates": [
+    "2026-11-15"
+   ]
+  },
+  {
    "word": "prohibitive",
    "pos": "adj.",
    "phonetic": "/prəˈhɪbətɪv/",
@@ -1907,16 +1968,6 @@
    "count": 1,
    "dates": [
     "2026-11-11"
-   ]
-  },
-  {
-   "word": "raise the alarm",
-   "pos": "phrase",
-   "phonetic": "/reɪz ði əˈlɑːm/",
-   "meaning_zh": "发出警告、敲响警钟",
-   "count": 1,
-   "dates": [
-    "2026-10-21"
    ]
   },
   {
@@ -2150,6 +2201,16 @@
    ]
   },
   {
+   "word": "sacrifice on the altar of",
+   "pos": "idiom",
+   "phonetic": "/ˈsækrɪfaɪs ɒn ði ˈɔːltə əv/",
+   "meaning_zh": "为……而牺牲；成为……的祭品",
+   "count": 1,
+   "dates": [
+    "2026-11-15"
+   ]
+  },
+  {
    "word": "safety hazard",
    "pos": "n. phr.",
    "phonetic": "/ˈseɪfti ˈhæzəd/",
@@ -2167,6 +2228,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "scrape",
+   "pos": "v.",
+   "phonetic": "/skreɪp/",
+   "meaning_zh": "（从网上）抓取（数据）",
+   "count": 1,
+   "dates": [
+    "2026-11-15"
    ]
   },
   {
@@ -2407,6 +2478,16 @@
    "count": 1,
    "dates": [
     "2026-11-11"
+   ]
+  },
+  {
+   "word": "stitch-up",
+   "pos": "n.",
+   "phonetic": "/ˈstɪtʃ ʌp/",
+   "meaning_zh": "（贬义）幕后交易；串通安排",
+   "count": 1,
+   "dates": [
+    "2026-11-15"
    ]
   },
   {
@@ -2777,6 +2858,16 @@
    "count": 1,
    "dates": [
     "2026-10-27"
+   ]
+  },
+  {
+   "word": "water down",
+   "pos": "phrasal v.",
+   "phonetic": "/ˈwɔːtə daʊn/",
+   "meaning_zh": "削弱；淡化",
+   "count": 1,
+   "dates": [
+    "2026-11-15"
    ]
   },
   {

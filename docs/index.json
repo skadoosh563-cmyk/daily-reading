@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-14T01:43:13",
- "count": 28,
+ "updated": "2026-11-15T01:16:27",
+ "count": 29,
  "items": [
+  {
+   "id": "art-must-not-be-sacrificed-on-the-altar",
+   "date": "2026-11-15",
+   "title_zh": "自由党参议员称艺术“绝不能成为企业利润的牺牲品”，AI政策辩论白热化",
+   "summary": "澳大利亚自由党参议员安德鲁·麦克拉克兰公开批评本党和工党政府在人工智能问题上的立场，强调艺术家版权不应为投资和建设数据中心而牺牲。文章围绕AI政策中的版权改革、宪法层面的财产权争议、数据中心的环境代价以及两党在AI监管上的态度展开，适合了解外刊中常见的政策辩论语篇和财产权相关表达。",
+   "vocab": [
+    {
+     "word": "raise the alarm",
+     "pos": "phrase",
+     "phonetic": "/reɪz ði əˈlɑːm/",
+     "meaning_zh": "发出警报；公开表示担忧",
+     "example_en": "The outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI.",
+     "example_zh": "直言不讳的自由党参议员安德鲁·麦克拉克兰对本党及工党政府在人工智能问题上的做法发出了警告。"
+    },
+    {
+     "word": "mooted",
+     "pos": "adj.",
+     "phonetic": "/ˈmuːtɪd/",
+     "meaning_zh": "被提出讨论的；拟议中的",
+     "example_en": "The South Australian backbencher added weight to mooted constitutional challenges as to whether watering down copyright law would be an illegal acquisition of property.",
+     "example_zh": "这位南澳大利亚州后座议员为一项拟议中的宪法挑战增添了分量，该挑战质疑削弱版权法是否构成非法取得财产。"
+    },
+    {
+     "word": "water down",
+     "pos": "phrasal v.",
+     "phonetic": "/ˈwɔːtə daʊn/",
+     "meaning_zh": "削弱；淡化",
+     "example_en": "The South Australian backbencher added weight to mooted constitutional challenges as to whether watering down copyright law would be an illegal acquisition of property.",
+     "example_zh": "这位南澳大利亚州后座议员为一项拟议中的宪法挑战增添了分量，该挑战质疑削弱版权法是否构成非法取得财产。"
+    },
+    {
+     "word": "acquisition of property",
+     "pos": "n. phrase",
+     "phonetic": "/ˌækwɪˈzɪʃən əv ˈprɒpəti/",
+     "meaning_zh": "取得财产；财产征收",
+     "example_en": "The South Australian backbencher added weight to mooted constitutional challenges as to whether watering down copyright law would be an illegal acquisition of property.",
+     "example_zh": "这位南澳大利亚州后座议员为一项拟议中的宪法挑战增添了分量，该挑战质疑削弱版权法是否构成非法取得财产。"
+    },
+    {
+     "word": "sacrifice on the altar of",
+     "pos": "idiom",
+     "phonetic": "/ˈsækrɪfaɪs ɒn ði ˈɔːltə əv/",
+     "meaning_zh": "为……而牺牲；成为……的祭品",
+     "example_en": "The works [artists] create must not be sacrificed on the altar of global corporate profiteering.",
+     "example_zh": "艺术家创作的作品绝不能成为全球企业牟利的牺牲品。"
+    },
+    {
+     "word": "profiteering",
+     "pos": "n.",
+     "phonetic": "/ˌprɒfɪˈtɪərɪŋ/",
+     "meaning_zh": "牟取暴利；投机倒把",
+     "example_en": "The works [artists] create must not be sacrificed on the altar of global corporate profiteering.",
+     "example_zh": "艺术家创作的作品绝不能成为全球企业牟利的牺牲品。"
+    },
+    {
+     "word": "opt-out",
+     "pos": "adj./n.",
+     "phonetic": "/ˈɒpt aʊt/",
+     "meaning_zh": "选择退出（制）；退出选项",
+     "example_en": "AI companies have said they need legal certainty on the copyright issue before investing in Australia, with Anthropic putting forward an “opt-out” model which would allow it to scrape music, books and journalism unless a rights holder signalled an objection.",
+     "example_zh": "AI公司表示，在澳大利亚投资前，他们需要在版权问题上获得法律确定性；Anthropic提出了一种“选择退出”模式，即除非权利人表示反对，否则它就可以抓取音乐、书籍和新闻作品。"
+    },
+    {
+     "word": "scrape",
+     "pos": "v.",
+     "phonetic": "/skreɪp/",
+     "meaning_zh": "（从网上）抓取（数据）",
+     "example_en": "AI companies have said they need legal certainty on the copyright issue before investing in Australia, with Anthropic putting forward an “opt-out” model which would allow it to scrape music, books and journalism unless a rights holder signalled an objection.",
+     "example_zh": "AI公司表示，在澳大利亚投资前，他们需要在版权问题上获得法律确定性；Anthropic提出了一种“选择退出”模式，即除非权利人表示反对，否则它就可以抓取音乐、书籍和新闻作品。"
+    },
+    {
+     "word": "stitch-up",
+     "pos": "n.",
+     "phonetic": "/ˈstɪtʃ ʌp/",
+     "meaning_zh": "（贬义）幕后交易；串通安排",
+     "example_en": "Senator David Pocock has complained about a major party “stitch-up” on AI regulation.",
+     "example_zh": "参议员戴维·波科克抱怨两大党在AI监管上搞“幕后交易”。"
+    },
+    {
+     "word": "on just terms",
+     "pos": "phrase",
+     "phonetic": "/ɒn dʒʌst tɜːmz/",
+     "meaning_zh": "按公平条件；给予公正补偿",
+     "example_en": "The constitutional imperative that the government must acquire property “on just terms” is emerging as a key concern in the copyright debate.",
+     "example_zh": "政府必须“按公平条件”取得财产的宪法要求，正成为版权辩论中的一个关键关切。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 636,
+   "level": "C1"
+  },
   {
    "id": "storm-charles-causes-floods-and-flight-c",
    "date": "2026-11-14",
