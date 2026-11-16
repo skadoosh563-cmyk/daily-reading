@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-15T01:16:27",
- "count": 29,
+ "updated": "2026-11-16T01:22:02",
+ "count": 30,
  "items": [
+  {
+   "id": "digital-finance-products-used-to-abuse-a",
+   "date": "2026-11-16",
+   "title_zh": "英国报告发现：数字金融产品被用于虐待近20%的年轻女性",
+   "summary": "英国慈善机构“幸存经济虐待”发布报告称，近五分之一16至24岁的英国年轻女性曾遭遇伴侣利用银行应用、在线支付和数字信贷等数字金融产品实施经济虐待。施虐者通过控制账户登录信息、数字钱包、冒名借贷等手段对受害者进行经济控制，导致其负债、信用受损、心理健康恶化，甚至无法离开关系。文章引用受害者案例和专家呼吁，要求政府将经济虐待教育纳入学校课程，并敦促金融机构在设计产品时防范此类滥用。",
+   "vocab": [
+    {
+     "word": "exploit",
+     "pos": "v.",
+     "phonetic": "/ɪkˈsplɔɪt/",
+     "meaning_zh": "利用；剥削（此处指利用数字金融产品作为虐待工具）",
+     "example_en": "Abusers are exploiting banking apps, online payments and digital credit to control young women.",
+     "example_zh": "施虐者正在利用银行应用、在线支付和数字信贷来控制年轻女性。"
+    },
+    {
+     "word": "perpetrator",
+     "pos": "n.",
+     "phonetic": "/ˌpɜːpəˈtreɪtə(r)/",
+     "meaning_zh": "施虐者；作恶者",
+     "example_en": "Rates are highest among disabled young women and those with caring responsibilities for children, with perpetrators exploiting additional vulnerabilities to exert control.",
+     "example_zh": "残疾年轻女性和有照护儿童责任的女性中比例最高，施虐者利用额外的脆弱性来施加控制。"
+    },
+    {
+     "word": "exert control",
+     "pos": "phr.",
+     "phonetic": "/ɪɡˈzɜːt kənˈtrəʊl/",
+     "meaning_zh": "施加控制",
+     "example_en": "Perpetrators exploiting additional vulnerabilities to exert control.",
+     "example_zh": "施虐者利用额外的脆弱性来施加控制。"
+    },
+    {
+     "word": "coerce",
+     "pos": "v.",
+     "phonetic": "/kəʊˈɜːs/",
+     "meaning_zh": "强迫；胁迫",
+     "example_en": "He isolated her from her family and friends, coerced her into more than £40,000 of debt, and prevented her from working.",
+     "example_zh": "他把她与家人和朋友隔离开来，胁迫她背负超过4万英镑的债务，并阻止她工作。"
+    },
+    {
+     "word": "isolate ... from",
+     "pos": "phr.",
+     "phonetic": "/ˈaɪsəleɪt frəm/",
+     "meaning_zh": "使……与……隔离；使孤立于",
+     "example_en": "He isolated her from her family and friends.",
+     "example_zh": "他把她与家人和朋友隔离开来。"
+    },
+    {
+     "word": "break down",
+     "pos": "phr. v.",
+     "phonetic": "/breɪk daʊn/",
+     "meaning_zh": "使崩溃；瓦解（此处指经过数月施压使受害者屈服）",
+     "example_en": "Even though I said no, he broke me down over many months and forced me to take out a loan in my name.",
+     "example_zh": "尽管我说了不，他还是在好几个月里把我磨到崩溃，强迫我以自己的名义贷款。"
+    },
+    {
+     "word": "take out a loan",
+     "pos": "phr.",
+     "phonetic": "/teɪk aʊt ə ləʊn/",
+     "meaning_zh": "贷款；办理贷款",
+     "example_en": "He forced me to take out a loan in my name to pay for a holiday that he wanted to go on.",
+     "example_zh": "他强迫我以我的名义贷款，支付他想去度假的费用。"
+    },
+    {
+     "word": "in someone's name",
+     "pos": "phr.",
+     "phonetic": "/ɪn ˈsʌmwʌnz neɪm/",
+     "meaning_zh": "以某人的名义",
+     "example_en": "He also obtained 'buy now, pay later' loans in her name.",
+     "example_zh": "他还以她的名义获得了“先买后付”贷款。"
+    },
+    {
+     "word": "call on",
+     "pos": "phr. v.",
+     "phonetic": "/kɔːl ɒn/",
+     "meaning_zh": "呼吁；要求",
+     "example_en": "Experts and survivors are calling on ministers to use its promised financial education curriculum to educate young people about economic abuse.",
+     "example_zh": "专家和幸存者呼吁部长们利用其承诺的金融教育课程，教育年轻人认识经济虐待。"
+    },
+    {
+     "word": "design out",
+     "pos": "phr. v.",
+     "phonetic": "/dɪˈzaɪn aʊt/",
+     "meaning_zh": "通过设计消除（问题）",
+     "example_en": "We also want to see financial services firms working with survivors and experts to design out abuse of digital financial products and build in protections.",
+     "example_zh": "我们还希望看到金融服务公司与幸存者和专家合作，通过设计消除对数字金融产品的滥用，并内置保护措施。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 885,
+   "level": "B2"
+  },
   {
    "id": "art-must-not-be-sacrificed-on-the-altar",
    "date": "2026-11-15",
