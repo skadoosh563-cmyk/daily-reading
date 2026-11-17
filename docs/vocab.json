@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:22:02",
- "count": 302,
+ "updated": "2026-11-17T04:13:33",
+ "count": 312,
  "vocab": [
   {
    "word": "bear the brunt of",
@@ -361,6 +361,16 @@
    ]
   },
   {
+   "word": "binding",
+   "pos": "adj.",
+   "phonetic": "/ˈbaɪndɪŋ/",
+   "meaning_zh": "有（法律）约束力的；反义词是 non-binding（不具约束力）",
+   "count": 1,
+   "dates": [
+    "2026-11-17"
+   ]
+  },
+  {
    "word": "blatant",
    "pos": "adj.",
    "phonetic": "/ˈbleɪtnt/",
@@ -631,6 +641,16 @@
    ]
   },
   {
+   "word": "consensus",
+   "pos": "n.",
+   "phonetic": "/kənˈsensəs/",
+   "meaning_zh": "共识；（此处指）协商一致的表决方式，即无反对才能通过",
+   "count": 1,
+   "dates": [
+    "2026-11-17"
+   ]
+  },
+  {
    "word": "convicted",
    "pos": "adj.",
    "phonetic": "/kənˈvɪktɪd/",
@@ -888,6 +908,16 @@
    "count": 1,
    "dates": [
     "2026-11-10"
+   ]
+  },
+  {
+   "word": "elusive",
+   "pos": "adj.",
+   "phonetic": "/iˈluːsɪv/",
+   "meaning_zh": "难以实现的、难以达成的（形容目标、协议、答案等）",
+   "count": 1,
+   "dates": [
+    "2026-11-17"
    ]
   },
   {
@@ -1471,6 +1501,16 @@
    ]
   },
   {
+   "word": "kick the can down the road",
+   "pos": "idiom",
+   "phonetic": "/ˌkɪk ðə ˈkæn daʊn ðə ˈrəʊd/",
+   "meaning_zh": "把问题往后拖、拖延处理（外刊评论版高频习语）",
+   "count": 1,
+   "dates": [
+    "2026-11-17"
+   ]
+  },
+  {
    "word": "lash out",
    "pos": "phr. v.",
    "phonetic": "/læʃ aʊt/",
@@ -2011,6 +2051,16 @@
    ]
   },
   {
+   "word": "proliferation",
+   "pos": "n.",
+   "phonetic": "/prəˌlɪfəˈreɪʃn/",
+   "meaning_zh": "（武器、核技术等的）扩散、泛滥",
+   "count": 1,
+   "dates": [
+    "2026-11-17"
+   ]
+  },
+  {
    "word": "prolific",
    "pos": "adj.",
    "phonetic": "/prəˈlɪfɪk/",
@@ -2051,6 +2101,16 @@
    ]
   },
   {
+   "word": "pushback",
+   "pos": "n.",
+   "phonetic": "/ˈpʊʃbæk/",
+   "meaning_zh": "抵制、反对、反弹（不可数，常搭配 there is pushback from / against）",
+   "count": 1,
+   "dates": [
+    "2026-11-17"
+   ]
+  },
+  {
    "word": "put sth into action",
    "pos": "phr.",
    "phonetic": "/pʊt ˈsʌmθɪŋ ˈɪntuː ˈækʃn/",
@@ -2088,6 +2148,16 @@
    "count": 1,
    "dates": [
     "2026-10-30"
+   ]
+  },
+  {
+   "word": "ratify",
+   "pos": "v.",
+   "phonetic": "/ˈrætɪfaɪ/",
+   "meaning_zh": "（议会或国家元首）正式批准、核准（条约）",
+   "count": 1,
+   "dates": [
+    "2026-11-17"
    ]
   },
   {
@@ -2148,6 +2218,16 @@
    "count": 1,
    "dates": [
     "2026-10-24"
+   ]
+  },
+  {
+   "word": "rein in",
+   "pos": "v. phr.",
+   "phonetic": "/ˌreɪn ˈɪn/",
+   "meaning_zh": "控制、约束（原本是“勒住缰绳”的意思，外刊常用来讲约束某种失控的趋势）",
+   "count": 1,
+   "dates": [
+    "2026-11-17"
    ]
   },
   {
@@ -2681,6 +2761,16 @@
    ]
   },
   {
+   "word": "take out",
+   "pos": "phrasal v.",
+   "phonetic": "/ˌteɪk ˈaʊt/",
+   "meaning_zh": "摧毁、消灭（军事语境里指打掉某个目标，比 kill 更常用于“目标/设施”）",
+   "count": 1,
+   "dates": [
+    "2026-11-17"
+   ]
+  },
+  {
    "word": "take out a loan",
    "pos": "phr.",
    "phonetic": "/teɪk aʊt ə ləʊn/",
@@ -2808,6 +2898,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "underway",
+   "pos": "adj.",
+   "phonetic": "/ˌʌndəˈweɪ/",
+   "meaning_zh": "正在进行中的（常作表语，be underway）",
+   "count": 1,
+   "dates": [
+    "2026-11-17"
    ]
   },
   {

@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-16T01:22:02",
- "count": 30,
+ "updated": "2026-11-17T04:13:33",
+ "count": 31,
  "items": [
+  {
+   "id": "u-n-talks-seek-to-rein-in-killer-robots",
+   "date": "2026-11-17",
+   "title_zh": "联合国谈判试图约束“杀手机器人”，随着对AI武器的担忧加剧",
+   "summary": "联合国《特定常规武器公约》会议在日内瓦召开，讨论是否要为致命性自主武器（俗称“杀手机器人”）制定规则。红十字国际委员会、联合国秘书长和教皇都呼吁制定有法律约束力的规则，理由是机器无法像人一样读懂战场上的“情境信号”，容易误杀伤员或投降者。但美国、俄罗斯、以色列反对有约束力的规则，而联合国限制特定武器的谈判又必须“协商一致”，因此很难达成协议。文章既讲清了技术风险，也完整展示了这类多边谈判中“支持方—反对方—折中方案”的典型结构，很适合积累国际新闻高频表达和长句拆解能力。",
+   "vocab": [
+    {
+     "word": "rein in",
+     "pos": "v. phr.",
+     "phonetic": "/ˌreɪn ˈɪn/",
+     "meaning_zh": "控制、约束（原本是“勒住缰绳”的意思，外刊常用来讲约束某种失控的趋势）",
+     "example_en": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+     "example_zh": "随着对AI武器的担忧加剧，联合国谈判试图约束“杀手机器人”"
+    },
+    {
+     "word": "underway",
+     "pos": "adj.",
+     "phonetic": "/ˌʌndəˈweɪ/",
+     "meaning_zh": "正在进行中的（常作表语，be underway）",
+     "example_en": "Negotiations on possible rules for the use of lethal autonomous weapons, also known as 'killer robots' are underway at the United Nations in Geneva.",
+     "example_zh": "关于致命性自主武器（又称“杀手机器人”）使用规则的谈判正在联合国日内瓦办事处进行。"
+    },
+    {
+     "word": "take out",
+     "pos": "phrasal v.",
+     "phonetic": "/ˌteɪk ˈaʊt/",
+     "meaning_zh": "摧毁、消灭（军事语境里指打掉某个目标，比 kill 更常用于“目标/设施”）",
+     "example_en": "In Ukraine and Gaza, AI-assisted weapons have already been used to take out targets, with Ukrainian civilians reporting being 'hunted' by drones as they shop or go to school.",
+     "example_zh": "在乌克兰和加沙，AI辅助武器已被用于摧毁目标，有乌克兰平民称自己在购物或上学时被无人机“猎杀”。"
+    },
+    {
+     "word": "binding",
+     "pos": "adj.",
+     "phonetic": "/ˈbaɪndɪŋ/",
+     "meaning_zh": "有（法律）约束力的；反义词是 non-binding（不具约束力）",
+     "example_en": "Ahead of this week's meeting, the United Nations, the International Committee of the Red Cross and the Pope have all called for legally binding rules.",
+     "example_zh": "在本周会议召开前，联合国、红十字国际委员会和教皇都呼吁制定具有法律约束力的规则。"
+    },
+    {
+     "word": "ratify",
+     "pos": "v.",
+     "phonetic": "/ˈrætɪfaɪ/",
+     "meaning_zh": "（议会或国家元首）正式批准、核准（条约）",
+     "example_en": "It did not ratify the Ottawa Convention on landmines, for example, although it did, over time, stop deploying them and reduce its stockpiles.",
+     "example_zh": "例如，它没有批准关于地雷的《渥太华公约》，尽管随着时间推移，它确实停止了部署地雷并减少了库存。"
+    },
+    {
+     "word": "proliferation",
+     "pos": "n.",
+     "phonetic": "/prəˌlɪfəˈreɪʃn/",
+     "meaning_zh": "（武器、核技术等的）扩散、泛滥",
+     "example_en": "The more it is adopted by the military, the greater the danger of proliferation and its use by terrorist groups or law enforcement agencies in repressive regimes.",
+     "example_zh": "军队采用得越多，扩散的危险就越大，被恐怖组织或压迫性政权的执法机构使用的危险也越大。"
+    },
+    {
+     "word": "pushback",
+     "pos": "n.",
+     "phonetic": "/ˈpʊʃbæk/",
+     "meaning_zh": "抵制、反对、反弹（不可数，常搭配 there is pushback from / against）",
+     "example_en": "But among states that are already developing and using semi-autonomous weapons, there is pushback.",
+     "example_zh": "但在已经研发和使用半自主武器的国家中，存在抵触情绪。"
+    },
+    {
+     "word": "consensus",
+     "pos": "n.",
+     "phonetic": "/kənˈsensəs/",
+     "meaning_zh": "共识；（此处指）协商一致的表决方式，即无反对才能通过",
+     "example_en": "The problem for states meeting in Geneva is that U.N. negotiations on limiting specific weapons are supposed to be conducted by consensus.",
+     "example_zh": "对在日内瓦开会的各国来说，问题在于：联合国关于限制特定武器的谈判本应以协商一致的方式进行。"
+    },
+    {
+     "word": "elusive",
+     "pos": "adj.",
+     "phonetic": "/iˈluːsɪv/",
+     "meaning_zh": "难以实现的、难以达成的（形容目标、协议、答案等）",
+     "example_en": "This was achieved in 1995, when countries agreed to a ban on blinding lasers, but other agreements have proved elusive.",
+     "example_zh": "这一点在1995年实现过——当时各国同意禁止致盲激光武器——但其他协议都难以达成。"
+    },
+    {
+     "word": "kick the can down the road",
+     "pos": "idiom",
+     "phonetic": "/ˌkɪk ðə ˈkæn daʊn ðə ˈrəʊd/",
+     "meaning_zh": "把问题往后拖、拖延处理（外刊评论版高频习语）",
+     "example_en": "For campaigners, it is less than ideal, with one likening it to kicking a very dangerous can down the road.",
+     "example_zh": "对活动人士来说，这远非理想——有人把它比作把一个极其危险的罐子往路的尽头踢（把危险问题往后拖）。"
+    }
+   ],
+   "source": "NPR · World",
+   "word_count": 688,
+   "level": "B2"
+  },
   {
    "id": "digital-finance-products-used-to-abuse-a",
    "date": "2026-11-16",
