@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T04:13:33",
- "count": 312,
+ "updated": "2026-11-18T03:07:36",
+ "count": 321,
  "vocab": [
   {
    "word": "bear the brunt of",
@@ -91,6 +91,17 @@
    ]
   },
   {
+   "word": "watchdog",
+   "pos": "n.",
+   "phonetic": "/ˈwɒtʃdɒɡ/",
+   "meaning_zh": "监管机构；监督机构",
+   "count": 2,
+   "dates": [
+    "2026-10-27",
+    "2026-11-18"
+   ]
+  },
+  {
    "word": "a raft of",
    "pos": "量词短语",
    "phonetic": "/ə rɑːft əv/",
@@ -118,6 +129,16 @@
    "count": 1,
    "dates": [
     "2026-11-13"
+   ]
+  },
+  {
+   "word": "account for",
+   "pos": "phrase",
+   "phonetic": "/əˈkaʊnt fɔː(r)/",
+   "meaning_zh": "占（某一比例）；是……的原因（此处取“占比”义）",
+   "count": 1,
+   "dates": [
+    "2026-11-18"
    ]
   },
   {
@@ -161,6 +182,16 @@
    ]
   },
   {
+   "word": "adjacent to",
+   "pos": "phrase",
+   "phonetic": "/əˈdʒeɪsnt tu/",
+   "meaning_zh": "与……相邻、紧挨着",
+   "count": 1,
+   "dates": [
+    "2026-11-18"
+   ]
+  },
+  {
    "word": "adverse",
    "pos": "adj.",
    "phonetic": "/ˈædvɜːs/",
@@ -188,6 +219,16 @@
    "count": 1,
    "dates": [
     "2026-11-05"
+   ]
+  },
+  {
+   "word": "ageing",
+   "pos": "adj.",
+   "phonetic": "/ˈeɪdʒɪŋ/",
+   "meaning_zh": "老旧的、老化的（设施、设备）；英式拼写，美式为 aging",
+   "count": 1,
+   "dates": [
+    "2026-11-18"
    ]
   },
   {
@@ -248,6 +289,26 @@
    "count": 1,
    "dates": [
     "2026-10-28"
+   ]
+  },
+  {
+   "word": "at the end of the day",
+   "pos": "phrase",
+   "phonetic": "/æt ði end əv ðə deɪ/",
+   "meaning_zh": "归根结底、说到底（口语化的总结性表达，常用于引语中）",
+   "count": 1,
+   "dates": [
+    "2026-11-18"
+   ]
+  },
+  {
+   "word": "back",
+   "pos": "v.",
+   "phonetic": "/bæk/",
+   "meaning_zh": "支持、声援（某人或某项行动）",
+   "count": 1,
+   "dates": [
+    "2026-11-18"
    ]
   },
   {
@@ -328,6 +389,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "be subject to",
+   "pos": "phrase",
+   "phonetic": "/bi ˈsʌbdʒɪkt tu/",
+   "meaning_zh": "须经……；受……约束、取决于……（正式用语，常见于法律、监管语境）",
+   "count": 1,
+   "dates": [
+    "2026-11-18"
    ]
   },
   {
@@ -468,6 +539,26 @@
    "count": 1,
    "dates": [
     "2026-11-16"
+   ]
+  },
+  {
+   "word": "call on sb to do sth",
+   "pos": "phrase",
+   "phonetic": "/kɔːl ɒn/",
+   "meaning_zh": "呼吁、要求某人做某事（比ask更正式，常用于公共议题）",
+   "count": 1,
+   "dates": [
+    "2026-11-18"
+   ]
+  },
+  {
+   "word": "call to arms",
+   "pos": "n.",
+   "phonetic": "/kɔːl tu ɑːmz/",
+   "meaning_zh": "战斗号令；号召大家行动起来的东西（此处指一首号召行动的歌曲）",
+   "count": 1,
+   "dates": [
+    "2026-11-18"
    ]
   },
   {
@@ -1748,6 +1839,16 @@
    "count": 1,
    "dates": [
     "2026-11-08"
+   ]
+  },
+  {
+   "word": "on the basis that",
+   "pos": "phrase",
+   "phonetic": "/ɒn ðə ˈbeɪsɪs ðæt/",
+   "meaning_zh": "以……为理由；基于……这一点",
+   "count": 1,
+   "dates": [
+    "2026-11-18"
    ]
   },
   {
@@ -3048,16 +3149,6 @@
    "count": 1,
    "dates": [
     "2026-11-10"
-   ]
-  },
-  {
-   "word": "watchdog",
-   "pos": "n.",
-   "phonetic": "/ˈwɒtʃdɒɡ/",
-   "meaning_zh": "监管机构；监督机构",
-   "count": 1,
-   "dates": [
-    "2026-10-27"
    ]
   },
   {

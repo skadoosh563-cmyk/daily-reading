@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-17T04:13:33",
- "count": 31,
+ "updated": "2026-11-18T03:07:36",
+ "count": 32,
  "items": [
+  {
+   "id": "hugh-jackman-rebel-wilson-and-150-austra",
+   "date": "2026-11-18",
+   "title_zh": "休·杰克曼、瑞贝尔·威尔森等150位澳大利亚艺术家联名呼吁阻止伍德赛德在斯科特礁附近开发气田",
+   "summary": "澳大利亚150多位艺术家、作家和音乐人签署公开信，反对伍德赛德能源公司在西澳斯科特礁附近开发Browse气田，理由是该项目可能破坏拥有1500多个物种的珊瑚礁生态，并带来远超2009年蒙塔拉事故的漏油风险。文章不仅呈现了明星联名、公益歌曲等行动，还梳理了西澳州环保监管机构的严厉批评、IEEFA关于成本与碳排放的测算，以及环保组织的表态。文末给出伍德赛德的回应，它否认“漏油”说法，强调项目是天然气与凝析油开发。这篇报道适合练习“环保争议类”外刊常见表达，也能看到记者如何通过引语安排呈现立场。",
+   "vocab": [
+    {
+     "word": "back",
+     "pos": "v.",
+     "phonetic": "/bæk/",
+     "meaning_zh": "支持、声援（某人或某项行动）",
+     "example_en": "More than 150 Australian artists, including Hugh Jackman, Rebel Wilson and Jessica Mauboy, have backed a Greenpeace-led campaign against Woodside Energy's proposal to develop the Browse basin.",
+     "example_zh": "包括休·杰克曼、瑞贝尔·威尔森和杰西卡·玛博伊在内的150多位澳大利亚艺术家，支持由绿色和平牵头的一场反对伍德赛德能源公司开发Browse盆地计划的运动。"
+    },
+    {
+     "word": "on the basis that",
+     "pos": "phrase",
+     "phonetic": "/ɒn ðə ˈbeɪsɪs ðæt/",
+     "meaning_zh": "以……为理由；基于……这一点",
+     "example_en": "Actors Jackman, Wilson, Richard Roxburgh and Mia Wasikowska are among prominent Australians who oppose the Browse development on the basis that the proposed gasfield could damage the unique reef ecosystem.",
+     "example_zh": "演员杰克曼、威尔森、理查德·罗克斯堡和米娅·华希科沃斯卡等知名澳大利亚人反对Browse开发项目，理由是拟建气田可能破坏这片独特的珊瑚礁生态系统。"
+    },
+    {
+     "word": "call on sb to do sth",
+     "pos": "phrase",
+     "phonetic": "/kɔːl ɒn/",
+     "meaning_zh": "呼吁、要求某人做某事（比ask更正式，常用于公共议题）",
+     "example_en": "They join musicians Jimmy Barnes, Paul Kelly ... in signing an open letter calling on the federal environment minister, Murray Watt, not to approve the development.",
+     "example_zh": "他们与音乐人吉米·巴恩斯、保罗·凯利……一道签署了一封公开信，呼吁联邦环境部长默里·瓦特不要批准该项目。"
+    },
+    {
+     "word": "call to arms",
+     "pos": "n.",
+     "phonetic": "/kɔːl tu ɑːmz/",
+     "meaning_zh": "战斗号令；号召大家行动起来的东西（此处指一首号召行动的歌曲）",
+     "example_en": "The open letter comes after a supergroup of more than 20 Australian artists ... last Monday released If Not Now, a musical call to arms about the reef.",
+     "example_zh": "这封公开信发布之前，上周一，一个由20多位澳大利亚艺术家组成的“超级组合”……发布了《If Not Now》，一首关于这片珊瑚礁的战斗号角。"
+    },
+    {
+     "word": "watchdog",
+     "pos": "n.",
+     "phonetic": "/ˈwɒtʃdɒɡ/",
+     "meaning_zh": "监管机构、监督部门（新闻中常用，指独立监督公共事务的机构）",
+     "example_en": "Last month, Guardian Australia revealed that WA's independent environmental watchdog had sharply criticised the proposal.",
+     "example_zh": "上个月，《卫报》澳大利亚版披露，西澳州独立环境监管机构对该提案提出了严厉批评。"
+    },
+    {
+     "word": "ageing",
+     "pos": "adj.",
+     "phonetic": "/ˈeɪdʒɪŋ/",
+     "meaning_zh": "老旧的、老化的（设施、设备）；英式拼写，美式为 aging",
+     "example_en": "Browse ... would see gas piped about 900km to its ageing North West Shelf gas export plant.",
+     "example_zh": "Browse项目……计划将天然气通过约900公里管道输送至其老化的西北大陆架天然气出口厂。"
+    },
+    {
+     "word": "adjacent to",
+     "pos": "phrase",
+     "phonetic": "/əˈdʒeɪsnt tu/",
+     "meaning_zh": "与……相邻、紧挨着",
+     "example_en": "... its ageing North West Shelf gas export plant, which is adjacent to the world heritage-listed Murujuga rock art.",
+     "example_zh": "……其老化的西北大陆架天然气出口厂，该厂毗邻列入世界遗产名录的Murujuga岩画。"
+    },
+    {
+     "word": "account for",
+     "pos": "phrase",
+     "phonetic": "/əˈkaʊnt fɔː(r)/",
+     "meaning_zh": "占（某一比例）；是……的原因（此处取“占比”义）",
+     "example_en": "... Browse would generate up to 6.8m tonnes of carbon dioxide emissions yearly at peak production, accounting for between 2.9% and 3.7% of Australia's emissions in 2035.",
+     "example_zh": "……Browse项目在产量高峰期每年将产生最多680万吨二氧化碳排放，占2035年澳大利亚排放量的2.9%至3.7%。"
+    },
+    {
+     "word": "at the end of the day",
+     "pos": "phrase",
+     "phonetic": "/æt ði end əv ðə deɪ/",
+     "meaning_zh": "归根结底、说到底（口语化的总结性表达，常用于引语中）",
+     "example_en": "At the end of the day, we don't need Browse gas.",
+     "example_zh": "归根结底，我们不需要Browse的天然气。"
+    },
+    {
+     "word": "be subject to",
+     "pos": "phrase",
+     "phonetic": "/bi ˈsʌbdʒɪkt tu/",
+     "meaning_zh": "须经……；受……约束、取决于……（正式用语，常见于法律、监管语境）",
+     "example_en": "A Woodside spokesperson said the proposed development “remains subject to a detailed, public and transparent assessment by state and Commonwealth regulators”.",
+     "example_zh": "伍德赛德的一位发言人表示，拟议开发项目“仍需接受州和联邦监管机构详细、公开、透明的评估”。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 691,
+   "level": "B2"
+  },
   {
    "id": "u-n-talks-seek-to-rein-in-killer-robots",
    "date": "2026-11-17",

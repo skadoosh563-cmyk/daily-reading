@@ -1,0 +1,254 @@
+{
+ "id": "hugh-jackman-rebel-wilson-and-150-austra",
+ "date": "2026-11-18",
+ "slug": "hugh-jackman-rebel-wilson-and-150-austra",
+ "title_zh": "休·杰克曼、瑞贝尔·威尔森等150位澳大利亚艺术家联名呼吁阻止伍德赛德在斯科特礁附近开发气田",
+ "meta_line": "来源：The Guardian · World ｜ 难度：B2 ｜ 词数：691",
+ "summary": "澳大利亚150多位艺术家、作家和音乐人签署公开信，反对伍德赛德能源公司在西澳斯科特礁附近开发Browse气田，理由是该项目可能破坏拥有1500多个物种的珊瑚礁生态，并带来远超2009年蒙塔拉事故的漏油风险。文章不仅呈现了明星联名、公益歌曲等行动，还梳理了西澳州环保监管机构的严厉批评、IEEFA关于成本与碳排放的测算，以及环保组织的表态。文末给出伍德赛德的回应，它否认“漏油”说法，强调项目是天然气与凝析油开发。这篇报道适合练习“环保争议类”外刊常见表达，也能看到记者如何通过引语安排呈现立场。",
+ "vocab": [
+  {
+   "word": "back",
+   "pos": "v.",
+   "phonetic": "/bæk/",
+   "meaning_zh": "支持、声援（某人或某项行动）",
+   "example_en": "More than 150 Australian artists, including Hugh Jackman, Rebel Wilson and Jessica Mauboy, have backed a Greenpeace-led campaign against Woodside Energy's proposal to develop the Browse basin.",
+   "example_zh": "包括休·杰克曼、瑞贝尔·威尔森和杰西卡·玛博伊在内的150多位澳大利亚艺术家，支持由绿色和平牵头的一场反对伍德赛德能源公司开发Browse盆地计划的运动。"
+  },
+  {
+   "word": "on the basis that",
+   "pos": "phrase",
+   "phonetic": "/ɒn ðə ˈbeɪsɪs ðæt/",
+   "meaning_zh": "以……为理由；基于……这一点",
+   "example_en": "Actors Jackman, Wilson, Richard Roxburgh and Mia Wasikowska are among prominent Australians who oppose the Browse development on the basis that the proposed gasfield could damage the unique reef ecosystem.",
+   "example_zh": "演员杰克曼、威尔森、理查德·罗克斯堡和米娅·华希科沃斯卡等知名澳大利亚人反对Browse开发项目，理由是拟建气田可能破坏这片独特的珊瑚礁生态系统。"
+  },
+  {
+   "word": "call on sb to do sth",
+   "pos": "phrase",
+   "phonetic": "/kɔːl ɒn/",
+   "meaning_zh": "呼吁、要求某人做某事（比ask更正式，常用于公共议题）",
+   "example_en": "They join musicians Jimmy Barnes, Paul Kelly ... in signing an open letter calling on the federal environment minister, Murray Watt, not to approve the development.",
+   "example_zh": "他们与音乐人吉米·巴恩斯、保罗·凯利……一道签署了一封公开信，呼吁联邦环境部长默里·瓦特不要批准该项目。"
+  },
+  {
+   "word": "call to arms",
+   "pos": "n.",
+   "phonetic": "/kɔːl tu ɑːmz/",
+   "meaning_zh": "战斗号令；号召大家行动起来的东西（此处指一首号召行动的歌曲）",
+   "example_en": "The open letter comes after a supergroup of more than 20 Australian artists ... last Monday released If Not Now, a musical call to arms about the reef.",
+   "example_zh": "这封公开信发布之前，上周一，一个由20多位澳大利亚艺术家组成的“超级组合”……发布了《If Not Now》，一首关于这片珊瑚礁的战斗号角。"
+  },
+  {
+   "word": "watchdog",
+   "pos": "n.",
+   "phonetic": "/ˈwɒtʃdɒɡ/",
+   "meaning_zh": "监管机构、监督部门（新闻中常用，指独立监督公共事务的机构）",
+   "example_en": "Last month, Guardian Australia revealed that WA's independent environmental watchdog had sharply criticised the proposal.",
+   "example_zh": "上个月，《卫报》澳大利亚版披露，西澳州独立环境监管机构对该提案提出了严厉批评。"
+  },
+  {
+   "word": "ageing",
+   "pos": "adj.",
+   "phonetic": "/ˈeɪdʒɪŋ/",
+   "meaning_zh": "老旧的、老化的（设施、设备）；英式拼写，美式为 aging",
+   "example_en": "Browse ... would see gas piped about 900km to its ageing North West Shelf gas export plant.",
+   "example_zh": "Browse项目……计划将天然气通过约900公里管道输送至其老化的西北大陆架天然气出口厂。"
+  },
+  {
+   "word": "adjacent to",
+   "pos": "phrase",
+   "phonetic": "/əˈdʒeɪsnt tu/",
+   "meaning_zh": "与……相邻、紧挨着",
+   "example_en": "... its ageing North West Shelf gas export plant, which is adjacent to the world heritage-listed Murujuga rock art.",
+   "example_zh": "……其老化的西北大陆架天然气出口厂，该厂毗邻列入世界遗产名录的Murujuga岩画。"
+  },
+  {
+   "word": "account for",
+   "pos": "phrase",
+   "phonetic": "/əˈkaʊnt fɔː(r)/",
+   "meaning_zh": "占（某一比例）；是……的原因（此处取“占比”义）",
+   "example_en": "... Browse would generate up to 6.8m tonnes of carbon dioxide emissions yearly at peak production, accounting for between 2.9% and 3.7% of Australia's emissions in 2035.",
+   "example_zh": "……Browse项目在产量高峰期每年将产生最多680万吨二氧化碳排放，占2035年澳大利亚排放量的2.9%至3.7%。"
+  },
+  {
+   "word": "at the end of the day",
+   "pos": "phrase",
+   "phonetic": "/æt ði end əv ðə deɪ/",
+   "meaning_zh": "归根结底、说到底（口语化的总结性表达，常用于引语中）",
+   "example_en": "At the end of the day, we don't need Browse gas.",
+   "example_zh": "归根结底，我们不需要Browse的天然气。"
+  },
+  {
+   "word": "be subject to",
+   "pos": "phrase",
+   "phonetic": "/bi ˈsʌbdʒɪkt tu/",
+   "meaning_zh": "须经……；受……约束、取决于……（正式用语，常见于法律、监管语境）",
+   "example_en": "A Woodside spokesperson said the proposed development “remains subject to a detailed, public and transparent assessment by state and Commonwealth regulators”.",
+   "example_zh": "伍德赛德的一位发言人表示，拟议开发项目“仍需接受州和联邦监管机构详细、公开、透明的评估”。"
+  }
+ ],
+ "grammar": [
+  {
+   "sentence": "Actors Jackman, Wilson, Richard Roxburgh and Mia Wasikowska are among prominent Australians who oppose the Browse development on the basis that the proposed gasfield could damage the unique reef ecosystem.",
+   "point": "定语从句 + 同位语从句（on the basis that...）",
+   "explain_zh": "主干是“A are among prominent Australians”，后面 who oppose... 是限制性定语从句修饰 Australians。真正的难点在 on the basis that：这里的 that 引导的是同位语从句，说明 basis 的具体内容，而不是定语从句（that 在从句中不作成分，只起连接作用）。外刊在交代“理由”时很喜欢用 on the basis that / on the grounds that，比 because 更正式、更像“立场陈述”。注意从句里用了 could，是虚拟/推测语气，因为损害尚未发生。"
+  },
+  {
+   "sentence": "The letter – which says the Browse project “would turn Scott Reef into an industrial gas zone with decades of deafening seismic blasting [and] carbon dumping beneath the ocean floor” – was also signed by authors JM Coetzee, Helen Garner, Anna Funder and Diana Reid.",
+   "point": "破折号插入语（非限制性定语从句）",
+   "explain_zh": "主语 The letter 和谓语 was also signed 之间被一对破折号插入了一个 which 引导的非限制性定语从句，用来补充说明信的内容。这样写的好处是：既把关键信息（信里说了什么）放在最醒目的位置，又不打断主句的“主—谓”逻辑；读者跳过破折号也能读通全句。阅读时遇到成对破折号，可以先把它整体当作“括号”略过，抓住主干再回头补细节。注意从句中 would turn 是转述语气，表示“（信中说）将会把……”。"
+  },
+  {
+   "sentence": "Browse, first proposed by Woodside in 2018, would see gas piped about 900km to its ageing North West Shelf gas export plant, which is adjacent to the world heritage-listed Murujuga rock art.",
+   "point": "过去分词后置定语 + see sth done 结构 + 非限制性定语从句",
+   "explain_zh": "first proposed by Woodside in 2018 是过去分词短语作后置定语（相当于 which was first proposed...），被逗号隔开插在主语后。谓语用 would see gas piped...，这是 see 的“经历、见证”用法：see + 宾语 + 过去分词，表示“（项目）将使天然气被管道输送……”，比被动句更紧凑，是外刊描述工程、规划时的常用句式。句末 which is adjacent to... 是非限制性定语从句，补充说明厂址位置，暗示项目与敏感地点（世界遗产岩画）距离很近——这是记者不着痕迹的立场表达。"
+  }
+ ],
+ "questions": [
+  {
+   "q": "What is the main purpose of this article?",
+   "a": "报道150多位澳大利亚艺术家、作家和音乐人联名签署公开信，反对伍德赛德能源公司在斯科特礁附近开发Browse气田；同时补充项目背景、监管机构与独立研究机构的质疑，以及伍德赛德方面的回应，让读者了解这场环保争议的全貌。"
+  },
+  {
+   "q": "Which side of the dispute does the article provide more supporting evidence for? How can you tell from the structure of the text?",
+   "a": "明显偏向反对一方。文章用大量篇幅和多方信源支撑反对意见：公开信的具体指控、西澳州独立环境监管机构的严厉批评、EPA 2023年内部草稿称漏油风险或无法降至可接受水平、IEEFA关于成本高四倍和碳排放占比的测算、保护委员会主任“极其令人担忧”的表态。而伍德赛德的回应被放在全文最后三段，且是被动辩解式的（否认“漏油”说法、强调评估仍在进行），篇幅和分量都明显更轻。这种“先铺陈质疑、末尾给当事方回应”的结构，是外刊调查/争议报道常见的立场暗示手法。"
+  },
+  {
+   "q": "What do Woodside and the campaigners fundamentally disagree about regarding risk?",
+   "a": "分歧在于对“漏油风险”的定性和量级。反对者（公开信）认为在斯科特礁钻探可能引发规模高达2009年蒙塔拉事故30倍的漏油，凝析油会污染礁区、金伯利海岸线甚至波及印尼；伍德赛德则强调Browse是“天然气和凝析油开发，不是石油开发”，认为“漏油”的说法不准确，并称潜在井喷最长的可信持续时间约为12小时（且极不可能发生）。也就是说，双方对凝析油泄漏是否等同于“oil spill”、以及最坏情形能持续多久，给出了完全不同的判断。\n\n---\n\n*由「外刊精读」自动生成 · 每天一篇，读原文，也读世界*"
+  }
+ ],
+ "translation": [
+  {
+   "idx": 1,
+   "en": "More than 150 Australian artists, including Hugh Jackman, Rebel Wilson and Jessica Mauboy, have backed a Greenpeace-led campaign against Woodside Energy's proposal to develop the Browse basin, about 300km off the Kimberley coast.",
+   "zh": "包括休·杰克曼、瑞贝尔·威尔森和杰西卡·玛博伊在内的150多位澳大利亚艺术家，支持由绿色和平牵头的一场运动，反对伍德赛德能源公司开发Browse盆地的计划——该盆地位于金伯利海岸约300公里外的海域。"
+  },
+  {
+   "idx": 2,
+   "en": "Woodside, the country's largest fossil fuel company, describes Browse as “Australia's biggest undeveloped offshore gas resource”. The oil and gas giant is hoping to win federal government approval to drill more than 50 gas wells about 3km from the Scott Reef area, which is home to more than 1,500 species, including endangered pygmy blue whales.",
+   "zh": "伍德赛德是澳大利亚最大的化石燃料公司，它把Browse称为“澳大利亚最大的未开发海上天然气资源”。这家油气巨头希望获得联邦政府批准，在距斯科特礁（Scott Reef）区域约3公里处钻探50多口天然气井；该礁区栖息着1500多个物种，包括濒危的小蓝鲸。"
+  },
+  {
+   "idx": 3,
+   "en": "Actors Jackman, Wilson, Richard Roxburgh and Mia Wasikowska are among prominent Australians who oppose the Browse development on the basis that the proposed gasfield could damage the unique reef ecosystem.",
+   "zh": "演员杰克曼、威尔森、理查德·罗克斯堡和米娅·华希科沃斯卡等知名澳大利亚人反对Browse开发项目，理由是拟建气田可能破坏这片独特的珊瑚礁生态系统。"
+  },
+  {
+   "idx": 4,
+   "en": "They join musicians Jimmy Barnes, Paul Kelly, Tame Impala's Kevin Parker, Tina Arena, Jessica Mauboy, G Flip, Vance Joy, Missy Higgins and Baker Boy in signing an open letter calling on the federal environment minister, Murray Watt, not to approve the development.",
+   "zh": "他们与音乐人吉米·巴恩斯、保罗·凯利、Tame Impala乐队的凯文·帕克、蒂娜·阿雷纳、杰西卡·玛博伊、G Flip、万斯·乔伊、米西·希金斯和Baker Boy一道，签署了一封公开信，呼吁联邦环境部长默里·瓦特不要批准该项目。"
+  },
+  {
+   "idx": 5,
+   "en": "The letter – which says the Browse project “would turn Scott Reef into an industrial gas zone with decades of deafening seismic blasting [and] carbon dumping beneath the ocean floor” – was also signed by authors JM Coetzee, Helen Garner, Anna Funder and Diana Reid.",
+   "zh": "这封信称Browse项目“将把斯科特礁变成一个工业天然气区，带来长达数十年的震耳欲聋的地震爆破[以及]向海底倾倒碳”；签署者还包括作家J.M.库切、海伦·加纳、安娜·芬德和戴安娜·里德。"
+  },
+  {
+   "idx": 6,
+   "en": "“Drilling at Scott Reef could cause an oil spill up to 30 times bigger than the 2009 Montara disaster, polluting Scott Reef with oil condensate, impacting the Kimberley coastline and even reaching as far as Indonesia,” it continued.",
+   "zh": "信中继续写道：“在斯科特礁钻探可能引发规模高达2009年蒙塔拉事故30倍的漏油，凝析油会污染斯科特礁，影响金伯利海岸线，甚至波及印度尼西亚。”"
+  },
+  {
+   "idx": 7,
+   "en": "The open letter comes after a supergroup of more than 20 Australian artists – including King Gizzard & the Lizard Wizard, Barnes, John Butler and Montaigne – last Monday released If Not Now, a musical call to arms about the reef.",
+   "zh": "这封公开信发布之前，上周一，一个由20多位澳大利亚艺术家组成的“超级组合”——包括King Gizzard & the Lizard Wizard、巴恩斯、约翰·巴特勒和蒙泰涅——发布了《If Not Now》，一首为这片珊瑚礁发出的战斗号角。"
+  },
+  {
+   "idx": 8,
+   "en": "The song, a reimagining of King Gizzard's 2020 track, If Not Now, Then When?, is a collaboration between Greenpeace Australia Pacific, Green Music Australia and p(doom) Records.",
+   "zh": "这首歌是对King Gizzard 2020年作品《If Not Now, Then When?》的重新演绎，由绿色和平澳大利亚太平洋分部、Green Music Australia和p(doom) Records合作推出。"
+  },
+  {
+   "idx": 9,
+   "en": "Browse, first proposed by Woodside in 2018, would see gas piped about 900km to its ageing North West Shelf gas export plant, which is adjacent to the world heritage-listed Murujuga rock art.",
+   "zh": "Browse项目由伍德赛德于2018年首次提出，计划将天然气通过约900公里管道输送至其老化的西北大陆架天然气出口厂，该厂毗邻列入世界遗产名录的Murujuga岩画。"
+  },
+  {
+   "idx": 10,
+   "en": "Last month, Guardian Australia revealed that WA's independent environmental watchdog had sharply criticised the proposal, saying that plans to protect turtles and blue whales near Scott Reef would be ineffective.",
+   "zh": "上个月，《卫报》澳大利亚版披露，西澳州独立环境监管机构对该提案提出了严厉批评，称保护斯科特礁附近海龟和蓝鲸的方案将收效甚微。"
+  },
+  {
+   "idx": 11,
+   "en": "A draft letter from the Environmental Protection Authority, written in 2023, advised that it may be impossible to reduce the risk of an oil spill to an acceptable level.",
+   "zh": "环境保护局（EPA）2023年撰写的一封草拟信函指出，要把漏油风险降到可接受的水平或许是不可能的。"
+  },
+  {
+   "idx": 12,
+   "en": "Greenpeace last month nominated Scott Reef for national heritage listing, based on its ecological and scientific values.",
+   "zh": "绿色和平上个月以生态和科学价值为由，提名斯科特礁列入国家遗产名录。"
+  },
+  {
+   "idx": 13,
+   "en": "Modelling by the Institute for Energy Economics and Financial Analysis suggests that Browse would generate up to 6.8m tonnes of carbon dioxide emissions yearly at peak production, accounting for between 2.9% and 3.7% of Australia's emissions in 2035.",
+   "zh": "能源经济与金融分析研究所（IEEFA）的建模显示，Browse项目在产量高峰期每年将产生最多680万吨二氧化碳排放，占2035年澳大利亚排放量的2.9%至3.7%。"
+  },
+  {
+   "idx": 14,
+   "en": "“Browse gas is likely four times more expensive than existing domestic gas,” the institute found last year, adding that the project “is unlikely to be competitive either domestically or internationally, based on IEEFA cost estimates”.",
+   "zh": "该研究所去年发现：“Browse天然气的价格可能是现有国内天然气的四倍。”并补充说，根据IEEFA的成本估算，该项目“无论在国内还是国际上都不太可能有竞争力”。"
+  },
+  {
+   "idx": 15,
+   "en": "Matt Roberts, executive director of the Conservation Council of Western Australia, earlier this month described Woodside's proposal as “extremely concerning”.",
+   "zh": "西澳保护委员会执行主任马特·罗伯茨本月早些时候称伍德赛德的提案“极其令人担忧”。"
+  },
+  {
+   "idx": 16,
+   "en": "“At the end of the day, we don't need Browse gas. Western Australia has enough gas available to support us through the transition to a renewable future and regional demand for LNG is declining.",
+   "zh": "“归根结底，我们不需要Browse的天然气。西澳现有的天然气足以支撑我们向可再生能源未来过渡，而区域LNG需求正在下降。"
+  },
+  {
+   "idx": 17,
+   "en": "“The federal and state governments have enough evidence to reject this disastrous proposal and save Scott Reef, and we expect them to do just that.”",
+   "zh": "“联邦和州政府有足够的证据否决这个灾难性的提案、拯救斯科特礁，我们期待他们就这么做。”"
+  },
+  {
+   "idx": 18,
+   "en": "A spokesperson for the national EPA has told Guardian Australia the development was being assessed under the national Environment Protection and Biodiversity Conservation Act, and the “decision clock” had been paused while the agency waited on “further technical advice”.",
+   "zh": "国家EPA的一位发言人告诉《卫报》澳大利亚版，该项目正依据国家《环境保护与生物多样性保护法》接受评估，在等待“进一步技术建议”期间，“决策时钟”已暂停。"
+  },
+  {
+   "idx": 19,
+   "en": "A Woodside spokesperson said the proposed development “remains subject to a detailed, public and transparent assessment by state and Commonwealth regulators”.",
+   "zh": "伍德赛德的一位发言人表示，拟议开发项目“仍需接受州和联邦监管机构详细、公开、透明的评估”。"
+  },
+  {
+   "idx": 20,
+   "en": "Feedback had helped reduce “the infrastructure footprint around environmentally sensitive areas like Scott Reef – which will not be built on, drilled or mined”, they said.",
+   "zh": "他们说，反馈意见帮助缩小了“斯科特礁等环境敏感区域周边的基础设施足迹——这些区域不会被建设、钻探或开采”。"
+  },
+  {
+   "idx": 21,
+   "en": "“Browse is a natural gas and condensate development, not an oil development. References to a potential ‘oil spill’ from Browse are inaccurate.” The spokesperson added that the “longest credible duration of a potential well blowout, while still highly unlikely”, was around 12 hours.",
+   "zh": "“Browse是天然气和凝析油开发项目，不是石油开发项目。有关Browse可能发生‘漏油’的说法是不准确的。”该发言人补充说，潜在井喷“最长的可信持续时间——尽管仍极不可能发生”约为12小时。"
+  }
+ ],
+ "article": [
+  "More than 150 Australian artists, including Hugh Jackman, Rebel Wilson and Jessica Mauboy, have backed a Greenpeace-led campaign against Woodside Energy’s proposal to develop the Browse basin, about 300km off the Kimberley coast.",
+  "Woodside, the country’s largest fossil fuel company, describes Browse as “Australia’s biggest undeveloped offshore gas resource”. The oil and gas giant is hoping to win federal government approval to drill more than 50 gas wells about 3km from the Scott Reef area, which is home to more than 1,500 species, including endangered pygmy blue whales.",
+  "Actors Jackman, Wilson, Richard Roxburgh and Mia Wasikowska are among prominent Australians who oppose the Browse development on the basis that the proposed gasfield could damage the unique reef ecosystem.",
+  "They join musicians Jimmy Barnes, Paul Kelly, Tame Impala’s Kevin Parker, Tina Arena, Jessica Mauboy, G Flip, Vance Joy, Missy Higgins and Baker Boy in signing an open letter calling on the federal environment minister, Murray Watt, not to approve the development.",
+  "The letter – which says the Browse project “would turn Scott Reef into an industrial gas zone with decades of deafening seismic blasting [and] carbon dumping beneath the ocean floor” – was also signed by authors JM Coetzee, Helen Garner, Anna Funder and Diana Reid.",
+  "“Drilling at Scott Reef could cause an oil spill up to 30 times bigger than the 2009 Montara disaster, polluting Scott Reef with oil condensate, impacting the Kimberley coastline and even reaching as far as Indonesia,” it continued.",
+  "The open letter comes after a supergroup of more than 20 Australian artists – including King Gizzard & the Lizard Wizard, Barnes, John Butler and Montaigne – last Monday released If Not Now, a musical call to arms about the reef.",
+  "The song, a reimagining of King Gizzard’s 2020 track, If Not Now, Then When?, is a collaboration between Greenpeace Australia Pacific, Green Music Australia and p(doom) Records.",
+  "Browse, first proposed by Woodside in 2018, would see gas piped about 900km to its ageing North West Shelf gas export plant, which is adjacent to the world heritage-listed Murujuga rock art.",
+  "Last month, Guardian Australia revealed that WA’s independent environmental watchdog had sharply criticised the proposal, saying that plans to protect turtles and blue whales near Scott Reef would be ineffective.",
+  "A draft letter from the Environmental Protection Authority, written in 2023, advised that it may be impossible to reduce the risk of an oil spill to an acceptable level.",
+  "Greenpeace last month nominated Scott Reef for national heritage listing, based on its ecological and scientific values.",
+  "Modelling by the Institute for Energy Economics and Financial Analysis suggests that Browse would generate up to 6.8m tonnes of carbon dioxide emissions yearly at peak production, accounting for between 2.9% and 3.7% of Australia’s emissions in 2035.",
+  "“Browse gas is likely four times more expensive than existing domestic gas,” the institute found last year, adding that the project “is unlikely to be competitive either domestically or internationally, based on IEEFA cost estimates”.",
+  "Matt Roberts, executive director of the Conservation Council of Western Australia, earlier this month described Woodside’s proposal as “extremely concerning”.",
+  "“At the end of the day, we don’t need Browse gas. Western Australia has enough gas available to support us through the transition to a renewable future and regional demand for LNG is declining.",
+  "“The federal and state governments have enough evidence to reject this disastrous proposal and save Scott Reef, and we expect them to do just that.”",
+  "A spokesperson for the national EPA has told Guardian Australia the development was being assessed under the national Environment Protection and Biodiversity Conservation Act, and the “decision clock” had been paused while the agency waited on “further technical advice”.",
+  "A Woodside spokesperson said the proposed development “remains subject to a detailed, public and transparent assessment by state and Commonwealth regulators”.",
+  "Feedback had helped reduce “the infrastructure footprint around environmentally sensitive areas like Scott Reef – which will not be built on, drilled or mined”, they said.",
+  "“Browse is a natural gas and condensate development, not an oil development. References to a potential ‘oil spill’ from Browse are inaccurate.” The spokesperson added that the “longest credible duration of a potential well blowout, while still highly unlikely”, was around 12 hours."
+ ],
+ "source": "The Guardian · World",
+ "word_count": 691,
+ "level": "B2"
+}
