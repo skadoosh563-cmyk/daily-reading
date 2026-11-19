@@ -1,7 +1,90 @@
 {
- "updated": "2026-11-18T03:07:36",
- "count": 32,
+ "updated": "2026-11-19T02:46:52",
+ "count": 33,
  "items": [
+  {
+   "id": "anthropic-sets-share-price-at-83-for-sto",
+   "date": "2026-11-19",
+   "title_zh": "Anthropic 将上市发行价定为每股 83 美元，高于预期区间",
+   "summary": "这篇《卫报》报道讲的是人工智能公司 Anthropic 登陆美股：它把发行价定在每股 83 美元，高于上周 70–78 美元的预估区间，估值可能超过 SpaceX，成为史上最大 IPO 之一。文章按“定价—估值—创始人套现—财务数据—支出结构—行业背景”的顺序展开，用招股书里的数字说明它营收暴涨（2026 年上半年 162.86 亿美元）但同期净亏损高达 800 亿美元，主要钱都花在了数据中心算力上。最后一段交代大环境：AI 板块整体回调、英伟达爆出丑闻，Anthropic 是在一个动荡时点上市的。值得读的原因有三：它是生成式 AI 热潮中第一家上市的前沿公司，其表现会影响整个行业的投资情绪；文中大量 IPO 与财报类高频词（prospectus、stake、disclose、commitment）是外刊财经版的通用词汇；长句里嵌套定语从句和“with 复合结构”的写法也很典型。",
+   "vocab": [
+    {
+     "word": "be slated to",
+     "pos": "v. phr.",
+     "phonetic": "/sleɪt/",
+     "meaning_zh": "预定、计划（做某事），外刊报道日程安排的高频说法，比 be planned to 更正式",
+     "example_en": "The firm is slated to begin trading on Thursday under the ticker symbol ANT.",
+     "example_zh": "该公司定于周四以股票代码 ANT 开始交易。"
+    },
+    {
+     "word": "debut",
+     "pos": "n.",
+     "phonetic": "/ˈdeɪbjuː/",
+     "meaning_zh": "首次亮相；（公司）上市首秀。也可作动词：SpaceX debuted on Wall Street.",
+     "example_en": "Anthropic set the share price for its debut on the US stock market at $83 on Wednesday.",
+     "example_zh": "Anthropic 周三将其美国股市上市的发行价定为每股 83 美元。"
+    },
+    {
+     "word": "preliminary",
+     "pos": "adj.",
+     "phonetic": "/prɪˈlɪmɪnəri/",
+     "meaning_zh": "初步的、预备性的（正式定案之前的）",
+     "example_en": "Last week, the San Francisco-based company, founded in 2021, set its preliminary share price at $70 to $78.",
+     "example_zh": "上周，这家总部位于旧金山、成立于 2021 年的公司将其初步发行价定在 70 至 78 美元。"
+    },
+    {
+     "word": "stake",
+     "pos": "n.",
+     "phonetic": "/steɪk/",
+     "meaning_zh": "股份、持股；也可表示“利害关系”。常见搭配 a stake in sth / have a stake in",
+     "example_en": "At the top of the price range, the co-founders' stakes will be worth more than $18bn each.",
+     "example_zh": "按定价区间上限计算，这些联合创始人各自的持股价值都将超过 180 亿美元。"
+    },
+    {
+     "word": "expenditure",
+     "pos": "n.",
+     "phonetic": "/ɪkˈspendɪtʃə(r)/",
+     "meaning_zh": "支出、开支（比 spending 更正式，常用于财务文件）",
+     "example_en": "Anthropic's main expenditure listed in its investor prospectus is computing power from datacenters.",
+     "example_zh": "Anthropic 在投资者招股说明书中列出的主要支出，是来自数据中心的算力。"
+    },
+    {
+     "word": "at the forefront of",
+     "pos": "prep. phr.",
+     "phonetic": "/ˈfɔːfrʌnt/",
+     "meaning_zh": "处于……的最前沿、领头位置",
+     "example_en": "Anthropic is the first company at the forefront of the generative AI boom to go public.",
+     "example_zh": "Anthropic 是生成式 AI 热潮中首家上市的前沿公司。"
+    },
+    {
+     "word": "opt to",
+     "pos": "v.",
+     "phonetic": "/ɒpt/",
+     "meaning_zh": "选择做某事（强调在多个选项中主动作出决定），opt for sth 也常见",
+     "example_en": "CEO Sam Altman has said that the company opted to delay its IPO until it can overcome safety concerns.",
+     "example_zh": "CEO 萨姆·奥尔特曼表示，公司选择推迟 IPO，直到能够解决安全问题。"
+    },
+    {
+     "word": "volatile",
+     "pos": "adj.",
+     "phonetic": "/ˈvɒlətaɪl/",
+     "meaning_zh": "（市场、局势）动荡的、波动剧烈的；也可形容人情绪易变",
+     "example_en": "Anthropic's IPO comes during a volatile time for AI and the stock market.",
+     "example_zh": "Anthropic 的 IPO 正值 AI 与股市的动荡时期。"
+    },
+    {
+     "word": "amid",
+     "pos": "prep.",
+     "phonetic": "/əˈmɪd/",
+     "meaning_zh": "在……之中、在……背景下（后接名词，新闻里常用来交代事件发生的环境）",
+     "example_en": "... with share prices dropping at several companies amid growing concern about the technology.",
+     "example_zh": "……随着人们对这项技术的担忧加剧，多家公司的股价下跌。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 400,
+   "level": "C1"
+  },
   {
    "id": "hugh-jackman-rebel-wilson-and-150-austra",
    "date": "2026-11-18",

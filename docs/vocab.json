@@ -1,7 +1,18 @@
 {
- "updated": "2026-11-18T03:07:36",
- "count": 321,
+ "updated": "2026-11-19T02:46:52",
+ "count": 329,
  "vocab": [
+  {
+   "word": "amid",
+   "pos": "prep.",
+   "phonetic": "/əˈmɪd/",
+   "meaning_zh": "在……之中；在……背景下",
+   "count": 2,
+   "dates": [
+    "2026-11-08",
+    "2026-11-19"
+   ]
+  },
   {
    "word": "bear the brunt of",
    "pos": "phrase",
@@ -252,16 +263,6 @@
    ]
   },
   {
-   "word": "amid",
-   "pos": "prep.",
-   "phonetic": "/əˈmɪd/",
-   "meaning_zh": "在……之中；在……背景下",
-   "count": 1,
-   "dates": [
-    "2026-11-08"
-   ]
-  },
-  {
    "word": "angle for",
    "pos": "phrase",
    "phonetic": "/ˈæŋɡl fɔː(r)/",
@@ -299,6 +300,16 @@
    "count": 1,
    "dates": [
     "2026-11-18"
+   ]
+  },
+  {
+   "word": "at the forefront of",
+   "pos": "prep. phr.",
+   "phonetic": "/ˈfɔːfrʌnt/",
+   "meaning_zh": "处于……的最前沿、领头位置",
+   "count": 1,
+   "dates": [
+    "2026-11-19"
    ]
   },
   {
@@ -389,6 +400,16 @@
    "count": 1,
    "dates": [
     "2026-10-21"
+   ]
+  },
+  {
+   "word": "be slated to",
+   "pos": "v. phr.",
+   "phonetic": "/sleɪt/",
+   "meaning_zh": "预定、计划（做某事），外刊报道日程安排的高频说法，比 be planned to 更正式",
+   "count": 1,
+   "dates": [
+    "2026-11-19"
    ]
   },
   {
@@ -812,6 +833,16 @@
    ]
   },
   {
+   "word": "debut",
+   "pos": "n.",
+   "phonetic": "/ˈdeɪbjuː/",
+   "meaning_zh": "首次亮相；（公司）上市首秀。也可作动词：SpaceX debuted on Wall Street.",
+   "count": 1,
+   "dates": [
+    "2026-11-19"
+   ]
+  },
+  {
    "word": "decipher",
    "pos": "v.",
    "phonetic": "/dɪˈsaɪfə(r)/",
@@ -1099,6 +1130,16 @@
    "count": 1,
    "dates": [
     "2026-11-11"
+   ]
+  },
+  {
+   "word": "expenditure",
+   "pos": "n.",
+   "phonetic": "/ɪkˈspendɪtʃə(r)/",
+   "meaning_zh": "支出、开支（比 spending 更正式，常用于财务文件）",
+   "count": 1,
+   "dates": [
+    "2026-11-19"
    ]
   },
   {
@@ -1872,6 +1913,16 @@
    ]
   },
   {
+   "word": "opt to",
+   "pos": "v.",
+   "phonetic": "/ɒpt/",
+   "meaning_zh": "选择做某事（强调在多个选项中主动作出决定），opt for sth 也常见",
+   "count": 1,
+   "dates": [
+    "2026-11-19"
+   ]
+  },
+  {
    "word": "opt-out",
    "pos": "adj./n.",
    "phonetic": "/ˈɒpt aʊt/",
@@ -2099,6 +2150,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "preliminary",
+   "pos": "adj.",
+   "phonetic": "/prɪˈlɪmɪnəri/",
+   "meaning_zh": "初步的、预备性的（正式定案之前的）",
+   "count": 1,
+   "dates": [
+    "2026-11-19"
    ]
   },
   {
@@ -2722,6 +2783,16 @@
    ]
   },
   {
+   "word": "stake",
+   "pos": "n.",
+   "phonetic": "/steɪk/",
+   "meaning_zh": "股份、持股；也可表示“利害关系”。常见搭配 a stake in sth / have a stake in",
+   "count": 1,
+   "dates": [
+    "2026-11-19"
+   ]
+  },
+  {
    "word": "staunch the flow",
    "pos": "phrase",
    "phonetic": "/stɔːntʃ ðə fləʊ/",
@@ -3139,6 +3210,16 @@
    "count": 1,
    "dates": [
     "2026-10-29"
+   ]
+  },
+  {
+   "word": "volatile",
+   "pos": "adj.",
+   "phonetic": "/ˈvɒlətaɪl/",
+   "meaning_zh": "（市场、局势）动荡的、波动剧烈的；也可形容人情绪易变",
+   "count": 1,
+   "dates": [
+    "2026-11-19"
    ]
   },
   {
