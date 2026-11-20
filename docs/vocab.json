@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T02:46:52",
- "count": 329,
+ "updated": "2026-11-20T04:25:53",
+ "count": 339,
  "vocab": [
   {
    "word": "amid",
@@ -253,6 +253,16 @@
    ]
   },
   {
+   "word": "alleviate",
+   "pos": "v.",
+   "phonetic": "/əˈliːvieɪt/",
+   "meaning_zh": "缓解、减轻（担忧、痛苦、问题）",
+   "count": 1,
+   "dates": [
+    "2026-11-20"
+   ]
+  },
+  {
    "word": "ambivalent",
    "pos": "adj.",
    "phonetic": "/æmˈbɪvələnt/",
@@ -433,6 +443,16 @@
    ]
   },
   {
+   "word": "bellwether",
+   "pos": "n.",
+   "phonetic": "/ˈbelweðə(r)/",
+   "meaning_zh": "风向标、领头羊（预示整体趋势的事物）",
+   "count": 1,
+   "dates": [
+    "2026-11-20"
+   ]
+  },
+  {
    "word": "besiege",
    "pos": "v.",
    "phonetic": "/bɪˈsiːdʒ/",
@@ -490,6 +510,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "brace for",
+   "pos": "v. phr.",
+   "phonetic": "/breɪs fɔː(r)/",
+   "meaning_zh": "做好准备迎接（坏消息、冲击）",
+   "count": 1,
+   "dates": [
+    "2026-11-20"
    ]
   },
   {
@@ -1303,6 +1333,16 @@
    ]
   },
   {
+   "word": "flotation",
+   "pos": "n.",
+   "phonetic": "/fləʊˈteɪʃn/",
+   "meaning_zh": "（公司）上市发行、发行股票",
+   "count": 1,
+   "dates": [
+    "2026-11-20"
+   ]
+  },
+  {
    "word": "full-time whistle",
    "pos": "n.",
    "phonetic": "/ˌfʊl taɪm ˈwɪsl/",
@@ -1753,6 +1793,16 @@
    ]
   },
   {
+   "word": "mammoth",
+   "pos": "adj.",
+   "phonetic": "/ˈmæməθ/",
+   "meaning_zh": "巨大的、规模空前的",
+   "count": 1,
+   "dates": [
+    "2026-11-20"
+   ]
+  },
+  {
    "word": "mandatory",
    "pos": "adj.",
    "phonetic": "/ˈmændətɔːri/",
@@ -1900,6 +1950,16 @@
    "count": 1,
    "dates": [
     "2026-11-03"
+   ]
+  },
+  {
+   "word": "one-off charge",
+   "pos": "n. phr.",
+   "phonetic": "/ˌwʌn ˈɒf tʃɑːdʒ/",
+   "meaning_zh": "一次性费用（不计入经常性损益的支出）",
+   "count": 1,
+   "dates": [
+    "2026-11-20"
    ]
   },
   {
@@ -2733,6 +2793,16 @@
    ]
   },
   {
+   "word": "slump",
+   "pos": "v.",
+   "phonetic": "/slʌmp/",
+   "meaning_zh": "（股价、销量等）暴跌、大幅下滑",
+   "count": 1,
+   "dates": [
+    "2026-11-20"
+   ]
+  },
+  {
    "word": "smeared in the dirt",
    "pos": "固定搭配",
    "phonetic": "/smɪəd ɪn ðə dɜːt/",
@@ -3153,6 +3223,16 @@
    ]
   },
   {
+   "word": "upsized",
+   "pos": "adj.",
+   "phonetic": "/ˈʌpsaɪzd/",
+   "meaning_zh": "（发行规模）扩大了的、上调了的",
+   "count": 1,
+   "dates": [
+    "2026-11-20"
+   ]
+  },
+  {
    "word": "uptick",
    "pos": "n.",
    "phonetic": "/ˈʌptɪk/",
@@ -3223,6 +3303,16 @@
    ]
   },
   {
+   "word": "volatility",
+   "pos": "n.",
+   "phonetic": "/ˌvɒləˈtɪləti/",
+   "meaning_zh": "波动性、剧烈震荡",
+   "count": 1,
+   "dates": [
+    "2026-11-20"
+   ]
+  },
+  {
    "word": "vulnerability",
    "pos": "n.",
    "phonetic": "/ˌvʌlnərəˈbɪləti/",
@@ -3230,6 +3320,16 @@
    "count": 1,
    "dates": [
     "2026-11-10"
+   ]
+  },
+  {
+   "word": "wane",
+   "pos": "v.",
+   "phonetic": "/weɪn/",
+   "meaning_zh": "减弱、衰退、势头消退",
+   "count": 1,
+   "dates": [
+    "2026-11-20"
    ]
   },
   {

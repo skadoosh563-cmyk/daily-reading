@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-19T02:46:52",
- "count": 33,
+ "updated": "2026-11-20T04:25:53",
+ "count": 34,
  "items": [
+  {
+   "id": "anthropic-closes-first-day-of-public-tra",
+   "date": "2026-11-20",
+   "title_zh": "Anthropic 上市首日收于 1.3 万亿美元估值，创史上最大 IPO",
+   "summary": "这篇文章报道了 AI 初创公司 Anthropic 登陆美国股市首日的表现：股价收于 97 美元上方，较 83 美元的发行价上涨约 17%，总市值接近 1.3 万亿美元，募资 813 亿美元，超过 SpaceX 创下的纪录。但盘中股价一度冲高至 111.50 美元后回落，同日美股与芯片股走低，说明市场对 AI 板块的波动仍有疑虑。文章同时呈现了公司的另一面：营收连年爆炸式增长，亏损却也高达数百亿美元，算力是它最大的开销。作为首家上市的前沿 AI 实验室，Anthropic 被视为整个 AI 热潮的风向标，因此这篇报道既是一份 IPO 记录，也是观察 AI 泡沫争论的一个切口，很适合用来积累财经与科技报道的高频表达。",
+   "vocab": [
+    {
+     "word": "flotation",
+     "pos": "n.",
+     "phonetic": "/fləʊˈteɪʃn/",
+     "meaning_zh": "（公司）上市发行、发行股票",
+     "example_en": "Nonetheless, Anthropic’s ranked among the biggest stock market flotations in history.",
+     "example_zh": "尽管如此，Anthropic 的上市仍跻身史上规模最大的股票发行之列。"
+    },
+    {
+     "word": "upsized",
+     "pos": "adj.",
+     "phonetic": "/ˈʌpsaɪzd/",
+     "meaning_zh": "（发行规模）扩大了的、上调了的",
+     "example_en": "Anthropic announced late on Wednesday that it had sold 980m shares to underwriters, an upsized offering that raised $81.3bn.",
+     "example_zh": "Anthropic 周三晚间宣布，已向承销商售出 9.8 亿股，这次扩大规模的发行募资 813 亿美元。"
+    },
+    {
+     "word": "bellwether",
+     "pos": "n.",
+     "phonetic": "/ˈbelweðə(r)/",
+     "meaning_zh": "风向标、领头羊（预示整体趋势的事物）",
+     "example_en": "The company’s listing serves as a bellwether for the multitrillion-dollar artificial intelligence boom as the first frontier lab to be publicly traded.",
+     "example_zh": "作为首家上市的前沿实验室，该公司的上市成为数万亿美元人工智能热潮的风向标。"
+    },
+    {
+     "word": "slump",
+     "pos": "v.",
+     "phonetic": "/slʌmp/",
+     "meaning_zh": "（股价、销量等）暴跌、大幅下滑",
+     "example_en": "US stocks slumped at the end of trading, a potential sign that Anthropic’s mammoth IPO wasn’t enough to alleviate concerns over the AI industry’s volatility.",
+     "example_zh": "美国股市在收盘时大幅下挫，这可能表明 Anthropic 的巨型 IPO 并不足以缓解人们对 AI 行业波动的担忧。"
+    },
+    {
+     "word": "mammoth",
+     "pos": "adj.",
+     "phonetic": "/ˈmæməθ/",
+     "meaning_zh": "巨大的、规模空前的",
+     "example_en": "US stocks slumped at the end of trading, a potential sign that Anthropic’s mammoth IPO wasn’t enough to alleviate concerns over the AI industry’s volatility.",
+     "example_zh": "美国股市在收盘时大幅下挫，这可能表明 Anthropic 的巨型 IPO 并不足以缓解人们对 AI 行业波动的担忧。"
+    },
+    {
+     "word": "alleviate",
+     "pos": "v.",
+     "phonetic": "/əˈliːvieɪt/",
+     "meaning_zh": "缓解、减轻（担忧、痛苦、问题）",
+     "example_en": "US stocks slumped at the end of trading, a potential sign that Anthropic’s mammoth IPO wasn’t enough to alleviate concerns over the AI industry’s volatility.",
+     "example_zh": "美国股市在收盘时大幅下挫，这可能表明 Anthropic 的巨型 IPO 并不足以缓解人们对 AI 行业波动的担忧。"
+    },
+    {
+     "word": "volatility",
+     "pos": "n.",
+     "phonetic": "/ˌvɒləˈtɪləti/",
+     "meaning_zh": "波动性、剧烈震荡",
+     "example_en": "Most of the major chipmakers’ stock prices closed the day lower than they started.",
+     "example_zh": "多数主要芯片制造商的股价当日收盘低于开盘。（原词见于上句：concerns over the AI industry’s volatility 对 AI 行业波动的担忧）"
+    },
+    {
+     "word": "wane",
+     "pos": "v.",
+     "phonetic": "/weɪn/",
+     "meaning_zh": "减弱、衰退、势头消退",
+     "example_en": "Anthropic’s IPO is a big near-term win for the tech sector and should help restore some investor confidence that the AI Revolution growth thesis is not waning.",
+     "example_zh": "Anthropic 的 IPO 是科技行业近期的一大胜利，应有助于恢复部分投资者信心，让他们相信 AI 革命的增长逻辑并未减弱。"
+    },
+    {
+     "word": "brace for",
+     "pos": "v. phr.",
+     "phonetic": "/breɪs fɔː(r)/",
+     "meaning_zh": "做好准备迎接（坏消息、冲击）",
+     "example_en": "However, the IPO comes amid uncertainty as the industry braces for any additional impact or fallout from the recent Nvidia scandal.",
+     "example_zh": "然而，此次 IPO 正值不确定性之际，整个行业正准备迎接近期英伟达丑闻可能带来的更多冲击或余波。"
+    },
+    {
+     "word": "one-off charge",
+     "pos": "n. phr.",
+     "phonetic": "/ˌwʌn ˈɒf tʃɑːdʒ/",
+     "meaning_zh": "一次性费用（不计入经常性损益的支出）",
+     "example_en": "In the first half of 2026, the company reported losses of $80bn, though that was largely due to a one-off charge.",
+     "example_zh": "2026 年上半年，公司报告亏损 800 亿美元，不过这主要归因于一项一次性费用。"
+    }
+   ],
+   "source": "The Guardian · Business",
+   "word_count": 762,
+   "level": "C1"
+  },
   {
    "id": "anthropic-sets-share-price-at-83-for-sto",
    "date": "2026-11-19",

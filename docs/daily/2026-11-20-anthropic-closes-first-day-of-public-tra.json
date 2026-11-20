@@ -1,0 +1,218 @@
+{
+ "id": "anthropic-closes-first-day-of-public-tra",
+ "date": "2026-11-20",
+ "slug": "anthropic-closes-first-day-of-public-tra",
+ "title_zh": "Anthropic 上市首日收于 1.3 万亿美元估值，创史上最大 IPO",
+ "meta_line": "来源：The Guardian · Business ｜ 难度：C1 ｜ 词数：762",
+ "summary": "这篇文章报道了 AI 初创公司 Anthropic 登陆美国股市首日的表现：股价收于 97 美元上方，较 83 美元的发行价上涨约 17%，总市值接近 1.3 万亿美元，募资 813 亿美元，超过 SpaceX 创下的纪录。但盘中股价一度冲高至 111.50 美元后回落，同日美股与芯片股走低，说明市场对 AI 板块的波动仍有疑虑。文章同时呈现了公司的另一面：营收连年爆炸式增长，亏损却也高达数百亿美元，算力是它最大的开销。作为首家上市的前沿 AI 实验室，Anthropic 被视为整个 AI 热潮的风向标，因此这篇报道既是一份 IPO 记录，也是观察 AI 泡沫争论的一个切口，很适合用来积累财经与科技报道的高频表达。",
+ "vocab": [
+  {
+   "word": "flotation",
+   "pos": "n.",
+   "phonetic": "/fləʊˈteɪʃn/",
+   "meaning_zh": "（公司）上市发行、发行股票",
+   "example_en": "Nonetheless, Anthropic’s ranked among the biggest stock market flotations in history.",
+   "example_zh": "尽管如此，Anthropic 的上市仍跻身史上规模最大的股票发行之列。"
+  },
+  {
+   "word": "upsized",
+   "pos": "adj.",
+   "phonetic": "/ˈʌpsaɪzd/",
+   "meaning_zh": "（发行规模）扩大了的、上调了的",
+   "example_en": "Anthropic announced late on Wednesday that it had sold 980m shares to underwriters, an upsized offering that raised $81.3bn.",
+   "example_zh": "Anthropic 周三晚间宣布，已向承销商售出 9.8 亿股，这次扩大规模的发行募资 813 亿美元。"
+  },
+  {
+   "word": "bellwether",
+   "pos": "n.",
+   "phonetic": "/ˈbelweðə(r)/",
+   "meaning_zh": "风向标、领头羊（预示整体趋势的事物）",
+   "example_en": "The company’s listing serves as a bellwether for the multitrillion-dollar artificial intelligence boom as the first frontier lab to be publicly traded.",
+   "example_zh": "作为首家上市的前沿实验室，该公司的上市成为数万亿美元人工智能热潮的风向标。"
+  },
+  {
+   "word": "slump",
+   "pos": "v.",
+   "phonetic": "/slʌmp/",
+   "meaning_zh": "（股价、销量等）暴跌、大幅下滑",
+   "example_en": "US stocks slumped at the end of trading, a potential sign that Anthropic’s mammoth IPO wasn’t enough to alleviate concerns over the AI industry’s volatility.",
+   "example_zh": "美国股市在收盘时大幅下挫，这可能表明 Anthropic 的巨型 IPO 并不足以缓解人们对 AI 行业波动的担忧。"
+  },
+  {
+   "word": "mammoth",
+   "pos": "adj.",
+   "phonetic": "/ˈmæməθ/",
+   "meaning_zh": "巨大的、规模空前的",
+   "example_en": "US stocks slumped at the end of trading, a potential sign that Anthropic’s mammoth IPO wasn’t enough to alleviate concerns over the AI industry’s volatility.",
+   "example_zh": "美国股市在收盘时大幅下挫，这可能表明 Anthropic 的巨型 IPO 并不足以缓解人们对 AI 行业波动的担忧。"
+  },
+  {
+   "word": "alleviate",
+   "pos": "v.",
+   "phonetic": "/əˈliːvieɪt/",
+   "meaning_zh": "缓解、减轻（担忧、痛苦、问题）",
+   "example_en": "US stocks slumped at the end of trading, a potential sign that Anthropic’s mammoth IPO wasn’t enough to alleviate concerns over the AI industry’s volatility.",
+   "example_zh": "美国股市在收盘时大幅下挫，这可能表明 Anthropic 的巨型 IPO 并不足以缓解人们对 AI 行业波动的担忧。"
+  },
+  {
+   "word": "volatility",
+   "pos": "n.",
+   "phonetic": "/ˌvɒləˈtɪləti/",
+   "meaning_zh": "波动性、剧烈震荡",
+   "example_en": "Most of the major chipmakers’ stock prices closed the day lower than they started.",
+   "example_zh": "多数主要芯片制造商的股价当日收盘低于开盘。（原词见于上句：concerns over the AI industry’s volatility 对 AI 行业波动的担忧）"
+  },
+  {
+   "word": "wane",
+   "pos": "v.",
+   "phonetic": "/weɪn/",
+   "meaning_zh": "减弱、衰退、势头消退",
+   "example_en": "Anthropic’s IPO is a big near-term win for the tech sector and should help restore some investor confidence that the AI Revolution growth thesis is not waning.",
+   "example_zh": "Anthropic 的 IPO 是科技行业近期的一大胜利，应有助于恢复部分投资者信心，让他们相信 AI 革命的增长逻辑并未减弱。"
+  },
+  {
+   "word": "brace for",
+   "pos": "v. phr.",
+   "phonetic": "/breɪs fɔː(r)/",
+   "meaning_zh": "做好准备迎接（坏消息、冲击）",
+   "example_en": "However, the IPO comes amid uncertainty as the industry braces for any additional impact or fallout from the recent Nvidia scandal.",
+   "example_zh": "然而，此次 IPO 正值不确定性之际，整个行业正准备迎接近期英伟达丑闻可能带来的更多冲击或余波。"
+  },
+  {
+   "word": "one-off charge",
+   "pos": "n. phr.",
+   "phonetic": "/ˌwʌn ˈɒf tʃɑːdʒ/",
+   "meaning_zh": "一次性费用（不计入经常性损益的支出）",
+   "example_en": "In the first half of 2026, the company reported losses of $80bn, though that was largely due to a one-off charge.",
+   "example_zh": "2026 年上半年，公司报告亏损 800 亿美元，不过这主要归因于一项一次性费用。"
+  }
+ ],
+ "grammar": [
+  {
+   "sentence": "The firm’s shares initially soared 34% when trading got under way on its US market debut on Thursday, valuing the company at more than $2tn.",
+   "point": "现在分词短语作结果状语（valuing …）+ when 引导的时间状语从句 + 介词短语连缀",
+   "explain_zh": "主句是 The firm’s shares initially soared 34%，后面的 when trading got under way 交代时间点（上市首日开市）。关键在于逗号后的 valuing the company at more than $2tn：这是一个现在分词短语，逻辑主语是前面的整个主句事件，表示这个事件自然带来的“结果/伴随情况”，相当于 and this valued the company at …。财经报道常用这种“主句 + , doing”结构来补充数字后果，比再写一个并列句更紧凑。注意 on its US market debut on Thursday 是两个 on 短语叠加，分别表示“场合”和“时间”，翻译时要拆开理解。"
+  },
+  {
+   "sentence": "Anthropic announced late on Wednesday that it had sold 980m shares to underwriters, an upsized offering that raised $81.3bn, surpassing the previous record set by SpaceX’s initial $75bn fundraise in June.",
+   "point": "宾语从句中的过去完成时 + 同位语（an upsized offering）+ that 定语从句 + 分词作结果状语",
+   "explain_zh": "主干是 Anthropic announced that …。宾语从句用 had sold（过去完成时），因为“售股”发生在“宣布”之前，这是新闻报道里区分先后动作的标准做法。an upsized offering that raised $81.3bn 是同位语，用来解释前面“卖股票”这件事的性质——它本身就是一次“扩大规模的发行”，其中 that 从句进一步给出募资额。最后的 surpassing … 又是分词作结果状语，把“超过 SpaceX 纪录”这一层信息挂上去，避免句子被切成三段短句。整句信息密度很高，读的时候要先抓主干，再一层层挂附加信息。"
+  },
+  {
+   "sentence": "Anthropic’s stock market debut makes it the first firm focused entirely on AI “uncluttered by an ad business or a rocket business” to be publicly traded, analysts at Yorkville Ives said.",
+   "point": "make + 宾语 + 宾语补足语（it the first firm）+ 过去分词后置定语 + 不定式后置定语 + 引述语后置（…, analysts said）",
+   "explain_zh": "核心结构是 make it the first firm：it 指 Anthropic，the first firm 作宾语补足语，说明“把它变成第一家……公司”。focused entirely on AI 是过去分词短语作后置定语修饰 firm；后面的 to be publicly traded 是不定式作后置定语，修饰 the first firm——注意“the first + 名词 + to do”是固定搭配，表示“第一个做某事的……”。中间的引号部分 uncluttered by … 是插入的补充说明，插在定语之间，读的时候可以先跳过。句末的 analysts at Yorkville Ives said 是引述语后置，这是英文新闻常用的“先给信息、后交代出处”的写法，中文通常要翻到句首。"
+  }
+ ],
+ "questions": [
+  {
+   "q": "Why does the article describe Anthropic’s listing as a “bellwether” rather than simply a successful IPO?",
+   "a": "因为它是第一家上市的前沿 AI 实验室，且业务“纯粹”只做 AI（不像谷歌有广告、SpaceX 有火箭业务），所以它的股价表现被市场当成判断整个数万亿美元 AI 热潮是否可持续的参照。文章一方面写它首日大涨、募资创纪录，另一方面又写同日美股和芯片股下跌、公司巨额亏损，说明作者并非把它当作单纯的成功案例，而是当作检验 AI 行业信心的试验品。"
+  },
+  {
+   "q": "Does the author present Anthropic’s IPO as an unqualified success? Support your answer with details from the text.",
+   "a": "不是。作者保持中立甚至略带保留：既给出正面数据（收于 97 美元、较发行价涨约 17%、募资 813 亿美元超 SpaceX 纪录、营收从 2025 年全年 46 亿美元增至 2026 年上半年 162 亿美元），也并列写出隐忧——股价从盘中 111.50 美元回落、当日美股与英伟达等芯片股下跌、2026 年前九个月亏损 1040 亿美元、算力开支高达约 188 亿美元，还引用分析师的话点出“增速能否持续”才是关键问题。这种正反并陈说明作者的态度是审慎观察而非一味唱好。"
+  },
+  {
+   "q": "What can be inferred about the relationship between Anthropic’s revenue growth and its financial health?",
+   "a": "可以推断出“增长快”不等于“赚钱”。文章说公司营收连年爆炸式增长、有时超过 1000%，但同期亏损从 800 亿美元扩大到 1040 亿美元，最大单项支出是算力（前九个月约 188 亿美元），而且公司预计成本还会继续膨胀。也就是说，收入规模扩大的同时，为训练前沿模型而投入的算力开支增长得更快，公司目前仍处于“烧钱换增长”的阶段，能否盈利取决于增速能否持续以及成本能否被摊薄。\n\n---\n\n*由「外刊精读」自动生成 · 每天一篇，读原文，也读世界*"
+  }
+ ],
+ "translation": [
+  {
+   "idx": 1,
+   "en": "Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market on Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn total market capitalization, $1.75tn fully diluted.",
+   "zh": "Anthropic 在美国股市的首个交易日收盘价较其首次公开募股（IPO）发行价高出约 17%。周四收盘时，Anthropic 股价略高于 97 美元，总市值接近 1.3 万亿美元，完全稀释后为 1.75 万亿美元。"
+  },
+  {
+   "idx": 2,
+   "en": "While the final share value was higher than the IPO price of $83, it marked a dip from an early high of $111.50. The firm’s shares initially soared 34% when trading got under way on its US market debut on Thursday, valuing the company at more than $2tn. Nonetheless, Anthropic’s ranked among the biggest stock market flotations in history. The artificial intelligence startup, founded in 2021, became one of the most valuable publicly traded businesses in the world.",
+   "zh": "虽然最终股价高于 83 美元的发行价，但较盘中 111.50 美元的高点有所回落。周四美国上市首日开盘后，该公司股价一度飙升 34%，市值超过 2 万亿美元。尽管如此，Anthropic 的上市仍跻身史上规模最大的股票发行之列。这家成立于 2021 年的人工智能初创公司由此成为全球市值最高的上市公司之一。"
+  },
+  {
+   "idx": 3,
+   "en": "“Today puts the company in a stronger financial position, and in doing so only strengthens our resolve to do the right thing,” said Anthropic’s chief executive, Dario Amodei, who rang the Nasdaq opening bell.",
+   "zh": "“今天让公司处于更稳健的财务地位，而这样做只会更加坚定我们做正确之事的决心，”Anthropic 首席执行官达里奥·阿莫代伊说。他敲响了纳斯达克的开市钟。"
+  },
+  {
+   "idx": 4,
+   "en": "Anthropic announced late on Wednesday that it had sold 980m shares to underwriters, an upsized offering that raised $81.3bn, surpassing the previous record set by SpaceX’s initial $75bn fundraise in June.",
+   "zh": "Anthropic 周三晚间宣布，已向承销商售出 9.8 亿股，这次扩大规模的发行募资 813 亿美元，超过了 SpaceX 今年 6 月首次募资 750 亿美元创下的纪录。"
+  },
+  {
+   "idx": 5,
+   "en": "US stocks slumped at the end of trading, a potential sign that Anthropic’s mammoth IPO wasn’t enough to alleviate concerns over the AI industry’s volatility. Most of the major chipmakers’ stock prices closed the day lower than they started. While Nvidia hit its sixth day of losses after its latest earnings call, other players like Micron and Broadcom also saw their share prices decline.",
+   "zh": "美国股市在收盘时大幅下挫，这可能表明 Anthropic 的巨型 IPO 并不足以缓解人们对 AI 行业波动的担忧。多数主要芯片制造商的股价当日收盘低于开盘。英伟达在最新财报电话会议后连续第六个交易日下跌，美光、博通等其他公司股价也同样走低。"
+  },
+  {
+   "idx": 6,
+   "en": "The company’s listing serves as a bellwether for the multitrillion-dollar artificial intelligence boom as the first frontier lab to be publicly traded. Wall Street investors and the entire global tech industry are watching closely how it fares on the public market.",
+   "zh": "作为首家上市的前沿实验室，该公司的上市成为数万亿美元人工智能热潮的风向标。华尔街投资者和整个全球科技行业都在密切关注它在公开市场上的表现。"
+  },
+  {
+   "idx": 7,
+   "en": "Anthropic’s stock market debut makes it the first firm focused entirely on AI “uncluttered by an ad business or a rocket business” to be publicly traded, analysts at Yorkville Ives said.",
+   "zh": "Yorkville Ives 的分析师表示，Anthropic 的上市使其成为首家完全专注于 AI、“不受广告业务或火箭业务干扰”的上市公司。"
+  },
+  {
+   "idx": 8,
+   "en": "“Anthropic’s IPO is a big near-term win for the tech sector and should help restore some investor confidence that the AI Revolution growth thesis is not waning,” Yorkville Ives analysts wrote in a memo.",
+   "zh": "“Anthropic 的 IPO 是科技行业近期的一大胜利，应有助于恢复部分投资者的信心，让他们相信 AI 革命的增长逻辑并未减弱，”Yorkville Ives 的分析师在一份备忘录中写道。"
+  },
+  {
+   "idx": 9,
+   "en": "The company has seen explosive growth in revenue every year of its existence – sometimes more than 1,000% – according to its investor prospectus, filed at the end of October. Anthropic brought in $16.2bn in the first six months of 2026, up from $4.6bn in revenue for all of 2025.",
+   "zh": "根据其 10 月底提交的投资者招股说明书，该公司自成立以来每年营收都呈爆炸式增长——有时增幅超过 1000%。Anthropic 在 2026 年上半年实现营收 162 亿美元，而 2025 年全年营收为 46 亿美元。"
+  },
+  {
+   "idx": 10,
+   "en": "“You’ve seen an astronomical growth rate in terms of the top line,” said Evan Schlossman, a principal at Neostellar, a publicly traded venture capital firm. “The question investors are going to be looking at leading up to the IPO, and once it’s public, is what happens to that growth rate.”",
+   "zh": "“从营收来看，你看到的是天文数字般的增长率，”上市风投机构 Neostellar 的负责人埃文·施洛斯曼说。“投资者在 IPO 之前以及上市之后都会追问的问题是：这个增速接下来会怎样。”"
+  },
+  {
+   "idx": 11,
+   "en": "Anthropic has also lost an enormous amount of money. In the first half of 2026, the company reported losses of $80bn, though that was largely due to a one-off charge. Losses grew to $104bn in the first nine months of 2026. The firm expects its costs to balloon as it works to secure more compute, which refers to the processing and computational power provided by arrays of semiconductor chips often located in datacenters. It is the resource that powers generative artificial intelligence and Anthropic’s single largest expense, about $18.8bn in the first nine months of 2026.",
+   "zh": "Anthropic 也亏损了巨额资金。2026 年上半年，公司报告亏损 800 亿美元，不过这主要归因于一项一次性费用。2026 年前九个月，亏损增至 1040 亿美元。公司预计，随着它努力获取更多算力，成本将大幅膨胀。算力指由通常位于数据中心的大批半导体芯片提供的处理与计算能力。它是驱动生成式人工智能的资源，也是 Anthropic 最大的单项支出——2026 年前九个月约为 188 亿美元。"
+  },
+  {
+   "idx": 12,
+   "en": "“The development of frontier AI models requires substantial investments of compute resources, capital, and human capital to conduct large-scale training runs that may span weeks or months and cost many millions of dollars,” the company’s executives wrote in the prospectus.",
+   "zh": "“前沿 AI 模型的开发需要在算力资源、资金和人力资本上进行大量投入，以开展可能持续数周或数月、耗资数百万美元的大规模训练，”公司高管在招股书中写道。"
+  },
+  {
+   "idx": 13,
+   "en": "Anthropic has disclosed in great detail all the ways its AI models may pose a danger to humanity – including being used to develop bioweapons or deepen repression around the world. Amodei has called for a slowdown on the development of the most advanced AI models after employees expressed concerns that the companies were building them irresponsibility.",
+   "zh": "Anthropic 极为详尽地披露了其 AI 模型可能对人类构成危险的各种方式——包括被用于开发生物武器，或加深世界各地的压迫。在员工表达了对各公司不负责任地构建这些模型的担忧之后，阿莫代伊呼吁放缓最先进 AI 模型的开发。"
+  },
+  {
+   "idx": 14,
+   "en": "The company beat competitors like OpenAI to launching on the US stock market. However, the IPO comes amid uncertainty as the industry braces for any additional impact or fallout from the recent Nvidia scandal that led to the resignation of its founder and chief executive, Jensen Huang.",
+   "zh": "该公司抢在 OpenAI 等竞争对手之前在美国股市上市。然而，此次 IPO 正值不确定之际——整个行业正准备迎接近期英伟达丑闻可能带来的更多冲击或余波，该丑闻导致其创始人兼首席执行官黄仁勋辞职。"
+  },
+  {
+   "idx": 15,
+   "en": "There is “huge volatility in the market”, and investors are going to be looking at how sustainable the company’s AI growth is, said Schlossman. Investors are also keen to see how important Anthropic will be in the larger AI ecosystem. The company has focused primarily on enterprise customers rather than individual consumers. Anthropic’s Claude code product has proved popular with software engineers.",
+   "zh": "施洛斯曼说，市场存在“巨大的波动”，投资者将关注该公司 AI 增长的可持续性。投资者也急于了解 Anthropic 在更大的 AI 生态中将有多重要。该公司主要面向企业客户而非个人消费者。Anthropic 的 Claude code 产品已被证明深受软件工程师欢迎。"
+  }
+ ],
+ "article": [
+  "Anthropic closed its first day of trading on the US stock market about 17% higher than its initial public offering price. At the close of market on Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn total market capitalization, $1.75tn fully diluted.",
+  "While the final share value was higher than the IPO price of $83, it marked a dip from an early high of $111.50. The firm’s shares initially soared 34% when trading got under way on its US market debut on Thursday, valuing the company at more than $2tn. Nonetheless, Anthropic’s ranked among the biggest stock market flotations in history. The artificial intelligence startup, founded in 2021, became one of the most valuable publicly traded businesses in the world.",
+  "“Today puts the company in a stronger financial position, and in doing so only strengthens our resolve to do the right thing,” said Anthropic’s chief executive, Dario Amodei, who rang the Nasdaq opening bell.",
+  "Anthropic announced late on Wednesday that it had sold 980m shares to underwriters, an upsized offering that raised $81.3bn, surpassing the previous record set by SpaceX’s initial $75bn fundraise in June.",
+  "US stocks slumped at the end of trading, a potential sign that Anthropic’s mammoth IPO wasn’t enough to alleviate concerns over the AI industry’s volatility. Most of the major chipmakers’ stock prices closed the day lower than they started. While Nvidia hit its sixth day of losses after its latest earnings call, other players like Micron and Broadcom also saw their share prices decline.",
+  "The company’s listing serves as a bellwether for the multitrillion-dollar artificial intelligence boom as the first frontier lab to be publicly traded. Wall Street investors and the entire global tech industry are watching closely how it fares on the public market.",
+  "Anthropic’s stock market debut makes it the first firm focused entirely on AI “uncluttered by an ad business or a rocket business” to be publicly traded, analysts at Yorkville Ives said.",
+  "“Anthropic’s IPO is a big near-term win for the tech sector and should help restore some investor confidence that the AI Revolution growth thesis is not waning,” Yorkville Ives analysts wrote in a memo.",
+  "The company has seen explosive growth in revenue every year of its existence – sometimes more than 1,000% – according to its investor prospectus, filed at the end of October. Anthropic brought in $16.2bn in the first six months of 2026, up from $4.6bn in revenue for all of 2025.",
+  "“You’ve seen an astronomical growth rate in terms of the top line,” said Evan Schlossman, a principal at Neostellar, a publicly traded venture capital firm. “The question investors are going to be looking at leading up to the IPO, and once it’s public, is what happens to that growth rate.”",
+  "Anthropic has also lost an enormous amount of money. In the first half of 2026, the company reported losses of $80bn, though that was largely due to a one-off charge. Losses grew to $104bn in the first nine months of 2026. The firm expects its costs to balloon as it works to secure more compute, which refers to the processing and computational power provided by arrays of semiconductor chips often located in datacenters. It is the resource that powers generative artificial intelligence and Anthropic’s single largest expense, about $18.8bn in the first nine months of 2026.",
+  "“The development of frontier AI models requires substantial investments of compute resources, capital, and human capital to conduct large-scale training runs that may span weeks or months and cost many millions of dollars,” the company’s executives wrote in the prospectus.",
+  "Anthropic has disclosed in great detail all the ways its AI models may pose a danger to humanity – including being used to develop bioweapons or deepen repression around the world. Amodei has called for a slowdown on the development of the most advanced AI models after employees expressed concerns that the companies were building them irresponsibility.",
+  "The company beat competitors like OpenAI to launching on the US stock market. However, the IPO comes amid uncertainty as the industry braces for any additional impact or fallout from the recent Nvidia scandal that led to the resignation of its founder and chief executive, Jensen Huang.",
+  "There is “huge volatility in the market”, and investors are going to be looking at how sustainable the company’s AI growth is, said Schlossman. Investors are also keen to see how important Anthropic will be in the larger AI ecosystem. The company has focused primarily on enterprise customers rather than individual consumers. Anthropic’s Claude code product has proved popular with software engineers."
+ ],
+ "source": "The Guardian · Business",
+ "word_count": 762,
+ "level": "C1"
+}
