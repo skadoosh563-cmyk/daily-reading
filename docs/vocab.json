@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T04:25:53",
- "count": 339,
+ "updated": "2026-11-21T02:47:43",
+ "count": 345,
  "vocab": [
   {
    "word": "amid",
@@ -33,6 +33,17 @@
    "dates": [
     "2026-11-04",
     "2026-11-07"
+   ]
+  },
+  {
+   "word": "gust",
+   "pos": "n.",
+   "phonetic": "/ɡʌst/",
+   "meaning_zh": "一阵狂风；阵风",
+   "count": 2,
+   "dates": [
+    "2026-11-01",
+    "2026-11-21"
    ]
   },
   {
@@ -80,6 +91,17 @@
    ]
   },
   {
+   "word": "successive",
+   "pos": "adj.",
+   "phonetic": "/səkˈsesɪv/",
+   "meaning_zh": "连续的，接连的",
+   "count": 2,
+   "dates": [
+    "2026-11-14",
+    "2026-11-21"
+   ]
+  },
+  {
    "word": "terminate",
    "pos": "v.",
    "phonetic": "/ˈtɜːmɪneɪt/",
@@ -99,6 +121,17 @@
    "dates": [
     "2026-10-24",
     "2026-11-04"
+   ]
+  },
+  {
+   "word": "unsettled",
+   "pos": "adj.",
+   "phonetic": "/ʌnˈsetld/",
+   "meaning_zh": "不稳定的，多变的（形容天气）",
+   "count": 2,
+   "dates": [
+    "2026-11-14",
+    "2026-11-21"
    ]
   },
   {
@@ -1113,6 +1146,16 @@
    ]
   },
   {
+   "word": "evacuate",
+   "pos": "v.",
+   "phonetic": "/ɪˈvækjueɪt/",
+   "meaning_zh": "疏散，撤离（常用被动：have been evacuated from…）",
+   "count": 1,
+   "dates": [
+    "2026-11-21"
+   ]
+  },
+  {
    "word": "evacuation",
    "pos": "n.",
    "phonetic": "/ɪˌvækjuˈeɪʃn/",
@@ -1433,16 +1476,6 @@
    ]
   },
   {
-   "word": "gust",
-   "pos": "n.",
-   "phonetic": "/ɡʌst/",
-   "meaning_zh": "一阵狂风；阵风",
-   "count": 1,
-   "dates": [
-    "2026-11-01"
-   ]
-  },
-  {
    "word": "gut",
    "pos": "v.",
    "phonetic": "/ɡʌt/",
@@ -1500,6 +1533,16 @@
    "count": 1,
    "dates": [
     "2026-11-05"
+   ]
+  },
+  {
+   "word": "hazard",
+   "pos": "n.",
+   "phonetic": "/ˈhæzəd/",
+   "meaning_zh": "危险；隐患（此处 coastal hazard warnings 指「海岸危险警报」）",
+   "count": 1,
+   "dates": [
+    "2026-11-21"
    ]
   },
   {
@@ -1680,6 +1723,16 @@
    "count": 1,
    "dates": [
     "2026-11-17"
+   ]
+  },
+  {
+   "word": "landfall",
+   "pos": "n.",
+   "phonetic": "/ˈlændfɔːl/",
+   "meaning_zh": "（气旋、台风）登陆；固定搭配 make landfall「登陆」",
+   "count": 1,
+   "dates": [
+    "2026-11-21"
    ]
   },
   {
@@ -1910,6 +1963,16 @@
    "count": 1,
    "dates": [
     "2026-10-26"
+   ]
+  },
+  {
+   "word": "offshore",
+   "pos": "adj.",
+   "phonetic": "/ˌɒfˈʃɔː(r)/",
+   "meaning_zh": "离岸的，近海的（offshore buoys 指「近海浮标」）",
+   "count": 1,
+   "dates": [
+    "2026-11-21"
    ]
   },
   {
@@ -2963,13 +3026,13 @@
    ]
   },
   {
-   "word": "successive",
-   "pos": "adj.",
-   "phonetic": "/səkˈsesɪv/",
-   "meaning_zh": "连续的，接连的",
+   "word": "swell",
+   "pos": "n.",
+   "phonetic": "/swel/",
+   "meaning_zh": "涌浪，长浪（海面上连绵起伏的大浪，气象报道常用）",
    "count": 1,
    "dates": [
-    "2026-11-14"
+    "2026-11-21"
    ]
   },
   {
@@ -3093,6 +3156,16 @@
    ]
   },
   {
+   "word": "trigger",
+   "pos": "v.",
+   "phonetic": "/ˈtrɪɡə(r)/",
+   "meaning_zh": "引发，触发（多用于负面连锁反应）",
+   "count": 1,
+   "dates": [
+    "2026-11-21"
+   ]
+  },
+  {
    "word": "triumphalism",
    "pos": "n.",
    "phonetic": "/traɪˈʌmfəlɪzəm/",
@@ -3180,16 +3253,6 @@
    "count": 1,
    "dates": [
     "2026-10-27"
-   ]
-  },
-  {
-   "word": "unsettled",
-   "pos": "adj.",
-   "phonetic": "/ʌnˈsetld/",
-   "meaning_zh": "不稳定的，多变的（形容天气）",
-   "count": 1,
-   "dates": [
-    "2026-11-14"
    ]
   },
   {

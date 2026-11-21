@@ -1,7 +1,90 @@
 {
- "updated": "2026-11-20T04:25:53",
- "count": 34,
+ "updated": "2026-11-21T02:47:43",
+ "count": 35,
  "items": [
+  {
+   "id": "california-s-coastal-communities-on-aler",
+   "date": "2026-11-21",
+   "title_zh": "加州沿海社区严阵以待：多年来最大海浪袭击该州",
+   "summary": "这是一篇典型的「全球天气综述」类短讯：先用大量篇幅讲美国加州遭遇多年未见的巨浪与暴雨，再一笔转到印度东部的热带气旋疏散，最后落在南非约翰内斯堡的强雷暴与伤亡。文章句子紧凑、信息密度高，大量使用被动语态、with 复合结构和分词状语，是练习「一句话塞进多条信息」的绝佳材料。对 B2 学习者来说，文中 hazard、swell、unsettled、landfall、gust、torrential 等都是读外刊天气与灾害报道的高频词，值得整块记下来。",
+   "vocab": [
+    {
+     "word": "hazard",
+     "pos": "n.",
+     "phonetic": "/ˈhæzəd/",
+     "meaning_zh": "危险；隐患（此处 coastal hazard warnings 指「海岸危险警报」）",
+     "example_en": "Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities.",
+     "example_zh": "本周，加利福尼亚州全州发布了多项海岸危险警报，因为接连而来的低压区为沿海社区带来了强劲的涌浪和巨大的拍岸浪。"
+    },
+    {
+     "word": "successive",
+     "pos": "adj.",
+     "phonetic": "/səkˈsesɪv/",
+     "meaning_zh": "接连的，一个接一个的（强调连续不断）",
+     "example_en": "Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities.",
+     "example_zh": "本周，加利福尼亚州全州发布了多项海岸危险警报，因为接连而来的低压区为沿海社区带来了强劲的涌浪和巨大的拍岸浪。"
+    },
+    {
+     "word": "swell",
+     "pos": "n.",
+     "phonetic": "/swel/",
+     "meaning_zh": "涌浪，长浪（海面上连绵起伏的大浪，气象报道常用）",
+     "example_en": "Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities.",
+     "example_zh": "本周，加利福尼亚州全州发布了多项海岸危险警报，因为接连而来的低压区为沿海社区带来了强劲的涌浪和巨大的拍岸浪。"
+    },
+    {
+     "word": "offshore",
+     "pos": "adj.",
+     "phonetic": "/ˌɒfˈʃɔː(r)/",
+     "meaning_zh": "离岸的，近海的（offshore buoys 指「近海浮标」）",
+     "example_en": "Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday.",
+     "example_zh": "美国国家海洋和大气管理局（NOAA）的近海浮标上周五记录到超过30英尺（9米）的浪高。"
+    },
+    {
+     "word": "unsettled",
+     "pos": "adj.",
+     "phonetic": "/ʌnˈsetld/",
+     "meaning_zh": "（天气）不稳定的，多变的（unsettled conditions 是天气预报固定说法）",
+     "example_en": "These Pacific storm systems are also bringing unsettled conditions across the western US, with heavy rain, mountain snow, and strong winds through the coming days.",
+     "example_zh": "这些太平洋风暴系统还给美国西部大片地区带来不稳定天气，未来几天将有大雨、山区降雪和强风。"
+    },
+    {
+     "word": "evacuate",
+     "pos": "v.",
+     "phonetic": "/ɪˈvækjueɪt/",
+     "meaning_zh": "疏散，撤离（常用被动：have been evacuated from…）",
+     "example_en": "Nearly 72,000 people have been evacuated from areas of Odisha in eastern India as Tropical Cyclone Akvan approaches land.",
+     "example_zh": "随着热带气旋「阿克万」逼近陆地，印度东部奥里萨邦已有近7.2万人被疏散。"
+    },
+    {
+     "word": "landfall",
+     "pos": "n.",
+     "phonetic": "/ˈlændfɔːl/",
+     "meaning_zh": "（气旋、台风）登陆；固定搭配 make landfall「登陆」",
+     "example_en": "Akvan is expected to make landfall on Friday between Narsapur and Puri, prompting cyclone warnings from the India Meteorological Department for north Andhra Pradesh, Yanam and south Odisha coasts.",
+     "example_zh": "「阿克万」预计将于周五在纳尔萨普尔和普里之间登陆，印度气象局因此向北安得拉邦、亚南和奥里萨邦南部沿海发布了气旋警报。"
+    },
+    {
+     "word": "gust",
+     "pos": "n.",
+     "phonetic": "/ɡʌst/",
+     "meaning_zh": "阵风，一阵狂风（peak wind gusts 指「阵风峰值」）",
+     "example_en": "Peak wind gusts are expected to reach 70mph, with rainfall totals through Friday and Saturday potentially exceeding 200mm for northern coastal Andhra Pradesh and Odisha.",
+     "example_zh": "预计阵风峰值将达到每小时70英里，截至周五和周六，安得拉邦北部沿海和奥里萨邦的累计降雨量可能超过200毫米。"
+    },
+    {
+     "word": "trigger",
+     "pos": "v.",
+     "phonetic": "/ˈtrɪɡə(r)/",
+     "meaning_zh": "引发，触发（多用于负面连锁反应）",
+     "example_en": "The storms triggered flash flooding and caused infrastructure damage in the township of Soweto.",
+     "example_zh": "风暴引发山洪，并造成索韦托镇的基础设施损坏。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 331,
+   "level": "B2"
+  },
   {
    "id": "anthropic-closes-first-day-of-public-tra",
    "date": "2026-11-20",
