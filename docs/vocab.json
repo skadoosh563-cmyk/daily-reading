@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T02:47:43",
- "count": 345,
+ "updated": "2026-11-22T01:33:12",
+ "count": 355,
  "vocab": [
   {
    "word": "amid",
@@ -506,6 +506,16 @@
    ]
   },
   {
+   "word": "bill shock",
+   "pos": "n.",
+   "phonetic": "/ˈbɪl ʃɒk/",
+   "meaning_zh": "账单冲击（账单金额远超预期给人带来的震惊与压力），外刊高频经济类表达",
+   "count": 1,
+   "dates": [
+    "2026-11-22"
+   ]
+  },
+  {
    "word": "binding",
    "pos": "adj.",
    "phonetic": "/ˈbaɪndɪŋ/",
@@ -796,6 +806,16 @@
    ]
   },
   {
+   "word": "concede",
+   "pos": "v.",
+   "phonetic": "/kənˈsiːd/",
+   "meaning_zh": "（不情愿地）承认、认可某事实",
+   "count": 1,
+   "dates": [
+    "2026-11-22"
+   ]
+  },
+  {
    "word": "condolence",
    "pos": "n.",
    "phonetic": "/kənˈdəʊləns/",
@@ -1026,6 +1046,16 @@
    ]
   },
   {
+   "word": "ditch",
+   "pos": "v.",
+   "phonetic": "/dɪtʃ/",
+   "meaning_zh": "（口语/新闻用语）抛弃、废除（计划、政策、法律）",
+   "count": 1,
+   "dates": [
+    "2026-11-22"
+   ]
+  },
+  {
    "word": "don",
    "pos": "v.",
    "phonetic": "/dɒn/",
@@ -1163,6 +1193,16 @@
    "count": 1,
    "dates": [
     "2026-11-01"
+   ]
+  },
+  {
+   "word": "exacerbate",
+   "pos": "v.",
+   "phonetic": "/ɪɡˈzæsəbeɪt/",
+   "meaning_zh": "使（问题、困难）加剧、恶化",
+   "count": 1,
+   "dates": [
+    "2026-11-22"
    ]
   },
   {
@@ -1673,6 +1713,26 @@
    "count": 1,
    "dates": [
     "2026-11-16"
+   ]
+  },
+  {
+   "word": "in steep decline",
+   "pos": "prep. phrase",
+   "phonetic": "/ɪn stiːp dɪˈklaɪn/",
+   "meaning_zh": "急剧下滑、陡降（比 falling 更强调速度快、幅度大）",
+   "count": 1,
+   "dates": [
+    "2026-11-22"
+   ]
+  },
+  {
+   "word": "in the pipeline",
+   "pos": "idiom",
+   "phonetic": "/ɪn ðə ˈpaɪplaɪn/",
+   "meaning_zh": "（项目、计划）在筹备中、即将推进",
+   "count": 1,
+   "dates": [
+    "2026-11-22"
    ]
   },
   {
@@ -2246,6 +2306,16 @@
    ]
   },
   {
+   "word": "political football",
+   "pos": "n.",
+   "phonetic": "/pəˈlɪtɪkl ˈfʊtbɔːl/",
+   "meaning_zh": "政治皮球，指被各派踢来踢去、当作政治筹码的议题",
+   "count": 1,
+   "dates": [
+    "2026-11-22"
+   ]
+  },
+  {
    "word": "poll poorly",
    "pos": "v. phrase",
    "phonetic": "/poʊl ˈpʊrli/",
@@ -2796,6 +2866,16 @@
    ]
   },
   {
+   "word": "shortfall",
+   "pos": "n.",
+   "phonetic": "/ˈʃɔːtfɔːl/",
+   "meaning_zh": "缺口、短缺（数量上不足的部分）",
+   "count": 1,
+   "dates": [
+    "2026-11-22"
+   ]
+  },
+  {
    "word": "showdown",
    "pos": "n.",
    "phonetic": "/ˈʃaʊndaʊn/",
@@ -2933,6 +3013,16 @@
    "count": 1,
    "dates": [
     "2026-10-30"
+   ]
+  },
+  {
+   "word": "stave off",
+   "pos": "phrasal v.",
+   "phonetic": "/steɪv ɒf/",
+   "meaning_zh": "暂时挡住、延缓（某种坏事的发生）",
+   "count": 1,
+   "dates": [
+    "2026-11-22"
    ]
   },
   {
@@ -3333,6 +3423,16 @@
    "count": 1,
    "dates": [
     "2026-11-11"
+   ]
+  },
+  {
+   "word": "vie",
+   "pos": "v.",
+   "phonetic": "/vaɪ/",
+   "meaning_zh": "争夺、竞相争取（常与 for / to do 搭配）",
+   "count": 1,
+   "dates": [
+    "2026-11-22"
    ]
   },
   {

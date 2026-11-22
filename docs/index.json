@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-21T02:47:43",
- "count": 35,
+ "updated": "2026-11-22T01:33:12",
+ "count": 36,
  "items": [
+  {
+   "id": "no-time-for-a-culture-war-victoria-s-ele",
+   "date": "2026-11-22",
+   "title_zh": "“没时间打文化战”：维多利亚州电力供应告急，能否避免停电与账单冲击？",
+   "summary": "维多利亚州五分之一的电力来自亚卢恩（Yallourn）燃煤电站，而它将在2028年前关停。文章指出，本月的州选举中，工党与联盟党都没有拿出可信的替代方案：联盟党主张叫停新建输电线路、放开天然气勘探，工党则在扩建电网的同时也推迟、审查部分项目。专家提醒，数据中心带来的用电增长、天然气资源枯竭与电气化浪潮叠加，让时间窗口越来越窄。本文适合练习“能源与政治”话题词汇，也能学到英文新闻中引述、插入语、后置定语等典型句式。",
+   "vocab": [
+    {
+     "word": "concede",
+     "pos": "v.",
+     "phonetic": "/kənˈsiːd/",
+     "meaning_zh": "（不情愿地）承认、认可某事实",
+     "example_en": "All parties concede the giant Yallourn coal plant is at the end of its functional life.",
+     "example_zh": "各党都承认，巨型亚卢恩燃煤电站已到服役寿命终点。"
+    },
+    {
+     "word": "vie",
+     "pos": "v.",
+     "phonetic": "/vaɪ/",
+     "meaning_zh": "争夺、竞相争取（常与 for / to do 搭配）",
+     "example_en": "Analysts say the parties vying to run the state are failing to properly explain how they will fill the power shortfall the closure will create.",
+     "example_zh": "分析人士说，角逐州政权的各党都未能妥善说明将如何填补关停造成的电力缺口。"
+    },
+    {
+     "word": "exacerbate",
+     "pos": "v.",
+     "phonetic": "/ɪɡˈzæsəbeɪt/",
+     "meaning_zh": "使（问题、困难）加剧、恶化",
+     "example_en": "The challenge facing Victoria is exacerbated by the growth in energy demand from datacentres and the electrification of buildings, homes and vehicles.",
+     "example_zh": "数据中心带来的用电需求增长，以及建筑、住宅与交通的电气化，加剧了维州面临的挑战。"
+    },
+    {
+     "word": "shortfall",
+     "pos": "n.",
+     "phonetic": "/ˈʃɔːtfɔːl/",
+     "meaning_zh": "缺口、短缺（数量上不足的部分）",
+     "example_en": "The lack of an adequate plan to stave off an energy shortfall means that 'whoever wins, we lose'.",
+     "example_zh": "缺乏避免能源短缺的充分计划，意味着“无论谁赢，输的都是我们”。"
+    },
+    {
+     "word": "bill shock",
+     "pos": "n.",
+     "phonetic": "/ˈbɪl ʃɒk/",
+     "meaning_zh": "账单冲击（账单金额远超预期给人带来的震惊与压力），外刊高频经济类表达",
+     "example_en": "Poor choices now would be 'devastating' for the state's economy and create bill shocks for households and businesses.",
+     "example_zh": "现在做出糟糕选择将对本州经济造成“毁灭性”打击，并给家庭和企业带来账单冲击。"
+    },
+    {
+     "word": "in steep decline",
+     "pos": "prep. phrase",
+     "phonetic": "/ɪn stiːp dɪˈklaɪn/",
+     "meaning_zh": "急剧下滑、陡降（比 falling 更强调速度快、幅度大）",
+     "example_en": "It is quickly running out with offshore gas supply from Bass Strait in steep decline.",
+     "example_zh": "随着巴斯海峡海上天然气供应急剧下滑，天然气正在迅速枯竭。"
+    },
+    {
+     "word": "stave off",
+     "pos": "phrasal v.",
+     "phonetic": "/steɪv ɒf/",
+     "meaning_zh": "暂时挡住、延缓（某种坏事的发生）",
+     "example_en": "Oliver Nunn says the lack of an adequate plan to stave off an energy shortfall means that 'whoever wins, we lose'.",
+     "example_zh": "奥利弗·纳恩说，缺乏避免能源短缺的充分计划，意味着“无论谁赢，输的都是我们”。"
+    },
+    {
+     "word": "in the pipeline",
+     "pos": "idiom",
+     "phonetic": "/ɪn ðə ˈpaɪplaɪn/",
+     "meaning_zh": "（项目、计划）在筹备中、即将推进",
+     "example_en": "This is not the time to be cancelling any of the projects in the pipeline.",
+     "example_zh": "现在不是取消任何在筹备中的项目的时候。"
+    },
+    {
+     "word": "ditch",
+     "pos": "v.",
+     "phonetic": "/dɪtʃ/",
+     "meaning_zh": "（口语/新闻用语）抛弃、废除（计划、政策、法律）",
+     "example_en": "David Davis says the Coalition will ditch them and reinstate landholder appeal rights.",
+     "example_zh": "大卫·戴维斯说，联盟党将废除这些法律，并恢复土地所有者的上诉权。"
+    },
+    {
+     "word": "political football",
+     "pos": "n.",
+     "phonetic": "/pəˈlɪtɪkl ˈfʊtbɔːl/",
+     "meaning_zh": "政治皮球，指被各派踢来踢去、当作政治筹码的议题",
+     "example_en": "Nexa's Bashir says energy policy should not be 'a political football'.",
+     "example_zh": "Nexa的巴希尔说，能源政策不应成为“政治皮球”。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 1086,
+   "level": "C1"
+  },
   {
    "id": "california-s-coastal-communities-on-aler",
    "date": "2026-11-21",
