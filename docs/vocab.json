@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:33:12",
- "count": 355,
+ "updated": "2026-11-23T01:57:37",
+ "count": 363,
  "vocab": [
   {
    "word": "amid",
@@ -14,6 +14,17 @@
    ]
   },
   {
+   "word": "be slated to",
+   "pos": "v. phr.",
+   "phonetic": "/sleɪt/",
+   "meaning_zh": "预定、计划（做某事），外刊报道日程安排的高频说法，比 be planned to 更正式",
+   "count": 2,
+   "dates": [
+    "2026-11-19",
+    "2026-11-23"
+   ]
+  },
+  {
    "word": "bear the brunt of",
    "pos": "phrase",
    "phonetic": "/ber ðə brʌnt ʌv/",
@@ -22,6 +33,17 @@
    "dates": [
     "2026-10-29",
     "2026-11-06"
+   ]
+  },
+  {
+   "word": "exacerbate",
+   "pos": "v.",
+   "phonetic": "/ɪɡˈzæsəbeɪt/",
+   "meaning_zh": "使（问题、困难）加剧、恶化",
+   "count": 2,
+   "dates": [
+    "2026-11-22",
+    "2026-11-23"
    ]
   },
   {
@@ -446,16 +468,6 @@
    ]
   },
   {
-   "word": "be slated to",
-   "pos": "v. phr.",
-   "phonetic": "/sleɪt/",
-   "meaning_zh": "预定、计划（做某事），外刊报道日程安排的高频说法，比 be planned to 更正式",
-   "count": 1,
-   "dates": [
-    "2026-11-19"
-   ]
-  },
-  {
    "word": "be subject to",
    "pos": "phrase",
    "phonetic": "/bi ˈsʌbdʒɪkt tu/",
@@ -473,6 +485,16 @@
    "count": 1,
    "dates": [
     "2026-10-23"
+   ]
+  },
+  {
+   "word": "belie",
+   "pos": "v.",
+   "phonetic": "/bɪˈlaɪ/",
+   "meaning_zh": "与……相悖；使人对……产生错误印象（此处意为“驳斥了某种说法”）",
+   "count": 1,
+   "dates": [
+    "2026-11-23"
    ]
   },
   {
@@ -543,6 +565,16 @@
    "count": 1,
    "dates": [
     "2026-11-05"
+   ]
+  },
+  {
+   "word": "blow up in one's face",
+   "pos": "idiom",
+   "phonetic": "/bləʊ ʌp ɪn wʌnz feɪs/",
+   "meaning_zh": "（计划、行动）搬起石头砸自己的脚、适得其反",
+   "count": 1,
+   "dates": [
+    "2026-11-23"
    ]
   },
   {
@@ -1196,16 +1228,6 @@
    ]
   },
   {
-   "word": "exacerbate",
-   "pos": "v.",
-   "phonetic": "/ɪɡˈzæsəbeɪt/",
-   "meaning_zh": "使（问题、困难）加剧、恶化",
-   "count": 1,
-   "dates": [
-    "2026-11-22"
-   ]
-  },
-  {
    "word": "exemption",
    "pos": "n.",
    "phonetic": "/ɪɡˈzempʃn/",
@@ -1423,6 +1445,16 @@
    "count": 1,
    "dates": [
     "2026-11-20"
+   ]
+  },
+  {
+   "word": "frontrunner",
+   "pos": "n.",
+   "phonetic": "/ˌfrʌntˈrʌnə(r)/",
+   "meaning_zh": "（竞选中的）领跑者、最热门人选",
+   "count": 1,
+   "dates": [
+    "2026-11-23"
    ]
   },
   {
@@ -1776,6 +1808,16 @@
    ]
   },
   {
+   "word": "keep one's counsel",
+   "pos": "idiom",
+   "phonetic": "/kiːp wʌnz ˈkaʊnsl/",
+   "meaning_zh": "守口如瓶、不表态（counsel 此处指“意见、想法”）",
+   "count": 1,
+   "dates": [
+    "2026-11-23"
+   ]
+  },
+  {
    "word": "kick the can down the road",
    "pos": "idiom",
    "phonetic": "/ˌkɪk ðə ˈkæn daʊn ðə ˈrəʊd/",
@@ -1863,6 +1905,16 @@
    "count": 1,
    "dates": [
     "2026-11-11"
+   ]
+  },
+  {
+   "word": "logjam",
+   "pos": "n.",
+   "phonetic": "/ˈlɒɡdʒæm/",
+   "meaning_zh": "僵局、停滞（原指漂木堵塞河道）",
+   "count": 1,
+   "dates": [
+    "2026-11-23"
    ]
   },
   {
@@ -2576,6 +2628,16 @@
    ]
   },
   {
+   "word": "reignite",
+   "pos": "v.",
+   "phonetic": "/ˌriːɪɡˈnaɪt/",
+   "meaning_zh": "重新点燃（争论、冲突）；使再度升温",
+   "count": 1,
+   "dates": [
+    "2026-11-23"
+   ]
+  },
+  {
    "word": "rein in",
    "pos": "v. phr.",
    "phonetic": "/ˌreɪn ˈɪn/",
@@ -3086,6 +3148,16 @@
    ]
   },
   {
+   "word": "straw poll",
+   "pos": "n.",
+   "phonetic": "/ˈstrɔː pəʊl/",
+   "meaning_zh": "意向性投票、摸底投票（非正式、不具约束力）",
+   "count": 1,
+   "dates": [
+    "2026-11-23"
+   ]
+  },
+  {
    "word": "stumble along",
    "pos": "phr.",
    "phonetic": "/ˈstʌmbl əˈlɒŋ/",
@@ -3513,6 +3585,16 @@
    "count": 1,
    "dates": [
     "2026-11-09"
+   ]
+  },
+  {
+   "word": "wield a veto",
+   "pos": "phrase",
+   "phonetic": "/wiːld ə ˈviːtəʊ/",
+   "meaning_zh": "行使否决权（wield 本义“挥舞、掌握”，常搭配 power/influence/veto）",
+   "count": 1,
+   "dates": [
+    "2026-11-23"
    ]
   },
   {

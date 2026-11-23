@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-22T01:33:12",
- "count": 36,
+ "updated": "2026-11-23T01:57:37",
+ "count": 37,
  "items": [
+  {
+   "id": "race-to-be-next-un-secretary-general-exp",
+   "date": "2026-11-23",
+   "title_zh": "下一任联合国秘书长之争，暴露了世界大国之间的分歧",
+   "summary": "联合国秘书长遴选进入关键阶段：安理会将于周五举行一次用颜色区分常任理事国（P5）与非常任理事国（E10）的秘密投票，结果可能揭示领跑者、哥斯达黎加经济学家丽贝卡·格林斯潘是否会遭到美俄否决。文章同时剖析阿联酋候选人拉娜·努赛贝的困境——她虽有美俄背书，却因“美元外交”、苏丹与索马里争议以及接待普京而四处树敌。这是一篇读懂联合国权力运作与“否决权政治”的绝佳样本，也充满外刊高频的政论表达。",
+   "vocab": [
+    {
+     "word": "frontrunner",
+     "pos": "n.",
+     "phonetic": "/ˌfrʌntˈrʌnə(r)/",
+     "meaning_zh": "（竞选中的）领跑者、最热门人选",
+     "example_en": "The race to become the next UN secretary general could reach a decisive moment on Friday when a UN security council vote is likely to reveal whether the Costa Rican frontrunner for the post would be blocked by the big powers.",
+     "example_zh": "争夺下一任联合国秘书长之位的竞争可能在周五迎来决定性时刻，届时安理会的一场投票很可能揭示：这位来自哥斯达黎加的热门人选是否会遭到大国封杀。"
+    },
+    {
+     "word": "reignite",
+     "pos": "v.",
+     "phonetic": "/ˌriːɪɡˈnaɪt/",
+     "meaning_zh": "重新点燃（争论、冲突）；使再度升温",
+     "example_en": "If so, the setback will reignite a debate about the dominance of the permanent five (P5) members at the United Nations.",
+     "example_zh": "若果真如此，这一挫折将重新点燃关于安理会五个常任理事国（P5）在联合国主导地位的争论。"
+    },
+    {
+     "word": "straw poll",
+     "pos": "n.",
+     "phonetic": "/ˈstrɔː pəʊl/",
+     "meaning_zh": "意向性投票、摸底投票（非正式、不具约束力）",
+     "example_en": "A late entrant, in the two straw polls in which she has contested so far, Nusseibeh secured only seven “encourage” votes, six “discourage” and two “no opinions”.",
+     "example_zh": "努赛贝入场较晚，在她迄今参与的两轮意向性投票中，仅获得七张“鼓励”票、六张“不鼓励”票和两张“无意见”票。"
+    },
+    {
+     "word": "be slated to",
+     "pos": "phrase",
+     "phonetic": "/sleɪtɪd/",
+     "meaning_zh": "预定要……、计划要……（新闻里常指“按安排将会”）",
+     "example_en": "The intensive lobbying over the job has spread across the globe, but Friday is especially important since the poll is slated to differentiate the voting of the P5 from the 10 elected members (E10) of the security council.",
+     "example_zh": "围绕这一职位的密集游说已遍及全球，但周五尤其重要，因为此次投票预定要把P5与安理会10个非常任理事国（E10）的投票区分开来。"
+    },
+    {
+     "word": "wield a veto",
+     "pos": "phrase",
+     "phonetic": "/wiːld ə ˈviːtəʊ/",
+     "meaning_zh": "行使否决权（wield 本义“挥舞、掌握”，常搭配 power/influence/veto）",
+     "example_en": "…two of the five permanent security council members that can ultimately wield a veto against a candidate.",
+     "example_zh": "……这两个国家是安理会五个常任理事国之一，最终可对候选人行使否决权。"
+    },
+    {
+     "word": "belie",
+     "pos": "v.",
+     "phonetic": "/bɪˈlaɪ/",
+     "meaning_zh": "与……相悖；使人对……产生错误印象（此处意为“驳斥了某种说法”）",
+     "example_en": "The protracted 140-day deadlock confirms the polarisation that has hampered the incumbent secretary general, António Guterres, but also belies claims the role is now an irrelevance.",
+     "example_zh": "这场长达140天的僵局印证了困扰现任秘书长安东尼奥·古特雷斯的极化局面，但也驳斥了“这一职位如今已无关紧要”的说法。"
+    },
+    {
+     "word": "blow up in one's face",
+     "pos": "idiom",
+     "phonetic": "/bləʊ ʌp ɪn wʌnz feɪs/",
+     "meaning_zh": "（计划、行动）搬起石头砸自己的脚、适得其反",
+     "example_en": "Friday’s secret ballot may also reveal whether the United Arab Emirates’ campaign for its diplomat, Lana Nusseibeh, is about to blow up in its face…",
+     "example_zh": "周五的秘密投票还可能揭示：阿联酋为其外交官拉娜·努赛贝开展的竞选活动，是否会搬起石头砸自己的脚……"
+    },
+    {
+     "word": "keep one's counsel",
+     "pos": "idiom",
+     "phonetic": "/kiːp wʌnz ˈkaʊnsl/",
+     "meaning_zh": "守口如瓶、不表态（counsel 此处指“意见、想法”）",
+     "example_en": "In the UK, the foreign secretary, Ed Miliband, has kept his counsel, but he shares a Polish-Jewish refugee heritage with Grynspan…",
+     "example_zh": "在英国，外交大臣埃德·米利班德一直未表态，但他与格林斯潘同样拥有波兰犹太人难民的家庭背景……"
+    },
+    {
+     "word": "exacerbate",
+     "pos": "v.",
+     "phonetic": "/ɪɡˈzæsəbeɪt/",
+     "meaning_zh": "使（问题、分歧）加剧、恶化",
+     "example_en": "But others deeply object to what they consider to be the UAE’s dollar diplomacy and preparedness to use its extraordinary wealth to exacerbate and exploit pre-existing divisions in a country to gain a commercial foothold.",
+     "example_zh": "但另一些人则强烈反对他们所认为的阿联酋“美元外交”，以及它随时准备动用巨额财富，加剧并利用一国既有的分裂来获取商业立足点。"
+    },
+    {
+     "word": "logjam",
+     "pos": "n.",
+     "phonetic": "/ˈlɒɡdʒæm/",
+     "meaning_zh": "僵局、停滞（原指漂木堵塞河道）",
+     "example_en": "One way or the other, the logjam has to be broken soon.",
+     "example_zh": "无论如何，僵局必须尽快打破。"
+    }
+   ],
+   "source": "The Guardian · World",
+   "word_count": 1070,
+   "level": "C1"
+  },
   {
    "id": "no-time-for-a-culture-war-victoria-s-ele",
    "date": "2026-11-22",
