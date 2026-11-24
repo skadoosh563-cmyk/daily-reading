@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-23T01:57:37",
- "count": 37,
+ "updated": "2026-11-24T05:32:22",
+ "count": 38,
  "items": [
+  {
+   "id": "democrats-win-house-by-largest-margin-in",
+   "date": "2026-11-24",
+   "title_zh": "民主党以50年来最大优势赢得众议院；COP31无协议收场",
+   "summary": "这篇 NPR《Up First》新闻简报汇总当日要闻：2026年中期选举计票显示民主党在众议院以14个百分点、50年来最大优势获胜；AI股票引发市场剧烈波动，投资者担忧泡沫；俄罗斯向波兰发射巡航导弹后，波兰召集北约紧急会议；COP31因化石燃料分歧无协议收场。文末还推荐NPR年度书单《Books We Love》，并附一篇关于记者如何赢得阿米什社区信任的幕后报道。文章适合练习外刊新闻的正式表达、数据表述和长句结构。",
+   "vocab": [
+    {
+     "word": "dominate",
+     "pos": "v.",
+     "phonetic": "/ˈdɒmɪneɪt/",
+     "meaning_zh": "在选举中占据压倒性优势；占主导地位",
+     "example_en": "Vote counts are concluding for the 2026 midterm elections, revealing a better picture of just how much Democrats dominated.",
+     "example_zh": "2026年中期选举的计票正在结束，更清楚地显示出民主党在多大程度上占据压倒性优势。"
+    },
+    {
+     "word": "speculate about",
+     "pos": "v. phr.",
+     "phonetic": "/ˈspekjuleɪt əˈbaʊt/",
+     "meaning_zh": "猜测，推测",
+     "example_en": "Artificial intelligence is causing significant swings in the stock market as investors speculate about the future of the technology boom.",
+     "example_zh": "人工智能正在引发股市的大幅波动，因为投资者在猜测这轮技术热潮的未来。"
+    },
+    {
+     "word": "bolster",
+     "pos": "v.",
+     "phonetic": "/ˈbəʊlstə(r)/",
+     "meaning_zh": "提振，支撑",
+     "example_en": "While AI stocks have driven markets to record highs and bolstered the economy, concerns are growing about a potential bubble.",
+     "example_zh": "尽管AI股票推动市场创下历史新高并提振了经济，但人们越来越担心可能出现泡沫。"
+    },
+    {
+     "word": "measurable",
+     "pos": "adj.",
+     "phonetic": "/ˈmeʒərəbl/",
+     "meaning_zh": "可衡量的，显著的",
+     "example_en": "NPR's Scott Horsley tells Up First that one in five reported measurable, widespread productivity gains, while about half said they saw some gains, but they weren't widespread.",
+     "example_zh": "NPR的Scott Horsley告诉Up First，五分之一的企业报告了可衡量且广泛的生产率提升，而约一半企业表示看到了一些提升，但并不广泛。"
+    },
+    {
+     "word": "proponent",
+     "pos": "n.",
+     "phonetic": "/prəˈpəʊnənt/",
+     "meaning_zh": "支持者，拥护者",
+     "example_en": "Although proponents believe AI could eventually help lower costs and limit inflation, Goolsbee tells Horsley that the Federal Reserve must address inflation challenges right now.",
+     "example_zh": "尽管支持者认为AI最终可能有助于降低成本、抑制通胀，但Goolsbee告诉Horsley，美联储必须现在就应对通胀挑战。"
+    },
+    {
+     "word": "intercept",
+     "pos": "v.",
+     "phonetic": "/ˌɪntəˈsept/",
+     "meaning_zh": "拦截",
+     "example_en": "Poland plans to present proposals to increase surveillance capabilities and deploy more F-35s to intercept incoming missiles and drones.",
+     "example_zh": "波兰计划提出增加监视能力、部署更多F-35战机以拦截来袭导弹和无人机的提案。"
+    },
+    {
+     "word": "scrutinize",
+     "pos": "v.",
+     "phonetic": "/ˈskruːtənaɪz/",
+     "meaning_zh": "仔细审查，审视",
+     "example_en": "Experts are now scrutinizing potential gaps in this defense.",
+     "example_zh": "专家们现在正在仔细审视这一防御体系中可能存在的漏洞。"
+    },
+    {
+     "word": "advocate for",
+     "pos": "v. phr.",
+     "phonetic": "/ˈædvəkeɪt fɔː(r)/",
+     "meaning_zh": "主张，倡导",
+     "example_en": "The European Union rejected any conclusion that didn't advocate for a transition away from fossil fuels, while oil-producing countries like Saudi Arabia opposed this position.",
+     "example_zh": "欧盟拒绝任何不倡导摆脱化石燃料的结论，而沙特阿拉伯等产油国反对这一立场。"
+    },
+    {
+     "word": "absent from",
+     "pos": "adj. phr.",
+     "phonetic": "/ˈæbsənt frəm/",
+     "meaning_zh": "缺席；未参与",
+     "example_en": "The U.S. was absent from the discussions due to the Trump administration's withdrawal from international climate negotiations.",
+     "example_zh": "由于特朗普政府退出国际气候谈判，美国缺席了这些讨论。"
+    },
+    {
+     "word": "culminate in",
+     "pos": "v. phr.",
+     "phonetic": "/ˈkʌlmɪneɪt ɪn/",
+     "meaning_zh": "以……告终；达到高潮",
+     "example_en": "The initiative culminated in a book launch for an anthology titled From Gomora to the World, showcasing stories written by children.",
+     "example_zh": "该倡议以一本名为《From Gomora to the World》的选集发布会达到高潮，展示了孩子们写的故事。"
+    }
+   ],
+   "source": "NPR · World",
+   "word_count": 1271,
+   "level": "B2"
+  },
   {
    "id": "race-to-be-next-un-secretary-general-exp",
    "date": "2026-11-23",

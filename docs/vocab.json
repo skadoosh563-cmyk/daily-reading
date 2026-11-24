@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T01:57:37",
- "count": 363,
+ "updated": "2026-11-24T05:32:22",
+ "count": 373,
  "vocab": [
   {
    "word": "amid",
@@ -198,6 +198,16 @@
    ]
   },
   {
+   "word": "absent from",
+   "pos": "adj. phr.",
+   "phonetic": "/ˈæbsənt frəm/",
+   "meaning_zh": "缺席；未参与",
+   "count": 1,
+   "dates": [
+    "2026-11-24"
+   ]
+  },
+  {
    "word": "account for",
    "pos": "phrase",
    "phonetic": "/əˈkaʊnt fɔː(r)/",
@@ -265,6 +275,16 @@
    "count": 1,
    "dates": [
     "2026-10-13"
+   ]
+  },
+  {
+   "word": "advocate for",
+   "pos": "v. phr.",
+   "phonetic": "/ˈædvəkeɪt fɔː(r)/",
+   "meaning_zh": "主张，倡导",
+   "count": 1,
+   "dates": [
+    "2026-11-24"
    ]
   },
   {
@@ -585,6 +605,16 @@
    "count": 1,
    "dates": [
     "2026-10-22"
+   ]
+  },
+  {
+   "word": "bolster",
+   "pos": "v.",
+   "phonetic": "/ˈbəʊlstə(r)/",
+   "meaning_zh": "提振，支撑",
+   "count": 1,
+   "dates": [
+    "2026-11-24"
    ]
   },
   {
@@ -938,6 +968,16 @@
    ]
   },
   {
+   "word": "culminate in",
+   "pos": "v. phr.",
+   "phonetic": "/ˈkʌlmɪneɪt ɪn/",
+   "meaning_zh": "以……告终；达到高潮",
+   "count": 1,
+   "dates": [
+    "2026-11-24"
+   ]
+  },
+  {
    "word": "curtail",
    "pos": "v.",
    "phonetic": "/kɜːrˈteɪl/",
@@ -1085,6 +1125,16 @@
    "count": 1,
    "dates": [
     "2026-11-22"
+   ]
+  },
+  {
+   "word": "dominate",
+   "pos": "v.",
+   "phonetic": "/ˈdɒmɪneɪt/",
+   "meaning_zh": "在选举中占据压倒性优势；占主导地位",
+   "count": 1,
+   "dates": [
+    "2026-11-24"
    ]
   },
   {
@@ -1788,6 +1838,16 @@
    ]
   },
   {
+   "word": "intercept",
+   "pos": "v.",
+   "phonetic": "/ˌɪntəˈsept/",
+   "meaning_zh": "拦截",
+   "count": 1,
+   "dates": [
+    "2026-11-24"
+   ]
+  },
+  {
    "word": "irreversible",
    "pos": "adj.",
    "phonetic": "/ˌɪrɪˈvɜːsəbl/",
@@ -1975,6 +2035,16 @@
    "count": 1,
    "dates": [
     "2026-11-10"
+   ]
+  },
+  {
+   "word": "measurable",
+   "pos": "adj.",
+   "phonetic": "/ˈmeʒərəbl/",
+   "meaning_zh": "可衡量的，显著的",
+   "count": 1,
+   "dates": [
+    "2026-11-24"
    ]
   },
   {
@@ -2478,6 +2548,16 @@
    ]
   },
   {
+   "word": "proponent",
+   "pos": "n.",
+   "phonetic": "/prəˈpəʊnənt/",
+   "meaning_zh": "支持者，拥护者",
+   "count": 1,
+   "dates": [
+    "2026-11-24"
+   ]
+  },
+  {
    "word": "purported",
    "pos": "adj.",
    "phonetic": "/pəˈpɔːtɪd/",
@@ -2838,6 +2918,16 @@
    ]
   },
   {
+   "word": "scrutinize",
+   "pos": "v.",
+   "phonetic": "/ˈskruːtənaɪz/",
+   "meaning_zh": "仔细审查，审视",
+   "count": 1,
+   "dates": [
+    "2026-11-24"
+   ]
+  },
+  {
    "word": "scrutiny",
    "pos": "n.",
    "phonetic": "/ˈskruːtəni/",
@@ -3045,6 +3135,16 @@
    "count": 1,
    "dates": [
     "2026-11-09"
+   ]
+  },
+  {
+   "word": "speculate about",
+   "pos": "v. phr.",
+   "phonetic": "/ˈspekjuleɪt əˈbaʊt/",
+   "meaning_zh": "猜测，推测",
+   "count": 1,
+   "dates": [
+    "2026-11-24"
    ]
   },
   {
