@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T05:32:22",
- "count": 373,
+ "updated": "2026-11-25T04:35:06",
+ "count": 381,
  "vocab": [
   {
    "word": "amid",
@@ -11,6 +11,17 @@
    "dates": [
     "2026-11-08",
     "2026-11-19"
+   ]
+  },
+  {
+   "word": "barred from",
+   "pos": "phrase",
+   "phonetic": "/bɑːd frɒm/",
+   "meaning_zh": "被禁止（做某事）",
+   "count": 2,
+   "dates": [
+    "2026-11-03",
+    "2026-11-25"
    ]
   },
   {
@@ -33,6 +44,17 @@
    "dates": [
     "2026-10-29",
     "2026-11-06"
+   ]
+  },
+  {
+   "word": "broker",
+   "pos": "v.",
+   "phonetic": "/ˈbrəʊkə(r)/",
+   "meaning_zh": "斡旋；促成（协议）",
+   "count": 2,
+   "dates": [
+    "2026-11-08",
+    "2026-11-25"
    ]
   },
   {
@@ -428,16 +450,6 @@
    ]
   },
   {
-   "word": "barred from",
-   "pos": "phrase",
-   "phonetic": "/bɑːd frɒm/",
-   "meaning_zh": "被禁止（做某事）",
-   "count": 1,
-   "dates": [
-    "2026-11-03"
-   ]
-  },
-  {
    "word": "batter",
    "pos": "v.",
    "phonetic": "/ˈbætə(r)/",
@@ -658,13 +670,13 @@
    ]
   },
   {
-   "word": "broker",
+   "word": "buoy",
    "pos": "v.",
-   "phonetic": "/ˈbrəʊkə(r)/",
-   "meaning_zh": "斡旋；促成（协议）",
+   "phonetic": "/bɔɪ/",
+   "meaning_zh": "提振、支撑（股价或市场）",
    "count": 1,
    "dates": [
-    "2026-11-08"
+    "2026-11-25"
    ]
   },
   {
@@ -1225,6 +1237,16 @@
    "count": 1,
    "dates": [
     "2026-10-24"
+   ]
+  },
+  {
+   "word": "endorse",
+   "pos": "v.",
+   "phonetic": "/ɪnˈdɔːrs/",
+   "meaning_zh": "公开支持、背书",
+   "count": 1,
+   "dates": [
+    "2026-11-25"
    ]
   },
   {
@@ -1965,6 +1987,16 @@
    "count": 1,
    "dates": [
     "2026-11-11"
+   ]
+  },
+  {
+   "word": "lobby",
+   "pos": "v.",
+   "phonetic": "/ˈlɑːbi/",
+   "meaning_zh": "游说（政府或议员）",
+   "count": 1,
+   "dates": [
+    "2026-11-25"
    ]
   },
   {
@@ -2728,6 +2760,16 @@
    ]
   },
   {
+   "word": "reinstate",
+   "pos": "v.",
+   "phonetic": "/ˌriːɪnˈsteɪt/",
+   "meaning_zh": "恢复（某人）的职位",
+   "count": 1,
+   "dates": [
+    "2026-11-25"
+   ]
+  },
+  {
    "word": "reiterate",
    "pos": "v.",
    "phonetic": "/riˈɪtəreɪt/",
@@ -3268,6 +3310,26 @@
    ]
   },
   {
+   "word": "stunning reversal",
+   "pos": "n. phrase",
+   "phonetic": "/ˈstʌnɪŋ rɪˈvɜːrsl/",
+   "meaning_zh": "惊人的逆转",
+   "count": 1,
+   "dates": [
+    "2026-11-25"
+   ]
+  },
+  {
+   "word": "subject to",
+   "pos": "adj. phrase",
+   "phonetic": "/ˈsʌbdʒɪkt tu/",
+   "meaning_zh": "受……约束、须服从……",
+   "count": 1,
+   "dates": [
+    "2026-11-25"
+   ]
+  },
+  {
    "word": "subpar",
    "pos": "adj.",
    "phonetic": "/ˌsʌbˈpɑː(r)/",
@@ -3465,6 +3527,16 @@
    "count": 1,
    "dates": [
     "2026-11-06"
+   ]
+  },
+  {
+   "word": "unanimously",
+   "pos": "adv.",
+   "phonetic": "/juːˈnænɪməsli/",
+   "meaning_zh": "一致地、全体同意地",
+   "count": 1,
+   "dates": [
+    "2026-11-25"
    ]
   },
   {
@@ -3675,6 +3747,16 @@
    "count": 1,
    "dates": [
     "2026-11-15"
+   ]
+  },
+  {
+   "word": "weigh ... against",
+   "pos": "v. phrase",
+   "phonetic": "/weɪ ... əˈɡenst/",
+   "meaning_zh": "权衡……与……",
+   "count": 1,
+   "dates": [
+    "2026-11-25"
    ]
   },
   {

@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-24T05:32:22",
- "count": 38,
+ "updated": "2026-11-25T04:35:06",
+ "count": 39,
  "items": [
+  {
+   "id": "trump-claims-credit-as-jensen-huang-retu",
+   "date": "2026-11-25",
+   "title_zh": "黄仁勋重返英伟达，特朗普邀功",
+   "summary": "这篇 NPR 商业报道讲述英伟达董事会突然恢复黄仁勋 CEO 职务：不到两周前，他因婚外情及潜在间谍关系报道辞职，如今公司股价大涨，特朗普公开邀功。文章不仅复盘事件，还追问董事会为何绕过既有调查程序，以及这是否向硅谷传递“只看钱”的信号。国家安全、公司治理和政商关系三条线交织，适合练习外刊长句、引语和立场分析。",
+   "vocab": [
+    {
+     "word": "reinstate",
+     "pos": "v.",
+     "phonetic": "/ˌriːɪnˈsteɪt/",
+     "meaning_zh": "恢复（某人）的职位",
+     "example_en": "Nvidia reinstated Jensen Huang as CEO of the world's largest chipmaker on Monday, sending the company's stock soaring as President Trump claimed credit for brokering his close ally's return.",
+     "example_zh": "英伟达周一恢复黄仁勋为这家全球最大芯片公司的 CEO，公司股价随之飙升，而特朗普总统声称自己促成了这位亲密盟友的回归并以此邀功。"
+    },
+    {
+     "word": "broker",
+     "pos": "v.",
+     "phonetic": "/ˈbroʊkər/",
+     "meaning_zh": "促成、斡旋（协议或回归）",
+     "example_en": "President Trump claimed credit for brokering his close ally's return.",
+     "example_zh": "特朗普总统声称自己促成了这位亲密盟友的回归并以此邀功。"
+    },
+    {
+     "word": "stunning reversal",
+     "pos": "n. phrase",
+     "phonetic": "/ˈstʌnɪŋ rɪˈvɜːrsl/",
+     "meaning_zh": "惊人的逆转",
+     "example_en": "It was a stunning reversal of fortune for Huang.",
+     "example_zh": "对黄仁勋而言，这是命运的惊人逆转。"
+    },
+    {
+     "word": "unanimously",
+     "pos": "adv.",
+     "phonetic": "/juːˈnænɪməsli/",
+     "meaning_zh": "一致地、全体同意地",
+     "example_en": "Nvidia said its board voted unanimously in favor of bringing back Huang after a series of conversations and meetings, as well as input from people at “senior levels” of the U.S. government.",
+     "example_zh": "英伟达表示，经过一系列对话和会议，以及来自美国政府“高层”人士的意见，董事会一致投票赞成让黄仁勋回归。"
+    },
+    {
+     "word": "buoy",
+     "pos": "v.",
+     "phonetic": "/bɔɪ/",
+     "meaning_zh": "提振、支撑（股价或市场）",
+     "example_en": "Nvidia's stock price shot up more than 30% on Monday, helping buoy stock indexes after last week's losses, which were driven by the tech sector.",
+     "example_zh": "英伟达股价周一上涨逾 30%，帮助提振了在上周因科技板块拖累而下跌的股指。"
+    },
+    {
+     "word": "endorse",
+     "pos": "v.",
+     "phonetic": "/ɪnˈdɔːrs/",
+     "meaning_zh": "公开支持、背书",
+     "example_en": "Trump endorsed the move, calling it the “correct and proper decision” in a social media post.",
+     "example_zh": "特朗普支持这一举措，并在社交媒体发帖称这是“正确且恰当的决定”。"
+    },
+    {
+     "word": "lobby",
+     "pos": "v.",
+     "phonetic": "/ˈlɑːbi/",
+     "meaning_zh": "游说（政府或议员）",
+     "example_en": "He has successfully lobbied the U.S. government to allow chipmakers to sell some chips to China, although Nvidia's most advanced chips are subject to export controls.",
+     "example_zh": "他成功游说美国政府允许芯片制造商向中国出售部分芯片，尽管英伟达最先进的芯片仍受出口管制。"
+    },
+    {
+     "word": "subject to",
+     "pos": "adj. phrase",
+     "phonetic": "/ˈsʌbdʒɪkt tu/",
+     "meaning_zh": "受……约束、须服从……",
+     "example_en": "Nvidia's most advanced chips are subject to export controls.",
+     "example_zh": "英伟达最先进的芯片受出口管制。"
+    },
+    {
+     "word": "barred from",
+     "pos": "phrase",
+     "phonetic": "/bɑːrd frəm/",
+     "meaning_zh": "被禁止做某事",
+     "example_en": "On Monday, the Commerce Department said it is adding Megaspeed to a list of companies barred from buying advanced technology, including some AI chips, without a U.S. government license.",
+     "example_zh": "周一，商务部表示将把 Megaspeed 列入一份公司名单，这些公司未经美国政府许可不得购买先进技术，包括部分 AI 芯片。"
+    },
+    {
+     "word": "weigh ... against",
+     "pos": "v. phrase",
+     "phonetic": "/weɪ ... əˈɡenst/",
+     "meaning_zh": "权衡……与……",
+     "example_en": "Huang's reinstatement also raises questions about Nvidia's corporate governance and how the board is weighing short-term considerations against the company's policies, said Rob Lalka, a professor at Tulane University's Freeman School of Business.",
+     "example_zh": "杜兰大学弗里曼商学院教授罗布·拉尔卡说，黄仁勋的复职还引发了对英伟达公司治理以及董事会如何权衡短期考量与公司政策的质疑。"
+    }
+   ],
+   "source": "NPR · Business",
+   "word_count": 1322,
+   "level": "C1"
+  },
   {
    "id": "democrats-win-house-by-largest-margin-in",
    "date": "2026-11-24",
