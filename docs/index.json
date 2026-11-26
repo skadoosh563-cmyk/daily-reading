@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-25T04:35:06",
- "count": 39,
+ "updated": "2026-11-26T03:51:57",
+ "count": 40,
  "items": [
+  {
+   "id": "what-should-it-cost-to-insure-a-home-in",
+   "date": "2026-11-26",
+   "title_zh": "在野火频发的地方，给一栋房子上保险该花多少钱？",
+   "summary": "这是一篇 NPR Planet Money 的记者随笔。作者本人就住在北加州乡村，长期为火灾和家庭保险发愁：保费飞涨、保险公司纷纷退出，很多家庭只能退到州政府的“最后承保人”FAIR Plan。文章借同事 Alexi 的两集播客，串起三条线索——保险公司花钱做“房屋破坏实验室”研究如何降低风险、经济学上的“道德风险”为何让房主缺乏加固房屋的动力、以及加州 103 号提案把费率人为压低反而搞垮了市场。作者的核心结论有点反直觉：市场“恢复健康”的标志，可能恰恰是更高的价格。文章语言地道、句式灵活，是练习外刊长句和保险/经济类词汇的好材料。",
+   "vocab": [
+    {
+     "word": "go up in smoke",
+     "pos": "idiom",
+     "phonetic": "/ɡoʊ ʌp ɪn smoʊk/",
+     "meaning_zh": "化为乌有；（被）烧毁、泡汤",
+     "example_en": "Without it, the most valuable asset I own could literally go up in smoke.",
+     "example_zh": "没有保险，我拥有的最值钱的资产真的可能化为灰烬。"
+    },
+    {
+     "word": "make a dent in",
+     "pos": "phrase",
+     "phonetic": "/meɪk ə dent ɪn/",
+     "meaning_zh": "使……有所减少；对……产生影响（常用于否定：barely made a dent 几乎没起作用）",
+     "example_en": "Yet some California homeowners tell him they're investing heavily to make their homes and communities safer, and all that work has barely made a dent in their insurance bills.",
+     "example_zh": "然而，一些加州房主告诉他，他们投入了大量资金来让自己的家和社区更安全，可所有这些努力几乎没让他们的保费账单减少多少。"
+    },
+    {
+     "word": "turn of phrase",
+     "pos": "n. phrase",
+     "phonetic": "/tɜːrn əv freɪz/",
+     "meaning_zh": "措辞；表达方式（常指巧妙、有特色的说法）",
+     "example_en": "In the first episode, Alexi goes to a destruction lab in South Carolina where researchers use “crash-test dummies for houses” — the type of wonderful turn of phrase that we love Alexi for — to figure out what actually works to help homes survive climate disasters.",
+     "example_zh": "在第一集里，Alexi 去了南卡罗来纳州的一个“破坏实验室”，那里的研究人员使用“房屋碰撞测试假人”——正是我们喜欢 Alexi 的那种绝妙措辞——来弄清楚究竟什么办法能真正帮助房屋在气候灾害中幸存下来。"
+    },
+    {
+     "word": "subject sb/sth to sth",
+     "pos": "v. phrase",
+     "phonetic": "/səbˈdʒekt tuː/",
+     "meaning_zh": "使……经受、遭受（某种考验或恶劣条件）",
+     "example_en": "They literally light mock houses on fire and subject them to hail and hurricane-force winds to see what happens to them.",
+     "example_zh": "他们真的会点燃模拟房屋，让它经受冰雹和飓风级大风的考验，看看会发生什么。"
+    },
+    {
+     "word": "pick up the tab",
+     "pos": "idiom",
+     "phonetic": "/pɪk ʌp ðə tæb/",
+     "meaning_zh": "买单；承担费用（tab 指账单）",
+     "example_en": "If someone else picks up the tab when something goes wrong, you may have less reason to do everything you can to make sure that it doesn't go wrong in the first place.",
+     "example_zh": "如果出了事有别人来买单，你可能就没那么大动力去竭尽全力确保它一开始就不出事。"
+    },
+    {
+     "word": "mitigate",
+     "pos": "v.",
+     "phonetic": "/ˈmɪtɪɡeɪt/",
+     "meaning_zh": "减轻，缓解（风险、损失、危害等）",
+     "example_en": "It's the idea that insurance can reduce incentives to mitigate risk.",
+     "example_zh": "意思是保险会削弱人们降低风险的动机。"
+    },
+    {
+     "word": "harden",
+     "pos": "v.",
+     "phonetic": "/ˈhɑːrdn/",
+     "meaning_zh": "（使）加固、强化（此处指把房屋改造得更能抗火）",
+     "example_en": "And if your insurer will pay for a whole brand new house in the event yours burns down, it might be harder to justify investing a ton of money to “harden” your home against fire danger.",
+     "example_zh": "而如果你的房子烧毁后保险公司会赔你一栋全新的房子，那就更难说服自己花大钱去“加固”房屋以抵御火灾风险。"
+    },
+    {
+     "word": "go through the roof",
+     "pos": "idiom",
+     "phonetic": "/ɡoʊ θruː ðə ruːf/",
+     "meaning_zh": "（价格、数字）飞涨，飙升",
+     "example_en": "Of course, even a bigger discount only helps so much if your premium is going through the roof.",
+     "example_zh": "当然，如果你的保费正在飞涨，就算折扣更大也帮不了多少。"
+    },
+    {
+     "word": "stomach",
+     "pos": "v.",
+     "phonetic": "/ˈstʌmək/",
+     "meaning_zh": "忍受，承受（不愉快的事，此处指承受高昂价格）",
+     "example_en": "The question is at what price, whether regulators will let them charge it, and whether homeowners can stomach those prices.",
+     "example_zh": "问题在于：以什么价格承保、监管机构是否允许它们收这个价，以及房主们能否承受得起这些价格。"
+    },
+    {
+     "word": "go belly up",
+     "pos": "idiom",
+     "phonetic": "/ɡoʊ ˈbeli ʌp/",
+     "meaning_zh": "破产，倒闭（口语，多用于公司、企业）",
+     "example_en": "But there's a big catch: if our insurer goes belly up — say after a big fire that destroys lots of homes — we aren't protected by the state-mandated backstop that helps pay claims.",
+     "example_zh": "但有个大问题：如果我们的保险公司破产了——比如在一场烧毁大量房屋的大火之后——我们就不受州政府强制设立的、用于帮助支付理赔的兜底机制保护。"
+    }
+   ],
+   "source": "NPR · Business",
+   "word_count": 1357,
+   "level": "C1"
+  },
   {
    "id": "trump-claims-credit-as-jensen-huang-retu",
    "date": "2026-11-25",

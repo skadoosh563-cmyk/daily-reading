@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T04:35:06",
- "count": 381,
+ "updated": "2026-11-26T03:51:57",
+ "count": 391,
  "vocab": [
   {
    "word": "amid",
@@ -1590,6 +1590,16 @@
    ]
   },
   {
+   "word": "go belly up",
+   "pos": "idiom",
+   "phonetic": "/ɡoʊ ˈbeli ʌp/",
+   "meaning_zh": "破产，倒闭（口语，多用于公司、企业）",
+   "count": 1,
+   "dates": [
+    "2026-11-26"
+   ]
+  },
+  {
    "word": "go off the rails",
    "pos": "phrase",
    "phonetic": "/ɡəʊ ɒf ðə reɪlz/",
@@ -1607,6 +1617,26 @@
    "count": 1,
    "dates": [
     "2026-11-10"
+   ]
+  },
+  {
+   "word": "go through the roof",
+   "pos": "idiom",
+   "phonetic": "/ɡoʊ θruː ðə ruːf/",
+   "meaning_zh": "（价格、数字）飞涨，飙升",
+   "count": 1,
+   "dates": [
+    "2026-11-26"
+   ]
+  },
+  {
+   "word": "go up in smoke",
+   "pos": "idiom",
+   "phonetic": "/ɡoʊ ʌp ɪn smoʊk/",
+   "meaning_zh": "化为乌有；（被）烧毁、泡汤",
+   "count": 1,
+   "dates": [
+    "2026-11-26"
    ]
   },
   {
@@ -1677,6 +1707,16 @@
    "count": 1,
    "dates": [
     "2026-11-05"
+   ]
+  },
+  {
+   "word": "harden",
+   "pos": "v.",
+   "phonetic": "/ˈhɑːrdn/",
+   "meaning_zh": "（使）加固、强化（此处指把房屋改造得更能抗火）",
+   "count": 1,
+   "dates": [
+    "2026-11-26"
    ]
   },
   {
@@ -2030,6 +2070,16 @@
    ]
   },
   {
+   "word": "make a dent in",
+   "pos": "phrase",
+   "phonetic": "/meɪk ə dent ɪn/",
+   "meaning_zh": "使……有所减少；对……产生影响（常用于否定：barely made a dent 几乎没起作用）",
+   "count": 1,
+   "dates": [
+    "2026-11-26"
+   ]
+  },
+  {
    "word": "make it to",
    "pos": "phrase",
    "phonetic": "/meɪk ɪt tuː/",
@@ -2087,6 +2137,16 @@
    "count": 1,
    "dates": [
     "2026-11-02"
+   ]
+  },
+  {
+   "word": "mitigate",
+   "pos": "v.",
+   "phonetic": "/ˈmɪtɪɡeɪt/",
+   "meaning_zh": "减轻，缓解（风险、损失、危害等）",
+   "count": 1,
+   "dates": [
+    "2026-11-26"
    ]
   },
   {
@@ -2387,6 +2447,16 @@
    "count": 1,
    "dates": [
     "2026-11-04"
+   ]
+  },
+  {
+   "word": "pick up the tab",
+   "pos": "idiom",
+   "phonetic": "/pɪk ʌp ðə tæb/",
+   "meaning_zh": "买单；承担费用（tab 指账单）",
+   "count": 1,
+   "dates": [
+    "2026-11-26"
    ]
   },
   {
@@ -3270,6 +3340,16 @@
    ]
   },
   {
+   "word": "stomach",
+   "pos": "v.",
+   "phonetic": "/ˈstʌmək/",
+   "meaning_zh": "忍受，承受（不愉快的事，此处指承受高昂价格）",
+   "count": 1,
+   "dates": [
+    "2026-11-26"
+   ]
+  },
+  {
    "word": "strangle",
    "pos": "v.",
    "phonetic": "/ˈstræŋɡl/",
@@ -3317,6 +3397,16 @@
    "count": 1,
    "dates": [
     "2026-11-25"
+   ]
+  },
+  {
+   "word": "subject sb/sth to sth",
+   "pos": "v. phrase",
+   "phonetic": "/səbˈdʒekt tuː/",
+   "meaning_zh": "使……经受、遭受（某种考验或恶劣条件）",
+   "count": 1,
+   "dates": [
+    "2026-11-26"
    ]
   },
   {
@@ -3527,6 +3617,16 @@
    "count": 1,
    "dates": [
     "2026-11-06"
+   ]
+  },
+  {
+   "word": "turn of phrase",
+   "pos": "n. phrase",
+   "phonetic": "/tɜːrn əv freɪz/",
+   "meaning_zh": "措辞；表达方式（常指巧妙、有特色的说法）",
+   "count": 1,
+   "dates": [
+    "2026-11-26"
    ]
   },
   {
