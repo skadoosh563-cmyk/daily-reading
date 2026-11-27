@@ -1,7 +1,98 @@
 {
- "updated": "2026-11-26T03:51:57",
- "count": 40,
+ "updated": "2026-11-27T03:52:52",
+ "count": 41,
  "items": [
+  {
+   "id": "buying-new-things-feels-wonderful-but-it",
+   "date": "2026-11-27",
+   "title_zh": "买新东西感觉棒极了，但它也可能是个陷阱",
+   "summary": "假日购物季一到，各种促销似乎都在“叫你的名字”。本文是 NPR 记者与《对“新”说不》一书作者 Eric Athas 的对谈：他解释了为什么我们天生追逐新奇——那是远古祖先留下的探索本能，加上多巴胺带来的兴奋感。而零售业用倒计时、一键下单等设计，不断制造焦虑、消除购物阻力，把我们推进“买了再买”的循环，反而让人难以珍惜已有之物。破解办法是扩大“新东西间隙”（延迟购买、删掉一键结算）、有意识地判断购买动机，并重新体验旧书、旧电影、旧街区，从熟悉中发现被忽略的乐趣。",
+   "vocab": [
+    {
+     "word": "be wired to do sth",
+     "pos": "v. phr.",
+     "phonetic": "/bi ˈwaɪəd tə duː/",
+     "meaning_zh": "（大脑或身体）天生就倾向于做某事、被设定为做某事",
+     "example_en": "Our brains are wired to seek out newness, and the retail industry is set up to keep us coming back for more as quickly as possible.",
+     "example_zh": "我们的大脑天生就爱寻找新奇，而零售行业的设计就是为了让我们尽可能快地不断回头买更多。"
+    },
+    {
+     "word": "be on the lookout for",
+     "pos": "phr.",
+     "phonetic": "/bi ɒn ðə ˈlʊkaʊt fɔː(r)/",
+     "meaning_zh": "一直在留意、留心寻找（某物）",
+     "example_en": "It's hard to be grateful for what you have if you're always on the lookout for something else.",
+     "example_zh": "如果你总在留意别的东西，就很难对已经拥有的心存感激。"
+    },
+    {
+     "word": "call one's name",
+     "pos": "v. phr.",
+     "phonetic": "/kɔːl wʌnz neɪm/",
+     "meaning_zh": "（商品、机会等）像在“召唤”你，强烈地吸引你",
+     "example_en": "Is every sale calling your name?",
+     "example_zh": "是不是每个打折活动都在呼唤你的名字？"
+    },
+    {
+     "word": "keep sb coming back for more",
+     "pos": "v. phr.",
+     "phonetic": "/kiːp ˈkʌmɪŋ bæk fə mɔː(r)/",
+     "meaning_zh": "让某人不断回头、一再光顾（再买更多）",
+     "example_en": "Our brains are wired to seek out newness, and the retail industry is set up to keep us coming back for more as quickly as possible.",
+     "example_zh": "我们的大脑天生就爱寻找新奇，而零售行业的设计就是为了让我们尽可能快地不断回头买更多。"
+    },
+    {
+     "word": "whip up",
+     "pos": "v. phr.",
+     "phonetic": "/wɪp ʌp/",
+     "meaning_zh": "激起、煽动（某种情绪，如焦虑、热情）",
+     "example_en": "That's a tactic meant to whip up anxiety.",
+     "example_zh": "这是一种意在制造焦虑的手段。"
+    },
+    {
+     "word": "engineer",
+     "pos": "v.",
+     "phonetic": "/ˌendʒɪˈnɪə(r)/",
+     "meaning_zh": "（暗中）精心设计、操控、左右（结果或人的选择）",
+     "example_en": "These companies have designs we don't even realize are engineering our choices.",
+     "example_zh": "这些公司设有一些我们甚至没有意识到的手笔，正在操控我们的选择。"
+    },
+    {
+     "word": "frictionless",
+     "pos": "adj.",
+     "phonetic": "/ˈfrɪkʃnləs/",
+     "meaning_zh": "毫无阻力的、顺畅无阻的（本文指下单毫无障碍）",
+     "example_en": "It's all seamless and frictionless.",
+     "example_zh": "整个过程顺畅无缝、毫无阻力。"
+    },
+    {
+     "word": "intentional",
+     "pos": "adj.",
+     "phonetic": "/ɪnˈtenʃənl/",
+     "meaning_zh": "有意识的、经过思考的、刻意的",
+     "example_en": "The main thing is to make intentional choices.",
+     "example_zh": "关键是做出有意识的选择。"
+    },
+    {
+     "word": "untapped",
+     "pos": "adj.",
+     "phonetic": "/ˌʌnˈtæpt/",
+     "meaning_zh": "（资源、乐趣等）尚未被开发的、未被发掘的",
+     "example_en": "Research has found that if we force ourselves to revisit old things, we may find there's untapped enjoyment in those old things.",
+     "example_zh": "研究发现，如果我们强迫自己重新去看旧东西，可能会发现其中还有未被发掘的乐趣。"
+    },
+    {
+     "word": "in plain sight",
+     "pos": "phr.",
+     "phonetic": "/ɪn pleɪn saɪt/",
+     "meaning_zh": "就在眼前、明摆着（却常被忽略）",
+     "example_en": "You can fight against this bias that we have for novel experiences and find there's joy and excitement hiding in plain sight.",
+     "example_zh": "你可以对抗我们对新奇体验的这种偏好，并发现快乐和兴奋就藏在眼前。"
+    }
+   ],
+   "source": "NPR · Business",
+   "word_count": 895,
+   "level": "B2"
+  },
   {
    "id": "what-should-it-cost-to-insure-a-home-in",
    "date": "2026-11-26",

@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T03:51:57",
- "count": 391,
+ "updated": "2026-11-27T03:52:52",
+ "count": 401,
  "vocab": [
   {
    "word": "amid",
@@ -490,6 +490,16 @@
    ]
   },
   {
+   "word": "be on the lookout for",
+   "pos": "phr.",
+   "phonetic": "/bi ɒn ðə ˈlʊkaʊt fɔː(r)/",
+   "meaning_zh": "一直在留意、留心寻找（某物）",
+   "count": 1,
+   "dates": [
+    "2026-11-27"
+   ]
+  },
+  {
    "word": "be set to do sth",
    "pos": "phrase",
    "phonetic": "/biː set tuː/",
@@ -517,6 +527,16 @@
    "count": 1,
    "dates": [
     "2026-10-23"
+   ]
+  },
+  {
+   "word": "be wired to do sth",
+   "pos": "v. phr.",
+   "phonetic": "/bi ˈwaɪəd tə duː/",
+   "meaning_zh": "（大脑或身体）天生就倾向于做某事、被设定为做某事",
+   "count": 1,
+   "dates": [
+    "2026-11-27"
    ]
   },
   {
@@ -717,6 +737,16 @@
    "count": 1,
    "dates": [
     "2026-11-18"
+   ]
+  },
+  {
+   "word": "call one's name",
+   "pos": "v. phr.",
+   "phonetic": "/kɔːl wʌnz neɪm/",
+   "meaning_zh": "（商品、机会等）像在“召唤”你，强烈地吸引你",
+   "count": 1,
+   "dates": [
+    "2026-11-27"
    ]
   },
   {
@@ -1250,6 +1280,16 @@
    ]
   },
   {
+   "word": "engineer",
+   "pos": "v.",
+   "phonetic": "/ˌendʒɪˈnɪə(r)/",
+   "meaning_zh": "（暗中）精心设计、操控、左右（结果或人的选择）",
+   "count": 1,
+   "dates": [
+    "2026-11-27"
+   ]
+  },
+  {
    "word": "ensnare",
    "pos": "v.",
    "phonetic": "/ɪnˈsneə(r)/",
@@ -1517,6 +1557,16 @@
    "count": 1,
    "dates": [
     "2026-11-20"
+   ]
+  },
+  {
+   "word": "frictionless",
+   "pos": "adj.",
+   "phonetic": "/ˈfrɪkʃnləs/",
+   "meaning_zh": "毫无阻力的、顺畅无阻的（本文指下单毫无障碍）",
+   "count": 1,
+   "dates": [
+    "2026-11-27"
    ]
   },
   {
@@ -1850,6 +1900,16 @@
    ]
   },
   {
+   "word": "in plain sight",
+   "pos": "phr.",
+   "phonetic": "/ɪn pleɪn saɪt/",
+   "meaning_zh": "就在眼前、明摆着（却常被忽略）",
+   "count": 1,
+   "dates": [
+    "2026-11-27"
+   ]
+  },
+  {
    "word": "in someone's name",
    "pos": "phr.",
    "phonetic": "/ɪn ˈsʌmwʌnz neɪm/",
@@ -1900,6 +1960,16 @@
    ]
   },
   {
+   "word": "intentional",
+   "pos": "adj.",
+   "phonetic": "/ɪnˈtenʃənl/",
+   "meaning_zh": "有意识的、经过思考的、刻意的",
+   "count": 1,
+   "dates": [
+    "2026-11-27"
+   ]
+  },
+  {
    "word": "intercept",
    "pos": "v.",
    "phonetic": "/ˌɪntəˈsept/",
@@ -1937,6 +2007,16 @@
    "count": 1,
    "dates": [
     "2026-11-23"
+   ]
+  },
+  {
+   "word": "keep sb coming back for more",
+   "pos": "v. phr.",
+   "phonetic": "/kiːp ˈkʌmɪŋ bæk fə mɔː(r)/",
+   "meaning_zh": "让某人不断回头、一再光顾（再买更多）",
+   "count": 1,
+   "dates": [
+    "2026-11-27"
    ]
   },
   {
@@ -3690,6 +3770,16 @@
    ]
   },
   {
+   "word": "untapped",
+   "pos": "adj.",
+   "phonetic": "/ˌʌnˈtæpt/",
+   "meaning_zh": "（资源、乐趣等）尚未被开发的、未被发掘的",
+   "count": 1,
+   "dates": [
+    "2026-11-27"
+   ]
+  },
+  {
    "word": "upend",
    "pos": "v.",
    "phonetic": "/ʌpˈend/",
@@ -3857,6 +3947,16 @@
    "count": 1,
    "dates": [
     "2026-11-25"
+   ]
+  },
+  {
+   "word": "whip up",
+   "pos": "v. phr.",
+   "phonetic": "/wɪp ʌp/",
+   "meaning_zh": "激起、煽动（某种情绪，如焦虑、热情）",
+   "count": 1,
+   "dates": [
+    "2026-11-27"
    ]
   },
   {
