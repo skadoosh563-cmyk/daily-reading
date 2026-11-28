@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T03:52:52",
- "count": 401,
+ "updated": "2026-11-28T03:30:05",
+ "count": 411,
  "vocab": [
   {
    "word": "amid",
@@ -400,6 +400,16 @@
    ]
   },
   {
+   "word": "architect of",
+   "pos": "n.",
+   "phonetic": "/ˈɑːrkɪtekt əv/",
+   "meaning_zh": "……的设计者、缔造者（比喻政策、方案的幕后主导者）",
+   "count": 1,
+   "dates": [
+    "2026-11-28"
+   ]
+  },
+  {
    "word": "at the end of the day",
    "pos": "phrase",
    "phonetic": "/æt ði end əv ðə deɪ/",
@@ -517,6 +527,16 @@
    "count": 1,
    "dates": [
     "2026-11-18"
+   ]
+  },
+  {
+   "word": "be survived by",
+   "pos": "phr. v.",
+   "phonetic": "/bi sərˈvaɪvd baɪ/",
+   "meaning_zh": "身后留下（某人）（讣告固定表达，主语是逝者，宾语是在世的亲属）",
+   "count": 1,
+   "dates": [
+    "2026-11-28"
    ]
   },
   {
@@ -687,6 +707,16 @@
    "count": 1,
    "dates": [
     "2026-11-07"
+   ]
+  },
+  {
+   "word": "bunk with",
+   "pos": "phr. v.",
+   "phonetic": "/ˈbʌŋk wɪð/",
+   "meaning_zh": "与……同住（宿舍、铺位）",
+   "count": 1,
+   "dates": [
+    "2026-11-28"
    ]
   },
   {
@@ -1780,6 +1810,16 @@
    ]
   },
   {
+   "word": "head",
+   "pos": "v.",
+   "phonetic": "/hed/",
+   "meaning_zh": "掌管、领导（机构或部门）",
+   "count": 1,
+   "dates": [
+    "2026-11-28"
+   ]
+  },
+  {
    "word": "headwinds",
    "pos": "n.",
    "phonetic": "/ˈhedwɪndz/",
@@ -1980,6 +2020,16 @@
    ]
   },
   {
+   "word": "intern",
+   "pos": "v.",
+   "phonetic": "/ɪnˈtɜːrn/",
+   "meaning_zh": "实习（名词 intern 读作 /ˈɪntɜːrn/，重音位置不同）",
+   "count": 1,
+   "dates": [
+    "2026-11-28"
+   ]
+  },
+  {
    "word": "irreversible",
    "pos": "adj.",
    "phonetic": "/ˌɪrɪˈvɜːsəbl/",
@@ -2077,6 +2127,16 @@
    "count": 1,
    "dates": [
     "2026-11-07"
+   ]
+  },
+  {
+   "word": "leaked",
+   "pos": "adj.",
+   "phonetic": "/liːkt/",
+   "meaning_zh": "泄露的（由动词 leak 的过去分词转作前置定语）",
+   "count": 1,
+   "dates": [
+    "2026-11-28"
    ]
   },
   {
@@ -2300,6 +2360,16 @@
    ]
   },
   {
+   "word": "notoriety",
+   "pos": "n.",
+   "phonetic": "/ˌnoʊtəˈraɪəti/",
+   "meaning_zh": "（因某件事而获得的）名气、声名（常带“惹人注目、多半因争议而出名”的色彩）",
+   "count": 1,
+   "dates": [
+    "2026-11-28"
+   ]
+  },
+  {
    "word": "obsequience",
    "pos": "n.",
    "phonetic": "/ˈɒbsɪkwiəns/",
@@ -2410,6 +2480,16 @@
    ]
   },
   {
+   "word": "oust",
+   "pos": "v.",
+   "phonetic": "/aʊst/",
+   "meaning_zh": "罢黜、赶下台（常用于政治人物被迫去职）",
+   "count": 1,
+   "dates": [
+    "2026-11-28"
+   ]
+  },
+  {
    "word": "out of respect for",
    "pos": "prep. phrase",
    "phonetic": "/aʊt əv rɪˈspekt fər/",
@@ -2447,6 +2527,16 @@
    "count": 1,
    "dates": [
     "2026-11-08"
+   ]
+  },
+  {
+   "word": "pass away",
+   "pos": "phr. v.",
+   "phonetic": "/ˌpæs əˈweɪ/",
+   "meaning_zh": "去世（对“death”的委婉说法，新闻与讣告中常用）",
+   "count": 1,
+   "dates": [
+    "2026-11-28"
    ]
   },
   {
@@ -3587,6 +3677,16 @@
    "count": 1,
    "dates": [
     "2026-11-09"
+   ]
+  },
+  {
+   "word": "the latter",
+   "pos": "pron.",
+   "phonetic": "/ˈlætər/",
+   "meaning_zh": "后者（与 the former“前者”相对，用于指代前文并列的两项中靠后的一项）",
+   "count": 1,
+   "dates": [
+    "2026-11-28"
    ]
   },
   {
